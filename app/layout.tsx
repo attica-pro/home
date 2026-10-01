@@ -11,7 +11,13 @@ const basePathSegments = basePath ? basePath.split('/').filter(Boolean).length :
 // flashes LTR/wrong-font before LangSync's useEffect can catch up.
 const syncLangScript = `(function(){try{var s=location.pathname.split('/').filter(Boolean)[${basePathSegments}]||'';var rtl=${JSON.stringify(rtlLocales)};if(s){document.documentElement.lang=s;document.documentElement.dir=rtl.indexOf(s)>-1?'rtl':'ltr';}}catch(e){}})();`;
 
-const geologica = Geologica({ subsets: ['latin', 'greek'], variable: '--font-display', weight: ['500', '600', '700', '800'] });
+// next/font has no fallback metrics for Geologica and logs an error without this.
+const geologica = Geologica({
+  subsets: ['latin', 'greek'],
+  variable: '--font-display',
+  weight: ['500', '600', '700', '800'],
+  adjustFontFallback: false,
+});
 const commissioner = Commissioner({ subsets: ['latin', 'greek'], variable: '--font-body', weight: ['400', '500', '600'] });
 const alexandria = Alexandria({ subsets: ['arabic'], variable: '--font-arabic-display', weight: ['500', '600', '700'] });
 const cairo = Cairo({ subsets: ['arabic'], variable: '--font-arabic', weight: ['400', '500', '600', '700'] });
