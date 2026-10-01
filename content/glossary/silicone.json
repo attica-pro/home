@@ -1,0 +1,47 @@
+{
+  "term": {
+    "el": "Σιλικόνη",
+    "en": "Silicone",
+    "ar": "السيليكون"
+  },
+  "aliases": {
+    "el": [
+      "σιλικόνη",
+      "σιλικόνης",
+      "σιλικόνες",
+      "σιλικονών",
+      "σιλικονάρ*"
+    ],
+    "en": [
+      "silicone sealant*",
+      "silicone bead*",
+      "silicone joint*",
+      "sanitary silicone"
+    ],
+    "ar": [
+      "سيليكون",
+      "سليكون"
+    ]
+  },
+  "short": {
+    "el": "Ελαστικό σφραγιστικό σε φύσιγγα, που κλείνει τις ενώσεις γύρω από μπανιέρες, ντουζιέρες, νιπτήρες, πάγκους κουζίνας και κουφώματα, για να μην περνά νερό ή αέρας.",
+    "en": "A flexible sealant from a cartridge that closes the joints around baths, showers, basins, kitchen worktops and window frames, so water and air cannot get through.",
+    "ar": "مادة سد مرنة تُستعمل من خرطوشة لإغلاق الوصلات حول أحواض الاستحمام والدشات والمغاسل وأسطح المطبخ وإطارات النوافذ، حتى لا يمر الماء أو الهواء."
+  },
+  "body": {
+    "el": "Η σιλικόνη απλώνεται με πιστόλι σε ενώσεις που κινούνται λίγο ή που βρέχονται, εκεί όπου ένας άκαμπτος αρμός θα ράγιζε: ανάμεσα στα πλακάκια και στη μπανιέρα, στη βάση της ντουζιέρας, γύρω από τον νιπτήρα και τον πάγκο της κουζίνας, στις εσωτερικές γωνίες των τοίχων με πλακάκια και γύρω από τα κουφώματα. Όταν στεγνώσει, μένει ελαστική.\n\nΓια μπάνια και κουζίνες χρησιμοποιείται σιλικόνη υγιεινής, με πρόσθετα κατά της μούχλας. Μπαίνει σε καθαρή και στεγνή επιφάνεια. Μια μαύρη, μουχλιασμένη σιλικόνη δεν καθαρίζεται ουσιαστικά: κόβεται, αφαιρείται εντελώς και μπαίνει καινούργια.\n\nΗ κοινή σιλικόνη δεν βάφεται. Σε σημεία που θα βαφτούν, όπως οι ενώσεις των κουφωμάτων με τον τοίχο, χρησιμοποιείται βαφόμενο σφραγιστικό. Και η σιλικόνη δεν είναι στεγάνωση: κλείνει μια ένωση, αλλά δεν αντικαθιστά τη στεγάνωση κάτω από τα πλακάκια ή στην ταράτσα.",
+    "en": "Silicone is applied with a gun to joints that move slightly or get wet, where a rigid grout would crack: between the tiles and the bath, at the base of a shower, around the basin and kitchen worktop, in the inside corners of tiled walls and around window and door frames. Once cured, it stays flexible.\n\nBathrooms and kitchens use sanitary silicone, which contains additives against mould. It goes onto a clean, dry surface. Silicone that has turned black with mould cannot really be cleaned: it is cut out, removed completely and replaced.\n\nOrdinary silicone cannot be painted. Where the joint will be painted, such as between a window frame and the wall, a paintable sealant is used instead. And silicone is not waterproofing: it closes a joint, but it does not replace the waterproofing under the tiles or on a roof.",
+    "ar": "يُفرد السيليكون بمسدس على الوصلات التي تتحرك قليلًا أو تتعرض للماء، حيث تتشقق المادة الصلبة: بين البلاط وحوض الاستحمام، وعند قاعدة الدش، وحول المغسلة وسطح المطبخ، وفي الزوايا الداخلية للجدران المبلطة، وحول إطارات النوافذ والأبواب. وبعد أن يجف يبقى مرنًا.\n\nفي الحمامات والمطابخ يُستعمل سيليكون صحي يحتوي على إضافات مضادة للعفن. ويوضع على سطح نظيف وجاف. أما السيليكون الذي اسودّ من العفن فلا يُنظف فعليًا: يُقطع ويُزال كاملًا ويوضع غيره.\n\nالسيليكون العادي لا يُطلى. وفي المواضع التي ستُطلى، كالوصلة بين إطار النافذة والجدار، تُستعمل مادة سد قابلة للطلاء. كما أن السيليكون ليس عزلًا مائيًا: فهو يغلق وصلة، لكنه لا يحل محل العزل المائي تحت البلاط أو على السطح."
+  },
+  "categories": [
+    "repairs",
+    "renovations"
+  ],
+  "photo": null,
+  "related": [
+    "grout-joint",
+    "mould",
+    "walk-in-shower",
+    "waterproofing"
+  ]
+}

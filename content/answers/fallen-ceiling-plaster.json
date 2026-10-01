@@ -1,0 +1,24 @@
+{
+  "category": "painting",
+  "order": 4,
+  "question": {
+    "el": "Έπεσε κομμάτι σοβά από το ταβάνι. Τι κάνω τώρα;",
+    "en": "A piece of plaster fell off the ceiling. What now?",
+    "ar": "سقطت قطعة من جص السقف. ماذا أفعل الآن؟"
+  },
+  "short": {
+    "el": "Κρατήστε τον χώρο από κάτω άδειο, γιατί γύρω μπορεί να κρέμεται κι άλλος σοβάς. Μετά πρέπει να βρεθεί γιατί έπεσε, υγρασία, διαρροή ή σκουριασμένο σίδερο, πριν σοβατιστεί και βαφτεί ξανά.",
+    "en": "Keep the area underneath clear, as more plaster around it may be loose. Then find out why it fell, whether damp, a leak or rusting steel, before it is re-plastered and painted.",
+    "ar": "أبعد الناس والأثاث عن المكان تحته، فقد يكون جص آخر حوله منفصلاً. ثم يجب معرفة سبب السقوط، رطوبة أو تسرب أو حديد صدئ، قبل إعادة اللياسة والطلاء."
+  },
+  "body": {
+    "el": "Ο σοβάς του ταβανιού δεν πέφτει χωρίς λόγο. Οι πιο συνηθισμένες αιτίες είναι το νερό, από ταράτσα, μπαλκόνι ή μπάνιο από πάνω, η ηλικία σε παλιά σπίτια, όπου ο σοβάς έχει χάσει την πρόσφυσή του, και η σκουριά στα σίδερα της πλάκας, που φουσκώνει και σπρώχνει το υλικό προς τα έξω.\n\nΤο πρώτο που μετράει είναι η ασφάλεια. Γύρω από το σημείο που έπεσε, ο σοβάς μπορεί να έχει ξεκολλήσει χωρίς να φαίνεται. Αν κρέμεται, ή αν ακούγεται κούφιος όταν τον χτυπάτε ελαφρά, κρατήστε ανθρώπους και έπιπλα μακριά μέχρι να τον δει κάποιος.\n\n![Κενό στο ταβάνι εκεί που έπεσε ο σοβάς](damp-walls-collapsed-ceiling/step-03.jpg)\n\nΣε αυτό το διαμέρισμα είχε πέσει κομμάτι από τον σοβά του ταβανιού και φαινόταν η υποδομή από πάνω. Το ταβάνι σοβατίστηκε ξανά, τα μπαλώματα τρίφτηκαν και μετά βάφτηκε, μαζί με τους τοίχους που είχαν πάθει ζημιά από υγρασία.\n\nΑν μέσα στο κενό φαίνεται μπετόν με σκουριασμένα σίδερα, η δουλειά είναι διαφορετική. Σε ένα άλλο ταβάνι, τα σίδερα πέρασαν με προστατευτικό και το κομμάτι ξαναχτίστηκε με επισκευαστικό κονίαμα πριν από το στοκάρισμα και τη βαφή. Αν η σκουριά είναι εκτεταμένη ή αφορά δοκάρι ή κολόνα, πρέπει να τη δει μηχανικός.\n\nΝα έχετε υπόψη: αν η αιτία ήταν νερό, η επισκευή κρατάει μόνο αν πρώτα σταματήσει η διαρροή.",
+    "en": "Ceiling plaster doesn't fall for no reason. The most common causes are water, from a roof, a balcony or a bathroom above, age in old houses, where the plaster has lost its grip, and rust on the steel bars in the slab, which swells and pushes the material outwards.\n\nSafety comes first. Around the spot where it fell, more plaster may have come loose without showing it. If it is hanging, or sounds hollow when you tap it lightly, keep people and furniture away until someone has looked at it.\n\n![A gap in the ceiling where the plaster fell](damp-walls-collapsed-ceiling/step-03.jpg)\n\nIn this apartment a section of ceiling plaster had come down, exposing the structure above. The ceiling was plastered again, the patches were sanded and then it was painted, along with the walls that damp had damaged.\n\nIf the gap shows concrete with rusty steel bars, the job is a different one. On another ceiling, the bars were coated with a protective layer and the section was built back up with repair mortar before filling and painting. If the rust is widespread or affects a beam or a column, an engineer needs to see it.\n\nKeep in mind: if water was the cause, the repair only lasts if the leak is stopped first.",
+    "ar": "جص السقف لا يسقط بلا سبب. أكثر الأسباب شيوعًا هي الماء، من السطح أو الشرفة أو الحمام في الطابق الأعلى، وقِدَم البيت حيث يفقد الجص التصاقه مع السنين، والصدأ في حديد البلاطة الذي ينتفخ ويدفع المادة إلى الخارج.\n\nالسلامة أولاً. حول المكان الذي سقط منه الجص، قد يكون جص آخر قد انفصل دون أن يظهر ذلك. إذا كان معلقًا، أو بدا صوته أجوف عند النقر عليه برفق، فأبعد الناس والأثاث حتى يعاينه أحد.\n\n![فراغ في السقف حيث سقط الجص](damp-walls-collapsed-ceiling/step-03.jpg)\n\nفي هذه الشقة سقطت قطعة من جص السقف فظهر ما فوقها. أعيدت لياسة السقف، وصُنفرت الرقع، ثم طُلي مع الجدران التي أتلفتها الرطوبة.\n\nإذا ظهرت في الفراغ خرسانة بحديد صدئ، فالعمل مختلف. في سقف آخر، طُلي الحديد بطبقة حماية، وأعيد بناء الجزء المفقود بملاط إصلاح قبل المعجون والطلاء. وإذا كان الصدأ منتشرًا أو يمس جسرًا أو عمودًا، فيجب أن يراه مهندس.\n\nانتبه: إذا كان الماء هو السبب، فلن يصمد الإصلاح إلا إذا أوقف التسرب أولاً."
+  },
+  "projects": [
+    "damp-walls-collapsed-ceiling",
+    "ceiling-exposed-rebar-repair",
+    "ceiling-hole-damp-stains"
+  ]
+}

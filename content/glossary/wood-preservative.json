@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Συντηρητικό ξύλου",
+    "en": "Wood preservative",
+    "ar": "المادة الحافظة للخشب"
+  },
+  "aliases": {
+    "el": [
+      "συντηρητικό ξύλου",
+      "συντηρητικού ξύλου",
+      "συντηρητικά ξύλου",
+      "συντηρητικών ξύλου",
+      "εμποτιστικό ξύλου",
+      "εμποτιστικά ξύλου"
+    ],
+    "en": [
+      "wood preservative*",
+      "preservative",
+      "preservatives"
+    ],
+    "ar": [
+      "مادة حافظة للخشب",
+      "مواد حافظة للخشب",
+      "مادة الحافظة للخشب",
+      "حافظ الخشب",
+      "حافظة الخشب"
+    ]
+  },
+  "short": {
+    "el": "Υγρό που εμποτίζει το ξύλο και το προστατεύει από μύκητες, σάπισμα, σαράκι και υγρασία. Μπαίνει σε γυμνό ξύλο, συνήθως πριν από το βερνίκι ή το χρώμα.",
+    "en": "A liquid that soaks into wood and protects it from fungi, rot, woodworm and moisture. It goes on bare wood, usually before varnish or paint.",
+    "ar": "سائل يتشربه الخشب فيحميه من الفطريات والتعفن والسوس والرطوبة. يوضع على الخشب العاري، عادةً قبل الورنيش أو الطلاء."
+  },
+  "body": {
+    "el": "Το ξύλο που μένει έξω, σε πέργκολες, παντζούρια, πόρτες, κάγκελα και ζαρντινιέρες, βρέχεται, στεγνώνει και ψήνεται στον ήλιο. Αν μείνει απροστάτευτο, γκριζάρει, ανοίγει ρωγμές και, όπου κρατά υγρασία, αρχίζει να σαπίζει ή να το τρώει το σαράκι. Το συντηρητικό ξύλου μπαίνει βαθιά στις ίνες και το προστατεύει από μέσα.\n\nΠερνιέται με πινέλο ή με εμβάπτιση σε καθαρό, στεγνό και γυμνό ξύλο, πριν από το αστάρι, το χρώμα ή το βερνίκι. Τα σημεία που ρουφούν περισσότερο νερό, όπως οι κομμένες άκρες, οι βάσεις των στύλων και οι ενώσεις, θέλουν ιδιαίτερη προσοχή. Υπάρχουν άχρωμα συντηρητικά και άλλα με απόχρωση ξύλου, που δίνουν ταυτόχρονα και χρώμα.\n\nΤο συντηρητικό ξύλου δεν αντικαθιστά το τελικό φινίρισμα και δεν σώζει ξύλο που έχει ήδη σαπίσει· το σάπιο ξύλο αφαιρείται ή αντικαθίσταται. Τα περισσότερα συντηρητικά περιέχουν δραστικές ουσίες, γι' αυτό θέλουν γάντια, καλό αερισμό και προσοχή κοντά σε φυτά και κατοικίδια.",
+    "en": "Wood that lives outdoors, in pergolas, shutters, doors, railings and planters, gets wet, dries out and bakes in the sun. Left unprotected, it turns grey, cracks and, wherever it stays damp, starts to rot or gets woodworm. A wood preservative penetrates deep into the fibres and protects it from within.\n\nIt is brushed on, or the wood is dipped, while the wood is clean, dry and bare, before primer, paint or varnish. The places that soak up the most water, such as cut ends, the feet of posts and joints, need particular care. There are clear preservatives and tinted ones that add colour at the same time.\n\nA wood preservative does not replace the final finish, and it cannot save wood that has already rotted; rotten wood is cut out or replaced. Most preservatives contain active chemicals, so they call for gloves, good ventilation and care around plants and pets.",
+    "ar": "الخشب الذي يبقى في الخارج، في البرغولات والمصاريع والأبواب والدرابزين وأحواض الزرع، يبتل ثم يجف ويتعرض لحرارة الشمس. وإذا تُرك بلا حماية يصير رماديًا ويتشقق، وحيث تبقى فيه الرطوبة يبدأ بالتعفن أو يصيبه السوس. والمادة الحافظة للخشب تتغلغل عميقًا في أليافه وتحميه من الداخل.\n\nتُدهن بالفرشاة أو يُغمس فيها الخشب وهو نظيف وجاف وعارٍ، قبل طبقة الأساس أو الطلاء أو الورنيش. وتحتاج المواضع التي تمتص الماء أكثر، كالأطراف المقطوعة وقواعد الأعمدة والوصلات، إلى عناية خاصة. وهناك مواد حافظة شفافة وأخرى بلون الخشب تمنحه لونًا في الوقت نفسه.\n\nلا تحل المادة الحافظة محل التشطيب النهائي، ولا تنقذ خشبًا تعفن بالفعل، فالخشب المتعفن يُزال أو يُستبدل. ومعظم المواد الحافظة تحتوي على مواد فعالة، لذلك تتطلب قفازات وتهوية جيدة وحذرًا قرب النباتات والحيوانات الأليفة."
+  },
+  "categories": [
+    "wood"
+  ],
+  "photo": null,
+  "related": [
+    "varnish",
+    "primer",
+    "pergola",
+    "sanding"
+  ]
+}

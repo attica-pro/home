@@ -1,0 +1,50 @@
+{
+  "term": {
+    "el": "Γαρμπιλομπετό (τσιμεντοκονία κλίσεων)",
+    "en": "Screed",
+    "ar": "طبقة التسوية"
+  },
+  "aliases": {
+    "el": [
+      "γαρμπιλομπετ*",
+      "γέμισμα",
+      "γεμίσματος",
+      "τσιμεντοκονία κλίσεων",
+      "μπετό κλίσεων",
+      "ελαφροσκυρόδεμα",
+      "ελαφροσκυροδέματος"
+    ],
+    "en": [
+      "screed*"
+    ],
+    "ar": [
+      "طبقة التسوية",
+      "طبقة تسوية",
+      "مادة التسوية"
+    ]
+  },
+  "short": {
+    "el": "Στρώση από τσιμεντοκονία ή ελαφρύ μπετό που ρίχνεται πάνω στην πλάκα, για να δώσει κλίσεις και μια γερή, πατητή επιφάνεια για το επόμενο υλικό.",
+    "en": "A layer of sand-and-cement mix or lightweight concrete poured over the slab to create falls and a solid surface for the next material.",
+    "ar": "طبقة من الملاط الإسمنتي أو الخرسانة الخفيفة تُصب فوق البلاطة لتعطي الميول المطلوبة وسطحًا متينًا للمادة التالية."
+  },
+  "body": {
+    "el": "Γαρμπιλομπετό λέγεται το μείγμα από τσιμέντο, άμμο και γαρμπίλι (ψιλό χαλίκι) που απλώνεται πάνω στην πλάκα της ταράτσας ή σε ένα δάπεδο. Στα συνεργεία λέγεται συχνά απλώς «γέμισμα». Σε ταράτσες χρησιμοποιείται και ελαφροσκυρόδεμα, που είναι πιο ελαφρύ.\n\nΈχει δύο δουλειές: να δώσει στην επιφάνεια τις σωστές κλίσεις προς τα σιφώνια, ώστε το νερό να μη λιμνάζει, και να σκεπάσει και να προστατεύσει τη θερμομόνωση από κάτω, δίνοντας ένα δάπεδο που πατιέται. Σε μεγάλες επιφάνειες ανεβαίνει στην ταράτσα με αντλία και ισιώνεται με πήχη.\n\nΤο γαρμπιλομπετό δεν είναι στεγάνωση: το τσιμέντο ραγίζει και ρουφά νερό. Πρέπει επίσης να στεγνώσει καλά πριν περάσει στεγανωτικό από πάνω, αλλιώς η υγρασία που παγιδεύεται σηκώνει φουσκάλες.",
+    "en": "Screed is a mix of cement, sand and fine gravel spread over a roof slab or a floor. Greek builders often just call it the \"filling\". On roofs, lightweight concrete is also used, which weighs less.\n\nIt has two jobs: to give the surface the right falls towards the drains, so water doesn't pool, and to cover and protect the insulation underneath, giving a floor that can be walked on. On large areas it is pumped up to the roof and levelled with a straightedge.\n\nScreed is not waterproofing: cement cracks and soaks up water. It also has to dry out properly before any waterproofing goes on top, or the trapped moisture pushes up blisters.",
+    "ar": "طبقة التسوية خليط من الإسمنت والرمل والحصى الناعم يُفرد فوق بلاطة السطح أو فوق أرضية. ويسمّيها العمال في اليونان غالبًا «الحشوة». وفي الأسطح تُستخدم أيضًا الخرسانة الخفيفة لأنها أقل وزنًا.\n\nلها وظيفتان: أن تعطي السطح الميول الصحيحة نحو المصارف حتى لا يتجمع الماء، وأن تغطي العزل الحراري تحتها وتحميه فتوفر أرضية يمكن المشي عليها. وفي المساحات الكبيرة تُضخ إلى السطح بمضخة وتُسوّى بمسطرة.\n\nطبقة التسوية ليست عزلًا مائيًا، فالإسمنت يتشقق ويمتص الماء. ويجب أيضًا أن تجف جيدًا قبل وضع العازل فوقها، وإلا رفعت الرطوبة المحبوسة فقاعات فيه."
+  },
+  "categories": [
+    "insulation",
+    "paving"
+  ],
+  "photo": {
+    "project": "roof-slab-insulation-screed",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "falls",
+    "thermal-insulation",
+    "tar",
+    "waterproofing"
+  ]
+}

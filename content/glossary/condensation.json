@@ -1,0 +1,41 @@
+{
+  "term": {
+    "el": "Υγρασία συμπύκνωσης",
+    "en": "Condensation",
+    "ar": "رطوبة التكاثف"
+  },
+  "aliases": {
+    "el": [
+      "συμπύκνωσ*",
+      "υγρασία συμπύκνωσης"
+    ],
+    "en": [
+      "condensation"
+    ],
+    "ar": [
+      "تكاثف",
+      "تكثف",
+      "رطوبة التكاثف"
+    ]
+  },
+  "short": {
+    "el": "Η υγρασία του αέρα που γίνεται νερό πάνω σε κρύες επιφάνειες, όπως τζάμια, εξωτερικές γωνίες και ταβάνια. Είναι η πιο συχνή αιτία μούχλας μέσα στο σπίτι.",
+    "en": "Moisture in the air turning to water on cold surfaces such as windows, outside corners and ceilings. It is the most common cause of mould indoors.",
+    "ar": "بخار الماء في الهواء حين يتحول إلى ماء على الأسطح الباردة، مثل الزجاج والزوايا الخارجية والأسقف. وهو أكثر أسباب العفن شيوعًا داخل البيت."
+  },
+  "body": {
+    "el": "Ο αέρας μέσα στο σπίτι έχει πάντα υδρατμούς, από το μαγείρεμα, το μπάνιο, το στέγνωμα των ρούχων και την ίδια την αναπνοή. Όταν ο ζεστός, υγρός αέρας ακουμπά μια κρύα επιφάνεια, ψύχεται και οι υδρατμοί γίνονται σταγόνες. Αυτό είναι η συμπύκνωση: ό,τι βλέπουμε στα τζάμια τα κρύα πρωινά συμβαίνει και στους τοίχους.\n\nΕμφανίζεται κυρίως τον χειμώνα, σε εξωτερικούς τοίχους, γωνίες, πίσω από ντουλάπες και γύρω από κολόνες και δοκάρια χωρίς μόνωση (θερμογέφυρες). Αφήνει μαύρα στίγματα μούχλας και χαλασμένα χρώματα, συχνά ψηλά στον τοίχο ή στο ταβάνι, και όχι στη βάση όπως η ανερχόμενη υγρασία.\n\nΤο βάψιμο μόνο του δεν τη λύνει. Βοηθούν ο τακτικός αερισμός, ο απορροφητήρας σε κουζίνα και μπάνιο, η σταθερή θέρμανση και, πιο μόνιμα, η θερμομόνωση των κρύων επιφανειών, για παράδειγμα με θερμοπρόσοψη. Τα αντιμυκητιακά χρώματα καθυστερούν τη μούχλα, αλλά δεν αφαιρούν την αιτία.",
+    "en": "Indoor air always holds water vapour, from cooking, bathing, drying clothes and simply breathing. When warm, moist air touches a cold surface, it cools and the vapour turns into droplets. That is condensation: what you see on windows on a cold morning also happens on walls.\n\nIt appears mainly in winter, on outside walls, in corners, behind wardrobes and around uninsulated columns and beams (thermal bridges). It leaves black spots of mould and spoiled paint, often high on the wall or on the ceiling, not at the bottom like rising damp.\n\nPainting alone won't solve it. Regular airing, extractor fans in the kitchen and bathroom, steady heating and, more permanently, insulating the cold surfaces, for example with external wall insulation, all help. Anti-mould paints slow the mould down but don't remove the cause.",
+    "ar": "يحتوي هواء البيت دائمًا على بخار الماء، من الطبخ والاستحمام وتجفيف الملابس والتنفس نفسه. وحين يلامس الهواء الدافئ الرطب سطحًا باردًا يبرد، فيتحول البخار إلى قطرات. هذا هو التكاثف، وما نراه على زجاج النوافذ في الصباحات الباردة يحدث على الجدران أيضًا.\n\nيظهر غالبًا في الشتاء، على الجدران الخارجية وفي الزوايا وخلف الخزائن وحول الأعمدة والجسور غير المعزولة (الجسور الحرارية). ويترك بقعًا سوداء من العفن ودهانًا تالفًا، غالبًا في أعلى الجدار أو في السقف، لا في أسفله كما في الرطوبة الصاعدة.\n\nالدهان وحده لا يحل المشكلة. ما يساعد هو التهوية المنتظمة، وشفاط الهواء في المطبخ والحمام، والتدفئة المستقرة، وبشكل أدوم العزل الحراري للأسطح الباردة، مثلًا بالعزل الخارجي للجدران. والدهانات المضادة للعفن تؤخر ظهوره لكنها لا تزيل السبب."
+  },
+  "categories": [
+    "painting"
+  ],
+  "photo": null,
+  "related": [
+    "mould",
+    "rising-damp",
+    "thermal-insulation",
+    "etics"
+  ]
+}

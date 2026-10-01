@@ -1,0 +1,57 @@
+{
+  "term": {
+    "el": "Ντουζιέρα δαπέδου",
+    "en": "Walk-in shower",
+    "ar": "دش في مستوى الأرضية"
+  },
+  "aliases": {
+    "el": [
+      "ντουζιέρα δαπέδου",
+      "ντουζιέρας δαπέδου",
+      "ντουζιέρες δαπέδου",
+      "ντουζιέρα στο ίδιο επίπεδο",
+      "ντουζιέρα στο επίπεδο του δαπέδου",
+      "ντουζιέρα μένει στο ίδιο επίπεδο",
+      "ντουζιέρα χωρίς σκαλοπάτι",
+      "χωνευτή ντουζιέρα",
+      "ντουζιέρα χωνευτή"
+    ],
+    "en": [
+      "walk-in shower*",
+      "floor-level shower*",
+      "level-access shower*",
+      "step-free shower*",
+      "wet room*",
+      "shower sits level"
+    ],
+    "ar": [
+      "دش في مستوى",
+      "دش بمستوى",
+      "دش بلا درجة",
+      "دش أرضي"
+    ]
+  },
+  "short": {
+    "el": "Ντουζιέρα χωρίς σκαφάκι και χωρίς σκαλοπάτι, στο ίδιο επίπεδο με το υπόλοιπο δάπεδο του μπάνιου. Το νερό φεύγει από σιφόνι ή γραμμικό κανάλι αποχέτευσης.",
+    "en": "A shower with no tray and no step, level with the rest of the bathroom floor. The water drains through a floor drain or a linear channel drain.",
+    "ar": "دش بلا حوض وبلا درجة، في مستوى باقي أرضية الحمام. ويُصرف الماء عبر مصرف أرضي أو مصرف طولي."
+  },
+  "body": {
+    "el": "Στη ντουζιέρα δαπέδου, τα πλακάκια του μπάνιου συνεχίζουν χωρίς διακοπή μέσα στον χώρο του ντους. Δεν υπάρχει σκαφάκι ούτε σκαλοπάτι, μόνο ένα γυάλινο διαχωριστικό ή και τίποτα. Είναι πρακτική για ηλικιωμένους και για όσους δυσκολεύονται να πατήσουν πάνω από ένα χείλος, και κάνει το μπάνιο να δείχνει μεγαλύτερο.\n\nΤο κρίσιμο είναι αυτό που δεν φαίνεται. Το δάπεδο πρέπει να έχει σωστές κλίσεις προς το σιφόνι ή το γραμμικό κανάλι, για να μην απλώνει το νερό στο υπόλοιπο μπάνιο. Από κάτω χρειάζεται στεγάνωση σε όλη την περιοχή του ντους, που ανεβαίνει και στους τοίχους, γιατί δεν υπάρχει σκαφάκι να κρατήσει το νερό.\n\nΣε υπάρχον κτίριο, η αποχέτευση θέλει βάθος κάτω από το δάπεδο, και αυτό δεν υπάρχει πάντα. Γι' αυτό η ντουζιέρα δαπέδου σχεδιάζεται από την αρχή μαζί με τις σωληνώσεις και το νέο δάπεδο, συνήθως όταν το μπάνιο ξηλώνεται ολόκληρο.",
+    "en": "In a walk-in shower, the bathroom floor tiles carry on without a break into the shower area. There is no tray and no step, just a glass panel or nothing at all. It is practical for older people and anyone who finds it hard to step over a lip, and it makes the bathroom look bigger.\n\nWhat matters most is what you cannot see. The floor needs proper falls towards the floor drain or channel drain so water does not spread across the bathroom. Underneath, the whole shower area needs waterproofing that also runs up the walls, because there is no tray to hold the water.\n\nIn an existing building, the drain needs depth below the floor, and that is not always available. So a walk-in shower is planned from the start together with the pipework and the new floor, usually when the bathroom is being stripped out completely.",
+    "ar": "في الدش الذي في مستوى الأرضية يمتد بلاط الحمام دون انقطاع إلى منطقة الدش. فلا حوض ولا درجة، بل لوح زجاجي أو لا شيء على الإطلاق. وهو عملي لكبار السن ولمن يصعب عليه تخطي حافة، ويجعل الحمام يبدو أوسع.\n\nالأهم هو ما لا يُرى. فيجب أن تكون للأرضية ميول صحيحة نحو المصرف الأرضي أو المصرف الطولي، حتى لا ينتشر الماء في باقي الحمام. ويلزم تحتها عزل مائي في كامل منطقة الدش يصعد على الجدران أيضًا، لأنه لا يوجد حوض يحبس الماء.\n\nفي مبنى قائم يحتاج الصرف إلى عمق تحت الأرضية، وهذا لا يتوفر دائمًا. لذلك يُخطط لهذا الدش من البداية مع الأنابيب والأرضية الجديدة، وعادةً عند تجريد الحمام بالكامل."
+  },
+  "categories": [
+    "renovations"
+  ],
+  "photo": {
+    "project": "bathroom-renovation-green-tub",
+    "file": "step-08.jpg"
+  },
+  "related": [
+    "falls",
+    "floor-drain",
+    "waterproofing",
+    "concealed-cistern"
+  ]
+}

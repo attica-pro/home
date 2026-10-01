@@ -1,0 +1,23 @@
+{
+  "category": "repairs",
+  "order": 1,
+  "question": {
+    "el": "Άνοιξε ρωγμή στο ταβάνι και φαίνεται σκουριασμένο σίδερο. Είναι επικίνδυνο;",
+    "en": "A crack has opened in my ceiling and I can see rusty steel. Is it dangerous?",
+    "ar": "ظهر شق في السقف ويُرى منه حديد صدئ. هل هذا خطير؟"
+  },
+  "short": {
+    "el": "Δείχνει ότι ο οπλισμός σκουριάζει, συνήθως από νερό, και δεν πρέπει να αφεθεί. Τοπικά επισκευάζεται: καθάρισμα, προστασία του σιδήρου, επισκευαστικό κονίαμα. Αν απλώνεται ή αφορά δοκάρι, θέλει μηχανικό.",
+    "en": "It means the reinforcement is rusting, usually because of water, and shouldn't be left. Local damage is repaired: clean, protect the steel, rebuild with repair mortar. If it is spreading or on a beam, call an engineer.",
+    "ar": "يعني أن حديد التسليح يصدأ، غالبًا بسبب الماء، ولا يجوز تركه. الضرر الموضعي يُصلح: تنظيف، وحماية الحديد، وإعادة البناء بملاط إصلاح. وإذا كان ينتشر أو في جسر، فيلزم مهندس."
+  },
+  "body": {
+    "el": "Μέσα στην πλάκα του ταβανιού υπάρχουν σίδερα, ο οπλισμός. Όταν μπαίνει νερό, από ταράτσα, μπαλκόνι ή μπάνιο από πάνω, τα σίδερα με τα χρόνια σκουριάζουν. Η σκουριά πιάνει περισσότερο χώρο από το σίδερο, φουσκώνει και σπάει το μπετόν γύρω της. Γι' αυτό η ρωγμή συχνά ακολουθεί μια ευθεία γραμμή, πάνω από ένα σίδερο.\n\n![Σκουριασμένο σίδερο μέσα σε ρωγμή που ανοίχτηκε στο ταβάνι](ceiling-crack-rusted-rebar/step-03.jpg)\n\nΣε αυτό το υπνοδωμάτιο, το ταβάνι είχε ρωγμές και φουσκωμένους σοβάδες. Όταν αφαιρέθηκαν τα χαλαρά κομμάτια, μέσα στη ρωγμή φάνηκε σκουριασμένο σίδερο. Η ρωγμή ανοίχτηκε μέχρι εκεί για να επισκευαστεί σωστά, και όχι απλώς να κλείσει με στόκο που θα ξανάσκαγε.\n\nΣε ένα άλλο ταβάνι ο σοβάς είχε πέσει και είχαν μείνει γυμνά το μπετόν και τα σίδερα. Κάθε σίδερο που φαινόταν πέρασε με κόκκινο προστατευτικό, για να μη συνεχίσει να σκουριάζει, και η επιφάνεια ξαναχτίστηκε με επισκευαστικό κονίαμα. Μετά στοκαρίστηκε, λειάνθηκε και βάφτηκε, ώστε να μην ξεχωρίζει από το υπόλοιπο ταβάνι.\n\nΝα έχετε υπόψη: η επισκευή κρατάει μόνο αν σταματήσει το νερό που προκάλεσε τη σκουριά. Αν τα σίδερα έχουν λεπτύνει πολύ, αν η ζημιά απλώνεται σε μεγάλη επιφάνεια ή αφορά δοκάρι, κολόνα ή μπαλκόνι, πρέπει πρώτα να τη δει πολιτικός μηχανικός. Κι αν πέφτουν κομμάτια, κρατήστε τον χώρο από κάτω άδειο.",
+    "en": "Inside a ceiling slab there are steel bars, the reinforcement. When water gets in, from a roof, a balcony or a bathroom above, the bars rust over the years. Rust takes up more room than steel, so it swells and breaks the concrete around it. That is why the crack often follows a straight line, along a bar.\n\n![Rusted steel inside a crack opened up in the ceiling](ceiling-crack-rusted-rebar/step-03.jpg)\n\nIn this bedroom the ceiling had cracks and blistered plaster. When the loose pieces were removed, rusted steel showed inside the crack. The crack was opened up that far so it could be repaired properly, rather than just closed with filler that would crack again.\n\nOn another ceiling the plaster had fallen off, leaving the concrete and its bars exposed. Every exposed bar got a red protective coat so it wouldn't keep rusting, and the surface was built back up with repair mortar. Then it was filled, smoothed and painted, so it doesn't stand out from the rest of the ceiling.\n\nKeep in mind: the repair only lasts if the water that caused the rust is stopped. If the bars have thinned a lot, if the damage covers a large area, or if it is on a beam, a column or a balcony, a structural engineer needs to see it first. And if pieces are falling, keep the area underneath clear.",
+    "ar": "داخل بلاطة السقف قضبان حديد، هي حديد التسليح. عندما يدخل الماء، من السطح أو الشرفة أو الحمام في الطابق الأعلى، يصدأ الحديد مع السنين. والصدأ يشغل حيزًا أكبر من الحديد، فينتفخ ويكسر الخرسانة حوله. لذلك كثيرًا ما يسير الشق في خط مستقيم فوق أحد القضبان.\n\n![حديد صدئ داخل شق فُتح في السقف](ceiling-crack-rusted-rebar/step-03.jpg)\n\nفي غرفة النوم هذه كانت في السقف شقوق وجص منتفخ. وعند إزالة القطع المفككة ظهر داخل الشق حديد صدئ. فُتح الشق حتى هناك ليُصلح كما يجب، لا ليُغلق بالمعجون فقط ثم يتشقق من جديد.\n\nفي سقف آخر سقط الجص فظهرت الخرسانة وحديدها. طُلي كل قضيب ظاهر بطبقة حماية حمراء حتى لا يستمر في الصدأ، وأعيد بناء السطح بملاط إصلاح. ثم عُجن ونُعّم وطُلي، حتى لا يختلف عن باقي السقف.\n\nانتبه: لا يصمد الإصلاح إلا إذا توقف الماء الذي سبّب الصدأ. وإذا كان الحديد قد رقّ كثيرًا، أو امتد الضرر على مساحة كبيرة، أو كان في جسر أو عمود أو شرفة، فيجب أن يعاينه مهندس إنشائي أولاً. وإذا كانت القطع تتساقط، فأبعد الناس والأثاث عن المكان تحته."
+  },
+  "projects": [
+    "ceiling-crack-rusted-rebar",
+    "ceiling-exposed-rebar-repair"
+  ]
+}

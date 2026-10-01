@@ -1,0 +1,61 @@
+{
+  "term": {
+    "el": "Φέρων τοίχος",
+    "en": "Load-bearing wall",
+    "ar": "الجدار الحامل"
+  },
+  "aliases": {
+    "el": [
+      "φέρων τοίχος",
+      "φέροντα τοίχο",
+      "φέροντος τοίχου",
+      "φέροντες τοίχοι",
+      "φέροντες τοίχους",
+      "φερόντων τοίχων",
+      "φέρουσα τοιχοποιία",
+      "φέρουσας τοιχοποιίας",
+      "φέρουσες τοιχοποιίες",
+      "φέροντα στοιχεία",
+      "φέρων οργανισμός",
+      "φέροντα οργανισμό",
+      "φέροντος οργανισμού"
+    ],
+    "en": [
+      "load-bearing wall*",
+      "loadbearing wall*",
+      "load-bearing",
+      "bearing wall*",
+      "structural wall*"
+    ],
+    "ar": [
+      "جدار حامل",
+      "جدار الحامل",
+      "جدران حاملة",
+      "جدران الحاملة",
+      "جدار إنشائي",
+      "عناصر إنشائية",
+      "عناصر الإنشائية"
+    ]
+  },
+  "short": {
+    "el": "Τοίχος που σηκώνει βάρος του κτιρίου, όπως πλάκες, δοκάρια ή τους ορόφους από πάνω. Δεν γκρεμίζεται και δεν ανοίγεται χωρίς μελέτη μηχανικού και την άδεια που προβλέπεται.",
+    "en": "A wall that carries part of the building's weight, such as floors, beams or the storeys above. It must not be removed or opened up without an engineer's design and the required permit.",
+    "ar": "جدار يحمل جزءًا من وزن المبنى، كالبلاطات أو الجسور أو الطوابق التي فوقه. لا يجوز هدمه أو فتح فتحة فيه دون دراسة مهندس والترخيص المطلوب."
+  },
+  "body": {
+    "el": "Σε ένα κτίριο, άλλοι τοίχοι απλώς χωρίζουν χώρους και άλλοι το κρατούν όρθιο. Στα περισσότερα νεότερα κτίρια στην Ελλάδα ο φέρων οργανισμός είναι από οπλισμένο σκυρόδεμα: κολόνες, δοκάρια, πλάκες και τοιχώματα. Οι τοίχοι από τούβλα ανάμεσά τους είναι συνήθως τοίχοι πλήρωσης. Στα παλιά πέτρινα ή πλινθόκτιστα σπίτια, όμως, οι ίδιοι οι τοίχοι σηκώνουν τα πατώματα και τη στέγη.\n\nΜε το μάτι δεν είναι πάντα εύκολο να καταλάβει κανείς ποιος τοίχος είναι φέρων. Το πάχος, η θέση, το υλικό και τα σχέδια του κτιρίου δίνουν ενδείξεις, αλλά τη βεβαιότητα τη δίνει μόνο ένας μηχανικός.\n\nΑν μια ανακαίνιση θέλει να ανοίξει πόρτα, να μεγαλώσει ένα άνοιγμα ή να γκρεμίσει τοίχο, πρέπει πρώτα να ξεκαθαριστεί αν ο τοίχος σηκώνει φορτία. Σε φέροντα στοιχεία δεν γίνεται καμία επέμβαση χωρίς στατική μελέτη και την άδεια που προβλέπεται, και ούτε κολόνες ούτε δοκάρια σκάβονται για να περάσουν σωλήνες και καλώδια.",
+    "en": "In a building, some walls just divide rooms and others hold the building up. In most newer buildings in Greece the structure is reinforced concrete: columns, beams, slabs and shear walls. The brick walls between them are usually infill walls that carry no load. In old stone or brick houses, though, the walls themselves carry the floors and the roof.\n\nIt is not always easy to tell by eye which wall is load-bearing. Thickness, position, material and the building's drawings give clues, but only an engineer can say for certain.\n\nIf a renovation means opening a doorway, widening an opening or removing a wall, the first step is to establish whether that wall carries a load. Nothing is done to structural elements without a structural design and the required permit, and columns and beams are never cut into to run pipes or cables.",
+    "ar": "في المبنى، بعض الجدران تفصل بين الغرف فقط، وبعضها يُبقي المبنى قائمًا. في معظم المباني الحديثة في اليونان يتكون الهيكل الحامل من الخرسانة المسلحة: أعمدة وجسور وبلاطات وجدران خرسانية. أما جدران الطوب بينها فهي عادةً جدران ملء لا تحمل أوزانًا. لكن في البيوت القديمة المبنية بالحجر أو الطوب تحمل الجدران نفسها الأرضيات والسقف.\n\nليس من السهل دائمًا أن تعرف بالعين أي جدار هو جدار حامل. فالسماكة والموقع والمادة ومخططات المبنى تعطي مؤشرات، لكن اليقين لا يعطيه إلا مهندس.\n\nإذا كان التجديد يتطلب فتح باب أو توسيع فتحة أو هدم جدار، فيجب أولًا التأكد مما إذا كان الجدار يحمل أوزانًا. ولا يُمس أي عنصر إنشائي دون دراسة إنشائية والترخيص المطلوب، ولا تُحفر الأعمدة ولا الجسور أبدًا لتمرير الأنابيب والأسلاك."
+  },
+  "categories": [
+    "demolition",
+    "renovations"
+  ],
+  "photo": null,
+  "related": [
+    "demolition",
+    "wall-chase",
+    "crack",
+    "rebar-corrosion"
+  ]
+}

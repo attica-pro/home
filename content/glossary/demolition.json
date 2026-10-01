@@ -1,0 +1,53 @@
+{
+  "term": {
+    "el": "Καθαίρεση",
+    "en": "Demolition",
+    "ar": "الهدم"
+  },
+  "aliases": {
+    "el": [
+      "καθαίρεσ*",
+      "καθαιρέσ*",
+      "γκρέμισ*",
+      "γκρεμίσ*",
+      "γκρεμίζ*",
+      "ξήλωμα",
+      "ξηλώματα",
+      "ξηλώματος"
+    ],
+    "en": [
+      "demolition",
+      "demolitions",
+      "demolish*",
+      "strip-out",
+      "knocked down",
+      "knocking down"
+    ],
+    "ar": [
+      "هدم*"
+    ]
+  },
+  "short": {
+    "el": "Το γκρέμισμα ή το ξήλωμα όσων πρέπει να φύγουν πριν από μια ανακαίνιση: τοίχοι, πλακάκια, σοβάδες, είδη υγιεινής, παλιά δάπεδα ή μονώσεις.",
+    "en": "Knocking down or stripping out whatever has to go before a renovation: walls, tiles, render, bathroom fittings, old floors or old insulation.",
+    "ar": "هدم أو إزالة كل ما يجب أن يذهب قبل التجديد: جدران، بلاط، لياسة، أدوات صحية، أرضيات قديمة أو عوازل قديمة."
+  },
+  "body": {
+    "el": "Η καθαίρεση είναι το πρώτο στάδιο σχεδόν κάθε ανακαίνισης. Μπορεί να είναι μικρή, όπως το ξήλωμα των πλακιδίων και της μπανιέρας σε ένα μπάνιο, ή μεγαλύτερη, όπως το γκρέμισμα ενός εσωτερικού τοίχου ή ενός παλιού δαπέδου μέχρι την πλάκα. Γίνεται συνήθως με κρουστικά εργαλεία, με προσοχή ώστε να μην πάθουν ζημιά όσα μένουν: οι διπλανοί τοίχοι, οι σωληνώσεις, το δάπεδο από κάτω.\n\nΠριν ξεκινήσει, κλείνουν το νερό και το ρεύμα στα σημεία που θα πειραχτούν και ελέγχεται αν κάποιος τοίχος είναι φέρων. Φέροντα στοιχεία δεν πειράζονται χωρίς μηχανικό και άδεια.\n\nΗ καθαίρεση βγάζει θόρυβο, σκόνη και πολλά μπάζα. Τα έπιπλα και οι χώροι που δεν δουλεύονται σκεπάζονται ή κλείνονται, και τα μπάζα μαζεύονται σε σακιά και απομακρύνονται νόμιμα. Συχνά, μόνο όταν φύγουν τα παλιά υλικά φαίνεται η πραγματική κατάσταση από κάτω, όπως υγρασία, φθαρμένες σωληνώσεις ή σκουριασμένα σίδερα.",
+    "en": "Demolition is the first stage of almost every renovation. It can be small, like stripping out the tiles and bathtub in a bathroom, or bigger, like knocking down an inside wall or taking an old floor back to the slab. It is usually done with breakers and hammer drills, taking care not to damage what stays: the neighbouring walls, the pipework, the floor underneath.\n\nBefore it starts, the water and power are shut off where work will be done, and it is checked whether any wall is load-bearing. Structural elements are not touched without an engineer and a permit.\n\nDemolition makes noise, dust and a lot of rubble. Furniture and rooms not being worked on are covered or closed off, and the rubble is bagged and taken away legally. Often it is only once the old materials come out that the real state of things underneath shows, such as damp, worn-out pipes or rusted steel.",
+    "ar": "الهدم هو المرحلة الأولى في كل تجديد تقريبًا. قد يكون صغيرًا، كإزالة البلاط وحوض الاستحمام في حمام، أو أكبر، كهدم جدار داخلي أو إزالة أرضية قديمة حتى البلاطة الخرسانية. ويتم عادةً بأدوات الطرق والتكسير، مع الحرص على عدم الإضرار بما سيبقى: الجدران المجاورة والأنابيب والأرضية تحتها.\n\nقبل البدء يُقطع الماء والكهرباء في الأماكن التي سيُعمل فيها، ويُتحقق مما إذا كان أي جدار جدارًا حاملًا. ولا تُمس العناصر الإنشائية دون مهندس وترخيص.\n\nيُحدث الهدم ضجيجًا وغبارًا وكثيرًا من الأنقاض. لذلك يُغطى الأثاث وتُغلق الأماكن التي لا يُعمل فيها، وتُجمع الأنقاض في أكياس وتُنقل بطريقة قانونية. وكثيرًا ما لا تظهر الحالة الحقيقية تحت المواد القديمة إلا بعد إزالتها، كالرطوبة أو الأنابيب المهترئة أو حديد التسليح الصدئ."
+  },
+  "categories": [
+    "demolition",
+    "renovations"
+  ],
+  "photo": {
+    "project": "bathroom-renovation-striped-tiles",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "debris",
+    "load-bearing-wall",
+    "wall-chase"
+  ]
+}

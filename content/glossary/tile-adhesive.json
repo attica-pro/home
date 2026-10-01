@@ -1,0 +1,55 @@
+{
+  "term": {
+    "el": "Κόλλα πλακιδίων",
+    "en": "Tile adhesive",
+    "ar": "لاصق البلاط"
+  },
+  "aliases": {
+    "el": [
+      "κόλλα πλακιδίων",
+      "κόλλας πλακιδίων",
+      "κόλλες πλακιδίων",
+      "κόλλα των πλακιδίων",
+      "κόλλας των πλακιδίων",
+      "παλιάς κόλλας",
+      "παλιά κόλλα",
+      "πλακοκόλλ*"
+    ],
+    "en": [
+      "tile adhesive*",
+      "tile glue",
+      "old adhesive"
+    ],
+    "ar": [
+      "لاصق البلاط",
+      "لاصق بلاط",
+      "اللاصق القديم",
+      "غراء البلاط",
+      "غراء بلاط"
+    ]
+  },
+  "short": {
+    "el": "Το έτοιμο τσιμεντοειδές κονίαμα, σε σκόνη που ανακατεύεται με νερό, με το οποίο κολλάνε τα πλακάκια σε τοίχους και δάπεδα. Απλώνεται με οδοντωτή σπάτουλα.",
+    "en": "A ready-mixed cement-based mortar, sold as a powder and mixed with water, used to stick tiles to walls and floors. It is spread with a notched trowel.",
+    "ar": "ملاط إسمنتي جاهز يُباع مسحوقًا ويُخلط بالماء، تُلصق به البلاطات على الجدران والأرضيات. ويُفرد بمسطرين مسنن."
+  },
+  "body": {
+    "el": "Παλιότερα τα πλακάκια στρώνονταν πάνω σε παχιά στρώση λάσπης από τσιμέντο και άμμο. Σήμερα χρησιμοποιείται σχεδόν πάντα κόλλα πλακιδίων: έτοιμο κονίαμα με πρόσθετα που του δίνουν καλή πρόσφυση. Απλώνεται σε λεπτή στρώση και χτενίζεται με οδοντωτή σπάτουλα, ώστε το πλακάκι να «καθίσει» και να πιάσει σε όλη του την επιφάνεια.\n\nΔεν είναι όλες οι κόλλες ίδιες. Για μεγάλα ή πορσελανάτα πλακάκια, για εξωτερικούς χώρους, για ταράτσες και μπαλκόνια που ψήνονται στον ήλιο ή για δάπεδα με ενδοδαπέδια θέρμανση χρειάζονται κόλλες με μεγαλύτερη ελαστικότητα και αντοχή. Το υπόστρωμα πρέπει να είναι γερό, καθαρό και ίσιο, και σε φρέσκο σοβά η επιφάνεια συχνά χαράζεται για να πιάσει καλύτερα η κόλλα.\n\nΑν ένα πλακάκι ακούγεται κούφιο όταν το χτυπάς, συνήθως η κόλλα δεν το κάλυψε σε όλη την επιφάνεια. Τέτοια πλακάκια σπάνε πιο εύκολα και, σε ταράτσες και μπαλκόνια, αφήνουν το νερό να μαζεύεται από κάτω. Όταν ξηλώνονται παλιά πλακάκια, τα υπολείμματα της κόλλας αφαιρούνται πριν από οποιαδήποτε νέα στρώση.",
+    "en": "Tiles used to be bedded on a thick layer of sand and cement mortar. Today tile adhesive is used almost every time: a ready-made mortar with additives that give it a strong grip. It is spread in a thin layer and combed with a notched trowel so the tile beds down and bonds over its whole back.\n\nNot all adhesives are the same. Large or porcelain tiles, outdoor areas, roof terraces and balconies that bake in the sun, and floors with underfloor heating need more flexible, stronger adhesives. The base has to be sound, clean and flat, and on fresh render the surface is often scored so the adhesive grips better.\n\nIf a tile sounds hollow when you tap it, the adhesive usually did not cover its whole back. Tiles like that crack more easily and, on terraces and balconies, let water collect underneath. When old tiles are stripped out, the leftover adhesive is removed before any new layer goes on.",
+    "ar": "في الماضي كان البلاط يُرص على طبقة سميكة من ملاط الرمل والإسمنت. أما اليوم فيُستعمل لاصق البلاط في كل مرة تقريبًا: ملاط جاهز بإضافات تمنحه التصاقًا قويًا. يُفرد في طبقة رقيقة ويُمشط بمسطرين مسنن، حتى تستقر البلاطة وتلتصق بكامل ظهرها.\n\nليست كل أنواع اللاصق متشابهة. فالبلاط الكبير أو البورسلين، والأماكن الخارجية، والأسطح والشرفات المعرضة لحرارة الشمس، والأرضيات ذات التدفئة الأرضية، تحتاج إلى لاصق أكثر مرونة ومتانة. ويجب أن يكون الأساس سليمًا ونظيفًا ومستويًا، وعلى اللياسة الجديدة يُخدش السطح غالبًا ليلتصق اللاصق بشكل أفضل.\n\nإذا أصدرت البلاطة صوتًا أجوف عند النقر عليها، فهذا يعني عادةً أن اللاصق لم يغطِّ ظهرها كله. ومثل هذه البلاطات تنكسر بسهولة أكبر، وفي الأسطح والشرفات تسمح للماء بالتجمع تحتها. وعند إزالة البلاط القديم تُزال بقايا اللاصق قبل وضع أي طبقة جديدة."
+  },
+  "categories": [
+    "renovations",
+    "paving"
+  ],
+  "photo": {
+    "project": "tiled-terrace-grey-coating",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "tile-levelling-clips",
+    "grout-joint",
+    "screed",
+    "waterproofing"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "category": "insulation",
+  "order": 3,
+  "question": {
+    "el": "Μπαλώνεται το παλιό ασφαλτόπανο ή πρέπει να βγει;",
+    "en": "Can an old bitumen membrane be patched, or does it have to come off?",
+    "ar": "هل يمكن ترقيع الغشاء البيتوميني القديم أم يجب إزالته؟"
+  },
+  "short": {
+    "el": "Αν είναι κολλημένο και έχουν ανοίξει μόνο ενώσεις ή γωνίες, επισκευάζεται τοπικά. Αν έχει ξεκολλήσει, φουσκώσει ή ζαρώσει σε μεγάλη έκταση, βγαίνει ολόκληρο πριν μπει το νέο υλικό.",
+    "en": "If it is still stuck down and only seams or corners have opened, it can be repaired locally. If it has come loose, blistered or wrinkled over a large area, it all comes off before anything new goes on.",
+    "ar": "إذا كان ملتصقًا ولم تنفتح إلا بعض الوصلات أو الزوايا، يُصلح موضعيًا. أما إذا انفصل أو انتفخ أو تجعّد على مساحة كبيرة، فيُزال كله قبل وضع المادة الجديدة."
+  },
+  "body": {
+    "el": "Το ασφαλτόπανο προστατεύει όσο είναι κολλημένο πάνω στην πλάκα. Με τα χρόνια ο ήλιος το ζαρώνει και το σκάει, οι ενώσεις ανοίγουν και σε κάποια σημεία ξεκολλά. Από εκεί και πέρα το νερό δεν σταματά στην επιφάνεια: μπαίνει από κάτω και κυλά ελεύθερα ανάμεσα στη μεμβράνη και την πλάκα.\n\n![Παλιό ασφαλτόπανο που τυλίγεται σαν χαλί καθώς βγαίνει](roof-old-membrane-stripped/step-03.jpg)\n\nΣε αυτή την ταράτσα η παλιά μεμβράνη ήταν γεμάτη μπαλώματα, και όταν άρχισε η αφαίρεση τυλιγόταν σαν χαλί, γιατί είχε ήδη ξεκολλήσει. Ένα μπάλωμα ακόμα δεν θα έλυνε τίποτα. Βγήκε όλη, η επιφάνεια καθαρίστηκε και η λευκή στεγανωτική επίστρωση πέρασε κατευθείαν πάνω στην πλάκα. Το ίδιο έγινε σε μια ταράτσα δίπλα σε κεραμοσκεπή, όπου η μεμβράνη αφαιρέθηκε και από τους τοίχους κάτω από τα κεραμίδια.\n\nΟ λόγος είναι απλός: ένα νέο υλικό πάνω σε μεμβράνη που έχει ξεκολλήσει δεν έχει σταθερή βάση. Θα κρατήσει όσο κρατάει και το παλιό από κάτω, και το νερό που έχει ήδη παγιδευτεί εκεί δεν έχει από πού να φύγει.\n\nΑυτό δεν σημαίνει ότι κάθε παλιό ασφαλτόπανο πρέπει να φύγει. Σε άλλη ταράτσα η μεμβράνη ήταν κολλημένη στο μεγαλύτερο μέρος της. Κόπηκαν μόνο τα κομμάτια που είχαν σηκωθεί και σφραγίστηκαν οι ενώσεις και τα στηθαία. Για να ξέρετε σε ποια περίπτωση είστε, πρέπει κάποιος να δει την ταράτσα από κοντά, να την περπατήσει και να ελέγξει πού έχει ξεκολλήσει η μεμβράνη.",
+    "en": "A bitumen membrane protects the roof only as long as it stays stuck to the slab. Over the years the sun wrinkles and cracks it, the seams open and in places it comes unstuck. From then on water doesn't stop at the surface: it gets underneath and runs freely between the membrane and the slab.\n\n![An old bitumen membrane rolling up like a carpet as it comes off](roof-old-membrane-stripped/step-03.jpg)\n\nOn this roof the old membrane was full of patches, and once stripping started it rolled up like a carpet, because it had already come away. One more patch wouldn't have solved anything. It all came off, the surface was cleaned and the white waterproof coating went straight onto the slab. The same was done on a terrace beside a tiled roof, where the membrane was also stripped from the walls under the roof tiles.\n\nThe reason is simple: new material laid over a membrane that has come loose has no solid base. It will hold only as long as the old layer underneath holds, and any water already trapped there has no way out.\n\nThat doesn't mean every old membrane has to go. On another roof the membrane was still stuck down over most of its area. Only the pieces that had lifted were cut out, and the seams and parapets were sealed. To know which case you're in, someone needs to see the roof up close, walk it and check where the membrane has come away.",
+    "ar": "يحمي الغشاء البيتوميني السطح ما دام ملتصقًا بالبلاطة. ومع السنين تجعّده الشمس وتشققه، وتنفتح وصلاته، وينفصل في بعض الأماكن. وعندها لا يتوقف الماء عند السطح، بل يدخل تحته ويجري بحرية بين الغشاء والبلاطة.\n\n![غشاء بيتوميني قديم يلتف كالسجادة أثناء إزالته](roof-old-membrane-stripped/step-03.jpg)\n\nفي هذا السطح كان الغشاء القديم مليئًا بالرقع، وعندما بدأت إزالته كان يلتف كالسجادة لأنه كان منفصلًا أصلًا. ورقعة إضافية لم تكن لتحل شيئًا. فأُزيل كله، ونُظف السطح، ووُضع الطلاء الأبيض العازل مباشرة على البلاطة. والأمر نفسه حدث في سطح بجانب سقف قرميد، حيث أُزيل الغشاء أيضًا عن الجدران التي تحت القرميد.\n\nوالسبب بسيط: المادة الجديدة فوق غشاء منفصل لا تجد قاعدة ثابتة. ستصمد ما دام القديم تحتها صامدًا، والماء المحبوس تحته لا يجد مكانًا يخرج منه.\n\nلكن هذا لا يعني أن كل غشاء قديم يجب أن يُزال. في سطح آخر كان الغشاء ملتصقًا في معظمه، فقُطعت فقط القطع المرفوعة، وأُغلقت الوصلات والجدران المحيطة. ولمعرفة حالتك يجب أن يرى أحد السطح عن قرب، ويمشي عليه، ويتحقق من الأماكن التي انفصل فيها الغشاء."
+  },
+  "projects": [
+    "roof-old-membrane-stripped",
+    "terrace-tiled-roof-edge-white-coating",
+    "roof-membrane-seams-parapets"
+  ]
+}

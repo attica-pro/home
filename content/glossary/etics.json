@@ -1,0 +1,51 @@
+{
+  "term": {
+    "el": "Θερμοπρόσοψη",
+    "en": "External wall insulation (ETICS)",
+    "ar": "العزل الحراري الخارجي للجدران"
+  },
+  "aliases": {
+    "el": [
+      "θερμοπρόσοψ*",
+      "θερμοπροσόψ*",
+      "εξωτερική θερμομόνωση",
+      "εξωτερικής θερμομόνωσης",
+      "μόνωση από έξω"
+    ],
+    "en": [
+      "ETICS",
+      "external wall insulation",
+      "external insulation",
+      "insulation boards"
+    ],
+    "ar": [
+      "عزل خارجي",
+      "عزل الخارجي",
+      "عزل حراري خارجي",
+      "عزل الحراري الخارجي"
+    ]
+  },
+  "short": {
+    "el": "Σύστημα εξωτερικής θερμομόνωσης: μονωτικές πλάκες κολλιούνται και στερεώνονται στους εξωτερικούς τοίχους και σκεπάζονται με οπλισμένο σοβά και τελικό επίχρισμα.",
+    "en": "An external insulation system: insulation boards are glued and fixed to the outside walls, then covered with reinforced render and a finishing coat.",
+    "ar": "نظام عزل حراري من الخارج: تُلصق ألواح عازلة وتُثبَّت على الجدران الخارجية، ثم تُغطّى بلياسة مقوّاة وطبقة تشطيب نهائية."
+  },
+  "body": {
+    "el": "Η θερμοπρόσοψη (διεθνώς ETICS) μονώνει το κτίριο από έξω. Πλάκες από διογκωμένη ή εξηλασμένη πολυστερίνη ή από πετροβάμβακα κολλιούνται στον τοίχο, στερεώνονται με ειδικά βύσματα και καλύπτονται με σοβά ενισχυμένο με πλέγμα οπλισμού. Στο τέλος περνά ένα λεπτό τελικό επίχρισμα στο χρώμα που θα επιλέξετε.\n\nΕπειδή τυλίγει όλο το κτίριο, κόβει και τις θερμογέφυρες, δηλαδή τα σημεία όπου κολόνες και δοκάρια περνούν πιο εύκολα τη ζέστη και το κρύο. Έτσι τα δωμάτια μένουν πιο δροσερά το καλοκαίρι και πιο ζεστά τον χειμώνα, και οι εσωτερικές γωνίες δεν «ιδρώνουν», κάτι που περιορίζει την υγρασία συμπύκνωσης και τη μούχλα.\n\nΗ ποιότητα κρύβεται στις λεπτομέρειες: σωστή κόλλα και βύσματα, πλέγμα σε όλη την επιφάνεια με ενισχύσεις στις γωνίες των ανοιγμάτων, και προσεκτική σύνδεση με τις ποδιές των παραθύρων και τα μπαλκόνια. Σε πολυκατοικία, μια θερμοπρόσοψη στην όψη χρειάζεται τη συμφωνία των συνιδιοκτητών.",
+    "en": "ETICS (external thermal insulation composite system) insulates a building from the outside. Boards of expanded or extruded polystyrene, or mineral wool, are glued to the wall, fixed with special anchors and covered with render reinforced with mesh. A thin finishing coat goes on last, in the colour of your choice.\n\nBecause it wraps the whole building, it also cuts thermal bridges, the places where columns and beams let heat and cold through more easily. Rooms stay cooler in summer and warmer in winter, and inside corners stop \"sweating\", which reduces condensation and mould.\n\nQuality lies in the details: the right adhesive and anchors, mesh over the whole surface with extra reinforcement at the corners of openings, and careful joins with window sills and balconies. In a block of flats, insulating the facade needs the agreement of the other owners.",
+    "ar": "العزل الحراري الخارجي (ويُعرف دوليًا باسم ETICS) يعزل المبنى من الخارج. تُلصق على الجدار ألواح من البوليسترين الممدد أو المبثوق أو من الصوف الصخري، وتُثبَّت بمسامير خاصة، ثم تُغطّى بلياسة مقوّاة بشبكة. وفي النهاية توضع طبقة تشطيب رقيقة باللون الذي تختاره.\n\nولأنه يغلّف المبنى كله، فهو يقطع أيضًا الجسور الحرارية، أي الأماكن التي تنقل فيها الأعمدة والجسور الحرارة والبرودة بسهولة أكبر. فتبقى الغرف أبرد صيفًا وأدفأ شتاءً، ولا «تتعرّق» الزوايا من الداخل، مما يقلل التكاثف والعفن.\n\nالجودة في التفاصيل: لاصق ومسامير مناسبة، وشبكة على السطح كله مع تقوية عند زوايا الفتحات، ووصل دقيق مع عتبات النوافذ والشرفات. وفي العمارات السكنية يحتاج عزل الواجهة إلى موافقة بقية المالكين."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "balcony-walls-external-insulation",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "thermal-insulation",
+    "render",
+    "reinforcement-mesh",
+    "condensation"
+  ]
+}

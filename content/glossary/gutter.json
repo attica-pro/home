@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Υδρορροή",
+    "en": "Gutter and downpipe",
+    "ar": "المزراب"
+  },
+  "aliases": {
+    "el": [
+      "υδρορρο*",
+      "λούκι",
+      "λούκια"
+    ],
+    "en": [
+      "gutter*",
+      "downpipe*",
+      "rainwater pipe*"
+    ],
+    "ar": [
+      "مزراب",
+      "مزاريب",
+      "ميزاب",
+      "أنابيب مياه الأمطار",
+      "أنبوب مياه الأمطار"
+    ]
+  },
+  "short": {
+    "el": "Το κανάλι και ο σωλήνας που μαζεύουν το νερό της βροχής από τη στέγη ή την ταράτσα και το οδηγούν στο έδαφος ή στην αποχέτευση.",
+    "en": "The channel and pipe that collect rainwater from a roof and carry it down to the ground or the drains.",
+    "ar": "القناة والأنبوب اللذان يجمعان ماء المطر من السقف أو السطح وينقلانه إلى الأرض أو إلى شبكة الصرف."
+  },
+  "body": {
+    "el": "Υδρορροή λέγεται το σύστημα που απομακρύνει τη βροχή από την οροφή: τα οριζόντια κανάλια στην άκρη μιας στέγης και οι κατακόρυφοι σωλήνες που κατεβαίνουν στο έδαφος. Σε ταράτσες υπάρχει συχνά χτιστό κανάλι κατά μήκος του στηθαίου, που καταλήγει σε στόμιο και σωλήνα.\n\nΜια υδρορροή που δουλεύει σωστά προστατεύει όχι μόνο την οροφή αλλά και τις όψεις και τα θεμέλια. Το νερό πρέπει να καταλήγει μακριά από τη βάση των τοίχων, αλλιώς το έδαφος μένει υγρό και ευνοεί την ανερχόμενη υγρασία.\n\nΦύλλα, χώματα και φωλιές βουλώνουν τις υδρορροές, και τότε το νερό ξεχειλίζει πάνω στους τοίχους ή λιμνάζει στην ταράτσα. Ένας καθαρισμός πριν και μετά τον χειμώνα και ένας έλεγχος για σκουριές και ανοιχτές ενώσεις γλιτώνουν πολλές ζημιές.",
+    "en": "Gutters and downpipes carry rain away from the roof: horizontal channels along the edge of a roof and vertical pipes running down to the ground. Flat roofs often have a built-in channel along the parapet that ends in an outlet and a pipe.\n\nA gutter that works properly protects not only the roof but also the walls and foundations. The water needs to end up well away from the foot of the walls, or the ground stays wet and encourages rising damp.\n\nLeaves, soil and nests clog gutters, and then water spills over onto the walls or pools on the roof. Clearing them before and after winter, and checking for rust and open joints, saves a lot of damage.",
+    "ar": "المزراب هو النظام الذي يبعد ماء المطر عن السقف: القنوات الأفقية على حافة السقف والأنابيب الرأسية التي تنزل إلى الأرض. وفي الأسطح المستوية توجد غالبًا قناة مبنية على طول الجدار المحيط تنتهي بفتحة وأنبوب.\n\nالمزراب الذي يعمل جيدًا لا يحمي السقف وحده، بل يحمي الواجهات والأساسات أيضًا. ويجب أن ينتهي الماء بعيدًا عن أسفل الجدران، وإلا بقيت التربة رطبة وساعدت على ظهور الرطوبة الصاعدة.\n\nالأوراق والتراب والأعشاش تسد المزاريب، فيفيض الماء على الجدران أو يتجمع على السطح. والتنظيف قبل الشتاء وبعده، مع فحص الصدأ والوصلات المفتوحة، يوفّر كثيرًا من الأضرار."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-gutter-rusty-railings",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "floor-drain",
+    "roof-terrace",
+    "rising-damp",
+    "falls"
+  ]
+}

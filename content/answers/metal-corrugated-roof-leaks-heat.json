@@ -1,0 +1,24 @@
+{
+  "category": "insulation",
+  "order": 7,
+  "question": {
+    "el": "Η στέγη από λαμαρίνα στάζει και το καλοκαίρι καίει. Τι γίνεται;",
+    "en": "My metal roof leaks and gets scorching in summer. What can be done?",
+    "ar": "سقف الصفيح يسرّب الماء ويصبح حارًا جدًا في الصيف. ما الحل؟"
+  },
+  "short": {
+    "el": "Το νερό μπαίνει συνήθως από τις βίδες, τις ενώσεις των φύλλων και τη γωνία με τον τοίχο. Ο ψεκαζόμενος αφρός πολυουρεθάνης με λευκή επίστρωση κλείνει αυτά τα σημεία και μονώνει από τη ζέστη.",
+    "en": "Water usually gets in at the screws, the joints between sheets and the corner with the wall. Spray polyurethane foam with a white coat closes those spots and insulates against the heat.",
+    "ar": "يدخل الماء عادةً من البراغي ووصلات الألواح والزاوية مع الجدار. ورغوة البولي يوريثان المرشوشة مع طلاء أبيض تغلق هذه النقاط وتعزل الحرارة أيضًا."
+  },
+  "body": {
+    "el": "Οι στέγες από λαμαρίνα ή κυματοειδή φύλλα έχουν πολλές ενώσεις και πολλές βίδες. Με τον καιρό οι τρύπες γύρω από τις βίδες ανοίγουν, οι ενώσεις χαλαρώνουν και το νερό βρίσκει δρόμο. Ταυτόχρονα, ένα λεπτό φύλλο στον ήλιο ζεσταίνεται πολύ και περνά τη ζέστη κατευθείαν στον χώρο από κάτω.\n\n![Ψεκαζόμενος αφρός πολυουρεθάνης πάνω σε κυματοειδή στέγη](pitched-sheet-roof-spray-foam/step-02.jpg)\n\nΣε αυτή τη στέγη ο αφρός ψεκάστηκε λωρίδα λωρίδα, ακολούθησε τα κύματα των φύλλων και σκέπασε ενώσεις και βίδες σε μία συνεχή στρώση, με ιδιαίτερη προσοχή στον κορφιά. Σε μια άλλη, τα φύλλα πλύθηκαν πριν από τον ψεκασμό, γιατί ο αφρός πιάνει μόνο σε καθαρή επιφάνεια, και πάνω από τον αφρό πέρασε λευκή προστατευτική επίστρωση, αφού μόνος του δεν αντέχει τον ήλιο.\n\nΔεν χρειάζεται πάντα να γίνει όλη η στέγη. Σε μια κόκκινη λαμαρίνα το πρόβλημα ήταν η ένωση με το στηθαίο: ο παλιός αφρός που τη γέμιζε είχε θρυμματιστεί στον ήλιο και είχε αφήσει ανοίγματα. Καθαρίστηκε το κανάλι, γέμισε με νέο αφρό, προστατεύτηκε με στεγανωτική επίστρωση, και σφραγίστηκαν και οι κεφαλές από τις βίδες σε όλη τη στέγη.\n\n![Παλιός αφρός θρυμματισμένος στην ένωση της λαμαρίνας με το στηθαίο](red-metal-roof-joints-sealed/step-03.jpg)",
+    "en": "Roofs made of metal or corrugated sheets have a lot of joints and a lot of screws. Over time the holes around the screws widen, the joints work loose and water finds a way in. At the same time, a thin sheet in the sun gets very hot and passes that heat straight into the space below.\n\n![Spray polyurethane foam on a corrugated roof](pitched-sheet-roof-spray-foam/step-02.jpg)\n\nOn this roof the foam was sprayed strip by strip, following the waves of the sheets and covering the joints and screws in one continuous layer, with extra care at the ridge. On another, the sheets were washed before spraying, because foam only bonds to a clean surface, and a white protective coat went over the foam, since it can't stand up to the sun on its own.\n\nIt isn't always the whole roof that needs doing. On a red metal roof the problem was the joint with the parapet: the old foam that filled it had crumbled in the sun and left gaps. The channel was cleaned out, refilled with new foam and protected with a waterproof coating, and the screw heads across the whole roof were sealed too.\n\n![Old foam crumbling where the metal roof meets the parapet](red-metal-roof-joints-sealed/step-03.jpg)",
+    "ar": "أسقف الصفيح والألواح المموجة فيها وصلات كثيرة وبراغٍ كثيرة. ومع الوقت تتسع الثقوب حول البراغي، وترتخي الوصلات، فيجد الماء طريقه. وفي الوقت نفسه يسخن اللوح الرقيق كثيرًا في الشمس وينقل الحرارة مباشرة إلى المكان الذي تحته.\n\n![رغوة البولي يوريثان مرشوشة على سقف مموج](pitched-sheet-roof-spray-foam/step-02.jpg)\n\nفي هذا السقف رُشت الرغوة شريطًا بعد شريط، فاتبعت تموجات الألواح وغطت الوصلات والبراغي في طبقة واحدة متصلة، مع عناية خاصة بقمة السقف. وفي سقف آخر غُسلت الألواح قبل الرش، لأن الرغوة لا تلتصق إلا بسطح نظيف، ثم وُضع فوق الرغوة طلاء أبيض للحماية، لأنها لا تتحمل الشمس وحدها.\n\nوليس من الضروري دائمًا معالجة السقف كله. في سقف صفيح أحمر كانت المشكلة في الوصلة مع الجدار المحيط: الرغوة القديمة التي كانت تملؤها تفتتت في الشمس وتركت فتحات. فنُظفت القناة، ومُلئت برغوة جديدة، وغُطيت بطلاء عازل، وأُغلقت أيضًا رؤوس البراغي في السقف كله.\n\n![رغوة قديمة متفتتة عند التقاء الصفيح بالجدار](red-metal-roof-joints-sealed/step-03.jpg)"
+  },
+  "projects": [
+    "pitched-sheet-roof-spray-foam",
+    "corrugated-roof-foam-white-coat",
+    "red-metal-roof-joints-sealed"
+  ]
+}

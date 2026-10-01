@@ -1,0 +1,53 @@
+{
+  "term": {
+    "el": "Ξεφλούδισμα χρώματος",
+    "en": "Peeling paint",
+    "ar": "تقشّر الطلاء"
+  },
+  "aliases": {
+    "el": [
+      "ξεφλουδ*",
+      "ξεφλούδ*"
+    ],
+    "en": [
+      "peeling",
+      "peeled",
+      "peel",
+      "peels",
+      "flaking",
+      "flaked",
+      "flakes"
+    ],
+    "ar": [
+      "تقشر*",
+      "تقشّر*",
+      "متقشر*",
+      "يتقشر*",
+      "سيتقشر*"
+    ]
+  },
+  "short": {
+    "el": "Όταν το χρώμα χάνει την πρόσφυσή του και σηκώνεται σε λέπια ή φύλλα. Είναι σχεδόν πάντα σημάδι κάποιου προβλήματος από κάτω, συνήθως υγρασίας ή κακής προετοιμασίας.",
+    "en": "When paint loses its grip and lifts off in flakes or sheets. It is almost always a sign of a problem underneath, usually damp or poor preparation.",
+    "ar": "حين يفقد الطلاء التصاقه ويرتفع على شكل قشور أو صفائح. وهو في الغالب علامة على مشكلة تحته، عادةً رطوبة أو سوء تحضير."
+  },
+  "body": {
+    "el": "Το χρώμα ξεφλουδίζει όταν παύει να είναι δεμένο με την επιφάνεια από κάτω. Οι πιο συχνές αιτίες είναι η υγρασία που σπρώχνει από μέσα, όπως η ανερχόμενη υγρασία, μια διαρροή ή η συμπύκνωση σε μπάνια και κουζίνες, και η κακή προετοιμασία: χρώμα πάνω σε σκόνη, σε λιπαρή ή γυαλιστερή επιφάνεια, πάνω σε σαθρό σοβά ή χωρίς αστάρι εκεί που χρειαζόταν.\n\nΣυνήθως ξεκινά με φουσκάλες, που μετά σκάνε και σηκώνονται. Από κάτω φαίνεται συχνά μια λευκή σκόνη, τα άλατα που αφήνει το νερό καθώς στεγνώνει, ή σοβάς που θρυμματίζεται.\n\nΑν βαφτεί από πάνω, το νέο χρώμα θα ξεκολλήσει μαζί με το παλιό. Ό,τι δεν κρατάει ξύνεται μέχρι να βρεθεί γερή βάση, οι ενώσεις με το γερό χρώμα στοκάρονται και τρίβονται, και η επιφάνεια ασταρώνεται. Αν η αιτία είναι υγρασία, πρέπει πρώτα να βρεθεί και να σταματήσει.",
+    "en": "Paint peels when it is no longer bonded to the surface underneath. The most common causes are moisture pushing out from inside, such as rising damp, a leak or condensation in bathrooms and kitchens, and poor preparation: paint over dust, over a greasy or glossy surface, over crumbling render, or without primer where it was needed.\n\nIt usually starts with blisters that then burst and lift. Underneath you often see a white powder, the salts left behind as the water dries out, or render that crumbles.\n\nPaint over it and the new paint comes off with the old. Anything that is not holding is scraped off back to a sound base, the edges with the sound paint are filled and sanded, and the surface is primed. If the cause is damp, it has to be found and stopped first.",
+    "ar": "يتقشر الطلاء عندما لا يعود ملتصقًا بالسطح تحته. وأكثر الأسباب شيوعًا الرطوبة التي تدفع من الداخل، كالرطوبة الصاعدة أو تسرب أو التكاثف في الحمامات والمطابخ، وسوء التحضير: طلاء فوق الغبار، أو فوق سطح دهني أو لامع، أو فوق لياسة متفتتة، أو بلا طبقة أساس حيث كانت لازمة.\n\nيبدأ عادةً بفقاعات تنفجر ثم ترتفع. وكثيرًا ما يظهر تحتها مسحوق أبيض، وهو الأملاح التي يتركها الماء عندما يجف، أو لياسة تتفتت.\n\nإذا طُلي فوقه سينفصل الطلاء الجديد مع القديم. لذلك يُكشط كل ما هو غير ثابت حتى الوصول إلى أساس سليم، وتُعالج الحواف مع الطلاء السليم بالمعجون وتُصنفر، ثم يُدهن السطح بطبقة أساس. وإذا كان السبب رطوبة فيجب أولًا العثور على مصدرها وإيقافه."
+  },
+  "categories": [
+    "painting",
+    "repairs"
+  ],
+  "photo": {
+    "project": "hallway-peeling-walls-repainted",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "rising-damp",
+    "condensation",
+    "render",
+    "primer"
+  ]
+}

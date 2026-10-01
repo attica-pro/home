@@ -1,0 +1,65 @@
+{
+  "term": {
+    "el": "Ασφαλτόπανο (ασφαλτική μεμβράνη)",
+    "en": "Bitumen membrane",
+    "ar": "الغشاء البيتوميني"
+  },
+  "aliases": {
+    "el": [
+      "ασφαλτόπαν*",
+      "ασφαλτική μεμβράνη",
+      "ασφαλτικής μεμβράνης",
+      "ασφαλτικές μεμβράνες",
+      "ασφαλτικών μεμβρανών",
+      "ελαστομερείς ασφαλτικές μεμβράνες",
+      "παλιά μεμβράνη",
+      "παλιάς μεμβράνης",
+      "παλιές μεμβράνες",
+      "παλιά ασφαλτική μεμβράνη",
+      "σκισμένη μεμβράνη",
+      "μεμβράνες φύλλου"
+    ],
+    "en": [
+      "bitumen membrane*",
+      "bituminous membrane*",
+      "elastomeric bituminous membranes",
+      "bituminous felt",
+      "old membrane*",
+      "torn membrane*",
+      "sheet membrane*"
+    ],
+    "ar": [
+      "غشاء بيتومين",
+      "غشاء بيتوميني",
+      "أغشية بيتومينية",
+      "أغشية البيتومينية",
+      "لباد بيتوميني",
+      "غشاء القديم",
+      "أغشية القديمة",
+      "غشاء الممزق"
+    ]
+  },
+  "short": {
+    "el": "Στεγανωτικό σε ρολά από ασφαλτικό υλικό με εσωτερικό οπλισμό. Κολλιέται στην ταράτσα με φλόγιστρο, σε φύλλα που επικαλύπτονται στις ενώσεις.",
+    "en": "Waterproofing that comes in rolls of reinforced bitumen. It is torched onto the roof in sheets that overlap at the seams.",
+    "ar": "عزل مائي على شكل لفائف من البيتومين المقوّى، يُلصق على السطح باللهب في ألواح تتداخل عند الوصلات."
+  },
+  "body": {
+    "el": "Το ασφαλτόπανο είναι ρολό από άσφαλτο βελτιωμένη με πολυμερή, με εσωτερικό οπλισμό από πολυεστέρα ή υαλοπίλημα. Στρώνεται στην ταράτσα σε λωρίδες που επικαλύπτουν η μία την άλλη και ζεσταίνεται με φλόγιστρο, ώστε να λιώσει η κάτω πλευρά και να κολλήσει στην πλάκα και στις ενώσεις. Είναι από τα πιο διαδεδομένα συστήματα στεγάνωσης ταρατσών στην Ελλάδα εδώ και δεκαετίες.\n\nΑντέχει στο πάτημα, γι' αυτό ταιριάζει σε ταράτσες που χρησιμοποιούνται. Υπάρχει και με ψηφίδα στην πάνω πλευρά, που το προστατεύει από τον ήλιο. Τα αδύναμα σημεία του είναι οι ενώσεις ανάμεσα στα φύλλα και οι γωνίες με τα στηθαία, που θέλουν προσεκτική δουλειά.\n\nΜε τα χρόνια ο ήλιος το ξεραίνει: ζαρώνει, σκίζεται και ξεκολλά, και το νερό μπαίνει από κάτω και απλώνεται. Όταν μια μεμβράνη έχει ξεκολλήσει σε μεγάλη έκταση, τα μπαλώματα σπάνια λύνουν το πρόβλημα, και συνήθως ξηλώνεται πριν από τη νέα στεγανοποίηση.",
+    "en": "A bitumen membrane is a roll of polymer-modified bitumen with a polyester or glass-fibre reinforcement inside. It is laid on the roof in overlapping strips and heated with a torch, so the underside melts and bonds to the slab and at the seams. It has been one of the most common ways to waterproof flat roofs in Greece for decades.\n\nIt stands up to foot traffic, so it suits roofs that are used. Some types have mineral chippings on top that protect them from the sun. Its weak points are the seams between sheets and the corners at the parapets, which need careful work.\n\nOver the years the sun dries it out: it wrinkles, tears and comes unstuck, and water gets underneath and spreads. Once a membrane has come loose over a large area, patching rarely solves the problem, and it is usually stripped off before new waterproofing goes on.",
+    "ar": "الغشاء البيتوميني لفافة من البيتومين المحسَّن بالبوليمرات، بداخلها طبقة تقوية من البوليستر أو الألياف الزجاجية. يُفرد على السطح في شرائط متداخلة ويُسخَّن باللهب لينصهر وجهه السفلي ويلتصق بالبلاطة وعند الوصلات. وهو منذ عقود من أكثر طرق العزل المائي للأسطح انتشارًا في اليونان.\n\nيتحمل المشي، لذلك يناسب الأسطح المستخدمة. ومنه أنواع مغطاة بحبيبات معدنية تحميه من الشمس. أما نقاط ضعفه فهي الوصلات بين الألواح والزوايا عند الجدران المحيطة، وهي تحتاج إلى عمل دقيق.\n\nمع السنين تجففه الشمس، فيتجعد ويتمزق وينفصل، ويدخل الماء تحته وينتشر. وحين ينفصل الغشاء على مساحة كبيرة نادرًا ما تحل الرقع المشكلة، ويُنزع عادةً قبل العزل المائي الجديد."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-old-membrane-stripped",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "liquid-membrane",
+    "tar",
+    "waterproofing",
+    "parapet"
+  ]
+}

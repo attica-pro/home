@@ -1,0 +1,58 @@
+{
+  "term": {
+    "el": "Θερμομόνωση",
+    "en": "Thermal insulation",
+    "ar": "العزل الحراري"
+  },
+  "aliases": {
+    "el": [
+      "θερμομόνωσ*",
+      "θερμομονωτικ*",
+      "θερμομονωμέν*",
+      "μόνωση",
+      "μόνωσης",
+      "μονωτικό",
+      "μονωτική",
+      "μονωμένη",
+      "μονωμένο",
+      "μονωμένες",
+      "μονωμένοι",
+      "μονώνει"
+    ],
+    "en": [
+      "thermal insulation",
+      "insulation",
+      "insulated",
+      "insulating",
+      "insulates"
+    ],
+    "ar": [
+      "عزل حراري",
+      "عزل الحراري",
+      "معزول حراريًا"
+    ]
+  },
+  "short": {
+    "el": "Στρώση από υλικό που περνά δύσκολα τη θερμότητα, ώστε το σπίτι να κρατά τη ζέστη τον χειμώνα και να μένει δροσερό το καλοκαίρι.",
+    "en": "A layer of material that lets heat through only slowly, so a home keeps its warmth in winter and stays cool in summer.",
+    "ar": "طبقة من مادة لا تنقل الحرارة إلا ببطء، ليحتفظ البيت بدفئه في الشتاء ويبقى باردًا في الصيف."
+  },
+  "body": {
+    "el": "Θερμομόνωση είναι ένα στρώμα υλικού που περνά πολύ δύσκολα τη θερμότητα, όπως η εξηλασμένη ή διογκωμένη πολυστερίνη, ο πετροβάμβακας και η ψεκαζόμενη πολυουρεθάνη. Τοποθετείται στο «κέλυφος» του κτιρίου: στην ταράτσα, στους εξωτερικούς τοίχους, στο ταβάνι της πιλοτής και κάτω από στέγες.\n\nΈνα αμόνωτο σπίτι χάνει τη θερμότητά του τον χειμώνα από τοίχους, οροφή και δάπεδο, και το καλοκαίρι η ζέστη της πλάκας περνά κατευθείαν στα δωμάτια. Με θερμομόνωση το σπίτι χρειάζεται λιγότερη θέρμανση και ψύξη, οι τοίχοι μένουν πιο ζεστοί από μέσα και περιορίζονται η υγρασία συμπύκνωσης και η μούχλα.\n\nΗ θερμομόνωση δεν είναι στεγανοποίηση, αν και ορισμένα υλικά, όπως ο αφρός πολυουρεθάνης, κάνουν και τα δύο. Τα περισσότερα μονωτικά υλικά πρέπει να προστατεύονται από το νερό και τον ήλιο, και η στρώση πρέπει να είναι συνεχής: όπου μένει κενό, για παράδειγμα σε κολόνες και δοκάρια, δημιουργείται θερμογέφυρα και εκεί ο τοίχος κρυώνει και «ιδρώνει».",
+    "en": "Thermal insulation is a layer of material that lets heat through only with difficulty, such as extruded or expanded polystyrene, mineral wool and spray polyurethane foam. It goes into the building's outer shell: the flat roof, the outside walls, the pilotis ceiling and under pitched roofs.\n\nAn uninsulated home loses heat through its walls, roof and floor in winter, and in summer the heat of the roof slab passes straight into the rooms. With insulation a home needs less heating and cooling, the walls stay warmer on the inside, and condensation and mould are reduced.\n\nThermal insulation is not waterproofing, although some materials, such as polyurethane foam, do both. Most insulation materials need protecting from water and sun, and the layer must be continuous: wherever there is a gap, for example at columns and beams, a thermal bridge forms and the wall gets cold and \"sweats\" there.",
+    "ar": "العزل الحراري طبقة من مادة لا تنقل الحرارة إلا بصعوبة كبيرة، مثل البوليسترين المبثوق أو الممدد، والصوف الصخري، ورغوة البولي يوريثان المرشوشة. ويوضع في «الغلاف» الخارجي للمبنى: في السطح، والجدران الخارجية، وسقف البيلوتي، وتحت الأسقف المائلة.\n\nالبيت غير المعزول يفقد حرارته في الشتاء من الجدران والسقف والأرضية، وفي الصيف تنتقل حرارة بلاطة السطح مباشرة إلى الغرف. ومع العزل الحراري يحتاج البيت إلى تدفئة وتبريد أقل، وتبقى الجدران أدفأ من الداخل، ويقل التكاثف والعفن.\n\nالعزل الحراري ليس عزلًا مائيًا، مع أن بعض المواد، مثل رغوة البولي يوريثان، تقوم بالأمرين معًا. ومعظم المواد العازلة تحتاج إلى حماية من الماء والشمس، ويجب أن تكون الطبقة متصلة: فحيث يبقى فراغ، مثلًا عند الأعمدة والجسور، يتكوّن جسر حراري فيبرد الجدار هناك و«يتعرّق»."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "pitched-sheet-roof-spray-foam",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "polyurethane-foam",
+    "etics",
+    "waterproofing",
+    "condensation"
+  ]
+}

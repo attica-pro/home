@@ -1,0 +1,50 @@
+{
+  "term": {
+    "el": "Στεγανοποίηση",
+    "en": "Waterproofing",
+    "ar": "العزل المائي"
+  },
+  "aliases": {
+    "el": [
+      "στεγανοποί*",
+      "στεγανοποι*",
+      "στεγάνωσ*",
+      "στεγανών*"
+    ],
+    "en": [
+      "waterproofing",
+      "waterproofed",
+      "waterproofs"
+    ],
+    "ar": [
+      "عزل مائي",
+      "عزل المائي",
+      "عزل الماء",
+      "معزول مائيًا"
+    ]
+  },
+  "short": {
+    "el": "Οι εργασίες και τα υλικά που εμποδίζουν το νερό να περάσει σε ταράτσες, μπαλκόνια, μπάνια, υπόγεια, ζαρντινιέρες και δεξαμενές.",
+    "en": "The work and materials that stop water getting through on flat roofs, balconies, bathrooms, basements, planters and tanks.",
+    "ar": "الأعمال والمواد التي تمنع مرور الماء في الأسطح والشرفات والحمامات والأقبية وأحواض الزرع والخزانات."
+  },
+  "body": {
+    "el": "Στεγανοποίηση σημαίνει να γίνει μια επιφάνεια αδιαπέραστη από το νερό. Στην ταράτσα προστατεύει από τη βροχή, στο μπάνιο από το νερό του ντους, στα υπόγεια και τα θεμέλια από την υγρασία του εδάφους, και σε ζαρντινιέρες, δεξαμενές και φρεάτια κρατά το νερό εκεί που πρέπει. Στην καθομιλουμένη λέγεται συχνά και «μόνωση», αλλά είναι διαφορετική δουλειά από τη θερμομόνωση.\n\nΥπάρχουν πολλά συστήματα: ασφαλτόπανα σε φύλλα, υγρές μεμβράνες που απλώνονται με ρολό, ελαστομερή στεγανωτικά, τσιμεντοειδή επαλειφόμενα για υπόγεια και μπάνια, και ψεκαζόμενη πολυουρεθάνη. Η επιλογή εξαρτάται από το αν η επιφάνεια πατιέται, από το τι υπάρχει ήδη από κάτω και από τις λεπτομέρειες γύρω από σωλήνες και στηθαία.\n\nΜια στεγανοποίηση είναι τόσο καλή όσο το πιο αδύναμο σημείο της. Οι περισσότερες διαρροές ξεκινούν από γωνίες, ενώσεις, σιφώνια, βάσεις από κάγκελα και σωλήνες που διαπερνούν την επιφάνεια. Γι' αυτό η προετοιμασία, δηλαδή καθάρισμα, αφαίρεση των σαθρών, επισκευή των ρωγμών και αστάρι, μετράει όσο και το ίδιο το υλικό.",
+    "en": "Waterproofing means making a surface impermeable to water. On a flat roof it keeps out the rain, in a bathroom the shower water, in basements and foundations the moisture in the ground, and in planters, tanks and pits it keeps water where it belongs. In everyday Greek it is often just called \"insulation\", but it is a different job from thermal insulation.\n\nThere are many systems: bitumen membranes in sheets, liquid membranes applied by roller, elastomeric coatings, brush-on cement-based products for basements and bathrooms, and spray polyurethane foam. The choice depends on whether the surface will be walked on, what is already underneath, and the details around pipes and parapets.\n\nWaterproofing is only as good as its weakest point. Most leaks start at corners, joints, drains, railing bases and pipes that pass through the surface. That's why preparation (cleaning, removing loose material, repairing cracks and priming) matters as much as the material itself.",
+    "ar": "العزل المائي يعني جعل السطح غير منفذ للماء. فعلى السطح يحمي من المطر، وفي الحمام من ماء الدش، وفي الأقبية والأساسات من رطوبة التربة، وفي أحواض الزرع والخزانات وغرف التفتيش يُبقي الماء في مكانه. وفي اللغة اليونانية اليومية يُسمّى غالبًا «عزلًا» فقط، لكنه عمل مختلف عن العزل الحراري.\n\nهناك أنظمة كثيرة: الأغشية البيتومينية على شكل لفائف، والأغشية السائلة التي تُفرد بالرول، والطلاءات العازلة المطاطية، والمواد الإسمنتية التي تُدهن للأقبية والحمامات، ورغوة البولي يوريثان المرشوشة. ويتوقف الاختيار على ما إذا كان السطح سيُستخدم للمشي، وعلى ما يوجد تحته أصلًا، وعلى التفاصيل حول الأنابيب والجدران المحيطة.\n\nالعزل المائي لا يكون أقوى من أضعف نقطة فيه. فمعظم التسربات تبدأ من الزوايا والوصلات والمصارف وقواعد الدرابزين والأنابيب التي تخترق السطح. لذلك فإن التحضير، أي التنظيف وإزالة المواد المفككة وإصلاح الشقوق ووضع طبقة الأساس، لا يقل أهمية عن المادة نفسها."
+  },
+  "categories": [
+    "insulation",
+    "renovations"
+  ],
+  "photo": {
+    "project": "tiled-terrace-white-coating",
+    "file": "step-07.jpg"
+  },
+  "related": [
+    "liquid-membrane",
+    "bitumen-membrane",
+    "thermal-insulation",
+    "roof-terrace"
+  ]
+}

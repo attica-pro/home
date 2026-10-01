@@ -1,0 +1,58 @@
+{
+  "term": {
+    "el": "Τρίψιμο",
+    "en": "Sanding",
+    "ar": "الصنفرة"
+  },
+  "aliases": {
+    "el": [
+      "τρίψιμο",
+      "τριψίματος",
+      "τρίβ*",
+      "τριμμέν*",
+      "τριβεί*",
+      "γυαλόχαρτ*",
+      "γυαλοχάρτ*",
+      "λείανσ*"
+    ],
+    "en": [
+      "sanding",
+      "sanded",
+      "sander",
+      "sanders",
+      "sandpaper",
+      "sand down",
+      "sand back"
+    ],
+    "ar": [
+      "صنفر*",
+      "تصنفر*",
+      "يصنفر*",
+      "سنفر*"
+    ]
+  },
+  "short": {
+    "el": "Η λείανση μιας επιφάνειας με γυαλόχαρτο ή τριβείο, για να φύγουν ανωμαλίες, χαλαρό παλιό χρώμα ή γυαλάδα, ώστε το νέο χρώμα ή βερνίκι να πιάσει καλά και να βγει λείο.",
+    "en": "Smoothing a surface with sandpaper or a power sander to remove bumps, loose old paint or gloss, so the new paint or varnish grips well and comes out smooth.",
+    "ar": "تنعيم السطح بورق الصنفرة أو بآلة صنفرة لإزالة النتوءات أو الطلاء القديم المفكك أو اللمعان، حتى يلتصق الطلاء أو الورنيش الجديد جيدًا ويخرج أملس."
+  },
+  "body": {
+    "el": "Το τρίψιμο είναι μέρος σχεδόν κάθε προετοιμασίας για βάψιμο. Στους τοίχους τρίβονται τα στοκαρισμένα σημεία, για να μη φαίνονται κάτω από το χρώμα, και τα παλιά γυαλιστερά χρώματα, για να «ανοίξει» η επιφάνεια και να πιάσει το καινούργιο. Στο ξύλο φεύγουν τα παλιά χρώματα και βερνίκια και το γκριζαρισμένο, φθαρμένο στρώμα, μέχρι να φανεί γερό ξύλο.\n\nΓίνεται με το χέρι, με γυαλόχαρτο ή σφουγγάρι λείανσης, ή με ηλεκτρικό τριβείο στις μεγάλες επιφάνειες. Ξεκινά κανείς με χοντρό γυαλόχαρτο και τελειώνει με πιο ψιλό, και στο ξύλο ακολουθεί πάντα τα νερά του.\n\nΤο τρίψιμο βγάζει πολλή λεπτή σκόνη. Τα έπιπλα και τα δάπεδα σκεπάζονται, και η σκόνη καθαρίζεται πριν από το αστάρι, γιατί χρώμα πάνω σε σκόνη δεν δένει. Πολύ παλιά χρώματα μπορεί να περιέχουν μόλυβδο· αυτά δεν πρέπει να τρίβονται στεγνά χωρίς προστασία.",
+    "en": "Sanding is part of almost every job of preparing for paint. On walls, filled patches are sanded so they do not show under the paint, and old glossy paint is sanded to key the surface so the new coat grips. On wood, sanding removes old paint and varnish and the grey, weathered top layer until sound wood shows.\n\nIt is done by hand with sandpaper or a sanding sponge, or with a power sander on large areas. You start with a coarse grit and finish with a finer one, and on wood you always sand along the grain.\n\nSanding makes a lot of fine dust. Furniture and floors are covered, and the dust is cleaned off before priming, because paint does not bond to dust. Very old paints may contain lead; those should not be dry-sanded without protection.",
+    "ar": "الصنفرة جزء من كل تحضير تقريبًا قبل الطلاء. على الجدران تُصنفر المواضع المعالجة بالمعجون حتى لا تظهر تحت الطلاء، ويُصنفر الطلاء القديم اللامع ليصبح السطح خشنًا قليلًا فيلتصق به الطلاء الجديد. وعلى الخشب تزيل الصنفرة الطلاء والورنيش القديمين والطبقة الرمادية المتآكلة حتى يظهر خشب سليم.\n\nتتم باليد بورق الصنفرة أو إسفنجة الصنفرة، أو بآلة صنفرة كهربائية على المساحات الكبيرة. ويُبدأ بورق خشن ويُنتهى بورق أنعم، وعلى الخشب تكون الصنفرة دائمًا في اتجاه ألياف الخشب.\n\nتُخرج الصنفرة غبارًا ناعمًا كثيرًا. لذلك يُغطى الأثاث والأرضيات، ويُنظف الغبار قبل طبقة الأساس، لأن الطلاء لا يلتصق بالغبار. وقد تحتوي الطلاءات القديمة جدًا على الرصاص، فلا يجوز صنفرتها جافة دون وقاية."
+  },
+  "categories": [
+    "painting",
+    "wood"
+  ],
+  "photo": {
+    "project": "wooden-shutters-restoration",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "filler",
+    "primer",
+    "varnish",
+    "peeling-paint"
+  ]
+}

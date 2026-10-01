@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Αστάρι",
+    "en": "Primer",
+    "ar": "طبقة الأساس (البرايمر)"
+  },
+  "aliases": {
+    "el": [
+      "αστάρ*",
+      "ασταρ*"
+    ],
+    "en": [
+      "primer*",
+      "priming",
+      "primed"
+    ],
+    "ar": [
+      "برايمر",
+      "طبقة أساس",
+      "طبقة الأساس"
+    ]
+  },
+  "short": {
+    "el": "Η πρώτη, λεπτή στρώση που περνά πριν από το κύριο υλικό. Δένει τη σκόνη, κλείνει τους πόρους και βοηθά το χρώμα ή το στεγανωτικό να κολλήσει γερά.",
+    "en": "The thin first coat that goes on before the main material. It binds dust, seals the pores and helps paint or waterproofing stick firmly.",
+    "ar": "الطبقة الأولى الرقيقة التي توضع قبل المادة الرئيسية. تربط الغبار وتسد المسام وتساعد الدهان أو العازل على الالتصاق جيدًا."
+  },
+  "body": {
+    "el": "Το αστάρι είναι ένα αραιό υλικό που απλώνεται πρώτο, πάνω σε καθαρή επιφάνεια. Μπαίνει στους πόρους του μπετού, του σοβά ή του ξύλου, δένει τη σκόνη που έχει μείνει και κάνει την απορροφητικότητα ομοιόμορφη. Έτσι το επόμενο υλικό κολλάει γερά και στεγνώνει παντού το ίδιο.\n\nΚάθε υλικό θέλει το δικό του αστάρι. Στις ταράτσες χρησιμοποιείται συχνά ασφαλτικό ή πολυουρεθανικό αστάρι πριν από τον αφρό ή τη μεμβράνη, στους τοίχους ακρυλικό αστάρι πριν από το χρώμα, και στο ξύλο ειδικό αστάρι για ξύλο. Η σωστή επιλογή εξαρτάται από την επιφάνεια και από το υλικό που θα ακολουθήσει.\n\nΕπειδή το αστάρι δεν φαίνεται στο τέλος, είναι το βήμα που παραλείπεται πιο εύκολα. Χωρίς αυτό όμως το χρώμα βγαίνει άνισο και το στεγανωτικό μπορεί να ξεκολλήσει νωρίς. Πρέπει επίσης να στεγνώσει όσο ορίζει ο κατασκευαστής πριν περάσει η επόμενη στρώση.",
+    "en": "Primer is a thin material applied first, on a clean surface. It soaks into the pores of concrete, render or wood, binds any remaining dust and evens out how absorbent the surface is. That way the next material bonds firmly and dries the same everywhere.\n\nEach material needs its own primer. On flat roofs a bitumen or polyurethane primer often goes down before foam or a membrane, on walls an acrylic primer goes on before paint, and on wood a primer made for wood. The right choice depends on the surface and on what goes on top.\n\nBecause primer is invisible at the end, it is the step most easily skipped. Without it, though, paint comes out patchy and waterproofing can come loose early. It also has to dry for as long as the manufacturer specifies before the next coat goes on.",
+    "ar": "طبقة الأساس مادة خفيفة القوام تُفرد أولًا على سطح نظيف. تتغلغل في مسام الخرسانة أو اللياسة أو الخشب، وتربط ما تبقى من غبار، وتوحّد قابلية السطح للامتصاص. وبذلك تلتصق المادة التالية جيدًا وتجف بالتساوي في كل مكان.\n\nلكل مادة طبقة الأساس الخاصة بها. فعلى الأسطح تُستخدم غالبًا طبقة أساس بيتومينية أو من البولي يوريثان قبل الرغوة أو الغشاء، وعلى الجدران طبقة أساس أكريليكية قبل الدهان، وعلى الخشب طبقة أساس مخصصة للخشب. ويتوقف الاختيار الصحيح على السطح وعلى المادة التي ستأتي فوقه.\n\nولأن طبقة الأساس لا تظهر في النهاية، فهي الخطوة التي يسهل تخطيها. لكن من دونها يخرج الدهان غير متجانس، وقد ينفصل العازل مبكرًا. ويجب أيضًا أن تُترك لتجف المدة التي تحددها الشركة المصنّعة قبل وضع الطبقة التالية."
+  },
+  "categories": [
+    "insulation",
+    "painting",
+    "wood"
+  ],
+  "photo": {
+    "project": "roof-water-tanks-spray-foam",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "liquid-membrane",
+    "polyurethane-foam",
+    "emulsion-paint",
+    "tar"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Κλίσεις",
+    "en": "Falls (drainage slope)",
+    "ar": "الميول (انحدار التصريف)"
+  },
+  "aliases": {
+    "el": [
+      "κλίσ*"
+    ],
+    "en": [
+      "slope",
+      "slopes",
+      "sloped",
+      "sloping",
+      "falls towards",
+      "falls toward"
+    ],
+    "ar": [
+      "ميل",
+      "ميله",
+      "ميول",
+      "تميل",
+      "انحدار"
+    ]
+  },
+  "short": {
+    "el": "Η ελαφριά κλίση που δίνεται σε ταράτσες, μπαλκόνια και δάπεδα μπάνιου, ώστε το νερό να κυλά προς το σιφώνι ή την υδρορροή και να μη λιμνάζει.",
+    "en": "The gentle slope built into flat roofs, balconies and bathroom floors so water runs to the drain or gutter instead of pooling.",
+    "ar": "الانحدار الخفيف الذي يُعطى للأسطح والشرفات وأرضيات الحمامات، ليجري الماء نحو المصرف أو المزراب بدل أن يتجمع."
+  },
+  "body": {
+    "el": "Κλίσεις λέμε την ελαφριά, σχεδόν αόρατη κλίση που έχει μια επιφάνεια που φαίνεται επίπεδη. Σε ταράτσες, μπαλκόνια, αυλές και ντουζιέρες δαπέδου, το δάπεδο γέρνει προς τα σημεία απορροής, ώστε το νερό να φεύγει μόνο του.\n\nΟι κλίσεις φτιάχνονται συνήθως με το γαρμπιλομπετό ή με το υπόστρωμα κάτω από τα πλακάκια. Πρέπει να σχεδιαστούν πριν ξεκινήσει η δουλειά, γιατί επηρεάζουν τα ύψη, τα κατώφλια και τη θέση των σιφωνιών.\n\nΝερό που μένει στάσιμο για μέρες μετά τη βροχή δείχνει ανεπαρκείς κλίσεις ή βουλωμένο σιφώνι. Εκεί η στεγάνωση καταπονείται περισσότερο και οι διαρροές εμφανίζονται πρώτα. Καμία στρώση στεγανωτικού δεν διορθώνει μια λάθος κλίση· αυτό γίνεται μόνο με νέο υπόστρωμα.",
+    "en": "Falls are the slight, almost invisible slope of a surface that looks flat. On flat roofs, balconies, yards and walk-in showers, the floor tilts towards the drainage points so water runs away on its own.\n\nFalls are usually formed in the screed or in the bed under the tiles. They need planning before work starts, because they affect floor heights, thresholds and where the drains go.\n\nWater that stands for days after rain points to poor falls or a blocked drain. That is where waterproofing is most stressed and where leaks show up first. No coat of waterproofing can fix a wrong slope; only a new screed can.",
+    "ar": "الميول هي الانحدار الطفيف، الذي يكاد لا يُرى، في سطح يبدو مستويًا. ففي الأسطح والشرفات والأفنية وأحواض الاستحمام الأرضية، تميل الأرضية نحو نقاط التصريف ليجري الماء وحده.\n\nتُصنع الميول عادةً في طبقة التسوية أو في الطبقة التي تحت البلاط. ويجب التخطيط لها قبل بدء العمل، لأنها تؤثر في ارتفاع الأرضيات والعتبات وفي أماكن المصارف.\n\nالماء الذي يبقى راكدًا أيامًا بعد المطر يدل على ميول غير كافية أو على مصرف مسدود. وهناك يتعرض العزل المائي لأكبر ضغط وتظهر التسربات أولًا. ولا توجد طبقة عازلة تصلح ميلًا خاطئًا، فذلك لا يتم إلا بطبقة تسوية جديدة."
+  },
+  "categories": [
+    "insulation",
+    "paving",
+    "renovations"
+  ],
+  "photo": null,
+  "related": [
+    "screed",
+    "floor-drain",
+    "roof-terrace",
+    "walk-in-shower"
+  ]
+}

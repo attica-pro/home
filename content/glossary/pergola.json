@@ -1,0 +1,44 @@
+{
+  "term": {
+    "el": "Πέργκολα",
+    "en": "Pergola",
+    "ar": "البرغولا"
+  },
+  "aliases": {
+    "el": [
+      "πέργκολ*",
+      "περγκολ*"
+    ],
+    "en": [
+      "pergola*"
+    ],
+    "ar": [
+      "برغول*",
+      "برجول*",
+      "عريشة",
+      "عرائش"
+    ]
+  },
+  "short": {
+    "el": "Ανοιχτή κατασκευή σκίασης σε αυλή, βεράντα ή ταράτσα, με κολόνες και δοκάρια και από πάνω περσίδες, καλάμια, πανί ή φυτά. Συχνά είναι ξύλινη.",
+    "en": "An open shade structure in a garden, on a terrace or a roof, made of posts and beams with slats, reeds, fabric or plants on top. It is often made of wood.",
+    "ar": "هيكل مفتوح للتظليل في الحديقة أو الشرفة أو على السطح، من أعمدة وعوارض تعلوها شرائح أو قصب أو قماش أو نباتات. وكثيرًا ما يكون من الخشب."
+  },
+  "body": {
+    "el": "Η πέργκολα δίνει σκιά χωρίς να κλείνει τον χώρο. Η πιο συνηθισμένη στα ελληνικά σπίτια είναι ξύλινη, με κολόνες, δοκάρια και πυκνές περσίδες ή καλάμια από πάνω, αλλά υπάρχουν και μεταλλικές και από αλουμίνιο. Συχνά τη συνοδεύουν ξύλινα καφασωτά για ιδιωτικότητα και αναρριχώμενα φυτά.\n\nΜια ξύλινη πέργκολα ζει στον ήλιο και στη βροχή, οπότε θέλει τακτική συντήρηση: καθάρισμα, τρίψιμο όπου το παλιό φινίρισμα έχει φθαρεί, συντηρητικό ξύλου όπου το ξύλο έχει μείνει γυμνό και νέο βερνίκι ή χρώμα εξωτερικού χώρου. Οι βάσεις των στύλων, όπου μαζεύονται νερά, και οι ενώσεις είναι τα πρώτα σημεία που σαπίζουν και πρέπει να ελέγχονται.\n\nΣε ταράτσα, οι στηρίξεις της πέργκολας δεν πρέπει να τρυπούν τη στεγάνωση χωρίς σωστή σφράγιση γύρω από κάθε βάση. Για μεγάλες ή μόνιμες κατασκευές, καλό είναι να ελεγχθεί από πριν τι επιτρέπουν ο κανονισμός της πολυκατοικίας και η πολεοδομία.",
+    "en": "A pergola gives shade without closing in the space. The most common kind on Greek homes is wooden, with posts, beams and close-set slats or reeds on top, but there are also steel and aluminium ones. They often come with wooden lattice screens for privacy and with climbing plants.\n\nA wooden pergola lives in the sun and rain, so it needs regular maintenance: cleaning, sanding where the old finish has worn, wood preservative wherever the wood has been left bare, and a fresh coat of exterior varnish or paint. The feet of the posts, where water collects, and the joints are the first places to rot and should be checked.\n\nOn a roof terrace, the pergola's fixings must not pierce the waterproofing without proper sealing around every base. For large or permanent structures, it is worth checking beforehand what the building's rules and the planning regulations allow.",
+    "ar": "تمنح البرغولا الظل دون أن تغلق المكان. وأكثرها شيوعًا في البيوت اليونانية البرغولا الخشبية، بأعمدة وعوارض وشرائح متقاربة أو قصب فوقها، لكن هناك أيضًا برغولات معدنية ومن الألمنيوم. وكثيرًا ما ترافقها حواجز خشبية شبكية للخصوصية ونباتات متسلقة.\n\nتعيش البرغولا الخشبية تحت الشمس والمطر، لذلك تحتاج إلى صيانة منتظمة: تنظيف، وصنفرة حيث تآكل التشطيب القديم، ومادة حافظة للخشب حيث بقي الخشب عاريًا، وطبقة جديدة من الورنيش أو الطلاء الخارجي. وقواعد الأعمدة، حيث يتجمع الماء، والوصلات هي أول ما يتعفن، فيجب فحصها.\n\nعلى السطح يجب ألا تخترق تثبيتات البرغولا العزل المائي دون سد محكم حول كل قاعدة. وفي الهياكل الكبيرة أو الدائمة من الأفضل التحقق مسبقًا مما يسمح به نظام العمارة وأنظمة التخطيط العمراني."
+  },
+  "categories": [
+    "wood"
+  ],
+  "photo": {
+    "project": "roof-terrace-wooden-pergola",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "varnish",
+    "wood-preservative",
+    "roof-terrace"
+  ]
+}

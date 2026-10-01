@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Φρεάτιο",
+    "en": "Inspection pit",
+    "ar": "غرفة التفتيش"
+  },
+  "aliases": {
+    "el": [
+      "φρεάτι*",
+      "φρεατί*"
+    ],
+    "en": [
+      "inspection pit*",
+      "inspection chamber*",
+      "manhole*",
+      "pit",
+      "pits"
+    ],
+    "ar": [
+      "غرفة التفتيش",
+      "غرف التفتيش",
+      "غرفة تفتيش",
+      "حفرة تفتيش"
+    ]
+  },
+  "short": {
+    "el": "Μικρός θάλαμος στο έδαφος με καπάκι, όπου ενώνονται οι σωλήνες αποχέτευσης ή ομβρίων και από όπου ελέγχονται και καθαρίζονται.",
+    "en": "A small chamber in the ground with a cover, where drain or rainwater pipes meet and can be checked and cleared.",
+    "ar": "حجرة صغيرة في الأرض لها غطاء، تلتقي فيها أنابيب الصرف أو مياه الأمطار، ومنها تُفحص وتُنظَّف."
+  },
+  "body": {
+    "el": "Φρεάτιο λέγεται ο μικρός θάλαμος στο έδαφος, με καπάκι ή σχάρα, όπου συναντιούνται οι σωλήνες της αποχέτευσης ή της απορροής των ομβρίων. Υπάρχουν σε αυλές, πιλοτές, πεζοδρόμια και ζαρντινιέρες, και από εκεί ο υδραυλικός μπορεί να δει αν το νερό κυλά και να ξεβουλώσει τη γραμμή.\n\nΈνα φρεάτιο πρέπει να είναι στεγανό. Αν οι τοίχοι ή ο πάτος του έχουν ρωγμές, ή αν οι σωλήνες μπαίνουν χωρίς σφράγιση, το νερό διαφεύγει στο έδαφος, υγραίνει θεμέλια και τοίχους και μπορεί να φέρει μυρωδιές. Τα τσιμεντένια φρεάτια στεγανοποιούνται από μέσα με επαλειφόμενο στεγανωτικό, προσεκτικά γύρω από κάθε σωλήνα.\n\nΤο καπάκι πρέπει να μένει προσβάσιμο: ένα φρεάτιο που έχει σκεπαστεί με πλακάκια ή μπετό δεν ανοίγει όταν χρειαστεί. Αν βγαίνει μυρωδιά ή το νερό ανεβαίνει μέσα στο φρεάτιο, συνήθως κάτι έχει βουλώσει πιο κάτω στη γραμμή.",
+    "en": "An inspection pit is a small chamber in the ground, with a cover or grate, where drain or rainwater pipes meet. They are found in yards, under pilotis, in pavements and in planters, and they let a plumber see whether water is flowing and clear a blocked line.\n\nA pit needs to be watertight. If its walls or floor are cracked, or the pipes come in without a seal, water escapes into the ground, dampens foundations and walls, and can bring smells. Concrete pits are waterproofed from inside with a brush-on waterproofing, worked carefully around every pipe.\n\nThe cover must stay accessible: a pit that has been tiled or concreted over can't be opened when it's needed. If it smells or the water rises inside the pit, something is usually blocked further down the line.",
+    "ar": "غرفة التفتيش حجرة صغيرة في الأرض، لها غطاء أو شبكة، تلتقي فيها أنابيب الصرف أو مياه الأمطار. توجد في الأفنية وتحت البيلوتي وفي الأرصفة وأحواض الزرع، ومنها يستطيع السبّاك أن يرى إن كان الماء يجري وأن يفتح الخط المسدود.\n\nيجب أن تكون غرفة التفتيش محكمة ضد الماء. فإذا كانت جدرانها أو قاعها مشققة، أو دخلت الأنابيب إليها دون إحكام، تسرب الماء إلى التربة وبلّل الأساسات والجدران وقد يجلب الروائح. وتُعزل غرف التفتيش الخرسانية من الداخل بمادة عازلة تُدهن بالفرشاة، بعناية حول كل أنبوب.\n\nيجب أن يبقى الغطاء في متناول اليد، فغرفة التفتيش التي غُطّيت بالبلاط أو الخرسانة لا يمكن فتحها عند الحاجة. وإذا خرجت منها رائحة أو ارتفع الماء داخلها، فغالبًا هناك انسداد في مكان أبعد من الخط."
+  },
+  "categories": [
+    "insulation",
+    "renovations"
+  ],
+  "photo": {
+    "project": "concrete-basins-waterproofing",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "floor-drain",
+    "waterproofing",
+    "liquid-membrane"
+  ]
+}

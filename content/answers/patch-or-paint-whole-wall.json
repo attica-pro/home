@@ -1,0 +1,24 @@
+{
+  "category": "repairs",
+  "order": 2,
+  "question": {
+    "el": "Χάλασε ένα κομμάτι του τοίχου. Φτάνει να μπαλωθεί και να βαφτεί μόνο εκείνο το σημείο;",
+    "en": "Part of my wall is damaged. Is it enough to patch and paint just that spot?",
+    "ar": "تضرر جزء من الجدار. هل يكفي ترقيع ذلك الموضع وطلاؤه فقط؟"
+  },
+  "short": {
+    "el": "Το μπάλωμα γίνεται μόνο στο σημείο, αλλά το βάψιμο καλύτερα σε όλο τον τοίχο. Καινούργιο χρώμα πάνω σε μπάλωμα συνήθως ξεχωρίζει από το παλιό γύρω του, όσο κι αν ταιριάζει η απόχρωση.",
+    "en": "The patching is done on the spot, but it is better to paint the whole wall. New paint over a patch usually stands out from the old paint around it, however well the shade matches.",
+    "ar": "الترقيع يكون في الموضع نفسه، لكن الأفضل طلاء الجدار كله. فالطلاء الجديد فوق الرقعة يختلف عادة عن الطلاء القديم حوله، مهما تطابق اللون."
+  },
+  "body": {
+    "el": "Μια μικρή ζημιά, όπως ξεφλουδισμένο χρώμα δίπλα σε μια πόρτα ή σημάδια κάτω από ένα παράθυρο, επισκευάζεται τοπικά. Το χαλαρό χρώμα ξύνεται, και τα γυμνά σημεία στοκάρονται και τρίβονται ώστε να γίνουν ίσια με τον υπόλοιπο τοίχο.\n\n![Τοίχος δίπλα σε πόρτα, ξυσμένος, με λευκά μπαλώματα στόκου](peeling-wall-by-door/step-02.jpg)\n\nΣε αυτόν τον τοίχο δίπλα σε μια πόρτα, το χρώμα είχε σηκωθεί σε μεγάλα κομμάτια και φαινόταν ο παλιός σοβάς. Ξύστηκε, τα γυμνά σημεία στοκαρίστηκαν, και μετά ο τοίχος βάφτηκε ξανά, ομοιόμορφα από άκρη σε άκρη.\n\nΤο βάψιμο καλό είναι να καλύπτει ολόκληρο τον τοίχο, από γωνία σε γωνία. Το παλιό χρώμα έχει αλλάξει με τον καιρό και το φως, και ο στόκος ρουφάει το χρώμα αλλιώς από την υπόλοιπη επιφάνεια. Γι' αυτό ένα μπάλωμα βαμμένο μόνο του φαίνεται σαν κηλίδα. Σε ένα δωμάτιο με λεκέδες ανάμεσα στα παράθυρα, τα σημεία επισκευάστηκαν και μετά βάφτηκε όλος ο τοίχος, ώστε να μη φαίνονται μπαλώματα.\n\nΝα έχετε υπόψη: αν η ζημιά οφείλεται σε υγρασία, θα ξαναβγεί στο ίδιο σημείο, όσο προσεκτικό κι αν είναι το μπάλωμα. Αν το ξεφλούδισμα επιστρέφει, ψάξτε πρώτα την αιτία.",
+    "en": "Small damage, like peeling paint next to a door or marks under a window, is repaired locally. The loose paint is scraped off, and the bare areas are filled and sanded so they are flush with the rest of the wall.\n\n![A wall next to a door, scraped, with white patches of filler](peeling-wall-by-door/step-02.jpg)\n\nOn this wall next to a door, the paint had lifted in large patches and the old plaster was showing. It was scraped, the bare areas were filled, and then the wall was painted again, evenly from edge to edge.\n\nThe painting is best done over the whole wall, from corner to corner. The old paint has changed with time and light, and filler takes up paint differently from the rest of the surface. That's why a patch painted on its own looks like a blotch. In a room with stains between the windows, the spots were repaired and then the whole wall was painted, so no patches show.\n\nKeep in mind: if the damage is caused by damp, it will come back in the same place however carefully it is patched. If the peeling keeps returning, look for the cause first.",
+    "ar": "الضرر الصغير، مثل طلاء متقشر بجانب باب أو آثار تحت نافذة، يُصلح في مكانه. يُكشط الطلاء المفكك، وتُملأ المواضع العارية بالمعجون وتُصنفر حتى تستوي مع باقي الجدار.\n\n![جدار بجانب باب بعد الكشط، عليه رقع بيضاء من المعجون](peeling-wall-by-door/step-02.jpg)\n\nفي هذا الجدار بجانب أحد الأبواب، كان الطلاء قد ارتفع في قطع كبيرة وظهر الجص القديم. كُشط، ومُلئت المواضع العارية بالمعجون، ثم طُلي الجدار من جديد بشكل متساوٍ من طرف إلى طرف.\n\nمن الأفضل أن يشمل الطلاء الجدار كله، من الزاوية إلى الزاوية. فالطلاء القديم تغيّر مع الوقت والضوء، والمعجون يمتص الطلاء بشكل مختلف عن باقي السطح. لذلك تبدو الرقعة المطلية وحدها كبقعة. في غرفة فيها بقع بين النافذتين، أُصلحت المواضع ثم طُلي الجدار كله، فلم تعد الرقع ظاهرة.\n\nانتبه: إذا كان سبب الضرر هو الرطوبة، فسيعود في المكان نفسه مهما كان الترقيع دقيقًا. وإذا استمر التقشر في العودة، فابحث عن السبب أولاً."
+  },
+  "projects": [
+    "peeling-wall-by-door",
+    "room-wall-stains-repaint",
+    "hallway-peeling-walls-repainted"
+  ]
+}

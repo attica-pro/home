@@ -1,0 +1,57 @@
+{
+  "term": {
+    "el": "Εντοιχιζόμενο καζανάκι",
+    "en": "Concealed cistern",
+    "ar": "صندوق الطرد المخفي"
+  },
+  "aliases": {
+    "el": [
+      "εντοιχιζόμενο καζανάκι",
+      "εντοιχιζόμενου καζανακιού",
+      "εντοιχιζόμενα καζανάκια",
+      "εντοιχισμένο καζανάκι",
+      "εντοιχισμένου καζανακιού",
+      "εντοιχισμένα καζανάκια",
+      "καζανάκι μπαίνει μέσα στον τοίχο",
+      "πλήκτρο του καζανακιού"
+    ],
+    "en": [
+      "concealed cistern*",
+      "built-in cistern*",
+      "in-wall cistern*",
+      "cistern goes inside the wall",
+      "flush plate*"
+    ],
+    "ar": [
+      "صندوق طرد مخفي",
+      "صندوق الطرد المخفي",
+      "صناديق طرد مخفية",
+      "خزان مدمج",
+      "خزان المدمج",
+      "خزان المرحاض داخل الجدار",
+      "زر الطرد"
+    ]
+  },
+  "short": {
+    "el": "Καζανάκι που μπαίνει μέσα στον τοίχο, πάνω σε μεταλλικό πλαίσιο που συνήθως κρατά και κρεμαστή λεκάνη. Από έξω φαίνεται μόνο το πλήκτρο.",
+    "en": "A toilet cistern hidden inside the wall on a metal frame, which usually also holds a wall-hung toilet. Only the flush plate shows.",
+    "ar": "صندوق طرد يُخفى داخل الجدار على إطار معدني يحمل عادةً مرحاضًا معلّقًا أيضًا. ولا يظهر منه إلا زر الطرد."
+  },
+  "body": {
+    "el": "Το εντοιχιζόμενο καζανάκι στερεώνεται σε ένα μεταλλικό πλαίσιο, στον τοίχο ή μπροστά του, και κρύβεται πίσω από γυψοσανίδα, χτιστό τοιχίο ή πλακάκια. Το ίδιο πλαίσιο συνήθως σηκώνει και την κρεμαστή λεκάνη, που δεν ακουμπά στο δάπεδο. Κερδίζεται χώρος, το μπάνιο δείχνει πιο τακτοποιημένο και το δάπεδο καθαρίζεται εύκολα.\n\nΕπειδή μετά δεν φαίνεται, η τοποθέτηση πρέπει να γίνει σωστά από την αρχή: το πλαίσιο αλφαδιασμένο και γερά στερεωμένο, οι συνδέσεις νερού και αποχέτευσης ελεγμένες για διαρροές πριν κλείσει ο τοίχος, και το ύψος της λεκάνης αποφασισμένο εκ των προτέρων.\n\nΟ μηχανισμός δεν μένει απρόσιτος. Πίσω από το πλήκτρο υπάρχει άνοιγμα από όπου επισκευάζονται ή αλλάζουν τα εσωτερικά εξαρτήματα χωρίς να σπάσει κανένα πλακάκι. Καλό είναι να κρατηθούν τα στοιχεία του μοντέλου, για να βρίσκονται εύκολα ανταλλακτικά.",
+    "en": "A concealed cistern is fixed to a metal frame, on the wall or just in front of it, and hidden behind plasterboard, a built-up stud wall or tiles. The same frame usually also carries a wall-hung toilet that does not touch the floor. It saves space, makes the bathroom look tidier and leaves the floor easy to clean.\n\nBecause it cannot be seen afterwards, it has to be installed right the first time: the frame level and firmly fixed, the water and waste connections checked for leaks before the wall is closed, and the toilet height decided in advance.\n\nThe mechanism is not out of reach. Behind the flush plate there is an opening through which the internal parts can be repaired or replaced without breaking any tiles. It is a good idea to keep the model details so spare parts are easy to find.",
+    "ar": "يُثبَّت صندوق الطرد المخفي على إطار معدني، على الجدار أو أمامه، ويُخفى خلف ألواح الجبس أو جدار مبني أو البلاط. وعادةً يحمل الإطار نفسه المرحاض المعلّق الذي لا يلمس الأرض. وبذلك تُكسب مساحة، ويبدو الحمام أكثر ترتيبًا، ويسهل تنظيف الأرضية.\n\nلأنه لا يظهر بعد ذلك، يجب أن يُركَّب بشكل صحيح من البداية: إطار مستوٍ ومثبت بإحكام، ووصلات مياه وصرف مفحوصة من التسرب قبل إغلاق الجدار، وارتفاع المرحاض محدد مسبقًا.\n\nلا تبقى الآلية بعيدة عن المتناول. فخلف زر الطرد فتحة يمكن من خلالها إصلاح القطع الداخلية أو تبديلها دون كسر أي بلاطة. ومن المفيد الاحتفاظ ببيانات الطراز لتسهل معرفة قطع الغيار."
+  },
+  "categories": [
+    "renovations"
+  ],
+  "photo": {
+    "project": "bathroom-walk-in-shower",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "walk-in-shower",
+    "wall-chase",
+    "tile-adhesive"
+  ]
+}

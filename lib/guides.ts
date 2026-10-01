@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 import type { Locale } from '@/i18n';
+import type { ServiceSlug } from '@/data/services';
 
 const GUIDES_DIR = path.join(process.cwd(), 'content/guides');
 
@@ -12,7 +13,7 @@ export interface GuideChapterMeta {
 
 export interface GuideMeta {
   slug: string;
-  category: 'insulation' | 'painting';
+  category: ServiceSlug;
   coverImage: string;
   date: string;
   title: Record<Locale, string>;
@@ -54,4 +55,9 @@ export function getAdjacentChapters(guide: GuideMeta, chapterSlug: string) {
     prev: index > 0 ? guide.chapters[index - 1] : null,
     next: index >= 0 && index < guide.chapters.length - 1 ? guide.chapters[index + 1] : null,
   };
+}
+
+/** URL path (without locale) of a guide's overview page. Guides live under their category. */
+export function guidePath(guide: Pick<GuideMeta, 'slug' | 'category'>, chapterSlug?: string) {
+  return `/knowledge-hub/${guide.category}/${guide.slug}${chapterSlug ? `/${chapterSlug}` : ''}`;
 }

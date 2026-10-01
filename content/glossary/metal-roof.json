@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Λαμαρίνα",
+    "en": "Metal roof sheeting",
+    "ar": "الصفيح (الألواح المعدنية)"
+  },
+  "aliases": {
+    "el": [
+      "λαμαρίν*",
+      "τσίγκ*",
+      "θερμοπάνελ"
+    ],
+    "en": [
+      "metal roof*",
+      "metal sheet*",
+      "roof sheet*",
+      "sheet metal"
+    ],
+    "ar": [
+      "صفيح",
+      "سقف معدني",
+      "سقف المعدني",
+      "ألواح معدنية",
+      "ألواح المعدنية"
+    ]
+  },
+  "short": {
+    "el": "Μεταλλικά φύλλα, απλά ή κυματοειδή, για στέγες και υπόστεγα. Ελαφριά και γρήγορα στο στήσιμο, αλλά ζεσταίνονται πολύ και σκουριάζουν στις βίδες και στα κοψίματα.",
+    "en": "Metal sheets, flat or profiled, used for roofs and sheds. Light and quick to fit, but they get very hot and rust at the screws and cut edges.",
+    "ar": "ألواح معدنية، مستوية أو مموجة، تُستخدم للأسقف والمظلات. خفيفة وسريعة التركيب، لكنها تسخن كثيرًا وتصدأ عند البراغي والحواف المقطوعة."
+  },
+  "body": {
+    "el": "Λαμαρίνα λέμε το λεπτό φύλλο από χάλυβα ή αλουμίνιο. Στις στέγες χρησιμοποιείται σε τραπεζοειδή ή κυματοειδή φύλλα, συχνά γαλβανισμένα και βαμμένα από το εργοστάσιο, ή σε θερμοπάνελ, δηλαδή δύο λαμαρίνες με μόνωση ανάμεσα. Με λαμαρίνα φτιάχνονται και τα τελειώματα που κλείνουν την ένωση της στέγης με τον τοίχο ή το στηθαίο.\n\nΗ απλή λαμαρίνα δεν μονώνει: το καλοκαίρι καίει και περνά τη ζέστη στον χώρο από κάτω, και τον χειμώνα μπορεί να «ιδρώνει» από μέσα λόγω συμπύκνωσης. Γι' αυτό συχνά μονώνεται, για παράδειγμα με ψεκαζόμενη πολυουρεθάνη, και βάφεται σε ανοιχτό χρώμα.\n\nΤα αδύναμα σημεία είναι οι βίδες με τις λαστιχένιες ροδέλες τους, που γερνούν, οι επικαλύψεις των φύλλων, οι ενώσεις με τους τοίχους και τα σημεία όπου έχει φύγει η βαφή και ξεκινά η σκουριά. Ο τακτικός έλεγχος και η σφράγισή τους κρατούν τη στέγη στεγνή.",
+    "en": "Metal roof sheeting is thin sheet steel or aluminium. On roofs it comes as trapezoidal or corrugated sheets, often galvanised and factory-painted, or as sandwich panels, two metal skins with insulation between them. Metal is also used for the flashings that close the joint between a roof and a wall or parapet.\n\nPlain metal sheeting doesn't insulate: in summer it gets scorching and passes the heat into the space below, and in winter it can \"sweat\" on the inside from condensation. That's why it is often insulated, for example with spray polyurethane foam, and painted a light colour.\n\nThe weak points are the screws and their rubber washers, which age, the overlaps between sheets, the joints with walls, and spots where the paint has gone and rust starts. Checking and sealing them regularly keeps the roof dry.",
+    "ar": "الصفيح صفائح رقيقة من الفولاذ أو الألومنيوم. وفي الأسقف يأتي على شكل ألواح شبه منحرفة أو مموجة، غالبًا مجلفنة ومطلية في المصنع، أو على شكل ألواح «ساندويتش»، أي صفيحتين بينهما مادة عازلة. ومن الصفيح أيضًا تُصنع الحواف المعدنية التي تغلق الوصلة بين السقف والجدار أو الجدار المحيط.\n\nالصفيح العادي لا يعزل: ففي الصيف يصبح حارقًا وينقل الحرارة إلى المكان الذي تحته، وفي الشتاء قد «يتعرّق» من الداخل بسبب التكاثف. لذلك يُعزل غالبًا، مثلًا برغوة البولي يوريثان المرشوشة، ويُطلى بلون فاتح.\n\nنقاط الضعف هي البراغي وحلقاتها المطاطية التي تشيخ، والتداخل بين الألواح، والوصلات مع الجدران، والأماكن التي زال عنها الطلاء وبدأ فيها الصدأ. والفحص المنتظم وسدّ هذه النقاط يُبقيان السقف جافًا."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "red-metal-roof-joints-sealed",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "polyurethane-foam",
+    "condensation",
+    "tiled-roof"
+  ]
+}

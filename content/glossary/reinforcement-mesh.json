@@ -1,0 +1,64 @@
+{
+  "term": {
+    "el": "Πλέγμα οπλισμού",
+    "en": "Reinforcement mesh",
+    "ar": "شبكة التقوية"
+  },
+  "aliases": {
+    "el": [
+      "πλέγμα οπλισμού",
+      "πλέγματος οπλισμού",
+      "πλέγματα οπλισμού",
+      "ύφασμα οπλισμού",
+      "υφάσματος οπλισμού",
+      "οπλισμένο με ύφασμα",
+      "οπλισμένη με ύφασμα",
+      "υαλόπλεγμα*",
+      "υαλοπλέγμα*",
+      "δομικό πλέγμα",
+      "δομικού πλέγματος"
+    ],
+    "en": [
+      "mesh",
+      "reinforcing mesh",
+      "reinforcement mesh",
+      "reinforcing fabric",
+      "fibreglass mesh",
+      "fiberglass mesh",
+      "reinforced with fabric"
+    ],
+    "ar": [
+      "شبكة تقوية",
+      "شبكة التقوية",
+      "شبك التقوية",
+      "نسيج التقوية",
+      "نسيج تقوية",
+      "شبكة الألياف الزجاجية",
+      "مقواة بالنسيج"
+    ]
+  },
+  "short": {
+    "el": "Πλέγμα ή ύφασμα, συνήθως από υαλονήματα ή πολυεστέρα, που μπαίνει μέσα σε σοβά, σε επίστρωση ή σε υγρή στεγάνωση για να τη δένει και να μην ανοίγουν ρωγμές.",
+    "en": "A mesh or fabric, usually glass fibre or polyester, set into render, a coating or liquid waterproofing to hold it together and stop cracks from opening.",
+    "ar": "شبكة أو نسيج، من الألياف الزجاجية أو البوليستر عادةً، يُدمج في اللياسة أو الطبقة العازلة أو العزل المائي السائل ليربطها ويمنع ظهور الشقوق."
+  },
+  "body": {
+    "el": "Οι σοβάδες και οι επιστρώσεις αντέχουν στο βάρος, αλλά σκίζονται εύκολα όταν η βάση από κάτω τους κινείται. Το πλέγμα οπλισμού μοιράζει αυτές τις τάσεις σε μεγαλύτερη επιφάνεια. Μπαίνει μέσα στο νωπό υλικό, ώστε να βρεθεί στη μέση της στρώσης και όχι από κάτω ή από πάνω της.\n\nΣτους τοίχους, το υαλόπλεγμα μπαίνει μέσα στον σοβά εκεί όπου συναντιούνται διαφορετικά υλικά ή νέο με παλιό, όπως σε μπαλώματα, σε κλεισμένα ανοίγματα και στις ενώσεις τούβλου και μπετόν, καθώς και σε όλη την επιφάνεια μιας θερμοπρόσοψης. Στις ταράτσες, ύφασμα οπλισμού ενσωματώνεται στην υγρή μεμβράνη στις γωνίες, γύρω από σωλήνες, απορροές και βάσεις, και πάνω από ρωγμές, εκεί όπου η στεγάνωση καταπονείται περισσότερο.\n\nΣτις πλακοστρώσεις και στα τσιμεντένια δάπεδα, «πλέγμα» λέγεται και το σιδερένιο δομικό πλέγμα που μπαίνει μέσα στο μπετόν ή στο γαρμπιλομπετό για να μη ραγίσει. Σε κάθε περίπτωση, το πλέγμα πρέπει να καλύπτεται πλήρως από το υλικό· ένα πλέγμα που φαίνεται ή μένει στεγνό από κάτω δεν κάνει τη δουλειά του.",
+    "en": "Render and coatings are strong under load but tear easily when the base underneath them moves. Reinforcement mesh spreads those stresses over a larger area. It is pressed into the wet material so it ends up in the middle of the layer, not underneath it or on top.\n\nOn walls, glass-fibre mesh goes into the render wherever different materials or new and old work meet, such as patches, filled-in openings and joints between brick and concrete, and across the whole surface of external wall insulation. On roof terraces, reinforcing fabric is embedded in the liquid membrane at corners, around pipes, drains and post bases, and over cracks, where the waterproofing is under the most strain.\n\nIn paving and concrete floors, \"mesh\" also means the steel welded mesh set into concrete or screed to stop it cracking. In every case the mesh has to be fully covered by the material; mesh that shows through or sits dry underneath is not doing its job.",
+    "ar": "اللياسة والطبقات العازلة تتحمل الأوزان، لكنها تتمزق بسهولة عندما يتحرك الأساس تحتها. وشبكة التقوية توزع هذه الإجهادات على مساحة أكبر. وتُضغط داخل المادة وهي طرية لتستقر في وسط الطبقة، لا تحتها ولا فوقها.\n\nعلى الجدران توضع شبكة الألياف الزجاجية داخل اللياسة حيث تلتقي مواد مختلفة أو عمل جديد بقديم، كالرقع والفتحات المغلقة والوصلات بين الطوب والخرسانة، وكذلك على كامل سطح العزل الحراري الخارجي. وعلى الأسطح يُدمج نسيج التقوية في الغشاء السائل عند الزوايا وحول الأنابيب والمصارف وقواعد الأعمدة وفوق الشقوق، حيث يتعرض العزل المائي لأكبر إجهاد.\n\nوفي الأرضيات المرصوفة والخرسانية تُطلق كلمة «الشبكة» أيضًا على شبكة الحديد الملحومة التي توضع داخل الخرسانة أو الطبقة الإسمنتية لمنع تشققها. وفي كل الأحوال يجب أن تغطي المادة الشبكة بالكامل، فالشبكة الظاهرة أو التي تبقى جافة من تحت لا تؤدي عملها."
+  },
+  "categories": [
+    "paving",
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-drains-vents-sealing",
+    "file": "step-06.jpg"
+  },
+  "related": [
+    "liquid-membrane",
+    "crack",
+    "etics",
+    "screed"
+  ]
+}

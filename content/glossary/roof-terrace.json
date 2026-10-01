@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Δώμα (ταράτσα)",
+    "en": "Flat roof (roof terrace)",
+    "ar": "السطح المستوي"
+  },
+  "aliases": {
+    "el": [
+      "ταράτσ*"
+    ],
+    "en": [
+      "flat roof*",
+      "roof terrace*",
+      "terrace",
+      "terraces"
+    ],
+    "ar": [
+      "سطح المستوي",
+      "سطح مستو",
+      "سطح المسطح",
+      "سطح مسطح",
+      "أسطح المسطحة",
+      "أسطح مسطحة"
+    ]
+  },
+  "short": {
+    "el": "Η επίπεδη οροφή από μπετό στην κορυφή του κτιρίου. Είναι ο πιο συνηθισμένος τύπος οροφής στην Ελλάδα και το σημείο που δέχεται τον περισσότερο ήλιο και βροχή.",
+    "en": "The flat concrete roof on top of a building. It is the most common kind of roof in Greece and the part that takes the most sun and rain.",
+    "ar": "السقف الخرساني المستوي في أعلى المبنى. هو النوع الأكثر شيوعًا من الأسطح في اليونان، والجزء الذي يتلقى أكبر قدر من الشمس والمطر."
+  },
+  "body": {
+    "el": "Δώμα είναι ο τεχνικός όρος για την επίπεδη οροφή ενός κτιρίου, αυτό που όλοι λέμε ταράτσα. Είναι η τελευταία πλάκα από οπλισμένο σκυρόδεμα, συνήθως με στηθαία γύρω της, και πάνω της βρίσκονται συχνά ηλιακοί θερμοσίφωνες, δεξαμενές, κεραίες και κλιματιστικά. Στην καθομιλουμένη, «δώμα» λέγεται και το μικρό δωμάτιο που υπάρχει πάνω σε μια ταράτσα.\n\nΕπειδή δέχεται κατευθείαν ήλιο, βροχή και μεγάλες αλλαγές θερμοκρασίας, η ταράτσα χρειάζεται στεγανοποίηση και, ιδανικά, θερμομόνωση. Χρειάζεται επίσης σωστές κλίσεις, ώστε το νερό να φεύγει προς τα σιφώνια και τις υδρορροές χωρίς να λιμνάζει.\n\nΤα πιο ευαίσθητα σημεία είναι οι γωνίες με τα στηθαία, οι βάσεις από κάγκελα και θερμοσίφωνες, οι σωλήνες που τη διαπερνούν και τα σιφώνια. Ένας έλεγχος μετά από δυνατές βροχές και ο καθαρισμός των σιφωνιών από φύλλα και χώματα προλαμβάνουν πολλά προβλήματα στον όροφο από κάτω.",
+    "en": "In Greek building language a flat roof is called a \"doma\", but everyone calls it the \"taratsa\". It is the top reinforced-concrete slab of the building, usually edged with parapets, and it often carries solar water heaters, tanks, aerials and air-conditioning units. In everyday Greek, \"doma\" also means the small room built on top of a flat roof.\n\nBecause it takes direct sun, rain and big swings in temperature, a flat roof needs waterproofing and, ideally, thermal insulation. It also needs proper falls, so water runs off to the floor drains and gutters instead of pooling.\n\nThe most vulnerable spots are the corners at the parapets, the bases of railings and water heaters, pipes that pass through the roof, and the drains. A check after heavy rain and clearing leaves and soil from the drains prevent many problems in the flat below.",
+    "ar": "في المصطلح الهندسي اليوناني يُسمّى السطح المستوي «دوما»، لكن الجميع يسمّونه «تاراتسا». وهو آخر بلاطة من الخرسانة المسلحة في المبنى، تحيط بها عادةً جدران منخفضة، وكثيرًا ما توضع عليه سخانات المياه الشمسية والخزانات والهوائيات ووحدات التكييف. وفي اللغة اليومية تُطلق كلمة «دوما» أيضًا على الغرفة الصغيرة المبنية فوق السطح.\n\nولأنه يتلقى الشمس والمطر مباشرةً ويتعرض لتقلبات كبيرة في الحرارة، يحتاج السطح المستوي إلى عزل مائي، ويُفضَّل أن يكون له عزل حراري أيضًا. كما يحتاج إلى ميول صحيحة حتى يجري الماء نحو المصارف والمزاريب بدل أن يتجمع.\n\nأكثر النقاط حساسية هي الزوايا عند الجدران المحيطة، وقواعد الدرابزين والسخانات، والأنابيب التي تخترق السطح، والمصارف. والفحص بعد الأمطار الغزيرة وتنظيف المصارف من الأوراق والتراب يمنعان مشاكل كثيرة في الشقة التي تحته."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-terrace-joints-railings",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "parapet",
+    "waterproofing",
+    "falls",
+    "floor-drain"
+  ]
+}

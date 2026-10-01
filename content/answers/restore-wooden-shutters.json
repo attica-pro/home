@@ -1,0 +1,23 @@
+{
+  "category": "wood",
+  "order": 1,
+  "question": {
+    "el": "Τα ξύλινα παντζούρια μου έχουν ξεβάψει και ξεφλουδίσει. Σώζονται ή θέλουν αλλαγή;",
+    "en": "My wooden shutters are faded and peeling. Can they be saved or do they need replacing?",
+    "ar": "الشيش الخشبي عندي باهت ومتقشر. هل يمكن إنقاذه أم يجب تغييره؟"
+  },
+  "short": {
+    "el": "Αν το ξύλο από κάτω είναι γερό, συνήθως σώζονται: τρίβονται μέχρι το καθαρό ξύλο, ασταρώνονται και βάφονται ή παίρνουν φινίρισμα. Ξύλο που έχει σαπίσει και βουλιάζει στο πάτημα θέλει επισκευή ή αλλαγή.",
+    "en": "If the wood underneath is sound, they can usually be saved: sanded back to clean wood, primed and painted, or given a clear finish. Wood that has rotted and gives under pressure needs repair or replacing.",
+    "ar": "إذا كان الخشب تحته سليمًا، فيمكن إنقاذه في الغالب: يُصنفر حتى يظهر الخشب النظيف، ثم طبقة أساس وطلاء، أو تشطيب شفاف. أما الخشب المتعفن الذي يلين تحت الضغط فيحتاج إلى إصلاح أو تغيير."
+  },
+  "body": {
+    "el": "Ο ήλιος και η βροχή φθείρουν πρώτα το φινίρισμα και μετά το ξύλο. Το χρώμα ξεφλουδίζει, το ξύλο μένει εκτεθειμένο, γκριζάρει και ανοίγει ρωγμές. Όσο όμως το ξύλο από κάτω είναι γερό, το πρόβλημα είναι στην επιφάνεια και τα παντζούρια μπορούν να ξαναγίνουν όμορφα.\n\n![Τρίψιμο παντζουριού με τριβείο, με τα παλιά χρώματα να φεύγουν](wooden-shutters-restoration/step-02.jpg)\n\nΣε αυτά τα παντζούρια το χρώμα είχε ξεφλουδίσει και το ξύλο είχε μείνει εκτεθειμένο στον καιρό, κυρίως στα κάτω μέρη. Τα παλιά χρώματα έφυγαν με τριβείο και ξύστρα μέχρι να φανεί γερό ξύλο. Μετά πέρασε αστάρι, που κλείνει τους πόρους του ξύλου και δίνει καλή βάση, και στο τέλος το τελικό χρώμα.\n\nΑν θέλετε να φαίνονται τα νερά του ξύλου, αντί για χρώμα μπαίνει διάφανο ή ημιδιάφανο φινίρισμα. Σε ένα άλλο ζευγάρι παντζούρια, ο ήλιος είχε ξεβάψει το ξύλο, που είχε γκριζάρει και ραγίσει. Τρίφτηκε μέχρι να φανεί καθαρό και πήρε ένα φινίρισμα σε ζεστό χρώμα ξύλου, που το προστατεύει από τον ήλιο και τη βροχή.\n\nΝα έχετε υπόψη: πιέστε με ένα κατσαβίδι τα κάτω μέρη και τις ενώσεις, εκεί που μένει το νερό. Αν το ξύλο είναι μαλακό ή θρυμματίζεται, έχει σαπίσει, και αυτό το κομμάτι θέλει επισκευή ή αντικατάσταση πριν από οποιοδήποτε βάψιμο. Πόσο σώζεται ένα παντζούρι φαίνεται μόνο όταν το δει κανείς από κοντά.",
+    "en": "Sun and rain wear out the finish first and then the wood. The paint peels, the wood is left exposed, turns grey and cracks. But as long as the wood underneath is sound, the problem is on the surface and the shutters can look good again.\n\n![Sanding a shutter with a power sander as the old paint comes off](wooden-shutters-restoration/step-02.jpg)\n\nOn these shutters the paint had peeled and the wood was left exposed to the weather, especially at the bottom. The old paint came off with a sander and scraper until sound wood showed. Then a primer went on, which seals the grain and gives a good base, and finally the top coat.\n\nIf you want the grain to show, a clear or semi-transparent finish goes on instead of paint. On another pair of shutters, the sun had stripped the colour from the wood, which had gone grey and cracked. It was sanded back until it was clean and given a finish in a warm wood colour that protects it from sun and rain.\n\nKeep in mind: press a screwdriver into the bottom rails and the joints, where water sits. If the wood is soft or crumbles, it has rotted, and that piece needs repairing or replacing before any painting. How much of a shutter can be saved only shows when someone looks at it up close.",
+    "ar": "الشمس والمطر يُتلفان التشطيب أولاً ثم الخشب. يتقشر الطلاء، ويبقى الخشب مكشوفًا، فيصير رماديًا وتظهر فيه الشقوق. لكن ما دام الخشب تحته سليمًا، فالمشكلة في السطح فقط، ويمكن أن يعود الشيش جميلاً.\n\n![صنفرة الشيش بآلة الصنفرة والطلاء القديم يزول](wooden-shutters-restoration/step-02.jpg)\n\nفي هذا الشيش كان الطلاء قد تقشر وبقي الخشب مكشوفًا للطقس، خاصة في الأجزاء السفلية. أزيل الطلاء القديم بآلة الصنفرة والمكشطة حتى ظهر خشب سليم. ثم وُضعت طبقة أساس تسد مسام الخشب وتعطي قاعدة جيدة، وفي النهاية الطلاء النهائي.\n\nإذا أردت أن تظهر عروق الخشب، يوضع بدل الطلاء تشطيب شفاف أو نصف شفاف. في شيش آخر، كانت الشمس قد أزالت لون الخشب فصار رماديًا وتشقق. صُنفر حتى ظهر نظيفًا، وحصل على تشطيب بلون خشبي دافئ يحميه من الشمس والمطر.\n\nانتبه: اضغط بمفك براغٍ على الأجزاء السفلية والوصلات، حيث يبقى الماء. إذا كان الخشب لينًا أو يتفتت، فقد تعفن، وتلك القطعة تحتاج إلى إصلاح أو تغيير قبل أي طلاء. أما كم يمكن إنقاذه من الشيش، فلا يتضح إلا بمعاينته عن قرب."
+  },
+  "projects": [
+    "wooden-shutters-restoration",
+    "louvred-shutters-wood-finish"
+  ]
+}

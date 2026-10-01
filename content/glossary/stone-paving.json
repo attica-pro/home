@@ -1,0 +1,57 @@
+{
+  "term": {
+    "el": "Πέτρινη πλακόστρωση",
+    "en": "Stone paving",
+    "ar": "الأرضية الحجرية"
+  },
+  "aliases": {
+    "el": [
+      "πλακόστρωσ*",
+      "πλακοστρώσ*",
+      "πλακοστρωμέν*",
+      "πέτρινο δάπεδο",
+      "πέτρινα δάπεδα",
+      "πέτρινου δαπέδου",
+      "πέτρινες πλάκες",
+      "πέτρινων πλακών"
+    ],
+    "en": [
+      "stone paving",
+      "flagstone*",
+      "paving stone*",
+      "stone floor*",
+      "crazy paving"
+    ],
+    "ar": [
+      "أرضية حجرية",
+      "أرضيات حجرية",
+      "رصف بالحجر",
+      "بلاط حجري",
+      "بلاط الحجري",
+      "ألواح حجرية",
+      "حجر الرصف"
+    ]
+  },
+  "short": {
+    "el": "Δάπεδο από φυσικές πέτρινες πλάκες, ακανόνιστες ή κομμένες, σε αυλές, πεζοδρόμια, βεράντες και σκάλες. Οι πέτρες στρώνονται σε κονίαμα και οι αρμοί ανάμεσά τους γεμίζουν.",
+    "en": "A floor of natural stone slabs, irregular or cut, in courtyards, walkways, terraces and on steps. The stones are bedded in mortar and the joints between them are filled.",
+    "ar": "أرضية من ألواح الحجر الطبيعي، غير منتظمة أو مقطوعة، في الساحات والممرات والشرفات وعلى الدرج. يُرص الحجر في الملاط وتُملأ الفواصل بينه."
+  },
+  "body": {
+    "el": "Η πέτρινη πλακόστρωση είναι από τα πιο κλασικά δάπεδα σε αυλές, βεράντες και πεζοδρόμια στην Ελλάδα. Οι πλάκες μπορεί να είναι ακανόνιστες, σε ελεύθερο σχέδιο, ή κομμένες σε ορθογώνια, και στρώνονται πάνω σε σταθερή βάση από μπετόν ή τσιμεντοκονία, με κονίαμα ή κόλλα για εξωτερικούς χώρους.\n\nΓια να κρατήσει, η πλακόστρωση χρειάζεται κλίσεις, ώστε να φεύγουν τα νερά της βροχής, και γεμάτους, γερούς αρμούς. Όταν οι αρμοί θρυμματίζονται, το νερό μπαίνει από κάτω, οι πέτρες ξεκολλούν και φυτρώνουν χόρτα. Το ξαναγέμισμα των αρμών αλλάζει όλη την εικόνα του δαπέδου.\n\nΗ φυσική πέτρα είναι πορώδης και ρουφάει λάδια, κρασί και βρωμιές. Ένα κατάλληλο προστατευτικό εμποτισμού δυσκολεύει τους λεκέδες. Σε σκάλες και γύρω από πισίνες χρειάζεται πέτρα με τραχιά, αντιολισθητική επιφάνεια.",
+    "en": "Stone paving is one of the most traditional floors for courtyards, terraces and walkways in Greece. The slabs can be irregular, laid in a random pattern, or cut into rectangles, and they are bedded on a solid base of concrete or screed with mortar or an exterior adhesive.\n\nTo last, stone paving needs falls so rainwater runs off, and full, sound joints. When the joints crumble, water gets underneath, stones work loose and weeds grow. Refilling the joints changes the look of the whole floor.\n\nNatural stone is porous and soaks up oil, wine and dirt. A suitable impregnating sealer makes it harder to stain. On steps and around pools, the stone needs a rough, non-slip surface.",
+    "ar": "الأرضية الحجرية من أكثر الأرضيات تقليدية في الساحات والشرفات والممرات في اليونان. قد تكون الألواح غير منتظمة، مرصوفة بنمط حر، أو مقطوعة على شكل مستطيلات، وتُرص على أساس ثابت من الخرسانة أو الطبقة الإسمنتية، بالملاط أو بلاصق مخصص للأماكن الخارجية.\n\nلكي تدوم تحتاج الأرضية الحجرية إلى ميول تُصرّف مياه المطر، وإلى فواصل ممتلئة وسليمة. فعندما تتفتت الفواصل يدخل الماء من تحت، وتتخلخل الأحجار وتنبت الأعشاب. وإعادة ملء الفواصل تغيّر مظهر الأرضية كلها.\n\nالحجر الطبيعي مسامي يمتص الزيوت والنبيذ والأوساخ. والمادة الحامية المناسبة التي تتشربها الحجارة تجعل البقع أصعب. وعلى الدرج وحول المسابح يلزم حجر ذو سطح خشن مانع للانزلاق."
+  },
+  "categories": [
+    "paving"
+  ],
+  "photo": {
+    "project": "restaurant-courtyard-stone-joints",
+    "file": "step-04.jpg"
+  },
+  "related": [
+    "grout-joint",
+    "falls",
+    "screed"
+  ]
+}

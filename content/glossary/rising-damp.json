@@ -1,0 +1,47 @@
+{
+  "term": {
+    "el": "Ανερχόμενη υγρασία",
+    "en": "Rising damp",
+    "ar": "الرطوبة الصاعدة"
+  },
+  "aliases": {
+    "el": [
+      "ανερχόμενη υγρασία",
+      "ανερχόμενης υγρασίας",
+      "ανερχόμεν*"
+    ],
+    "en": [
+      "rising damp"
+    ],
+    "ar": [
+      "رطوبة صاعدة",
+      "رطوبة الصاعدة",
+      "للرطوبة الصاعدة"
+    ]
+  },
+  "short": {
+    "el": "Υγρασία από το έδαφος που ανεβαίνει μέσα στους τοίχους από τους πόρους των υλικών. Φαίνεται ως λεκέδες, φουσκωμένοι σοβάδες και άλατα στη βάση των τοίχων.",
+    "en": "Moisture from the ground that climbs up inside walls through the pores of the materials. It shows as stains, blown render and salts at the foot of walls.",
+    "ar": "رطوبة من التربة تصعد داخل الجدران عبر مسام المواد، وتظهر على شكل بقع ولياسة منتفخة وأملاح في أسفل الجدران."
+  },
+  "body": {
+    "el": "Τούβλα, πέτρα, κονιάματα και σοβάδες έχουν μικροσκοπικούς πόρους. Όταν ένας τοίχος πατά σε υγρό έδαφος χωρίς στεγανωτικό φράγμα, το νερό ανεβαίνει μέσα από τους πόρους, όπως το λάδι σε ένα φιτίλι. Αυτή είναι η ανερχόμενη υγρασία, και είναι συχνή σε ισόγεια, υπόγεια και παλιά κτίρια.\n\nΤα σημάδια είναι χαρακτηριστικά: μια ζώνη υγρασίας στο κάτω μέρος του τοίχου με ακανόνιστο όριο, χρώματα που ξεφλουδίζουν, σοβάδες που φουσκώνουν και θρυμματίζονται, λευκά άλατα στην επιφάνεια και μυρωδιά κλεισούρας. Δεν πρέπει να συγχέεται με μια διαρροή από σωλήνα ή με την υγρασία συμπύκνωσης, που θέλουν άλλη αντιμετώπιση.\n\nΤο απλό ξανάβαμμα δεν τη σταματά· τα σημάδια ξαναβγαίνουν. Η λύση ξεκινά από την αιτία: απομάκρυνση του νερού από τη βάση του τοίχου (υδρορροές, κλίσεις, χώματα), δημιουργία φράγματος στον τοίχο, για παράδειγμα με έγχυση ειδικού υλικού, και σοβάδες και χρώματα που αφήνουν τον τοίχο να αναπνέει.",
+    "en": "Brick, stone, mortar and render are full of tiny pores. When a wall stands on damp ground with no damp-proof barrier, water climbs up through those pores, like oil up a lamp wick. That is rising damp, and it is common in ground floors, basements and older buildings.\n\nThe signs are typical: a damp band along the bottom of the wall with an uneven edge, peeling paint, render that blows and crumbles, white salts on the surface and a musty smell. It should not be confused with a leaking pipe or with condensation, which need different treatment.\n\nRepainting alone won't stop it; the marks come back. The fix starts with the cause: keeping water away from the foot of the wall (gutters, falls, soil levels), creating a barrier in the wall, for example by injecting a special product, and using render and paint that let the wall breathe.",
+    "ar": "للطوب والحجر والملاط واللياسة مسام دقيقة جدًا. وحين يقوم جدار على تربة رطبة دون حاجز عازل للرطوبة، يصعد الماء عبر هذه المسام كما يصعد الزيت في فتيل المصباح. هذه هي الرطوبة الصاعدة، وهي شائعة في الطوابق الأرضية والأقبية والمباني القديمة.\n\nعلاماتها مميزة: شريط من الرطوبة في أسفل الجدار بحافة غير منتظمة، ودهان يتقشر، ولياسة تنتفخ وتتفتت، وأملاح بيضاء على السطح، ورائحة رطوبة وعفونة. ويجب ألا تُخلط بتسرب من أنبوب أو برطوبة التكاثف، فلكل منهما علاج مختلف.\n\nإعادة الدهان وحدها لا توقفها، فالعلامات تعود. ويبدأ الحل من السبب: إبعاد الماء عن أسفل الجدار (المزاريب، والميول، ومستوى التراب)، وإنشاء حاجز داخل الجدار، مثلًا بحقن مادة خاصة، واستخدام لياسة ودهانات تسمح للجدار بالتنفس."
+  },
+  "categories": [
+    "insulation",
+    "painting",
+    "repairs"
+  ],
+  "photo": {
+    "project": "old-apartment-damp-peeling-walls",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "condensation",
+    "mould",
+    "render",
+    "peeling-paint"
+  ]
+}

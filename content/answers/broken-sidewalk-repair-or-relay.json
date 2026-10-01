@@ -1,0 +1,22 @@
+{
+  "category": "paving",
+  "order": 2,
+  "question": {
+    "el": "Το πεζοδρόμιο έξω από το σπίτι έχει σπασμένες πλάκες και χόρτα. Μπαλώνεται ή ξαναγίνεται;",
+    "en": "The pavement outside my house has broken slabs and weeds. Patch it or redo it?",
+    "ar": "رصيف بيتي فيه بلاط مكسور وأعشاب. هل يُرقَّع أم يُعاد من جديد؟"
+  },
+  "short": {
+    "el": "Αν έχουν σπάσει λίγες πλάκες, αλλάζουν μόνο αυτές. Όταν έχουν σπάσει οι περισσότερες και φυτρώνουν χόρτα παντού, συνήθως είναι πιο σωστό να ξαναγίνει όλο το κομμάτι, π.χ. με νέο μπετό.",
+    "en": "If only a few slabs are broken, just those can be replaced. When most are broken and weeds grow everywhere, it usually makes more sense to redo the whole stretch, for example in new concrete.",
+    "ar": "إذا كانت البلاطات المكسورة قليلة، تُستبدل وحدها. أما إذا انكسر معظمها ونبتت الأعشاب في كل مكان، فالأفضل غالبًا إعادة القطعة كلها، بخرسانة جديدة مثلًا."
+  },
+  "body": {
+    "el": "Ένα πεζοδρόμιο με σπασμένες πλάκες δεν είναι μόνο άσχημο. Οι πλάκες που κουνιούνται και τα χόρτα με τα βρύα ανάμεσά τους κάνουν εύκολο να σκοντάψει ή να γλιστρήσει κανείς, και το νερό που μπαίνει από κάτω χαλάει σιγά σιγά και τις υπόλοιπες.\n\n![Σπασμένες πλάκες πεζοδρομίου με χόρτα και βρύα](concrete-sidewalk-rebuilt/before-1.jpg)\n\nΣε αυτό το πεζοδρόμιο οι πλάκες είχαν σπάσει σε όλο το μήκος. Αντί για μπαλώματα, στρώθηκε νέο μπετό από το κράσπεδο ως τον τοίχο, γύρω από το καπάκι του φρεατίου, και μια σανίδα έκλεινε το πέρασμα όσο έπηζε. Όταν στέγνωσε, η επιφάνεια βάφτηκε γκρι και η βάση του τοίχου λευκή.\n\n![Το νέο μπετό στο πεζοδρόμιο, με μια σανίδα να κλείνει το πέρασμα](concrete-sidewalk-rebuilt/after-1.jpg)\n\nΑν οι σπασμένες πλάκες είναι λίγες και οι υπόλοιπες κάθονται γερά, συνήθως αρκεί να αλλάξουν μόνο αυτές. Το δύσκολο είναι να βρεθούν ίδιες πλάκες, οπότε τα καινούργια κομμάτια μπορεί να ξεχωρίζουν.\n\nΤο πεζοδρόμιο είναι κοινόχρηστος χώρος, και σε πολλούς δήμους οι εργασίες πάνω του θέλουν έγκριση ή πρέπει να ακολουθούν συγκεκριμένες προδιαγραφές. Καλό είναι να ρωτήσετε τον δήμο σας πριν ξεκινήσει η δουλειά.",
+    "en": "A pavement with broken slabs isn't just an eyesore. Loose slabs, with weeds and moss between them, make it easy to trip or slip, and the water that gets underneath slowly damages the rest as well.\n\n![Broken pavement slabs with weeds and moss](concrete-sidewalk-rebuilt/before-1.jpg)\n\nOn this pavement the slabs had broken along its whole length. Instead of patching, new concrete was laid from the kerb to the wall, around the drain cover, with a timber board blocking the way while it set. Once it had dried, the surface was painted grey and the base of the wall white.\n\n![The new concrete on the pavement, with a board blocking the way](concrete-sidewalk-rebuilt/after-1.jpg)\n\nIf only a few slabs are broken and the rest are sitting firmly, replacing just those is usually enough. The hard part is finding matching slabs, so the new pieces may stand out.\n\nThe pavement is a public space, and in many municipalities work on it needs approval or has to follow set specifications. It's worth asking your municipality before the work starts.",
+    "ar": "الرصيف ذو البلاط المكسور ليس قبيح المنظر فقط. فالبلاط المتحرك والأعشاب والطحالب بينه تجعل التعثر أو الانزلاق سهلًا، والماء الذي يدخل تحته يُتلف ببطء البلاط الباقي أيضًا.\n\n![بلاط رصيف مكسور تنبت بينه الأعشاب والطحالب](concrete-sidewalk-rebuilt/before-1.jpg)\n\nفي هذا الرصيف كان البلاط مكسورًا على طوله كله. وبدل الترقيع صُبت خرسانة جديدة من حافة الرصيف إلى الجدار، حول غطاء فتحة التفتيش، ووُضع لوح خشبي يسد الطريق حتى تتماسك. وبعد أن جفت، دُهن السطح بالرمادي وأسفل الجدار بالأبيض.\n\n![الخرسانة الجديدة على الرصيف ولوح خشبي يسد الطريق](concrete-sidewalk-rebuilt/after-1.jpg)\n\nإذا كانت البلاطات المكسورة قليلة والباقي ثابتًا، فاستبدالها وحدها يكفي عادةً. والصعب هو إيجاد بلاط مطابق، لذلك قد تظهر القطع الجديدة مختلفة عن غيرها.\n\nوالرصيف مكان عام، وفي كثير من البلديات يحتاج العمل فيه إلى موافقة أو إلى اتباع مواصفات معينة. من الأفضل أن تسأل البلدية قبل بدء العمل."
+  },
+  "projects": [
+    "concrete-sidewalk-rebuilt"
+  ]
+}

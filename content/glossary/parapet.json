@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Στηθαίο",
+    "en": "Parapet",
+    "ar": "الجدار المحيط بالسطح"
+  },
+  "aliases": {
+    "el": [
+      "στηθαί*",
+      "τοιχί*"
+    ],
+    "en": [
+      "parapet*",
+      "low wall",
+      "low walls"
+    ],
+    "ar": [
+      "جدار المحيط",
+      "جدران المحيطة",
+      "جدار الحاجز",
+      "جدار المنخفض",
+      "جدران المنخفضة",
+      "دروة"
+    ]
+  },
+  "short": {
+    "el": "Ο χαμηλός τοίχος γύρω από την άκρη μιας ταράτσας ή ενός μπαλκονιού. Η ένωσή του με το δάπεδο είναι από τα πιο συνηθισμένα σημεία διαρροής.",
+    "en": "The low wall around the edge of a flat roof or balcony. The joint between it and the floor is one of the most common places for leaks.",
+    "ar": "الجدار المنخفض حول حافة السطح أو الشرفة. ويُعدّ التقاؤه بالأرضية من أكثر أماكن التسرب شيوعًا."
+  },
+  "body": {
+    "el": "Στηθαίο λέγεται το χαμηλό τοιχίο που περιβάλλει την ταράτσα ή το μπαλκόνι. Προστατεύει από πτώσεις, συχνά πάνω του στερεώνονται κάγκελα, και συγκρατεί το νερό της βροχής ώστε να οδηγηθεί στα σιφώνια και τις υδρορροές.\n\nΗ γωνία όπου το δάπεδο συναντά το στηθαίο είναι ευαίσθητο σημείο: εκεί τα υλικά κινούνται διαφορετικά, ανοίγουν ρωγμές και μαζεύεται νερό. Γι' αυτό η στεγανοποίηση δεν σταματά στο δάπεδο αλλά ανεβαίνει στο στηθαίο, συχνά με στρογγυλεμένη γωνία και ύφασμα οπλισμού, και καλό είναι να καλύπτει και την κορυφή του.\n\nΡωγμές στην κορυφή, σοβάδες που φουσκώνουν και σκουριασμένες βάσεις από κάγκελα αφήνουν το νερό να μπει μέσα στον τοίχο και να φτάσει στον όροφο από κάτω. Αξίζει να ελέγχονται σε κάθε επισκευή της ταράτσας.",
+    "en": "A parapet is the low wall that runs around a flat roof or a balcony. It protects against falls, often carries the railings, and holds back rainwater so it is led to the floor drains and gutters.\n\nThe corner where the floor meets the parapet is a sensitive spot: the materials move differently there, cracks open up and water collects. That is why waterproofing doesn't stop at the floor but runs up the parapet, often with a rounded corner and reinforcing fabric, and ideally covers its top as well.\n\nCracks along the top, blown render and rusty railing bases let water into the wall and down to the flat below. They are worth checking whenever the roof is repaired.",
+    "ar": "الجدار المحيط هو الجدار المنخفض الذي يحيط بالسطح أو الشرفة. يحمي من السقوط، وكثيرًا ما يُثبَّت عليه الدرابزين، ويحجز ماء المطر ليتجه نحو المصارف والمزاريب.\n\nالزاوية التي تلتقي فيها الأرضية بالجدار المحيط نقطة حساسة: فالمواد تتحرك هناك بشكل مختلف، فتنفتح الشقوق ويتجمع الماء. لذلك لا يتوقف العزل المائي عند الأرضية بل يصعد على الجدار، غالبًا مع تدوير الزاوية ونسيج تقوية، ومن الأفضل أن يغطي أعلاه أيضًا.\n\nالشقوق في أعلى الجدار، واللياسة المنتفخة، وقواعد الدرابزين الصدئة تسمح للماء بالدخول إلى الجدار والوصول إلى الطابق الذي تحته. ومن المفيد فحصها عند كل إصلاح للسطح."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-membrane-seams-parapets",
+    "file": "step-07.jpg"
+  },
+  "related": [
+    "roof-terrace",
+    "waterproofing",
+    "liquid-membrane"
+  ]
+}

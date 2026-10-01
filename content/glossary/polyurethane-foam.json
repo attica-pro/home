@@ -1,0 +1,53 @@
+{
+  "term": {
+    "el": "Ψεκαζόμενη πολυουρεθάνη",
+    "en": "Spray polyurethane foam",
+    "ar": "رغوة البولي يوريثان المرشوشة"
+  },
+  "aliases": {
+    "el": [
+      "ψεκαζόμενη πολυουρεθάνη",
+      "ψεκαζόμενης πολυουρεθάνης",
+      "αφρό πολυουρεθάνης",
+      "αφρός πολυουρεθάνης",
+      "αφρού πολυουρεθάνης",
+      "αφρός",
+      "αφρό",
+      "αφρού",
+      "αφροί"
+    ],
+    "en": [
+      "spray polyurethane foam",
+      "polyurethane foam",
+      "spray foam",
+      "foam"
+    ],
+    "ar": [
+      "رغوة البولي يوريثان",
+      "رغوة"
+    ]
+  },
+  "short": {
+    "el": "Αφρός που ψεκάζεται σε υγρή μορφή, φουσκώνει επί τόπου και σκληραίνει σε ενιαία στρώση χωρίς ενώσεις. Μονώνει θερμικά και κλείνει ρωγμές και αρμούς.",
+    "en": "A foam sprayed on as a liquid that expands on the spot and sets into one seamless layer. It insulates against heat and cold and closes cracks and joints.",
+    "ar": "رغوة تُرش وهي سائلة فتتمدد في مكانها وتتصلب في طبقة واحدة بلا فواصل. تعزل الحرارة والبرودة وتسد الشقوق والوصلات."
+  },
+  "body": {
+    "el": "Η ψεκαζόμενη πολυουρεθάνη φτιάχνεται από δύο υγρά συστατικά που αναμειγνύονται στο πιστόλι του μηχανήματος. Μόλις βγουν, φουσκώνουν σχεδόν αμέσως και γίνονται ένας ελαφρύς, σκληρός αφρός που κολλάει πάνω στην επιφάνεια. Επειδή ψεκάζεται, ακολουθεί κάθε σχήμα: ταράτσες, κυματοειδή φύλλα, λαμαρίνες, το ταβάνι μιας πιλοτής, γωνίες, σωλήνες και βάσεις.\n\nΤο μεγάλο της πλεονέκτημα είναι ότι σχηματίζει μία συνεχή στρώση χωρίς ενώσεις, που λειτουργεί ταυτόχρονα ως θερμομόνωση και ως φράγμα στο νερό. Πριν από τον ψεκασμό η επιφάνεια καθαρίζεται και συνήθως περνά αστάρι, για να πιάσει καλά ο αφρός.\n\nΟ αφρός δεν αντέχει μόνος του στον ήλιο: η υπεριώδης ακτινοβολία τον κιτρινίζει και τον φθείρει σταδιακά. Γι' αυτό σε εξωτερικούς χώρους πρέπει πάντα να σκεπάζεται, με ελαστομερές στεγανωτικό ή υγρή μεμβράνη, ή με γαρμπιλομπετό αν η ταράτσα θα πατιέται. Κατά τον ψεκασμό ο χώρος γύρω σκεπάζεται με νάιλον και ο τεχνίτης φορά προστατευτική στολή και μάσκα.",
+    "en": "Spray polyurethane foam is made from two liquid components that mix in the spray gun. As soon as they leave the gun they expand almost instantly into a light, rigid foam that sticks to the surface. Because it is sprayed, it follows any shape: flat roofs, corrugated sheets, metal roofs, the ceiling of a pilotis, corners, pipes and bases.\n\nIts big advantage is that it forms one continuous layer with no joints, which works as thermal insulation and as a barrier to water at the same time. Before spraying, the surface is cleaned and usually given a primer so the foam bonds well.\n\nThe foam cannot take the sun on its own: UV light yellows it and slowly wears it away. Outdoors it must always be covered, with an elastomeric coating or a liquid membrane, or with screed if the roof will be walked on. During spraying, everything around is covered in plastic sheeting and the sprayer wears a protective suit and mask.",
+    "ar": "تتكوّن رغوة البولي يوريثان المرشوشة من مكوّنين سائلين يختلطان داخل مسدس الرش. وما إن يخرجا منه حتى يتمددا فورًا تقريبًا ليصبحا رغوة خفيفة صلبة تلتصق بالسطح. ولأنها تُرش، فهي تتبع أي شكل: الأسطح المستوية، والألواح المموجة، والأسقف المعدنية، وسقف البيلوتي، والزوايا، والأنابيب، والقواعد.\n\nميزتها الكبرى أنها تشكّل طبقة واحدة متصلة بلا فواصل، تعمل في الوقت نفسه عزلًا حراريًا وحاجزًا أمام الماء. وقبل الرش يُنظَّف السطح وتوضع عليه عادةً طبقة أساس لتلتصق الرغوة جيدًا.\n\nلا تتحمل الرغوة الشمس وحدها، فالأشعة فوق البنفسجية تُصفّرها وتُتلفها تدريجيًا. لذلك يجب أن تُغطّى دائمًا في الأماكن المكشوفة، بطلاء عازل مطاطي أو بغشاء سائل، أو بطبقة تسوية إذا كان السطح سيُستخدم للمشي. وأثناء الرش تُغطّى المساحات المحيطة بالنايلون، ويرتدي العامل بدلة واقية وكمامة."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-water-tanks-spray-foam",
+    "file": "step-04.jpg"
+  },
+  "related": [
+    "thermal-insulation",
+    "primer",
+    "elastomeric-coating",
+    "screed"
+  ]
+}

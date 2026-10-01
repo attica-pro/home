@@ -1,0 +1,50 @@
+{
+  "term": {
+    "el": "Αιθάλη",
+    "en": "Soot",
+    "ar": "السخام"
+  },
+  "aliases": {
+    "el": [
+      "αιθάλη",
+      "αιθάλης",
+      "καπνιά",
+      "καπνιάς",
+      "κάπνα",
+      "κάπνας"
+    ],
+    "en": [
+      "soot",
+      "sooty",
+      "smoke damage",
+      "smoke stains"
+    ],
+    "ar": [
+      "سخام",
+      "هباب",
+      "سناج"
+    ]
+  },
+  "short": {
+    "el": "Η μαύρη, λιπαρή σκόνη που αφήνει ο καπνός στους τοίχους και στο ταβάνι, μετά από φωτιά ή από τζάκι και σόμπα. Αν βαφτεί από πάνω χωρίς καθαρισμό και αστάρι, ξαναβγαίνει.",
+    "en": "The black, greasy dust that smoke leaves on walls and ceilings after a fire, or from a fireplace or stove. Paint straight over it without cleaning and priming and it comes back through.",
+    "ar": "الغبار الأسود الدهني الذي يتركه الدخان على الجدران والأسقف بعد حريق أو من مدفأة أو موقد. وإذا طُلي فوقه دون تنظيف وطبقة أساس عاد ليظهر من خلال الطلاء."
+  },
+  "body": {
+    "el": "Η αιθάλη είναι λεπτά σωματίδια άνθρακα και λιπαρών ουσιών από τον καπνό. Μετά από μια φωτιά καλύπτει τοίχους, ταβάνια και κάθε επιφάνεια, αλλά πιο λεπτά στρώματα μαζεύονται και με τον καιρό, πάνω από τζάκια, σόμπες και καλοριφέρ και στην κουζίνα.\n\nΔεν αρκεί να βαφτεί από πάνω. Η αιθάλη εμποδίζει το χρώμα να πιάσει και οι λεκέδες της «περνούν» μέσα από το καινούργιο χρώμα. Πρώτα καθαρίζεται όσο γίνεται πιο προσεκτικά και μετά οι επιφάνειες περνιούνται με αστάρι που μπλοκάρει τους λεκέδες, πριν από το τελικό βάψιμο.\n\nΜετά από φωτιά, η αιθάλη είναι συνήθως το πιο ορατό πρόβλημα, όχι όμως το μόνο. Η θερμότητα μπορεί να έχει ξεκολλήσει σοβάδες και χρώματα ή να έχει καταπονήσει το μπετόν, γι' αυτό ελέγχεται τι κρατάει πριν ξεκινήσει οποιαδήποτε επισκευή. Και η μυρωδιά του καπνού μένει, αν οι επιφάνειες δεν καθαριστούν και δεν σφραγιστούν σωστά.",
+    "en": "Soot is made of fine particles of carbon and greasy residue from smoke. After a fire it coats walls, ceilings and every other surface, but thinner layers also build up over time above fireplaces, stoves and radiators and in kitchens.\n\nPainting over it is not enough. Soot stops paint from bonding, and its stains bleed through the new paint. It is first cleaned off as carefully as possible, then the surfaces get a stain-blocking primer before the final paint.\n\nAfter a fire, soot is usually the most visible problem, but not the only one. The heat may have loosened render and paint or stressed the concrete, so what is still sound is checked before any repair starts. The smell of smoke also lingers unless the surfaces are properly cleaned and sealed.",
+    "ar": "السخام جزيئات دقيقة من الكربون ومواد دهنية يخلّفها الدخان. بعد الحريق يغطي الجدران والأسقف وكل سطح آخر، لكن طبقات أرق تتراكم أيضًا مع الوقت فوق المدافئ والمواقد والمشعات وفي المطبخ.\n\nلا يكفي الطلاء فوقه. فالسخام يمنع الطلاء من الالتصاق، وتعود بقعه لتظهر من خلال الطلاء الجديد. لذلك يُنظف أولًا بأكبر قدر ممكن من العناية، ثم تُدهن الأسطح بطبقة أساس تمنع ظهور البقع قبل الطلاء النهائي.\n\nبعد الحريق يكون السخام عادةً أوضح مشكلة، لكنه ليس الوحيدة. فقد تكون الحرارة فككت اللياسة والطلاء أو أجهدت الخرسانة، لذلك يُفحص ما بقي سليمًا قبل البدء بأي إصلاح. كما تبقى رائحة الدخان إذا لم تُنظف الأسطح وتُعزل كما يجب."
+  },
+  "categories": [
+    "painting"
+  ],
+  "photo": {
+    "project": "fire-damaged-room",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "primer",
+    "render",
+    "emulsion-paint"
+  ]
+}

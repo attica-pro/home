@@ -1,0 +1,59 @@
+{
+  "term": {
+    "el": "Σιφώνι",
+    "en": "Floor drain",
+    "ar": "مصرف الأرضية"
+  },
+  "aliases": {
+    "el": [
+      "σιφώνι*",
+      "σιφωνι*",
+      "κανάλι αποχέτευσης",
+      "στόμιο απορροής",
+      "στόμια απορροής",
+      "απορροές"
+    ],
+    "en": [
+      "floor drain*",
+      "channel drain*",
+      "shower drain*",
+      "roof drain*",
+      "drain outlet*",
+      "the drain",
+      "the drains",
+      "new drain"
+    ],
+    "ar": [
+      "مصرف",
+      "مصارف",
+      "مصرف الأرضية",
+      "بالوعة",
+      "فتحات الصرف",
+      "فتحة الصرف"
+    ]
+  },
+  "short": {
+    "el": "Το στόμιο στο δάπεδο από όπου φεύγει το νερό σε ταράτσες, μπαλκόνια και μπάνια, με σχάρα από πάνω και συνήθως οσμοπαγίδα από κάτω.",
+    "en": "The outlet in a floor where water drains away on roofs, balconies and in bathrooms, with a grate on top and usually a trap below.",
+    "ar": "الفتحة في الأرضية التي يخرج منها الماء في الأسطح والشرفات والحمامات، وعليها شبكة، وتحتها عادةً مانع للروائح."
+  },
+  "body": {
+    "el": "Σιφώνι λέμε το στόμιο αποχέτευσης στο δάπεδο. Σε ταράτσες και μπαλκόνια μαζεύει τη βροχή και τη στέλνει στις σωληνώσεις, ενώ στο μπάνιο παίρνει το νερό της ντουζιέρας. Πολλά σιφώνια έχουν οσμοπαγίδα, ένα μικρό «κύπελλο» νερού που εμποδίζει τις μυρωδιές να ανεβαίνουν. Στις ντουζιέρες δαπέδου χρησιμοποιείται συχνά γραμμικό σιφώνι, ένα στενόμακρο κανάλι.\n\nΗ σύνδεση του σιφωνιού με τη στεγάνωση είναι από τα πιο κρίσιμα σημεία μιας ταράτσας ή ενός μπάνιου. Το στεγανωτικό πρέπει να μπαίνει μέσα στο στόμιο ή να κολλά σε ειδική φλάντζα, ώστε το νερό να πέφτει μέσα και όχι γύρω από αυτό. Το δάπεδο πρέπει να έχει σωστές κλίσεις προς το σιφώνι.\n\nΣιφώνια βουλωμένα από φύλλα και χώματα κάνουν το νερό να λιμνάζει και να βρίσκει ρωγμές, γι' αυτό αξίζει να καθαρίζονται τακτικά, ειδικά πριν από το φθινόπωρο. Σκουριασμένα ή σπασμένα παλιά σιφώνια συνήθως αλλάζουν πριν από μια νέα στεγανοποίηση.",
+    "en": "A floor drain is the drainage outlet set into a floor. On flat roofs and balconies it collects rain and sends it into the pipes; in a bathroom it takes the shower water. Many drains have a trap, a small cup of water that stops smells coming up. Walk-in showers often use a linear drain, a long narrow channel.\n\nThe point where the drain meets the waterproofing is one of the most critical on a roof or in a bathroom. The waterproofing has to go down into the outlet or bond to a special flange, so water falls into the drain and not around it. The floor needs proper falls towards it.\n\nDrains clogged with leaves and soil make water pool and find cracks, so they are worth clearing regularly, especially before autumn. Rusty or broken old drains are usually replaced before new waterproofing goes on.",
+    "ar": "مصرف الأرضية هو فتحة التصريف المثبتة في الأرضية. في الأسطح والشرفات يجمع ماء المطر ويرسله إلى الأنابيب، وفي الحمام يأخذ ماء الدش. وكثير من المصارف فيها مانع للروائح، وهو كوب صغير من الماء يمنع الروائح من الصعود. وفي أحواض الاستحمام الأرضية يُستخدم غالبًا مصرف طولي، وهو قناة ضيقة طويلة.\n\nنقطة التقاء المصرف بالعزل المائي من أهم النقاط في السطح أو الحمام. فيجب أن يدخل العازل داخل الفتحة أو يلتصق بحلقة خاصة، ليسقط الماء فيها لا حولها. ويجب أن تكون للأرضية ميول صحيحة نحو المصرف.\n\nالمصارف المسدودة بالأوراق والتراب تجعل الماء يتجمع ويجد الشقوق، لذلك من المفيد تنظيفها بانتظام، خاصة قبل الخريف. أما المصارف القديمة الصدئة أو المكسورة فتُستبدل عادةً قبل عزل مائي جديد."
+  },
+  "categories": [
+    "insulation",
+    "renovations"
+  ],
+  "photo": {
+    "project": "balcony-drain-outlets-sealed",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "falls",
+    "waterproofing",
+    "walk-in-shower",
+    "gutter"
+  ]
+}

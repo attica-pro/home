@@ -1,0 +1,59 @@
+{
+  "term": {
+    "el": "Ψυχρή (ανακλαστική) επίστρωση",
+    "en": "Cool roof coating",
+    "ar": "طلاء السقف البارد (العاكس)"
+  },
+  "aliases": {
+    "el": [
+      "ψυχρά υλικά",
+      "ψυχρή επίστρωση",
+      "ψυχρής επίστρωσης",
+      "ψυχρές επιστρώσεις",
+      "ψυχρό δώμα",
+      "ψυχρά δώματα",
+      "ψυχρή στέγη",
+      "cool roof",
+      "ανακλαστικ*",
+      "αντανακλά τον ήλιο",
+      "αντανακλά τη ζέστη"
+    ],
+    "en": [
+      "cool roof*",
+      "reflective coating*",
+      "reflective",
+      "reflectivity",
+      "reflects the sun",
+      "reflects the heat"
+    ],
+    "ar": [
+      "سقف البارد",
+      "سقف بارد",
+      "طلاء عاكس",
+      "مواد العاكسة",
+      "يعكس الشمس"
+    ]
+  },
+  "short": {
+    "el": "Λευκή ή πολύ ανοιχτόχρωμη τελική στρώση που αντανακλά μεγάλο μέρος της ηλιακής ακτινοβολίας, ώστε η ταράτσα και ο όροφος από κάτω να ζεσταίνονται λιγότερο.",
+    "en": "A white or very light top coat that reflects much of the sun's radiation, so the roof and the floor below heat up less.",
+    "ar": "طبقة نهائية بيضاء أو فاتحة جدًا تعكس جزءًا كبيرًا من أشعة الشمس، فيسخن السطح والطابق الذي تحته بدرجة أقل."
+  },
+  "body": {
+    "el": "Η ψυχρή επίστρωση είναι ένα λευκό ή πολύ ανοιχτόχρωμο υλικό με υψηλή ανακλαστικότητα. Αντί να απορροφά τον ήλιο και να ζεσταίνει την πλάκα, στέλνει πίσω το μεγαλύτερο μέρος της ακτινοβολίας. Έτσι η ταράτσα μένει πιο δροσερή και ο όροφος από κάτω ζεσταίνεται λιγότερο το καλοκαίρι.\n\nΣυνήθως είναι ελαστομερές ή πολυουρεθανικό στεγανωτικό σε λευκό χρώμα, που περνά ως τελική στρώση πάνω από τη στεγάνωση ή πάνω από ψεκαζόμενη πολυουρεθάνη. Από μόνη της δεν αντικαθιστά ούτε τη στεγανοποίηση ούτε τη θερμομόνωση· τις συμπληρώνει.\n\nΗ ανακλαστικότητα πέφτει όσο η επιφάνεια λερώνεται από σκόνη, φύλλα και καυσαέρια. Ένα πλύσιμο κάθε τόσο και η ανανέωση της στρώσης όταν φθαρεί την κρατούν αποτελεσματική. Σε σημεία που πατιούνται συχνά το λευκό φθείρεται πιο γρήγορα.",
+    "en": "A cool roof coating is a white or very light material with high reflectivity. Instead of soaking up the sun and heating the slab, it sends most of the radiation back. The roof stays cooler, and the floor below heats up less in summer.\n\nIt is usually a white elastomeric or polyurethane coating, applied as the top coat over the waterproofing or over spray polyurethane foam. On its own it replaces neither waterproofing nor thermal insulation; it adds to them.\n\nReflectivity drops as the surface gets dirty with dust, leaves and soot. An occasional wash and renewing the coat once it wears keep it working. Where people walk often, the white wears faster.",
+    "ar": "طلاء السقف البارد مادة بيضاء أو فاتحة جدًا عالية الانعكاس. فبدلًا من أن يمتص الشمس ويسخّن البلاطة، يردّ معظم الأشعة. وبذلك يبقى السطح أبرد، ويسخن الطابق الذي تحته بدرجة أقل في الصيف.\n\nيكون غالبًا طلاءً عازلًا مطاطيًا أو من البولي يوريثان باللون الأبيض، يوضع طبقةً نهائية فوق العزل المائي أو فوق رغوة البولي يوريثان. وهو وحده لا يحل محل العزل المائي ولا العزل الحراري، بل يكملهما.\n\nتقل قدرته على الانعكاس كلما اتسخ السطح بالغبار وأوراق الشجر والسخام. والغسل بين حين وآخر وتجديد الطبقة حين تتآكل يحافظان على فعاليته. وفي الأماكن التي يكثر فيها المشي يتآكل اللون الأبيض أسرع."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "city-view-roof-white-coating",
+    "file": "after-1.jpg"
+  },
+  "related": [
+    "elastomeric-coating",
+    "thermal-insulation",
+    "roof-terrace"
+  ]
+}

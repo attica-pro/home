@@ -1,0 +1,61 @@
+{
+  "term": {
+    "el": "Σοβάς",
+    "en": "Render (plaster)",
+    "ar": "اللياسة"
+  },
+  "aliases": {
+    "el": [
+      "σοβά*",
+      "σοβατίζ*",
+      "σοβατίσ*",
+      "σοβάτισ*",
+      "ξανασοβατίζ*",
+      "ανασοβάτισ*",
+      "ανασοβατίσ*"
+    ],
+    "en": [
+      "render",
+      "rendered",
+      "renders",
+      "rendering",
+      "re-render*",
+      "plaster",
+      "plastered",
+      "plastering",
+      "replaster*"
+    ],
+    "ar": [
+      "جص",
+      "لياس*",
+      "مليس*",
+      "ملياس*",
+      "تلييس"
+    ]
+  },
+  "short": {
+    "el": "Το κονίαμα από άμμο, τσιμέντο ή ασβέστη και νερό που απλώνεται πάνω σε τούβλα ή μπετόν και δίνει στον τοίχο ίσια, γερή επιφάνεια, έτοιμη για βάψιμο ή πλακάκια.",
+    "en": "A layer of mortar (sand, cement or lime, and water) spread over brick or concrete to give a wall a straight, sound surface ready for paint or tiles.",
+    "ar": "طبقة من الملاط (رمل وإسمنت أو جير مع الماء) تُفرد على الطوب أو الخرسانة لتمنح الجدار سطحًا مستويًا ومتينًا جاهزًا للطلاء أو البلاط."
+  },
+  "body": {
+    "el": "Ο σοβάς είναι η στρώση κονιάματος που ντύνει τους τοίχους και τα ταβάνια, μέσα και έξω. Μπαίνει συνήθως σε στρώσεις: ένα πρώτο, τραχύ χέρι που «πιάνει» στο τούβλο ή στο μπετόν, και από πάνω πιο λεπτές στρώσεις που ισιώνουν την επιφάνεια. Στο τέλος ο τοίχος είτε στοκάρεται και βάφεται είτε δέχεται πλακάκια.\n\nΜε τα χρόνια, η υγρασία, τα άλατα και οι μικρές κινήσεις του κτιρίου κάνουν τον σοβά να φουσκώνει, να ραγίζει ή να «κουφαίνει», δηλαδή να ξεκολλά από τον τοίχο ενώ φαίνεται ακόμα στη θέση του. Ένας κούφιος σοβάς ακούγεται υπόκωφα όταν τον χτυπάς ελαφρά.\n\nΑν ο σοβάς από κάτω δεν είναι γερός, κανένα χρώμα δεν θα κρατήσει. Γι' αυτό, πριν από το βάψιμο, ό,τι είναι σαθρό αφαιρείται μέχρι να βρεθεί γερή βάση και το κενό γεμίζει με νέο σοβά. Αν η αιτία είναι υγρασία, πρέπει να λυθεί πρώτα αυτή, αλλιώς ο καινούργιος σοβάς θα πάθει τα ίδια.",
+    "en": "Render is the layer of mortar that covers walls and ceilings, inside and out (indoors it is often just called plaster). It usually goes on in coats: a first, rough coat that grips the brick or concrete, then thinner coats that bring the surface straight. Finally the wall is either filled and painted or tiled.\n\nOver the years, damp, salts and small movements in the building make render blister, crack or go hollow, meaning it comes away from the wall behind while still looking as if it is in place. Hollow render sounds dull when you tap it lightly.\n\nIf the render underneath is not sound, no paint will last on it. So before painting, anything loose is removed back to a solid base and the gap is filled with new render. If the cause is damp, that has to be dealt with first, or the new render will fail the same way.",
+    "ar": "اللياسة هي طبقة الملاط التي تكسو الجدران والأسقف من الداخل والخارج. وتوضع عادةً على طبقات: طبقة أولى خشنة تتماسك مع الطوب أو الخرسانة، ثم طبقات أرق فوقها تجعل السطح مستويًا. وفي النهاية إما يُعالج الجدار بالمعجون ويُطلى، وإما يُكسى بالبلاط.\n\nمع مرور السنين تجعل الرطوبة والأملاح والحركات الصغيرة في المبنى اللياسة تنتفخ أو تتشقق أو تصبح جوفاء، أي تنفصل عن الجدار من الخلف مع أنها تبدو في مكانها. وعند النقر عليها برفق تُصدر اللياسة الجوفاء صوتًا مكتومًا.\n\nإذا لم تكن اللياسة تحت الطلاء سليمة فلن يصمد أي طلاء فوقها. لذلك يُزال قبل الطلاء كل ما هو مفكك حتى الوصول إلى أساس متين، ثم يُملأ الفراغ بلياسة جديدة. وإذا كان السبب رطوبة فيجب علاجها أولًا، وإلا أصاب اللياسة الجديدة ما أصاب القديمة."
+  },
+  "categories": [
+    "painting",
+    "renovations",
+    "repairs"
+  ],
+  "photo": {
+    "project": "narrow-wc-renovation",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "filler",
+    "crack",
+    "rising-damp",
+    "peeling-paint"
+  ]
+}

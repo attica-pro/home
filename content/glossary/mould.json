@@ -1,0 +1,47 @@
+{
+  "term": {
+    "el": "Μούχλα",
+    "en": "Mould",
+    "ar": "العفن"
+  },
+  "aliases": {
+    "el": [
+      "μούχλ*",
+      "μουχλ*"
+    ],
+    "en": [
+      "mould",
+      "mouldy",
+      "mold",
+      "moldy"
+    ],
+    "ar": [
+      "عفن",
+      "فطريات العفن"
+    ]
+  },
+  "short": {
+    "el": "Μύκητες που φυτρώνουν σε υγρές επιφάνειες και αφήνουν μαύρα ή πρασινωπά στίγματα και μυρωδιά κλεισούρας. Είναι σύμπτωμα υγρασίας, όχι πρόβλημα του χρώματος.",
+    "en": "Fungi that grow on damp surfaces, leaving black or greenish spots and a musty smell. It is a symptom of damp, not a problem with the paint.",
+    "ar": "فطريات تنمو على الأسطح الرطبة وتترك بقعًا سوداء أو مخضرّة ورائحة عفونة. وهي علامة على الرطوبة، لا مشكلة في الدهان."
+  },
+  "body": {
+    "el": "Η μούχλα είναι μικροσκοπικοί μύκητες που αναπτύσσονται όπου μια επιφάνεια μένει υγρή για αρκετό καιρό. Μέσα στο σπίτι εμφανίζεται ως μαύρα, γκρίζα ή πρασινωπά στίγματα, συνήθως σε γωνίες, ταβάνια, πίσω από έπιπλα, γύρω από παράθυρα και σε μπάνια. Στις όψεις, μαζί με τα βρύα, πρασινίζει τους βόρειους τοίχους.\n\nΠίσω από τη μούχλα υπάρχει πάντα νερό: υγρασία συμπύκνωσης από κακό αερισμό και κρύους τοίχους, διαρροή από ταράτσα ή σωλήνα, ή ανερχόμενη υγρασία. Αν η αιτία δεν βρεθεί και δεν διορθωθεί, η μούχλα επιστρέφει, ακόμη και μέσα από το καινούργιο χρώμα.\n\nΠριν από το βάψιμο, η μούχλα καθαρίζεται, η επιφάνεια περνιέται με κατάλληλο μυκητοκτόνο και αφήνεται να στεγνώσει καλά. Μετά μπορεί να χρησιμοποιηθεί αντιμυκητιακό χρώμα. Επειδή οι μύκητες ερεθίζουν την αναπνοή, κατά τον καθαρισμό καλό είναι να φοριούνται γάντια και μάσκα και ο χώρος να αερίζεται.",
+    "en": "Mould is made up of tiny fungi that grow wherever a surface stays damp for long enough. Indoors it shows as black, grey or greenish spots, usually in corners, on ceilings, behind furniture, around windows and in bathrooms. Outside, together with moss, it turns north-facing walls green.\n\nBehind mould there is always water: condensation from poor ventilation and cold walls, a leak from the roof or a pipe, or rising damp. If the cause isn't found and fixed, the mould comes back, even through fresh paint.\n\nBefore painting, the mould is cleaned off, the surface treated with a suitable fungicide and left to dry thoroughly. An anti-mould paint can then be used. Because the spores irritate the lungs, it is wise to wear gloves and a mask while cleaning and to keep the room aired.",
+    "ar": "العفن فطريات دقيقة جدًا تنمو حيث يبقى السطح رطبًا مدة كافية. وداخل البيت يظهر على شكل بقع سوداء أو رمادية أو مخضرّة، عادةً في الزوايا والأسقف وخلف الأثاث وحول النوافذ وفي الحمامات. وعلى الواجهات، مع الطحالب، يجعل الجدران الشمالية خضراء.\n\nوراء العفن يوجد دائمًا ماء: رطوبة التكاثف بسبب سوء التهوية وبرودة الجدران، أو تسرب من السطح أو من أنبوب، أو الرطوبة الصاعدة. وإذا لم يُعرف السبب ويُصلح، يعود العفن حتى من خلال الدهان الجديد.\n\nقبل الدهان يُنظَّف العفن، ويُعالج السطح بمبيد فطريات مناسب ويُترك ليجف جيدًا. وبعدها يمكن استخدام دهان مضاد للعفن. ولأن الفطريات تهيّج الجهاز التنفسي، يُستحسن ارتداء القفازات والكمامة أثناء التنظيف وتهوية المكان."
+  },
+  "categories": [
+    "painting",
+    "repairs"
+  ],
+  "photo": {
+    "project": "old-apartment-damp-peeling-walls",
+    "file": "step-06.jpg"
+  },
+  "related": [
+    "condensation",
+    "rising-damp",
+    "emulsion-paint",
+    "peeling-paint"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "term": {
+    "el": "Μπάζα",
+    "en": "Debris (rubble)",
+    "ar": "الأنقاض"
+  },
+  "aliases": {
+    "el": [
+      "μπάζα",
+      "μπάζων",
+      "μπαζών",
+      "μπαζοσακ*",
+      "μπαζόσακ*"
+    ],
+    "en": [
+      "rubble",
+      "building debris",
+      "construction debris",
+      "demolition debris",
+      "demolition waste",
+      "construction waste"
+    ],
+    "ar": [
+      "أنقاض",
+      "ركام",
+      "مخلفات البناء",
+      "مخلفات الهدم",
+      "ردم"
+    ]
+  },
+  "short": {
+    "el": "Τα άχρηστα υλικά που βγαίνουν από καθαιρέσεις και οικοδομικές εργασίες: σπασμένα πλακάκια, σοβάδες, τούβλα, μπετά. Μαζεύονται σε σακιά και πρέπει να απομακρύνονται νόμιμα.",
+    "en": "The waste that comes out of demolition and building work: broken tiles, render, bricks and concrete. It is collected in bags and has to be disposed of legally.",
+    "ar": "المواد غير الصالحة الناتجة عن الهدم وأعمال البناء: بلاط مكسور ولياسة وطوب وخرسانة. تُجمع في أكياس ويجب التخلص منها بطريقة قانونية."
+  },
+  "body": {
+    "el": "Κάθε ανακαίνιση βγάζει μπάζα: σπασμένα πλακάκια και τούβλα, κομμάτια σοβά και μπετόν, παλιά κόλλα και τσιμεντοκονίες. Ακόμα και ένα μικρό μπάνιο γεμίζει πολλά σακιά.\n\nΣτις πολυκατοικίες, τα μπάζα μαζεύονται σε σακιά μέσα στο διαμέρισμα και κατεβαίνουν από τη σκάλα ή με το ασανσέρ, με προστασία στους κοινόχρηστους χώρους. Από εκεί φορτώνονται σε φορτηγάκι ή σε κάδο. Για κάδο στον δρόμο ή στο πεζοδρόμιο συνήθως χρειάζεται άδεια από τον δήμο.\n\nΤα μπάζα δεν πετιούνται στους κάδους των σκουπιδιών ούτε σε άδεια οικόπεδα. Τα απόβλητα από οικοδομικές εργασίες πρέπει να καταλήγουν σε αδειοδοτημένο σύστημα διαχείρισης, και καλό είναι ο ιδιοκτήτης να ξέρει πού πήγαν.",
+    "en": "Every renovation produces rubble: broken tiles and bricks, chunks of render and concrete, old tile adhesive and screed. Even a small bathroom fills a lot of bags.\n\nIn apartment blocks, the rubble is bagged inside the flat and carried down the stairs or in the lift, with the shared areas protected. From there it is loaded onto a small truck or into a skip. A skip on the street or pavement usually needs a permit from the municipality.\n\nRubble must not go in household bins or be dumped on empty plots. Waste from building work has to end up with a licensed waste management scheme, and it is worth the owner knowing where it went.",
+    "ar": "كل تجديد يُخرج أنقاضًا: بلاطًا وطوبًا مكسورًا، وقطعًا من اللياسة والخرسانة، ولاصق بلاط قديمًا وطبقات إسمنتية. وحتى الحمام الصغير يملأ أكياسًا كثيرة.\n\nفي العمارات السكنية تُجمع الأنقاض في أكياس داخل الشقة وتُنزل عبر الدرج أو المصعد، مع حماية الأماكن المشتركة. ومن هناك تُحمّل في شاحنة صغيرة أو في حاوية. ووضع حاوية في الشارع أو على الرصيف يحتاج عادةً إلى ترخيص من البلدية.\n\nلا تُرمى الأنقاض في حاويات القمامة ولا في الأراضي الخالية. فمخلفات أعمال البناء يجب أن تنتهي لدى جهة مرخصة لإدارتها، ومن الجيد أن يعرف المالك أين ذهبت."
+  },
+  "categories": [
+    "demolition"
+  ],
+  "photo": {
+    "project": "kitchen-walls-stripped-replastered",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "demolition",
+    "tile-adhesive"
+  ]
+}

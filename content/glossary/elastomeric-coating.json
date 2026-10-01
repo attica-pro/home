@@ -1,0 +1,59 @@
+{
+  "term": {
+    "el": "Ελαστομερές στεγανωτικό",
+    "en": "Elastomeric waterproof coating",
+    "ar": "الطلاء العازل المطاطي"
+  },
+  "aliases": {
+    "el": [
+      "ελαστομερές",
+      "ελαστομερή",
+      "ελαστομερούς",
+      "ελαστομερών",
+      "στεγανωτική επίστρωση",
+      "στεγανωτικής επίστρωσης",
+      "στεγανωτικές επιστρώσεις",
+      "λευκή στεγανωτική επίστρωση",
+      "λευκή επίστρωση",
+      "λευκής επίστρωσης"
+    ],
+    "en": [
+      "elastomeric coating*",
+      "elastomeric paint*",
+      "waterproof coating*",
+      "white coating"
+    ],
+    "ar": [
+      "طلاء عازل",
+      "طلاء العازل",
+      "طلاء الأبيض العازل",
+      "طلاء أبيض عازل",
+      "طلاء مطاطي",
+      "طلاء المطاطي"
+    ]
+  },
+  "short": {
+    "el": "Παχύ, ελαστικό στεγανωτικό χρώμα για ταράτσες, στηθαία και στέγες. Τεντώνει χωρίς να σκάει όταν το κτίριο διαστέλλεται και γεφυρώνει τις τριχοειδείς ρωγμές.",
+    "en": "A thick, rubbery waterproof paint for flat roofs, parapets and roofs. It stretches without cracking as the building expands and bridges hairline cracks.",
+    "ar": "طلاء عازل للماء سميك ومرن للأسطح والجدران المحيطة والأسقف. يتمدد دون أن يتشقق حين يتمدد المبنى، ويغطي الشقوق الشعرية."
+  },
+  "body": {
+    "el": "Το ελαστομερές στεγανωτικό είναι ένα παχύ χρώμα, συνήθως ακρυλικής βάσης, που όταν στεγνώσει μένει ελαστικό σαν λάστιχο. Έτσι ακολουθεί τις μικρές κινήσεις της πλάκας από τη ζέστη και το κρύο χωρίς να ραγίζει, και γεφυρώνει τις τριχοειδείς ρωγμές.\n\nΧρησιμοποιείται ως τελική στρώση σε ταράτσες, πάνω από ψεκαζόμενη πολυουρεθάνη για να την προστατεύσει από τον ήλιο, σε στηθαία, σε κυματοειδή φύλλα και σε όψεις που χρειάζονται κάτι πιο ανθεκτικό από ένα απλό χρώμα. Σε λευκό χρώμα αντανακλά τον ήλιο και κρατά πιο δροσερό τον χώρο από κάτω.\n\nΔεν είναι όλα τα ελαστομερή ίδια: άλλα αντέχουν σε περπάτημα και σε νερά που λιμνάζουν και άλλα όχι. Η επιφάνεια πρέπει να είναι καθαρή και ασταρωμένη, και το υλικό να απλωθεί στο πάχος που ορίζει ο κατασκευαστής, σε περισσότερες από μία στρώσεις. Με τα χρόνια θέλει ανανέωση.",
+    "en": "An elastomeric coating is a thick paint, usually acrylic-based, that stays rubbery once dry. That lets it follow the small movements of a roof slab with heat and cold without cracking, and bridge hairline cracks.\n\nIt is used as the top coat on flat roofs, over spray polyurethane foam to protect it from the sun, on parapets, on corrugated sheets and on walls that need something tougher than ordinary paint. In white it reflects the sun and keeps the space below cooler.\n\nNot all elastomeric coatings are the same: some can take foot traffic and standing water and others cannot. The surface must be clean and primed, and the material applied at the thickness the manufacturer specifies, in more than one coat. It needs renewing over the years.",
+    "ar": "الطلاء العازل المطاطي دهان سميك، غالبًا على أساس الأكريليك، يبقى مرنًا كالمطاط بعد أن يجف. وبذلك يتبع الحركات الصغيرة لبلاطة السطح مع الحر والبرد دون أن يتشقق، ويغطي الشقوق الشعرية.\n\nيُستخدم طبقةً نهائية على الأسطح، وفوق رغوة البولي يوريثان لحمايتها من الشمس، وعلى الجدران المحيطة والألواح المموجة والواجهات التي تحتاج إلى ما هو أمتن من الدهان العادي. وباللون الأبيض يعكس الشمس ويُبقي المكان تحته أبرد.\n\nليست كل الطلاءات المطاطية متشابهة: فبعضها يتحمل المشي والماء الراكد وبعضها لا يتحمله. ويجب أن يكون السطح نظيفًا ومطليًا بطبقة أساس، وأن تُفرد المادة بالسماكة التي تحددها الشركة المصنّعة، على أكثر من طبقة. ويحتاج إلى تجديد مع مرور السنين."
+  },
+  "categories": [
+    "insulation",
+    "painting"
+  ],
+  "photo": {
+    "project": "roof-terrace-joints-railings",
+    "file": "step-04.jpg"
+  },
+  "related": [
+    "liquid-membrane",
+    "cool-roof",
+    "polyurethane-foam",
+    "primer"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "term": {
+    "el": "Αρμός (αρμολόγημα)",
+    "en": "Grout joint",
+    "ar": "فواصل البلاط (الترويب)"
+  },
+  "aliases": {
+    "el": [
+      "αρμός",
+      "αρμό",
+      "αρμοί",
+      "αρμού",
+      "αρμούς",
+      "αρμών",
+      "αρμολόγ*",
+      "αρμόστοκ*"
+    ],
+    "en": [
+      "grout",
+      "grouted",
+      "grouting",
+      "grout line*",
+      "grout joint*",
+      "tile joints",
+      "paving joints",
+      "expansion joint*"
+    ],
+    "ar": [
+      "فواصل البلاط",
+      "فواصل بلاط",
+      "فواصل الحجر",
+      "فواصله",
+      "ترويب*",
+      "روبة"
+    ]
+  },
+  "short": {
+    "el": "Το κενό ανάμεσα σε πλακάκια, πλάκες ή πέτρες, και το υλικό που το γεμίζει. Αρμολόγημα λέγεται το γέμισμα των αρμών, που δένει την επιφάνεια και κρατά έξω νερό και βρωμιά.",
+    "en": "The gap between tiles, slabs or stones, and the material that fills it. Grouting means filling these joints, which locks the surface together and keeps out water and dirt.",
+    "ar": "الفراغ بين البلاطات أو الألواح أو الأحجار، والمادة التي تملؤه. والترويب هو ملء هذه الفواصل، فيتماسك السطح ولا يدخله الماء والأوساخ."
+  },
+  "body": {
+    "el": "Τα πλακάκια και οι πέτρες δεν στρώνονται κολλητά. Ανάμεσά τους αφήνεται ένα μικρό κενό, ο αρμός, που απορροφά τις μικρές διαφορές στις διαστάσεις και τις κινήσεις από τη ζέστη και το κρύο. Όταν η κόλλα στεγνώσει, οι αρμοί γεμίζουν με αρμόστοκο, ένα λεπτό κονίαμα σε πολλά χρώματα, ή, όπου χρειάζεται μεγαλύτερη αντοχή σε νερό και λεκέδες, με εποξειδικό υλικό.\n\nΣε μεγάλες επιφάνειες, όπως ταράτσες, αυλές και πλακοστρώσεις, υπάρχουν και αρμοί διαστολής: πιο φαρδιές ενώσεις που χωρίζουν το δάπεδο σε κομμάτια, ώστε να μπορεί να κινείται χωρίς να σπάει. Αυτοί δεν γεμίζουν με άκαμπτο υλικό αλλά με ελαστικό σφραγιστικό.\n\nΜε τα χρόνια οι αρμοί μαυρίζουν, θρυμματίζονται ή ανοίγουν. Στα μπάνια και στις κουζίνες ένας χαλασμένος αρμός μαζεύει μούχλα, ενώ σε ταράτσες και μπαλκόνια είναι από τα πρώτα σημεία από όπου μπαίνει το νερό. Οι φθαρμένοι αρμοί αδειάζουν, καθαρίζονται και γεμίζουν ξανά. Κατά μήκος της μπανιέρας ή της ντουζιέρας, όπου υπάρχει κίνηση, μπαίνει σιλικόνη αντί για αρμόστοκο.",
+    "en": "Tiles and stones are not laid tight against each other. A small gap, the joint, is left between them to take up small differences in size and the movement caused by heat and cold. Once the adhesive has set, the joints are filled with grout, a fine mortar that comes in many colours, or, where more resistance to water and stains is needed, with an epoxy grout.\n\nLarge surfaces such as roof terraces, courtyards and stone paving also have expansion joints: wider joints that divide the floor into sections so it can move without cracking. These are not filled with a rigid material but with a flexible sealant.\n\nOver the years, joints darken, crumble or open up. In bathrooms and kitchens a failing joint collects mould, and on terraces and balconies joints are among the first places water gets in. Worn joints are raked out, cleaned and filled again. Along a bath or shower tray, where there is movement, silicone is used instead of grout.",
+    "ar": "لا يُرص البلاط ولا الحجر ملتصقًا بعضه ببعض. بل يُترك بينها فراغ صغير، هو الفاصل، يستوعب الفروق الصغيرة في المقاسات والحركة الناتجة عن الحر والبرد. وبعد أن يجف اللاصق تُملأ الفواصل بمادة الترويب، وهي ملاط ناعم بألوان كثيرة، أو بمادة إيبوكسية حيث تلزم مقاومة أكبر للماء والبقع.\n\nفي المساحات الكبيرة، كالأسطح والساحات والأرضيات الحجرية، توجد أيضًا فواصل تمدد: وصلات أعرض تقسم الأرضية إلى أجزاء لتتمكن من الحركة دون أن تتكسر. وهذه لا تُملأ بمادة صلبة بل بمادة سد مرنة.\n\nمع السنين تسودّ الفواصل أو تتفتت أو تنفتح. وفي الحمامات والمطابخ يجمع الفاصل التالف العفن، وفي الأسطح والشرفات يكون من أول الأماكن التي يدخل منها الماء. لذلك تُفرغ الفواصل المهترئة وتُنظف وتُملأ من جديد. وعلى امتداد حوض الاستحمام أو الدش، حيث توجد حركة، يُستعمل السيليكون بدل مادة الترويب."
+  },
+  "categories": [
+    "paving",
+    "renovations",
+    "repairs"
+  ],
+  "photo": {
+    "project": "restaurant-courtyard-stone-joints",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "tile-adhesive",
+    "silicone",
+    "stone-paving",
+    "tile-levelling-clips"
+  ]
+}

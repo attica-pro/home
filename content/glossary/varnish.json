@@ -1,0 +1,43 @@
+{
+  "term": {
+    "el": "Βερνίκι",
+    "en": "Varnish",
+    "ar": "الورنيش"
+  },
+  "aliases": {
+    "el": [
+      "βερνίκ*",
+      "βερνικ*"
+    ],
+    "en": [
+      "varnish*"
+    ],
+    "ar": [
+      "ورنيش",
+      "فرنيش"
+    ]
+  },
+  "short": {
+    "el": "Διάφανη ή ημιδιάφανη επίστρωση για ξύλο, που αφήνει να φαίνονται τα νερά του και το προστατεύει από τον ήλιο, τη βροχή και τη φθορά.",
+    "en": "A clear or semi-transparent finish for wood that lets the grain show through and protects it from sun, rain and wear.",
+    "ar": "طبقة شفافة أو نصف شفافة للخشب تُبقي عروقه ظاهرة وتحميه من الشمس والمطر والتآكل."
+  },
+  "body": {
+    "el": "Το βερνίκι σχηματίζει ένα λεπτό, σκληρό φιλμ πάνω στο ξύλο. Υπάρχει άχρωμο ή σε αποχρώσεις ξύλου, ματ, σατινέ ή γυαλιστερό. Για εξωτερικούς χώρους, όπως πέργκολες, πόρτες, παντζούρια και ξύλινα δάπεδα, χρησιμοποιούνται βερνίκια εξωτερικού χώρου με φίλτρα για την υπεριώδη ακτινοβολία· τα βερνίκια εσωτερικού χώρου δεν αντέχουν στον ήλιο.\n\nΣε καινούργιο ή γυμνό ξύλο, πριν από το βερνίκι συνήθως περνιέται συντηρητικό ξύλου, που το προστατεύει από μύκητες, σάπισμα και έντομα. Η επιφάνεια τρίβεται και καθαρίζεται από τη σκόνη, και ανάμεσα στα χέρια γίνεται ελαφρύ τρίψιμο για να δέσει το επόμενο.\n\nΣτον ήλιο, το βερνίκι με τον καιρό θαμπώνει, σκάει και ξεφλουδίζει, και το ξύλο από κάτω γκριζάρει. Η τακτική συντήρηση, με ένα ελαφρύ τρίψιμο και ένα νέο χέρι πριν φτάσει το βερνίκι σε αυτό το σημείο, είναι πολύ πιο εύκολη από το να ξεβαφτεί όλο το ξύλο από την αρχή.",
+    "en": "Varnish forms a thin, hard film on the wood. It comes clear or tinted in wood tones, in matt, satin or gloss. Outdoors, on pergolas, doors, shutters and decking, exterior varnishes with UV filters are used; interior varnishes do not stand up to the sun.\n\nOn new or bare wood, a wood preservative usually goes on before the varnish to protect against fungi, rot and insects. The surface is sanded and cleaned of dust, and it gets a light sanding between coats so the next one bonds.\n\nIn the sun, varnish dulls, cracks and peels over time, and the wood underneath turns grey. Regular maintenance, with a light sanding and a fresh coat before the varnish reaches that point, is far easier than stripping all the wood back and starting again.",
+    "ar": "يكوّن الورنيش غشاءً رقيقًا صلبًا على الخشب. ويأتي شفافًا أو بدرجات لون الخشب، مطفأً أو نصف لامع أو لامعًا. وفي الأماكن الخارجية، كالبرغولات والأبواب والمصاريع والأرضيات الخشبية، يُستعمل ورنيش خارجي يحتوي على مرشحات للأشعة فوق البنفسجية، لأن الورنيش الداخلي لا يتحمل الشمس.\n\nعلى الخشب الجديد أو العاري تُدهن عادةً قبل الورنيش مادة حافظة للخشب تحميه من الفطريات والتعفن والحشرات. ويُصنفر السطح ويُنظف من الغبار، وبين طبقة وأخرى تُجرى صنفرة خفيفة لتلتصق الطبقة التالية.\n\nمع الوقت وتحت الشمس يفقد الورنيش لمعانه ويتشقق ويتقشر، ويصير الخشب تحته رماديًا. والصيانة المنتظمة، بصنفرة خفيفة وطبقة جديدة قبل أن يصل الورنيش إلى هذه الحال، أسهل بكثير من تجريد الخشب كله والبدء من جديد."
+  },
+  "categories": [
+    "wood"
+  ],
+  "photo": {
+    "project": "roof-terrace-wooden-pergola",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "wood-preservative",
+    "sanding",
+    "pergola",
+    "primer"
+  ]
+}

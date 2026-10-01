@@ -1,0 +1,53 @@
+{
+  "term": {
+    "el": "Πλαστικό χρώμα",
+    "en": "Emulsion paint",
+    "ar": "الطلاء البلاستيكي"
+  },
+  "aliases": {
+    "el": [
+      "πλαστικό χρώμα",
+      "πλαστικού χρώματος",
+      "πλαστικά χρώματα",
+      "πλαστικών χρωμάτων"
+    ],
+    "en": [
+      "emulsion",
+      "emulsions",
+      "emulsion paint*",
+      "water-based paint*",
+      "latex paint*"
+    ],
+    "ar": [
+      "طلاء بلاستيكي",
+      "طلاء البلاستيكي",
+      "دهان بلاستيكي",
+      "دهان البلاستيكي",
+      "طلاء مائي",
+      "طلاء المائي"
+    ]
+  },
+  "short": {
+    "el": "Το συνηθισμένο χρώμα νερού για εσωτερικούς τοίχους και ταβάνια. Αραιώνεται με νερό, στεγνώνει γρήγορα, έχει ελάχιστη μυρωδιά και βγαίνει σε ματ, σατινέ ή πιο γυαλιστερό φινίρισμα.",
+    "en": "The everyday water-based paint for indoor walls and ceilings. It thins with water, dries quickly, has little smell and comes in matt, satin or glossier finishes.",
+    "ar": "الطلاء المائي المعتاد للجدران والأسقف الداخلية. يُخفف بالماء، ويجف بسرعة، ورائحته خفيفة، ويأتي بلمسة مطفأة أو نصف لامعة أو أكثر لمعانًا."
+  },
+  "body": {
+    "el": "Στην Ελλάδα «πλαστικό» λέγεται το κοινό χρώμα νερού για μέσα στο σπίτι. Είναι μείγμα χρωστικών και συνδετικής ρητίνης μέσα σε νερό· όταν το νερό εξατμιστεί, η ρητίνη δένει σε ένα λεπτό φιλμ πάνω στον τοίχο. Απλώνεται με ρολό ή πινέλο, τα εργαλεία πλένονται με νερό, και είναι η βασική επιλογή για σαλόνια, υπνοδωμάτια και διαδρόμους.\n\nΤο φινίρισμα επηρεάζει και την όψη και την αντοχή. Το ματ κρύβει καλύτερα τις ατέλειες του τοίχου, ενώ τα σατινέ και τα πιο γυαλιστερά πλένονται πιο εύκολα αλλά δείχνουν κάθε ανωμαλία. Για κουζίνες και μπάνια υπάρχουν πλαστικά χρώματα με μεγαλύτερη αντοχή στο πλύσιμο και στην υγρασία.\n\nΤο πλαστικό χρώμα θέλει καθαρή, στεγνή και γερή επιφάνεια. Πάνω σε σκόνη, αιθάλη, μούχλα ή παλιό χρώμα που ξεφλουδίζει δεν θα κρατήσει, και πάνω σε παλιά λαδομπογιά χρειάζεται πρώτα τρίψιμο και κατάλληλο αστάρι.",
+    "en": "Emulsion is the standard water-based paint used inside homes (in Greece it is simply called \"plastic\" paint). It is a mix of pigments and a binding resin in water; as the water evaporates, the resin forms a thin film on the wall. It goes on with a roller or brush, the tools wash out with water, and it is the usual choice for living rooms, bedrooms and hallways.\n\nThe finish affects both the look and how hard-wearing it is. Matt hides the flaws in a wall best, while satin and glossier finishes wipe clean more easily but show every bump. For kitchens and bathrooms there are emulsions made to stand up better to washing and moisture.\n\nEmulsion needs a clean, dry, sound surface. It will not hold on dust, soot, mould or old peeling paint, and over old oil-based paint it needs sanding and a suitable primer first.",
+    "ar": "في اليونان يُسمى الطلاء المائي المعتاد داخل البيوت «بلاستيكيًا». وهو خليط من الأصباغ وراتنج رابط في الماء؛ وعندما يتبخر الماء يتماسك الراتنج في غشاء رقيق على الجدار. يُفرد بالرولة أو الفرشاة، وتُغسل الأدوات بالماء، وهو الخيار الأساسي لغرف الجلوس والنوم والممرات.\n\nتؤثر اللمسة النهائية في المظهر وفي المتانة معًا. فالطلاء المطفأ يخفي عيوب الجدار أفضل، بينما يُغسل نصف اللامع والأكثر لمعانًا بسهولة أكبر لكنه يُظهر كل تموج. وللمطابخ والحمامات أنواع من الطلاء البلاستيكي أكثر تحملًا للغسل والرطوبة.\n\nيحتاج الطلاء البلاستيكي إلى سطح نظيف وجاف وسليم. فلن يثبت فوق الغبار أو السخام أو العفن أو الطلاء القديم المتقشر، وفوق الطلاء الزيتي القديم يحتاج أولًا إلى صنفرة وطبقة أساس مناسبة."
+  },
+  "categories": [
+    "painting"
+  ],
+  "photo": {
+    "project": "apartment-peeling-blue-walls",
+    "file": "step-06.jpg"
+  },
+  "related": [
+    "acrylic-paint",
+    "primer",
+    "peeling-paint",
+    "sanding"
+  ]
+}

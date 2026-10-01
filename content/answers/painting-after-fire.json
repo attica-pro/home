@@ -1,0 +1,22 @@
+{
+  "category": "painting",
+  "order": 3,
+  "question": {
+    "el": "Μετά από φωτιά, φτάνει ένα βάψιμο για να φύγει η μαυρίλα;",
+    "en": "After a fire, is a coat of paint enough to get rid of the black?",
+    "ar": "بعد حريق، هل يكفي الطلاء لإزالة السواد؟"
+  },
+  "short": {
+    "el": "Όχι. Η αιθάλη πρέπει πρώτα να καθαριστεί και να περάσει αστάρι που μπλοκάρει τους λεκέδες, αλλιώς βγαίνει ξανά μέσα από το καινούργιο χρώμα. Πριν από όλα ελέγχεται τι έχει ξεκολλήσει από τη ζέστη.",
+    "en": "No. The soot has to be cleaned off and a stain-blocking primer applied first, or it comes back through the new paint. Before anything else, check what the heat has loosened.",
+    "ar": "لا. يجب أولاً تنظيف السخام ووضع طبقة أساس تمنع ظهور البقع، وإلا عاد وظهر من خلال الطلاء الجديد. وقبل كل شيء يُفحص ما فككته الحرارة."
+  },
+  "body": {
+    "el": "Η αιθάλη είναι λιπαρή σκόνη από τον καπνό. Το χρώμα δεν πιάνει καλά πάνω της και οι λεκέδες της περνούν μέσα από τις καινούργιες στρώσεις, όσα χέρια κι αν μπουν. Γι' αυτό μετά από φωτιά το βάψιμο είναι το τελευταίο βήμα, όχι το πρώτο.\n\n![Δωμάτιο μαυρισμένο από τη φωτιά, με σοβάδες που έχουν ξεκολλήσει](fire-damaged-room/step-01.jpg)\n\nΣε αυτό το δωμάτιο η αιθάλη είχε καλύψει τοίχους και ταβάνι, και η θερμότητα είχε ξεκολλήσει σοβάδες και χρώματα. Πριν από οτιδήποτε άλλο ελέγχθηκε τι κρατάει και τι πρέπει να φύγει, και ό,τι είχε ξεκολλήσει από τη ζέστη αφαιρέθηκε.\n\nΜετά η αιθάλη καθαρίστηκε κομμάτι κομμάτι, οι σοβάδες επισκευάστηκαν και πέρασε αστάρι που μπλοκάρει τους λεκέδες. Μόνο τότε μπήκαν δύο χέρια χρώμα σε τοίχους και ταβάνι.\n\nΝα έχετε υπόψη: η φωτιά μπορεί να έχει κάνει ζημιά και εκεί που δεν φαίνεται. Οι ηλεκτρικές γραμμές κοντά στο σημείο θέλουν έλεγχο από ηλεκτρολόγο πριν κλείσουν οι τοίχοι. Αν η ζέστη ήταν μεγάλη ή φαίνονται ρωγμές ή σίδερα στο μπετόν, καλό είναι να δει την πλάκα και μηχανικός. Και η μυρωδιά του καπνού μένει, αν οι επιφάνειες δεν καθαριστούν και δεν σφραγιστούν καλά.",
+    "en": "Soot is a greasy dust left by smoke. Paint does not bond well to it, and its stains come through the new coats however many go on. That is why, after a fire, painting is the last step, not the first.\n\n![A room blackened by fire, with loose plaster](fire-damaged-room/step-01.jpg)\n\nIn this room soot covered the walls and ceiling, and the heat had loosened plaster and paint. Before anything else, it was checked what was still sound and what had to go, and everything the heat had loosened was removed.\n\nThen the soot was cleaned off section by section, the plaster was repaired and a stain-blocking primer went on. Only then did the walls and ceiling get two coats of paint.\n\nKeep in mind: a fire can do damage where you can't see it. The electrical wiring near the fire should be checked by an electrician before the walls are closed up. If the heat was intense, or there are cracks or exposed steel in the concrete, it is wise to have an engineer look at the slab too. And the smell of smoke lingers unless the surfaces are properly cleaned and sealed.",
+    "ar": "السخام غبار دهني يتركه الدخان. لا يلتصق الطلاء به جيدًا، وتعود بقعه لتظهر من خلال الطبقات الجديدة مهما كان عددها. لذلك يكون الطلاء بعد الحريق هو الخطوة الأخيرة، لا الأولى.\n\n![غرفة اسودّت من الحريق وجص منفصل](fire-damaged-room/step-01.jpg)\n\nفي هذه الغرفة كان السخام قد غطى الجدران والسقف، وأدت الحرارة إلى انفصال الجص والطلاء. قبل أي شيء آخر فُحص ما هو سليم وما يجب إزالته، وأزيل كل ما فككته الحرارة.\n\nبعد ذلك نُظف السخام جزءًا بعد جزء، وأُصلح الجص، ووُضعت طبقة أساس تمنع ظهور البقع. وعندها فقط طُليت الجدران والسقف بطبقتين من الطلاء.\n\nانتبه: قد يُحدث الحريق ضررًا في أماكن لا تُرى. يجب أن يفحص كهربائي التمديدات الكهربائية القريبة من مكان الحريق قبل إغلاق الجدران. وإذا كانت الحرارة شديدة، أو ظهرت شقوق أو حديد في الخرسانة، فمن الأفضل أن يعاين مهندس البلاطة أيضًا. كما تبقى رائحة الدخان إذا لم تُنظف الأسطح وتُغلق جيدًا."
+  },
+  "projects": [
+    "fire-damaged-room"
+  ]
+}

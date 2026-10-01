@@ -1,0 +1,41 @@
+{
+  "term": {
+    "el": "Πίσσα",
+    "en": "Tar",
+    "ar": "القار"
+  },
+  "aliases": {
+    "el": [
+      "πίσσ*"
+    ],
+    "en": [
+      "tar"
+    ],
+    "ar": [
+      "قار",
+      "زفت"
+    ]
+  },
+  "short": {
+    "el": "Μαύρο ασφαλτικό υλικό που απλώνεται ζεστό ή ως υγρό γαλάκτωμα. Κλείνει τους πόρους του μπετού και κρατά έξω το νερό.",
+    "en": "A black bitumen-based material spread hot or as a liquid emulsion. It seals the pores of concrete and keeps water out.",
+    "ar": "مادة بيتومينية سوداء تُفرد ساخنة أو على شكل مستحلب سائل، تسد مسام الخرسانة وتمنع دخول الماء."
+  },
+  "body": {
+    "el": "Στη γλώσσα του συνεργείου «πίσσα» λέγεται συνήθως κάθε μαύρο ασφαλτικό υλικό που απλώνεται σε υγρή μορφή: ζεστή άσφαλτος, ασφαλτικό γαλάκτωμα με βάση το νερό ή ασφαλτικό αστάρι. Απλώνεται με βούρτσα ή ρολό και, όταν στεγνώσει, αφήνει ένα γυαλιστερό μαύρο στρώμα που δεν αφήνει το νερό να περάσει.\n\nΧρησιμοποιείται για να κλείσει τους πόρους του μπετού σε μια πλάκα, ως προστατευτική στρώση πάνω από θερμομόνωση πριν ριχτεί το γαρμπιλομπετό, σε θεμέλια και τοίχους που ακουμπούν στο χώμα, και ως βάση κάτω από ασφαλτόπανα.\n\nΗ πίσσα μόνη της δεν είναι πλήρης στεγάνωση για μια εκτεθειμένη ταράτσα: ο ήλιος την ξεραίνει και τη ραγίζει, γι' αυτό συνήθως σκεπάζεται από άλλο υλικό. Επίσης, δεν πιάνουν όλα τα στεγανωτικά πάνω σε πίσσα, οπότε πριν από μια νέα δουλειά πρέπει να ελεγχθεί τι υπάρχει από κάτω.",
+    "en": "On site, \"tar\" usually means any black bitumen-based material applied as a liquid: hot bitumen, a water-based bitumen emulsion or a bitumen primer. It is spread with a brush or roller and dries to a glossy black layer that water cannot get through.\n\nIt is used to seal the pores of a concrete slab, as a protective layer over insulation before the screed is poured, on foundations and walls that sit against the soil, and as a base under bitumen membranes.\n\nOn its own, tar is not complete waterproofing for an exposed roof: the sun dries it out and cracks it, so it is usually covered by another material. Not every waterproofing product will bond to tar either, so before new work it is worth checking what is underneath.",
+    "ar": "في لغة الورشة يُطلق «القار» عادةً على كل مادة بيتومينية سوداء تُفرد وهي سائلة: البيتومين الساخن، أو مستحلب البيتومين المائي، أو طبقة الأساس البيتومينية. يُفرد بالفرشاة أو الرول، وعندما يجف يترك طبقة سوداء لامعة لا يمر منها الماء.\n\nيُستخدم لسد مسام الخرسانة في البلاطة، وطبقةً واقية فوق العزل الحراري قبل صب طبقة التسوية، وعلى الأساسات والجدران الملاصقة للتراب، وقاعدةً تحت الأغشية البيتومينية.\n\nالقار وحده ليس عزلًا مائيًا كاملًا لسطح مكشوف، فالشمس تجففه وتشققه، ولذلك يُغطّى عادةً بمادة أخرى. كما أن بعض مواد العزل لا تلتصق فوق القار، فمن المهم قبل أي عمل جديد التحقق مما يوجد تحته."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-slab-insulation-screed",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "bitumen-membrane",
+    "primer",
+    "screed"
+  ]
+}

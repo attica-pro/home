@@ -1,0 +1,51 @@
+{
+  "term": {
+    "el": "Σφήνες ευθυγράμμισης πλακιδίων",
+    "en": "Tile levelling clips",
+    "ar": "مشابك تسوية البلاط"
+  },
+  "aliases": {
+    "el": [
+      "σφήν*",
+      "σφηνών",
+      "σύστημα ευθυγράμμισης",
+      "κλιπ ευθυγράμμισης"
+    ],
+    "en": [
+      "levelling clip*",
+      "leveling clip*",
+      "levelling wedge*",
+      "leveling wedge*",
+      "tile levelling system*",
+      "tile leveling system*"
+    ],
+    "ar": [
+      "مشابك التسوية",
+      "مشابك تسوية",
+      "أسافين التسوية",
+      "أسافين تسوية",
+      "نظام تسوية البلاط"
+    ]
+  },
+  "short": {
+    "el": "Μικρά πλαστικά εξαρτήματα (βάσεις με σφήνες ή καπάκια) που μπαίνουν στις ενώσεις των πλακιδίων όσο η κόλλα είναι νωπή και τα κρατούν στο ίδιο επίπεδο, χωρίς «σκαλοπάτια».",
+    "en": "Small plastic parts (clips with wedges or caps) placed at the edges of tiles while the adhesive is wet, to hold them flush with each other with no lips.",
+    "ar": "قطع بلاستيكية صغيرة (مشابك مع أسافين أو أغطية) توضع عند حواف البلاط والغراء ما زال طريًا، فتُبقيه في مستوى واحد بلا درجات بين البلاطات."
+  },
+  "body": {
+    "el": "Όσο μεγαλύτερα είναι τα πλακάκια, τόσο πιο δύσκολο είναι να μείνουν όλα απόλυτα στο ίδιο επίπεδο. Μια μικρή διαφορά ύψους ανάμεσα σε δύο πλακάκια φαίνεται με το πλάγιο φως, μαζεύει βρωμιά και, στο δάπεδο, σκοντάφτει το πόδι. Οι σφήνες ευθυγράμμισης λύνουν αυτό το πρόβλημα.\n\nΤο σύστημα έχει δύο μέρη. Μια βάση με λεπτό λαιμό μπαίνει κάτω από τις άκρες των γειτονικών πλακιδίων, μέσα στον αρμό, και από πάνω μια σφήνα ή ένα καπάκι σφίγγει, ώστε οι επιφάνειες να ευθυγραμμιστούν μεταξύ τους. Συχνά ο λαιμός κρατά και το πλάτος του αρμού, όπως τα σταυρουδάκια.\n\nΌταν η κόλλα πλακιδίων στεγνώσει, το πάνω μέρος σπάει με ένα χτύπημα κατά μήκος του αρμού και αφαιρείται, ενώ η βάση μένει κρυμμένη κάτω από το πλακάκι. Μετά γίνεται το αρμολόγημα. Οι σφήνες βοηθούν, αλλά δεν διορθώνουν ένα στραβό υπόστρωμα· η βάση πρέπει να είναι επίπεδη από πριν.",
+    "en": "The bigger the tiles, the harder it is to keep them all perfectly flush. A small height difference between two tiles shows up in raking light, collects dirt and, on a floor, catches your foot. Levelling clips solve that problem.\n\nThe system has two parts. A base with a thin neck slips under the edges of neighbouring tiles, in the joint, and a wedge or cap on top tightens down so the tile faces line up with each other. The neck often also sets the width of the joint, like a spacer.\n\nOnce the tile adhesive has set, the top part is snapped off with a tap along the line of the joint and removed, while the base stays hidden under the tile. Then the joints are grouted. The clips help, but they cannot fix an uneven base; the surface has to be flat to begin with.",
+    "ar": "كلما كبر البلاط صعب أن يبقى كله في مستوى واحد تمامًا. فالفرق الصغير في الارتفاع بين بلاطتين يظهر مع الضوء الجانبي، ويجمع الأوساخ، وفي الأرضية تتعثر به القدم. وهنا تأتي مشابك التسوية لتحل المشكلة.\n\nيتكون النظام من جزأين. قاعدة ذات عنق رفيع تدخل تحت حواف البلاطات المتجاورة داخل الفاصل، ومن فوقها إسفين أو غطاء يُشد حتى تصطف وجوه البلاط بعضها مع بعض. وكثيرًا ما يحدد العنق أيضًا عرض الفاصل، كما تفعل الفواصل البلاستيكية.\n\nعندما يجف لاصق البلاط يُكسر الجزء العلوي بضربة في اتجاه الفاصل ويُزال، بينما تبقى القاعدة مخفية تحت البلاط. ثم تُملأ الفواصل. المشابك تساعد، لكنها لا تصلح أساسًا غير مستوٍ، فيجب أن يكون السطح مستويًا من قبل."
+  },
+  "categories": [
+    "renovations"
+  ],
+  "photo": {
+    "project": "small-bathroom-renovation",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "tile-adhesive",
+    "grout-joint"
+  ]
+}

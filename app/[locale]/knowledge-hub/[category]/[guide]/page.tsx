@@ -6,20 +6,20 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 
 import { locales, type Locale } from '@/i18n';
-import { getAllGuides, getGuideBySlug } from '@/lib/guides';
+import { getAllGuides, getGuideBySlug, guidePath } from '@/lib/guides';
 import { assetPath } from '@/lib/site-config';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 
 export function generateStaticParams() {
   const guides = getAllGuides();
-  return locales.flatMap((locale) => guides.map((guide) => ({ locale, guide: guide.slug })));
+  return locales.flatMap((locale) => guides.map((guide) => ({ locale, category: guide.category, guide: guide.slug })));
 }
 
 export async function generateMetadata({
   params: { locale, guide: guideSlug },
 }: {
-  params: { locale: string; guide: string };
+  params: { locale: string; category: string; guide: string };
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const guide = getGuideBySlug(guideSlug);
@@ -32,33 +32,34 @@ export async function generateMetadata({
 }
 
 export default async function GuideOverviewPage({
-  params: { locale, guide: guideSlug },
+  params: { locale, category, guide: guideSlug },
 }: {
-  params: { locale: Locale; guide: string };
+  params: { locale: Locale; category: string; guide: string };
 }) {
   setRequestLocale(locale);
   const guide = getGuideBySlug(guideSlug);
-  if (!guide) notFound();
+  if (!guide || guide.category !== category) notFound();
 
   const t = await getTranslations({ locale, namespace: 'knowledgeHubPage' });
   const tCommon = await getTranslations({ locale, namespace: 'common' });
+  const tServices = await getTranslations({ locale, namespace: 'services.items' });
 
   return (
     <div>
-      <section className="hero-gradient border-b border-border">
+      <section className="bg-secondary border-b border-border">
         <div className="container max-w-3xl py-16 md:py-20">
           <Link
-            href={`/${locale}/knowledge-hub`}
+            href={`/${locale}/knowledge-hub/${guide.category}`}
             className="inline-flex items-center gap-1.5 text-sm font-medium text-accent hover:underline"
           >
-            <ArrowLeft className="h-4 w-4" /> {t('backToHub')}
+            <ArrowLeft className="h-4 w-4 rtl:rotate-180" /> {tServices(`${guide.category}.title`)}
           </Link>
 
           <div className="mt-6">
             <Badge variant={guide.category === 'insulation' ? 'secondary' : 'accent'}>
-              {guide.category === 'insulation' ? tCommon('categoryInsulation') : tCommon('categoryPainting')}
+              {tServices(`${guide.category}.name`)}
             </Badge>
-            <h1 className="mt-4 font-display text-3xl font-semibold text-primary md:text-4xl">
+            <h1 className="mt-4 font-display text-3xl font-bold text-primary md:text-4xl">
               {guide.title[locale]}
             </h1>
             <p className="mt-3 text-lg text-muted-foreground">{guide.excerpt[locale]}</p>
@@ -83,10 +84,10 @@ export default async function GuideOverviewPage({
           {guide.chapters.map((chapter, i) => (
             <li key={chapter.slug}>
               <Link
-                href={`/${locale}/knowledge-hub/${guide.slug}/${chapter.slug}`}
+                href={`/${locale}${guidePath(guide, chapter.slug)}`}
                 className="flex items-center gap-4 p-5 transition-colors hover:bg-secondary"
               >
-                <span className="font-hand flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-accent/10 text-lg text-accent">
+                <span className="w-8 shrink-0 font-display text-xl font-bold text-clay">
                   {i + 1}
                 </span>
                 <span className="flex-1 font-medium text-primary">{chapter.title[locale]}</span>
@@ -98,7 +99,7 @@ export default async function GuideOverviewPage({
 
         <div className="mt-10 text-center">
           <Button asChild size="lg" variant="accent">
-            <Link href={`/${locale}/knowledge-hub/${guide.slug}/${guide.chapters[0].slug}`}>
+            <Link href={`/${locale}${guidePath(guide, guide.chapters[0].slug)}`}>
               {t('startGuide')} <ArrowRight className="h-4 w-4" />
             </Link>
           </Button>

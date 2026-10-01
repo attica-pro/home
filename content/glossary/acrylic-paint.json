@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Ακρυλικό χρώμα",
+    "en": "Acrylic paint",
+    "ar": "الطلاء الأكريليكي"
+  },
+  "aliases": {
+    "el": [
+      "ακρυλικό χρώμα",
+      "ακρυλικού χρώματος",
+      "ακρυλικά χρώματα",
+      "ακρυλικών χρωμάτων"
+    ],
+    "en": [
+      "acrylic paint*",
+      "acrylics"
+    ],
+    "ar": [
+      "طلاء أكريليكي",
+      "طلاء الأكريليكي",
+      "طلاءات أكريليكية",
+      "طلاءات الأكريليكية",
+      "أكريليكية",
+      "أكريليك",
+      "اكريليك"
+    ]
+  },
+  "short": {
+    "el": "Χρώμα νερού με ακρυλική ρητίνη, η πιο διαδεδομένη επιλογή για εξωτερικούς τοίχους. Αντέχει στον ήλιο και στη βροχή και έχει μια ελαστικότητα που ακολουθεί τις μικρές κινήσεις του τοίχου.",
+    "en": "A water-based paint with an acrylic resin, the most common choice for outside walls. It stands up to sun and rain and has some flexibility to follow small movements in the wall.",
+    "ar": "طلاء مائي براتنج أكريليكي، وهو الخيار الأكثر انتشارًا للجدران الخارجية. يتحمل الشمس والمطر، وفيه مرونة تجاري الحركات الصغيرة في الجدار."
+  },
+  "body": {
+    "el": "Τα ακρυλικά χρώματα είναι υδατοδιαλυτά, όπως τα πλαστικά, αλλά η ακρυλική ρητίνη τους τα κάνει πιο ανθεκτικά στον ήλιο, στη βροχή και στις αλλαγές θερμοκρασίας. Γι' αυτό χρησιμοποιούνται κυρίως σε προσόψεις, μπαλκόνια, στηθαία και εξωτερικούς τοίχους, αλλά και σε εσωτερικούς χώρους που θέλουν αντοχή.\n\nΈνα καλό ακρυλικό κρατά το χρώμα του και δεν ξεπλένεται εύκολα. Έχει όμως ένα όριο: σχηματίζει σχετικά κλειστό φιλμ. Σε τοίχους με υγρασία από μέσα, όπως σε παλιά πέτρινα κτίρια ή όπου υπάρχει ανερχόμενη υγρασία, μπορεί να εγκλωβίσει τους υδρατμούς και να φουσκώσει. Εκεί προτιμώνται πιο διαπνέοντα χρώματα, όπως τα σιλικονούχα ή τα πυριτικά.\n\nΌπως κάθε χρώμα, κρατά όσο κρατά και η επιφάνεια από κάτω. Σαθρός σοβάς, ανοιχτές ρωγμές και σκόνη αντιμετωπίζονται πρώτα, και η επιφάνεια συνήθως ασταρώνεται.",
+    "en": "Acrylic paints are water-based like emulsions, but their acrylic resin makes them more resistant to sun, rain and changes in temperature. That is why they are used mostly on facades, balconies, parapets and outside walls, and also indoors where a tougher finish is needed.\n\nA good acrylic keeps its colour and does not wash off easily. It has one limit, though: it forms a fairly closed film. On walls with moisture coming from inside, such as old stone buildings or walls with rising damp, it can trap the vapour and blister. There, more breathable paints such as silicone-based or silicate paints are preferred.\n\nLike any paint, it lasts only as long as the surface underneath. Loose render, open cracks and dust are dealt with first, and the surface is usually primed.",
+    "ar": "الطلاءات الأكريليكية مائية مثل الطلاء البلاستيكي، لكن راتنجها الأكريليكي يجعلها أكثر مقاومة للشمس والمطر وتقلبات الحرارة. لذلك تُستعمل خاصةً على الواجهات والشرفات والجدران المحيطة بالأسطح والجدران الخارجية، وكذلك في الأماكن الداخلية التي تحتاج إلى متانة.\n\nيحافظ الطلاء الأكريليكي الجيد على لونه ولا يزول بسهولة. لكن له حدًّا: فهو يكوّن غشاءً مغلقًا نسبيًا. وعلى الجدران التي تأتيها الرطوبة من الداخل، كما في المباني الحجرية القديمة أو حيث توجد رطوبة صاعدة، قد يحبس بخار الماء فينتفخ. وهناك تُفضَّل طلاءات أكثر نفاذية للبخار، مثل طلاءات السيليكون أو السيليكات.\n\nوككل طلاء، لا يصمد إلا بقدر ما يصمد السطح تحته. لذلك تُعالج أولًا اللياسة المفككة والشقوق المفتوحة والغبار، ويُدهن السطح عادةً بطبقة أساس."
+  },
+  "categories": [
+    "painting"
+  ],
+  "photo": null,
+  "related": [
+    "emulsion-paint",
+    "elastomeric-coating",
+    "primer",
+    "rising-damp"
+  ]
+}

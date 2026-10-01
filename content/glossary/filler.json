@@ -1,0 +1,53 @@
+{
+  "term": {
+    "el": "Στόκος (στοκάρισμα)",
+    "en": "Filler",
+    "ar": "المعجون"
+  },
+  "aliases": {
+    "el": [
+      "στόκ*",
+      "στοκάρ*",
+      "στοκαρ*"
+    ],
+    "en": [
+      "filler",
+      "fillers",
+      "skimmed",
+      "skim coat*",
+      "skimming",
+      "putty",
+      "spackle"
+    ],
+    "ar": [
+      "معجون",
+      "معجنة",
+      "تعجين"
+    ]
+  },
+  "short": {
+    "el": "Λεπτόκοκκο υλικό, σε πάστα ή σκόνη, που γεμίζει τρύπες, λεπτές ρωγμές και ανωμαλίες, ώστε ο τοίχος, το ταβάνι ή το ξύλο να γίνει λείο πριν βαφτεί.",
+    "en": "A fine paste or powder that fills holes, fine cracks and dents so a wall, ceiling or piece of wood is smooth before it is painted.",
+    "ar": "مادة ناعمة على شكل عجينة أو مسحوق تملأ الثقوب والشقوق الدقيقة والتجاويف، ليصبح الجدار أو السقف أو الخشب أملس قبل طلائه."
+  },
+  "body": {
+    "el": "Ο στόκος είναι το υλικό του τελευταίου φινιρίσματος πριν από το χρώμα. Γεμίζει τρύπες από καρφιά και βύσματα, λεπτές ρωγμές, γδαρσίματα και ενώσεις, και απλώνεται με σπάτουλα σε λεπτές στρώσεις. Για τους τοίχους υπάρχουν και στόκοι σπατουλαρίσματος, που περνιούνται σε όλη την επιφάνεια, ενώ για το ξύλο χρησιμοποιούνται ειδικοί στόκοι ξύλου.\n\nΜόλις στεγνώσει, ο στόκος τρίβεται ώστε να μη φαίνεται κάτω από το χρώμα. Τα στοκαρισμένα σημεία απορροφούν το χρώμα διαφορετικά από τον υπόλοιπο τοίχο, γι' αυτό συνήθως περνιούνται με αστάρι πριν από το τελικό βάψιμο.\n\nΟ στόκος δεν αντικαθιστά τον σοβά. Διορθώνει μικρές ατέλειες, όχι κούφιους ή σαθρούς σοβάδες. Και αν μια ρωγμή ανοίγει ξανά και ξανά, το στοκάρισμα απλώς την κρύβει για λίγο· πρέπει να βρεθεί η αιτία της.",
+    "en": "Filler is the last finishing material before paint. It fills holes left by nails and wall plugs, fine cracks, scrapes and joints, and is spread with a filling knife in thin layers. For walls there are also skimming fillers that go over the whole surface, and for wood there are special wood fillers.\n\nOnce it has dried, the filler is sanded so it does not show under the paint. Filled patches soak up paint differently from the rest of the wall, so they are usually primed before the final coats.\n\nFiller does not replace render. It fixes small defects, not hollow or crumbling render. And if a crack keeps opening up again, filling it only hides it for a while; the cause has to be found.",
+    "ar": "المعجون هو مادة التشطيب الأخيرة قبل الطلاء. يملأ ثقوب المسامير والبراغي والشقوق الدقيقة والخدوش والوصلات، ويُفرد بالمسطرين على طبقات رقيقة. وللجدران أنواع تُفرد على السطح كله، أما للخشب فيُستعمل معجون خاص بالخشب.\n\nبعد أن يجف يُصنفر المعجون حتى لا يظهر تحت الطلاء. وتمتص المواضع المعالجة بالمعجون الطلاء بشكل مختلف عن باقي الجدار، لذلك تُدهن عادةً بطبقة أساس قبل الطلاء النهائي.\n\nالمعجون لا يحل محل اللياسة. فهو يصلح العيوب الصغيرة، لا اللياسة الجوفاء أو المتفتتة. وإذا عاد الشق إلى الانفتاح مرة بعد مرة، فإن المعجون يخفيه لفترة قصيرة فقط، ولا بد من البحث عن سببه."
+  },
+  "categories": [
+    "painting",
+    "repairs",
+    "wood"
+  ],
+  "photo": {
+    "project": "living-room-wall-opening-closed",
+    "file": "step-06.jpg"
+  },
+  "related": [
+    "sanding",
+    "render",
+    "primer",
+    "crack"
+  ]
+}

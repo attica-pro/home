@@ -1,0 +1,63 @@
+{
+  "term": {
+    "el": "Υγρή μεμβράνη (επαλειφόμενο στεγανωτικό)",
+    "en": "Liquid waterproofing membrane",
+    "ar": "الغشاء العازل السائل"
+  },
+  "aliases": {
+    "el": [
+      "υγρή μεμβράνη",
+      "υγρής μεμβράνης",
+      "υγρές μεμβράνες",
+      "υγρών μεμβρανών",
+      "λευκή υγρή μεμβράνη",
+      "λευκή μεμβράνη",
+      "υγρή στεγανοποίηση",
+      "υγρό στεγανωτικό",
+      "επαλειφόμεν*",
+      "λευκό στεγανωτικό",
+      "στεγανωτικό"
+    ],
+    "en": [
+      "liquid membrane*",
+      "liquid waterproofing membrane*",
+      "liquid waterproofing",
+      "liquid polyurethane waterproofing",
+      "liquid-applied",
+      "white membrane",
+      "white waterproofing"
+    ],
+    "ar": [
+      "غشاء سائل",
+      "غشاء السائل",
+      "غشاء عازل سائل",
+      "غشاء بولي يوريثان سائل",
+      "مادة عازلة",
+      "عازل أبيض",
+      "عازل الأبيض"
+    ]
+  },
+  "short": {
+    "el": "Στεγανωτικό που απλώνεται σε υγρή μορφή με ρολό, πινέλο ή ψεκασμό και, όταν στεγνώσει, σχηματίζει μια συνεχή, ελαστική μεμβράνη χωρίς ραφές.",
+    "en": "A waterproofing product applied as a liquid by roller, brush or spray. Once dry it forms one continuous, flexible membrane with no seams.",
+    "ar": "مادة عزل مائي تُفرد وهي سائلة بالرول أو الفرشاة أو بالرش، وعندما تجف تشكّل غشاءً مرنًا متصلًا بلا درزات."
+  },
+  "body": {
+    "el": "Η υγρή μεμβράνη είναι στεγανωτικό που έρχεται σε δοχείο, σαν παχύρρευστο χρώμα. Απλώνεται σε περισσότερες από μία στρώσεις και, όταν στεγνώσει, γίνεται μια ενιαία, ελαστική επιφάνεια που δεν αφήνει το νερό να περάσει. Υπάρχουν διάφοροι τύποι, όπως πολυουρεθανικές, ακρυλικές και τσιμεντοειδείς.\n\nΤο πλεονέκτημά της είναι ότι δεν έχει ραφές: ακολουθεί κάθε γωνία, σωλήνα, βάση και στηθαίο, σημεία όπου οι μεμβράνες σε φύλλα δυσκολεύονται. Στα πιο ευαίσθητα σημεία, όπως η γωνία δαπέδου και στηθαίου ή γύρω από σιφώνια, ενσωματώνεται στη νωπή στρώση ύφασμα οπλισμού για περισσότερη αντοχή.\n\nΓια να κρατήσει, χρειάζεται καθαρή, στεγνή και γερή βάση και το σωστό αστάρι. Μετράει και το πάχος: μια στρώση που απλώνεται πολύ λεπτή για να «φτάσει» το υλικό δεν προστατεύει όπως πρέπει. Με τα χρόνια η επιφάνεια φθείρεται, αλλά επισκευάζεται εύκολα με νέα στρώση στο σημείο.",
+    "en": "A liquid membrane is a waterproofing product that comes in a tin, like a thick paint. It is applied in more than one coat and, once dry, becomes a single flexible skin that water cannot pass through. There are several types, such as polyurethane, acrylic and cement-based.\n\nIts advantage is that it has no seams: it follows every corner, pipe, base and parapet, the places where sheet membranes struggle. At the most vulnerable spots, such as the corner between floor and parapet or around floor drains, reinforcing fabric is pressed into the wet coat for extra strength.\n\nTo last, it needs a clean, dry, sound base and the right primer. Thickness matters too: a coat spread too thin to make the material go further will not protect properly. Over the years the surface wears, but it is easy to repair locally with a fresh coat.",
+    "ar": "الغشاء السائل مادة عزل مائي تأتي في علبة مثل دهان كثيف. يُفرد على أكثر من طبقة، وعندما يجف يصبح غلافًا واحدًا مرنًا لا يمر منه الماء. وله أنواع مختلفة، منها البولي يوريثان والأكريليك والمواد الإسمنتية.\n\nميزته أنه بلا درزات، فهو يتبع كل زاوية وأنبوب وقاعدة وجدار محيط، وهي الأماكن التي تصعب فيها الأغشية المصنوعة على شكل لفائف. وفي أكثر النقاط حساسية، مثل الزاوية بين الأرضية والجدار المحيط أو حول المصارف، يُدمج في الطبقة الطرية نسيج تقوية لزيادة المتانة.\n\nليصمد، يحتاج إلى قاعدة نظيفة وجافة وسليمة وإلى طبقة الأساس المناسبة. والسماكة مهمة أيضًا: فالطبقة التي تُفرد رقيقة جدًا لتوفير المادة لا تحمي كما ينبغي. ومع السنين يتآكل السطح، لكن إصلاحه سهل بطبقة جديدة في المكان المتضرر."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "terrace-liquid-membrane",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "elastomeric-coating",
+    "primer",
+    "bitumen-membrane",
+    "waterproofing"
+  ]
+}

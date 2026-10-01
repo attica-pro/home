@@ -1,0 +1,58 @@
+{
+  "term": {
+    "el": "Κανάλι τοίχου",
+    "en": "Wall chase",
+    "ar": "مجرى في الجدار"
+  },
+  "aliases": {
+    "el": [
+      "κανάλι τοίχου",
+      "κανάλια τοίχου",
+      "κανάλι στον τοίχο",
+      "κανάλια στον τοίχο",
+      "κανάλια στους τοίχους",
+      "σκάψιμο τοίχου",
+      "σκάψιμο του τοίχου",
+      "σκαψίματα στον τοίχο",
+      "φρεζάρισμα τοίχου"
+    ],
+    "en": [
+      "wall chase*",
+      "chases",
+      "chasing",
+      "chased into the wall"
+    ],
+    "ar": [
+      "مجرى في الجدار",
+      "مجاري في الجدار",
+      "مجاري في الجدران",
+      "مجاري الجدران",
+      "قناة في الجدار",
+      "قنوات في الجدار"
+    ]
+  },
+  "short": {
+    "el": "Το αυλάκι που ανοίγεται σε έναν τοίχο για να περάσουν σωλήνες ή καλώδια μέσα του. Μετά κλείνει με κονίαμα ή σοβά και στο τέλος δεν φαίνεται.",
+    "en": "A groove cut into a wall so pipes or cables can run inside it. Afterwards it is closed with mortar or render and, once finished, cannot be seen.",
+    "ar": "أخدود يُفتح في الجدار لتمرير الأنابيب أو الأسلاك داخله. ثم يُغلق بالملاط أو اللياسة فلا يظهر في النهاية."
+  },
+  "body": {
+    "el": "Όταν σε μια ανακαίνιση αλλάζουν τα υδραυλικά ή τα ηλεκτρολογικά, οι νέοι σωλήνες και τα καλώδια συνήθως κρύβονται μέσα στους τοίχους. Για να χωρέσουν, ανοίγονται κανάλια με κόφτη ή κρουστικό εργαλείο, στο βάθος και στο πλάτος που χρειάζεται. Οι σωλήνες στερεώνονται μέσα και το κανάλι κλείνει με κονίαμα ή σοβά, ώστε η επιφάνεια να είναι έτοιμη για βάψιμο ή πλακάκια.\n\nΤα κανάλια ακολουθούν κατά κανόνα ευθείες γραμμές, κάθετες ή οριζόντιες, από τους διακόπτες, τις πρίζες και τις παροχές. Έτσι, όποιος τρυπήσει αργότερα τον τοίχο μπορεί να μαντέψει πού περνούν και να αποφύγει ένα καλώδιο ή έναν σωλήνα. Αξίζει να φωτογραφηθούν οι τοίχοι πριν κλείσουν.\n\nΚανάλια ανοίγονται σε τοίχους από τούβλα. Κολόνες, δοκάρια και άλλα φέροντα στοιχεία από μπετόν δεν σκάβονται, γιατί έτσι κόβεται ή μένει εκτεθειμένος ο οπλισμός τους.",
+    "en": "When the plumbing or wiring is changed during a renovation, the new pipes and cables are usually hidden inside the walls. To make room for them, chases are cut with a wall chaser or a breaker, as deep and wide as needed. The pipes are fixed inside and the chase is closed with mortar or render, so the surface is ready for paint or tiles.\n\nAs a rule, chases run in straight lines, vertical or horizontal, from switches, sockets and supply points. That way, anyone drilling into the wall later can guess where they run and avoid a cable or pipe. It is worth photographing the walls before they are closed up.\n\nChases are cut into brick walls. Concrete columns, beams and other structural elements are not chased, because that cuts or exposes the steel reinforcement inside them.",
+    "ar": "عندما تُغيَّر تمديدات المياه أو الكهرباء أثناء التجديد، تُخفى الأنابيب والأسلاك الجديدة عادةً داخل الجدران. ولكي تتسع لها تُفتح مجارٍ بآلة قطع أو بأداة تكسير، بالعمق والعرض اللازمين. تُثبَّت الأنابيب في الداخل ثم يُغلق المجرى بالملاط أو اللياسة، ليصبح السطح جاهزًا للطلاء أو البلاط.\n\nتسير المجاري في العادة في خطوط مستقيمة، عمودية أو أفقية، انطلاقًا من المفاتيح والمقابس ونقاط التغذية. وهكذا يستطيع من يثقب الجدار لاحقًا أن يخمّن أين تمر فيتجنب سلكًا أو أنبوبًا. ومن المفيد تصوير الجدران قبل إغلاقها.\n\nتُفتح المجاري في جدران الطوب. أما الأعمدة والجسور الخرسانية وسائر العناصر الإنشائية فلا تُحفر، لأن ذلك يقطع حديد التسليح داخلها أو يكشفه."
+  },
+  "categories": [
+    "renovations",
+    "repairs"
+  ],
+  "photo": {
+    "project": "small-bathroom-renovation",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "load-bearing-wall",
+    "render",
+    "demolition",
+    "concealed-cistern"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Κεραμοσκεπή",
+    "en": "Tiled roof",
+    "ar": "السقف القرميدي"
+  },
+  "aliases": {
+    "el": [
+      "κεραμοσκεπ*",
+      "κεραμίδ*",
+      "κεραμιδ*"
+    ],
+    "en": [
+      "tiled roof*",
+      "roof tile",
+      "roof tiles"
+    ],
+    "ar": [
+      "قرميد",
+      "قرميدي",
+      "سقف قرميدي",
+      "سقف القرميدي",
+      "سقف القرميد"
+    ]
+  },
+  "short": {
+    "el": "Κεκλιμένη στέγη σκεπασμένη με κεραμίδια, πάνω σε ξύλινο σκελετό ή πλάκα από μπετό. Η στεγάνωση βρίσκεται από κάτω, στο υπόστρωμα κάτω από τα κεραμίδια.",
+    "en": "A pitched roof covered with clay tiles, on a timber frame or a concrete slab. The real waterproofing sits underneath, in the layer below the tiles.",
+    "ar": "سقف مائل مغطى بالقرميد، فوق هيكل خشبي أو بلاطة خرسانية. أما العزل المائي الحقيقي فيكون تحته، في الطبقة الموجودة أسفل القرميد."
+  },
+  "body": {
+    "el": "Η κεραμοσκεπή είναι η παραδοσιακή κεκλιμένη στέγη με κεραμίδια. Τα κεραμίδια πατούν σε ξύλινο σκελετό ή σε κεκλιμένη πλάκα από μπετό, και από κάτω τους μπαίνει συνήθως ένα στεγανωτικό υπόστρωμα και θερμομόνωση. Τα κεραμίδια διώχνουν το μεγαλύτερο μέρος του νερού, αλλά η πραγματική προστασία βρίσκεται στις στρώσεις από κάτω.\n\nΤα συνηθισμένα προβλήματα είναι σπασμένα ή μετακινημένα κεραμίδια, κορφιάδες που έχουν χάσει το κονίαμά τους, βουλωμένες υδρορροές και ξύλα που έχουν σαπίσει από διαρροές. Ιδιαίτερη προσοχή θέλει το σημείο όπου μια κεραμοσκεπή συναντά ταράτσα ή τοίχο, γιατί εκεί καταλήγει όλο το νερό της στέγης.\n\nΤα κεραμίδια σπάνε εύκολα όταν πατηθούν, γι' αυτό ο έλεγχος γίνεται με προσοχή. Αν τα κεραμίδια είναι γερά αλλά η στέγη στάζει, συχνά χρειάζεται ξεσκέπασμα, νέο υπόστρωμα και επανατοποθέτηση των ίδιων κεραμιδιών.",
+    "en": "A tiled roof is the traditional pitched roof covered with clay tiles. The tiles sit on a timber frame or a sloping concrete slab, usually over a waterproof underlay and insulation. The tiles shed most of the water, but the real protection is in the layers beneath.\n\nCommon problems are broken or slipped tiles, ridges that have lost their mortar, blocked gutters and timbers rotted by leaks. The spot where a tiled roof meets a flat roof or a wall needs particular care, because all the water from the roof ends up there.\n\nTiles break easily when stepped on, so inspections are done carefully. If the tiles are sound but the roof still leaks, the usual answer is to lift them, lay a new underlay and put the same tiles back.",
+    "ar": "السقف القرميدي هو السقف المائل التقليدي المغطى بالقرميد. ويرتكز القرميد على هيكل خشبي أو على بلاطة خرسانية مائلة، وتوضع تحته عادةً طبقة عازلة للماء وعزل حراري. يصرف القرميد معظم الماء، لكن الحماية الحقيقية تكون في الطبقات التي تحته.\n\nالمشاكل الشائعة هي القرميد المكسور أو المنزاح، وقمم السقف التي فقدت ملاطها، والمزاريب المسدودة، والأخشاب التي تعفنت بسبب التسرب. وتحتاج النقطة التي يلتقي فيها السقف القرميدي بسطح مستوٍ أو بجدار إلى عناية خاصة، لأن ماء السقف كله ينتهي إليها.\n\nينكسر القرميد بسهولة إذا دِيس عليه، لذلك يتم الفحص بحذر. وإذا كان القرميد سليمًا والسقف يسرّب الماء، فالحل غالبًا هو رفعه ووضع طبقة عازلة جديدة ثم إعادة القرميد نفسه."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "roof-beside-tiled-roof",
+    "file": "step-06.jpg"
+  },
+  "related": [
+    "roof-terrace",
+    "gutter",
+    "waterproofing",
+    "thermal-insulation"
+  ]
+}

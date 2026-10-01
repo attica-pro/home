@@ -1,0 +1,64 @@
+{
+  "term": {
+    "el": "Ρωγμή",
+    "en": "Crack",
+    "ar": "الشق"
+  },
+  "aliases": {
+    "el": [
+      "ρωγμ*",
+      "μικρορωγμ*",
+      "ράγισμα",
+      "ραγίσματ*",
+      "ραγίσει",
+      "ραγίζ*",
+      "ράγισε",
+      "ράγισαν",
+      "ραγισμέν*",
+      "σκασίματα",
+      "σκάσιμο"
+    ],
+    "en": [
+      "crack",
+      "cracks",
+      "cracked",
+      "cracking",
+      "hairline crack*",
+      "microcrack*"
+    ],
+    "ar": [
+      "شق",
+      "شقوق",
+      "تشقق*",
+      "يتشقق*",
+      "شرخ",
+      "شروخ",
+      "تصدع*",
+      "تصدّع*"
+    ]
+  },
+  "short": {
+    "el": "Άνοιγμα ή σχισμή σε σοβά, μπετόν, τοίχο, επίστρωση ή ξύλο. Οι λεπτές ρωγμές είναι συνήθως επιφανειακές· όσες μεγαλώνουν, ξανανοίγουν ή είναι λοξές θέλουν προσοχή.",
+    "en": "A split or gap in render, concrete, a wall, a coating or wood. Fine cracks are usually only on the surface; ones that grow, keep reopening or run diagonally need attention.",
+    "ar": "انفتاح أو شق في اللياسة أو الخرسانة أو الجدار أو الطلاء العازل أو الخشب. الشقوق الدقيقة سطحية في الغالب، أما التي تكبر أو تعود للانفتاح أو تمتد مائلة فتستحق الانتباه."
+  },
+  "body": {
+    "el": "Οι ρωγμές έχουν πολλές αιτίες. Ο σοβάς και το μπετόν συρρικνώνονται καθώς στεγνώνουν, τα υλικά διαστέλλονται με τη ζέστη και συστέλλονται με το κρύο, και το κτίριο κινείται λίγο με τον καιρό. Στις ενώσεις διαφορετικών υλικών, όπως ανάμεσα σε τούβλο και κολόνα ή σε νέο και παλιό τοίχο, ανοίγουν πιο εύκολα· γι' αυτό εκεί μπαίνει πλέγμα οπλισμού μέσα στον σοβά ή στην επίστρωση.\n\nΟι περισσότερες ρωγμές είναι τριχοειδείς και επιφανειακές. Ανοίγονται λίγο, γεμίζουν με το κατάλληλο υλικό (στόκο, επισκευαστικό κονίαμα ή ελαστικό σφραγιστικό, ανάλογα με το σημείο) και βάφονται. Σε ταράτσες και μπαλκόνια όμως, ακόμα και μια μικρή ρωγμή είναι δρόμος για το νερό και πρέπει να σφραγιστεί πριν από τη στεγάνωση.\n\nΚάποιες ρωγμές δείχνουν κάτι βαθύτερο. Ρωγμές σε ευθεία γραμμή σε ταβάνι ή κολόνα, με σκουριά, μπορεί να σημαίνουν διάβρωση του οπλισμού. Λοξές ρωγμές από τις γωνίες πορτών και παραθύρων, ή ρωγμές που μεγαλώνουν, μπορεί να έχουν στατική αιτία. Τότε η ρωγμή δεν απλώς κλείνεται· πρέπει να τη δει μηχανικός.",
+    "en": "Cracks have many causes. Render and concrete shrink as they dry, materials expand in the heat and contract in the cold, and buildings move slightly over time. Cracks open most easily where different materials meet, such as between brick and a concrete column or between a new and an old wall; that is why reinforcement mesh is set into the render or coating there.\n\nMost cracks are hairline and only on the surface. They are opened up slightly, filled with the right material (filler, repair mortar or a flexible sealant, depending on where they are) and painted. On roof terraces and balconies, though, even a small crack is a way in for water and has to be sealed before waterproofing.\n\nSome cracks point to something deeper. Straight-line cracks in a ceiling or column, with rust showing, can mean rebar corrosion. Diagonal cracks running from the corners of doors and windows, or cracks that keep growing, may have a structural cause. Then the crack is not just filled; an engineer needs to look at it.",
+    "ar": "للشقوق أسباب كثيرة. فاللياسة والخرسانة تنكمشان أثناء الجفاف، والمواد تتمدد مع الحرارة وتنكمش مع البرد، والمبنى يتحرك قليلًا مع الزمن. وتنفتح الشقوق بسهولة أكبر حيث تلتقي مواد مختلفة، كما بين الطوب والعمود الخرساني أو بين جدار جديد وآخر قديم، ولهذا توضع هناك شبكة تقوية داخل اللياسة أو الطبقة العازلة.\n\nمعظم الشقوق شعرية وسطحية. تُفتح قليلًا وتُملأ بالمادة المناسبة (معجون أو ملاط إصلاح أو مادة سد مرنة، حسب الموضع) ثم تُطلى. أما في الأسطح والشرفات فحتى الشق الصغير طريق للماء، ويجب سده قبل العزل المائي.\n\nبعض الشقوق تدل على شيء أعمق. فالشقوق الممتدة في خط مستقيم في السقف أو العمود، مع ظهور الصدأ، قد تعني صدأ حديد التسليح. والشقوق المائلة الخارجة من زوايا الأبواب والنوافذ، أو الشقوق التي تكبر، قد يكون سببها إنشائيًا. وعندها لا يكفي سد الشق، بل يجب أن يعاينه مهندس."
+  },
+  "categories": [
+    "repairs",
+    "painting"
+  ],
+  "photo": {
+    "project": "terrace-liquid-membrane",
+    "file": "step-04.jpg"
+  },
+  "related": [
+    "render",
+    "filler",
+    "rebar-corrosion",
+    "reinforcement-mesh"
+  ]
+}

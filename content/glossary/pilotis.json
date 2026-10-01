@@ -1,0 +1,41 @@
+{
+  "term": {
+    "el": "Πιλοτή",
+    "en": "Pilotis (open ground floor)",
+    "ar": "البيلوتي (الطابق الأرضي المفتوح)"
+  },
+  "aliases": {
+    "el": [
+      "πιλοτ*"
+    ],
+    "en": [
+      "pilotis"
+    ],
+    "ar": [
+      "بيلوتي",
+      "طابق الأرضي المفتوح"
+    ]
+  },
+  "short": {
+    "el": "Ο ανοιχτός ισόγειος χώρος κάτω από μια πολυκατοικία, πάνω σε κολόνες χωρίς τοίχους, που χρησιμεύει συνήθως ως πάρκινγκ ή είσοδος.",
+    "en": "The open ground floor under a block of flats, standing on columns with no walls, usually used for parking or as the entrance.",
+    "ar": "الطابق الأرضي المفتوح تحت العمارة السكنية، القائم على أعمدة بلا جدران، ويُستخدم عادةً موقفًا للسيارات أو مدخلًا."
+  },
+  "body": {
+    "el": "Πιλοτή είναι το ισόγειο μιας πολυκατοικίας που μένει ανοιχτό, πάνω σε κολόνες. Είναι πολύ συνηθισμένη στις ελληνικές πόλεις, κυρίως για στάθμευση ή ως είσοδος.\n\nΤο ταβάνι της πιλοτής είναι το πάτωμα του πρώτου ορόφου. Επειδή από κάτω υπάρχει ανοιχτός χώρος, το διαμέρισμα από πάνω χάνει θερμότητα από το δάπεδο τον χειμώνα και ζεσταίνεται από κάτω το καλοκαίρι. Η θερμομόνωση του ταβανιού, με ψεκαζόμενη πολυουρεθάνη ή με μονωτικές πλάκες, κάνει αισθητή διαφορά στην άνεση του σπιτιού.\n\nΗ πιλοτή είναι κοινόχρηστος χώρος, άρα οι εργασίες εκεί χρειάζονται συνήθως τη σύμφωνη γνώμη της πολυκατοικίας. Οι κολόνες της ανήκουν στον φέροντα οργανισμό του κτιρίου και δεν κόβονται ούτε τρυπιούνται χωρίς μηχανικό. Πριν από τη μόνωση, φωτιστικά, σωλήνες και καλώδια στο ταβάνι προστατεύονται ή μετακινούνται.",
+    "en": "A pilotis is the ground floor of a block of flats left open on columns. It is very common in Greek cities, mostly for parking or as the entrance.\n\nThe pilotis ceiling is the floor of the first-floor flat. Because there is open air underneath, the flat above loses heat through its floor in winter and is warmed from below in summer. Insulating that ceiling, with spray polyurethane foam or insulation boards, makes a noticeable difference to comfort.\n\nThe pilotis is a shared space, so work there usually needs the agreement of the building's owners. Its columns are part of the building's load-bearing structure and must not be cut or drilled without an engineer. Before insulating, light fittings, pipes and cables on the ceiling are protected or moved.",
+    "ar": "البيلوتي هو الطابق الأرضي في العمارة السكنية الذي يُترك مفتوحًا على أعمدة. وهو شائع جدًا في المدن اليونانية، ويُستخدم غالبًا موقفًا للسيارات أو مدخلًا.\n\nسقف البيلوتي هو أرضية شقة الطابق الأول. ولأن تحته فضاءً مفتوحًا، تفقد الشقة التي فوقه الحرارة من أرضيتها في الشتاء وتسخن من الأسفل في الصيف. وعزل هذا السقف حراريًا، برغوة البولي يوريثان المرشوشة أو بألواح عازلة، يُحدث فرقًا ملموسًا في راحة السكن.\n\nالبيلوتي مساحة مشتركة، لذلك تحتاج الأعمال فيه عادةً إلى موافقة سكان العمارة. وأعمدته جزء من الهيكل الحامل للمبنى، فلا تُقطع ولا تُثقب دون مهندس. وقبل العزل تُحمى الإنارة والأنابيب والكابلات المثبتة في السقف أو تُنقل."
+  },
+  "categories": [
+    "insulation"
+  ],
+  "photo": {
+    "project": "ceiling-sprayed-foam-insulation",
+    "file": "before-1.jpg"
+  },
+  "related": [
+    "thermal-insulation",
+    "polyurethane-foam",
+    "load-bearing-wall"
+  ]
+}

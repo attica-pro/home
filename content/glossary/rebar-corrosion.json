@@ -1,0 +1,68 @@
+{
+  "term": {
+    "el": "Διάβρωση οπλισμού",
+    "en": "Rebar corrosion",
+    "ar": "صدأ حديد التسليح"
+  },
+  "aliases": {
+    "el": [
+      "διάβρωση οπλισμού",
+      "διάβρωση του οπλισμού",
+      "διάβρωσης του οπλισμού",
+      "διαβρωμένο οπλισμό",
+      "διαβρωμένος οπλισμός",
+      "σκουριασμένο σίδερο",
+      "σκουριασμένα σίδερα",
+      "σκουριασμένο οπλισμό",
+      "σκουριασμένος οπλισμός",
+      "σίδερο σκουριάζει",
+      "σίδερα σκουριάζουν",
+      "σκουριάζει",
+      "εκτεθειμένα σίδερα",
+      "γυμνά σίδερα"
+    ],
+    "en": [
+      "rebar*",
+      "rusted steel",
+      "rusting steel",
+      "rusted reinforcing steel",
+      "steel bars exposed",
+      "exposed bar*",
+      "concrete cancer",
+      "spalling"
+    ],
+    "ar": [
+      "حديد التسليح",
+      "حديد تسليح*",
+      "حديد صدئ",
+      "الحديد الصدئ",
+      "يصدأ الحديد",
+      "صدأ الحديد",
+      "صدأ حديد التسليح",
+      "تآكل حديد التسليح"
+    ]
+  },
+  "short": {
+    "el": "Η σκουριά στα σίδερα μέσα στο μπετόν. Το σίδερο που σκουριάζει φουσκώνει, σπάει το μπετόν γύρω του και το ρίχνει σε κομμάτια, αφήνοντας τον οπλισμό γυμνό.",
+    "en": "Rust on the steel bars inside concrete. Rusting steel swells, cracks the concrete around it and makes it fall away in pieces, leaving the bars exposed.",
+    "ar": "الصدأ في قضبان الحديد داخل الخرسانة. فالحديد الذي يصدأ يتمدد ويكسر الخرسانة حوله ويُسقطها قطعًا، تاركًا حديد التسليح مكشوفًا."
+  },
+  "body": {
+    "el": "Μέσα στο οπλισμένο σκυρόδεμα (το μπετόν) υπάρχουν σίδερα, ο οπλισμός, που δίνουν αντοχή σε κολόνες, δοκάρια, πλάκες και μπαλκόνια. Όσο το μπετόν γύρω τους είναι υγιές και αρκετά παχύ, τα προστατεύει. Όταν όμως μπαίνει νερό, από μια ταράτσα που τρέχει, ένα μπάνιο που έχει διαρροή ή μια ρωγμή, τα σίδερα με τα χρόνια αρχίζουν να σκουριάζουν.\n\nΗ σκουριά πιάνει περισσότερο χώρο από το σίδερο. Έτσι φουσκώνει και σπρώχνει το μπετόν, που ραγίζει και πέφτει σε κομμάτια. Τα σημάδια είναι ρωγμές σε ευθεία γραμμή σε ταβάνια, μπαλκόνια ή κολόνες, καφέ λεκέδες σκουριάς, και σοβάς ή μπετόν που αποκολλάται και αφήνει τα σίδερα να φαίνονται.\n\nΗ επισκευή ξεκινά με το άνοιγμα της περιοχής μέχρι να βρεθεί γερό μπετόν. Τα σίδερα καθαρίζονται από τη σκουριά, περνιούνται με αντισκωριακό, και το κομμάτι που χάθηκε ξαναχτίζεται με επισκευαστικό κονίαμα. Η επισκευή όμως κρατά μόνο αν σταματήσει το νερό που προκάλεσε τη σκουριά. Αν η διάβρωση είναι εκτεταμένη ή αφορά κολόνες και δοκάρια, πρέπει να τη δει πολιτικός μηχανικός.",
+    "en": "Reinforced concrete has steel bars inside it, the reinforcement, which give strength to columns, beams, slabs and balconies. As long as the concrete around them is healthy and thick enough, it protects them. But when water gets in, from a leaking roof, a bathroom leak or a crack, the bars start to rust over the years.\n\nRust takes up more room than steel. So the bar swells and pushes on the concrete, which cracks and falls away in pieces. The signs are cracks in a straight line on ceilings, balconies or columns, brown rust stains, and render or concrete coming away and leaving the bars visible.\n\nThe repair starts by opening up the area back to sound concrete. The bars are cleaned of rust and coated with an anti-corrosion primer, and the missing section is built back up with repair mortar. But the repair only lasts if the water that caused the rust is stopped. If the corrosion is widespread or affects columns and beams, a structural engineer needs to see it.",
+    "ar": "في الخرسانة المسلحة قضبان من الحديد، هي حديد التسليح، تمنح المتانة للأعمدة والجسور والبلاطات والشرفات. وما دامت الخرسانة حولها سليمة وسميكة بما يكفي فإنها تحميها. لكن عندما يدخل الماء، من سطح يسرّب أو حمام فيه تسرب أو شق، يبدأ الحديد بالصدأ مع السنين.\n\nيشغل الصدأ حيزًا أكبر من الحديد. فيتمدد القضيب ويضغط على الخرسانة فتتشقق وتسقط قطعًا. ومن العلامات شقوق في خط مستقيم على الأسقف أو الشرفات أو الأعمدة، وبقع صدأ بنية، ولياسة أو خرسانة تنفصل فيظهر الحديد.\n\nيبدأ الإصلاح بفتح المنطقة حتى الوصول إلى خرسانة سليمة. يُنظف الحديد من الصدأ ويُدهن بمادة مانعة للصدأ، ثم يُعاد بناء الجزء المفقود بملاط إصلاح. لكن الإصلاح لا يدوم إلا إذا توقف الماء الذي سبب الصدأ. وإذا كان التآكل واسعًا أو يمس الأعمدة والجسور فيجب أن يعاينه مهندس إنشائي."
+  },
+  "categories": [
+    "repairs"
+  ],
+  "photo": {
+    "project": "ceiling-exposed-rebar-repair",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "crack",
+    "waterproofing",
+    "load-bearing-wall",
+    "render"
+  ]
+}
