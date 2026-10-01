@@ -1,0 +1,34 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 453,
+  "title": {
+    "el": "Σφράγισμα ενώσεων σε μεταλλική στέγη",
+    "en": "Sealing the Joints of a Metal Roof",
+    "ar": "إحكام وصلات سقف معدني"
+  },
+  "excerpt": {
+    "el": "Στην κόκκινη μεταλλική στέγη, η ένωση με το στηθαίο είχε γεμίσει βρωμιά και διαλυμένο αφρό. Καθαρίστηκε, γέμισε ξανά και σφραγίστηκε, και καλύφθηκαν και οι βίδες.",
+    "en": "On a red metal roof, the joint against the parapet was full of dirt and crumbling foam. It was cleaned out, refilled and sealed, and the screw heads were covered too.",
+    "ar": "في سقف معدني أحمر، امتلأت الوصلة مع الجدار الحاجز بالأوساخ والرغوة المتفتتة. نُظّفت ثم مُلئت من جديد وأُحكم إغلاقها، كما غُطّيت رؤوس البراغي."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 457,
+    "after-1.jpg": 462,
+    "step-01.jpg": 454,
+    "step-02.jpg": 453,
+    "step-03.jpg": 455,
+    "step-04.jpg": 456,
+    "step-05.jpg": 459,
+    "step-06.jpg": 461,
+    "step-07.jpg": 463,
+    "step-08.jpg": 465
+  }
+}

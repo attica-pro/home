@@ -1,0 +1,40 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 886,
+  "title": {
+    "el": "Ψεκαζόμενη μόνωση σε ταράτσα με στενά περάσματα",
+    "en": "Spray Foam Insulation on a Roof with Narrow Walkways",
+    "ar": "عزل بالرش لسطح بممرات ضيقة"
+  },
+  "excerpt": {
+    "el": "Ταράτσα με ηλιακούς, κάγκελα και στενά περάσματα γύρω από το δώμα. Αστάρι και αφρός πολυουρεθάνης έφτασαν σε κάθε γωνιά της.",
+    "en": "A roof with solar water heaters, railings and narrow passages around the rooftop room. Primer and polyurethane foam reached every corner.",
+    "ar": "سطح عليه سخانات شمسية ودرابزين وممرات ضيقة حول الغرفة العلوية. وصلت طبقة الأساس ورغوة البولي يوريثان إلى كل زاوية فيه."
+  },
+  "cover": "after-2.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 888,
+    "after-1.jpg": 894,
+    "before-2.jpg": 887,
+    "after-2.jpg": 890,
+    "step-01.jpg": 903,
+    "step-02.jpg": 901,
+    "step-03.jpg": 899,
+    "step-04.jpg": 895,
+    "step-05.jpg": 889,
+    "step-06.jpg": 892,
+    "step-07.jpg": 893
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

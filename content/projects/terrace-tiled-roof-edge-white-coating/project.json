@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 359,
+  "title": {
+    "el": "Ταράτσα δίπλα σε κεραμοσκεπή: από τις παλιές μεμβράνες στο λευκό",
+    "en": "Terrace Beside a Tiled Roof: Old Membrane Out, White Coating In",
+    "ar": "سطح بجانب سقف قرميدي: إزالة الغشاء القديم وطلاء أبيض"
+  },
+  "excerpt": {
+    "el": "Οι παλιές ασφαλτικές μεμβράνες είχαν σκιστεί και ξεκολλήσει. Αφαιρέθηκαν, και η ταράτσα με τα τοιχία της καλύφθηκε με λευκό στεγανωτικό.",
+    "en": "The old bitumen membrane had torn and come loose. It was stripped off, and the terrace and its walls were covered with a white waterproof coating.",
+    "ar": "تمزق الغشاء الإسفلتي القديم وانفصل، فأُزيل وغُطي السطح وجدرانه بطلاء عازل أبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 364,
+    "after-1.jpg": 374,
+    "step-01.jpg": 359,
+    "step-02.jpg": 361,
+    "step-03.jpg": 362,
+    "step-04.jpg": 363,
+    "step-05.jpg": 365,
+    "step-06.jpg": 367,
+    "step-07.jpg": 369,
+    "step-08.jpg": 375
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

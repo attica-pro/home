@@ -1,0 +1,37 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 27,
+  "title": {
+    "el": "Ανακαίνιση μικρού μπάνιου",
+    "en": "A Small Bathroom Renovation",
+    "ar": "تجديد حمام صغير"
+  },
+  "excerpt": {
+    "el": "Ένα στενό μπάνιο με μπανιέρα έγινε μπάνιο με ντουζιέρα, νέες σωληνώσεις, πλακάκια από το δάπεδο ως το ταβάνι και νέο έπιπλο νιπτήρα.",
+    "en": "A narrow bathroom with a tub became a shower room, with new pipework, floor-to-ceiling tiles and a new vanity unit.",
+    "ar": "حمام ضيق بحوض استحمام أصبح حمامًا بدش، مع تمديدات جديدة وبلاط من الأرض حتى السقف وخزانة مغسلة جديدة."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 27,
+    "after-1.jpg": 36,
+    "before-2.jpg": 29,
+    "after-2.jpg": 37,
+    "step-01.jpg": 28,
+    "step-02.jpg": 31,
+    "step-03.jpg": 32,
+    "step-04.jpg": 33,
+    "step-05.jpg": 35
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 868,
+  "title": {
+    "el": "Στεγάνωση ταράτσας με πλάκες με λευκό επαλειφόμενο",
+    "en": "Slab-Paved Terrace Waterproofed with a White Coating",
+    "ar": "عزل مائي لسطح مبلّط بطلاء أبيض"
+  },
+  "excerpt": {
+    "el": "Οι παλιές πλάκες της ταράτσας τρίφτηκαν και καθαρίστηκαν, οι βάσεις από κολόνες και κάγκελα σφραγίστηκαν, και όλη η επιφάνεια καλύφθηκε με λευκό στεγανωτικό.",
+    "en": "The old terrace slabs were ground and cleaned, the bases of posts and railings were sealed, and the whole surface was coated in white waterproofing.",
+    "ar": "جُلخ البلاط القديم للسطح ونُظّف، وعُزلت قواعد الأعمدة والدرابزين، ثم غُطّي السطح كله بطلاء عازل أبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 873,
+    "after-1.jpg": 881,
+    "step-01.jpg": 870,
+    "step-02.jpg": 868,
+    "step-03.jpg": 871,
+    "step-04.jpg": 877,
+    "step-05.jpg": 876,
+    "step-06.jpg": 875,
+    "step-07.jpg": 879,
+    "step-08.jpg": 880
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

@@ -1,0 +1,30 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 1074,
+  "title": {
+    "el": "Ανακαίνιση μπάνιου με ξεφλουδισμένους τοίχους",
+    "en": "Bathroom With Peeling Walls Restored",
+    "ar": "تجديد حمام بجدران متقشرة"
+  },
+  "excerpt": {
+    "el": "Οι τοίχοι και το ταβάνι πάνω από τα πλακάκια είχαν λεκέδες από υγρασία και ξεφλούδιζαν. Τα παλιά εξαρτήματα αφαιρέθηκαν, οι επιφάνειες επισκευάστηκαν και βάφτηκαν λευκές.",
+    "en": "The walls and ceiling above the tiles were stained by damp and peeling. The old fittings came out, and the surfaces were repaired and painted white.",
+    "ar": "كانت الجدران والسقف فوق البلاط ملطخة بالرطوبة ومتقشرة. أُزيلت التجهيزات القديمة، وأُصلحت الأسطح وطُليت بالأبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 1079,
+    "after-1.jpg": 1078,
+    "step-01.jpg": 1075,
+    "step-02.jpg": 1077,
+    "step-03.jpg": 1076,
+    "step-04.jpg": 1074
+  }
+}

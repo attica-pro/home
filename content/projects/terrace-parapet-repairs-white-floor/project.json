@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1012,
+  "title": {
+    "el": "Επισκευή στηθαίων και στεγάνωση ταράτσας",
+    "en": "Parapet Repairs and Terrace Waterproofing",
+    "ar": "إصلاح الحواجز وعزل مائي لسطح"
+  },
+  "excerpt": {
+    "el": "Τα στηθαία είχαν υγρασία, σκασμένους σοβάδες και μαύρους λεκέδες. Επισκευάστηκαν και βάφτηκαν, και το δάπεδο της ταράτσας στεγανώθηκε με λευκό υλικό.",
+    "en": "The parapet walls were damp, with cracked render and black stains. They were repaired and painted, and the terrace floor was waterproofed with a white coating.",
+    "ar": "كانت الحواجز رطبة، فيها لياسة متشققة وبقع سوداء. أُصلحت وطُليت، ثم عُزلت أرضية السطح بطلاء أبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 1013,
+    "after-1.jpg": 1018,
+    "step-01.jpg": 1030,
+    "step-02.jpg": 1028,
+    "step-03.jpg": 1029,
+    "step-04.jpg": 1026,
+    "step-05.jpg": 1025,
+    "step-06.jpg": 1014,
+    "step-07.jpg": 1015,
+    "step-08.jpg": 1021
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

@@ -1,0 +1,34 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 390,
+  "title": {
+    "el": "Θερμοπρόσοψη στους τοίχους μπαλκονιού",
+    "en": "External Wall Insulation Along a Balcony",
+    "ar": "عزل حراري خارجي لجدران شرفة"
+  },
+  "excerpt": {
+    "el": "Οι εξωτερικοί τοίχοι στο μπαλκόνι ντύθηκαν με θερμομονωτικές πλάκες, στερεώθηκαν με βύσματα και σοβατίστηκαν, ώστε το σπίτι να κρατά καλύτερα τη θερμοκρασία του.",
+    "en": "The outside walls along a balcony were covered with insulation boards, anchored and rendered, so the home holds its temperature better.",
+    "ar": "كُسيت الجدران الخارجية على امتداد الشرفة بألواح عازلة للحرارة، ثم ثُبّتت بمسامير خاصة وغُطّيت بطبقة لياسة، ليحافظ البيت على حرارته بشكل أفضل."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 390,
+    "after-1.jpg": 409,
+    "step-01.jpg": 391,
+    "step-02.jpg": 393,
+    "step-03.jpg": 394,
+    "step-04.jpg": 396,
+    "step-05.jpg": 398,
+    "step-06.jpg": 400,
+    "step-07.jpg": 403,
+    "step-08.jpg": 407
+  }
+}

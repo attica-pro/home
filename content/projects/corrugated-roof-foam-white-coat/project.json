@@ -1,0 +1,31 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1003,
+  "title": {
+    "el": "Ψεκαζόμενη μόνωση και λευκή βαφή σε στέγη με κυματοειδή φύλλα",
+    "en": "Spray Foam and a White Coat on a Corrugated Roof",
+    "ar": "عزل بالرش وطلاء أبيض لسقف من الألواح المموجة"
+  },
+  "excerpt": {
+    "el": "Η παλιά στέγη πλύθηκε, ψεκάστηκε με αφρό πολυουρεθάνης και βάφτηκε λευκή για να αντέχει στον ήλιο.",
+    "en": "The old roof was washed, sprayed with polyurethane foam and painted white to stand up to the sun.",
+    "ar": "غُسل السقف القديم، ثم رُشّ برغوة البولي يوريثان وطُلي بالأبيض ليتحمل الشمس."
+  },
+  "cover": "step-04.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 1004,
+    "after-1.jpg": 1006,
+    "step-01.jpg": 1003,
+    "step-02.jpg": 1005,
+    "step-03.jpg": 1007,
+    "step-04.jpg": 1010
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

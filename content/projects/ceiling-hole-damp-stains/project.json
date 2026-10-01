@@ -1,0 +1,36 @@
+{
+  "service": "repairs",
+  "featured": true,
+  "order": 662,
+  "title": {
+    "el": "Τρύπα στο ταβάνι και λεκέδες υγρασίας",
+    "en": "A Hole in the Ceiling and Damp Stains",
+    "ar": "ثقب في السقف وبقع رطوبة"
+  },
+  "excerpt": {
+    "el": "Ένα κομμάτι ταβανιού είχε πέσει και κάτω από τα παράθυρα υπήρχαν λεκέδες υγρασίας. Το ταβάνι επισκευάστηκε και οι τοίχοι καθαρίστηκαν και βάφτηκαν.",
+    "en": "A piece of ceiling had come down and there were damp stains under the windows. The ceiling was repaired and the walls were cleaned up and painted.",
+    "ar": "سقط جزء من السقف وظهرت بقع رطوبة تحت النوافذ. أُصلح السقف ونُظفت الجدران وطُليت."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 662,
+    "after-1.jpg": 664,
+    "before-2.jpg": 667,
+    "after-2.jpg": 666,
+    "step-01.jpg": 663,
+    "step-02.jpg": 669,
+    "step-03.jpg": 668
+  },
+  "relatedGuide": "interior-painting-guide"
+}

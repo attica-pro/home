@@ -1,0 +1,40 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 648,
+  "title": {
+    "el": "Από μέντα και μπεζ σε λευκούς τοίχους",
+    "en": "From Mint and Beige to White Walls",
+    "ar": "من الأخضر النعناعي والبيج إلى جدران بيضاء"
+  },
+  "excerpt": {
+    "el": "Δωμάτια σε έντονο μέντα και μπεζ, με ρωγμές και χτυπήματα, στοκαρίστηκαν και βάφτηκαν λευκά, για ένα πιο φωτεινό σπίτι.",
+    "en": "Rooms in strong mint and beige, with cracks and dents, were filled and painted white for a brighter home.",
+    "ar": "غرف بلون نعناعي قوي وبيج، فيها شقوق وكدمات، تمت معجنتها وطلاؤها بالأبيض لبيت أكثر إشراقًا."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 648,
+    "after-1.jpg": 649,
+    "before-2.jpg": 652,
+    "after-2.jpg": 653,
+    "step-01.jpg": 659,
+    "step-02.jpg": 655,
+    "step-03.jpg": 656,
+    "step-04.jpg": 658,
+    "step-05.jpg": 657,
+    "step-06.jpg": 651,
+    "step-07.jpg": 654
+  },
+  "relatedGuide": "interior-painting-guide"
+}

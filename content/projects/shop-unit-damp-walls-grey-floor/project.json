@@ -1,0 +1,27 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 320,
+  "title": {
+    "el": "Ισόγειο κατάστημα: τοίχοι με υγρασία και νέο δάπεδο",
+    "en": "Shop Unit: Damp Walls Repaired and Floor Coated",
+    "ar": "محل تجاري: إصلاح جدران رطبة وطلاء الأرضية"
+  },
+  "excerpt": {
+    "el": "Ένα άδειο κατάστημα με υγρασία στους τοίχους καθαρίστηκε, βάφτηκε λευκό και το δάπεδο πήρε γκρι επίστρωση.",
+    "en": "An empty shop with damp walls was cleaned out and painted white, and the floor got a grey coating.",
+    "ar": "نُظف محل فارغ ذو جدران رطبة وطُلي بالأبيض، وحصلت أرضيته على طبقة رمادية."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 320,
+    "step-02.jpg": 322,
+    "step-03.jpg": 323,
+    "step-04.jpg": 324,
+    "step-05.jpg": 326,
+    "step-06.jpg": 327,
+    "step-07.jpg": 329,
+    "step-08.jpg": 328
+  }
+}

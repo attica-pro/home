@@ -1,0 +1,32 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1054,
+  "title": {
+    "el": "Μόνωση ταβανιού πιλοτής με αφρό πολυουρεθάνης",
+    "en": "Pilotis Ceiling Insulated with Spray Polyurethane Foam",
+    "ar": "عزل سقف الطابق الأرضي المفتوح (البيلوتي) برغوة البولي يوريثان"
+  },
+  "excerpt": {
+    "el": "Το ταβάνι της πιλοτής ψεκάστηκε από κάτω με αφρό πολυουρεθάνης, ώστε να μονωθεί το πάτωμα του διαμερίσματος από πάνω.",
+    "en": "The ceiling of the pilotis, the open ground floor under the building, was sprayed from below with polyurethane foam to insulate the floor of the flat above.",
+    "ar": "رُشّ سقف الطابق الأرضي المفتوح (البيلوتي) من الأسفل برغوة البولي يوريثان، لعزل أرضية الشقة التي فوقه."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 1058,
+    "after-1.jpg": 1059,
+    "step-01.jpg": 1054,
+    "step-02.jpg": 1055,
+    "step-03.jpg": 1056,
+    "step-04.jpg": 1060,
+    "step-05.jpg": 1061,
+    "step-06.jpg": 1057
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "service": "wood",
+  "featured": true,
+  "order": 64,
+  "title": {
+    "el": "Αποκατάσταση ξύλινων παντζουριών",
+    "en": "Restoring Wooden Shutters",
+    "ar": "ترميم شيش خشبي"
+  },
+  "excerpt": {
+    "el": "Παλιά ξύλινα παντζούρια με ξεφλουδισμένο χρώμα τρίφτηκαν, ασταρώθηκαν και βάφτηκαν ξανά, αντί να αντικατασταθούν.",
+    "en": "Old wooden shutters with peeling paint were sanded, primed and repainted instead of being replaced.",
+    "ar": "شيش خشبي قديم بطلاء متقشر تمت صنفرته وطلاؤه بطبقة أساس ثم إعادة طلائه، بدل استبداله."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 66,
+    "after-1.jpg": 68,
+    "step-01.jpg": 65,
+    "step-02.jpg": 64,
+    "step-03.jpg": 67,
+    "step-04.jpg": 69
+  }
+}

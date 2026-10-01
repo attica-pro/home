@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 214,
+  "title": {
+    "el": "Ταράτσα: ξήλωμα παλιών πλακιδίων και νέα τσιμεντοειδής στρώση",
+    "en": "Terrace Stripped of Old Tiles and Given a New Cement-Based Layer",
+    "ar": "إزالة البلاط القديم من سطح وفرد طبقة إسمنتية جديدة"
+  },
+  "excerpt": {
+    "el": "Τα σπασμένα πλακάκια βγήκαν, οι αρμοί καθαρίστηκαν και σφραγίστηκαν, και η ταράτσα μαζί με το στενό μπαλκόνι δίπλα της πήραν νέα τσιμεντοειδή επίστρωση.",
+    "en": "The broken tiles came up, the joints were cleaned out and sealed, and the terrace and the narrow balcony beside it got a new cement-based coating.",
+    "ar": "أُزيل البلاط المكسور، ونُظفت الفواصل وسُدت، ثم حصل السطح والشرفة الضيقة بجانبه على طبقة إسمنتية جديدة."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 222,
+    "step-02.jpg": 220,
+    "step-03.jpg": 221,
+    "step-04.jpg": 217,
+    "step-05.jpg": 219,
+    "step-06.jpg": 214,
+    "step-07.jpg": 218,
+    "step-08.jpg": 215
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

@@ -1,0 +1,26 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 783,
+  "title": {
+    "el": "Βαφή διαμερίσματος με ζεστά χρώματα και λαδί τοίχο",
+    "en": "Apartment Painted in Warm Tones with an Olive Wall",
+    "ar": "طلاء شقة بألوان دافئة وجدار زيتوني"
+  },
+  "excerpt": {
+    "el": "Ένα υπνοδωμάτιο σε ζεστό ροδακινί και ένα λευκό σαλόνι με λαδί τοίχο γύρω από το τζάκι.",
+    "en": "A bedroom in warm peach and a white living room with olive green around the fireplace.",
+    "ar": "غرفة نوم بلون خوخي دافئ وغرفة جلوس بيضاء مع لون زيتوني حول المدفأة."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 783,
+    "step-02.jpg": 785,
+    "step-03.jpg": 787,
+    "step-04.jpg": 789,
+    "step-05.jpg": 790,
+    "step-06.jpg": 791
+  },
+  "relatedGuide": "interior-painting-guide"
+}

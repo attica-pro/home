@@ -1,0 +1,24 @@
+{
+  "service": "repairs",
+  "featured": false,
+  "order": 223,
+  "title": {
+    "el": "Επισκευή ταβανιού με εκτεθειμένο οπλισμό",
+    "en": "Ceiling Repair Over Exposed Steel Bars",
+    "ar": "إصلاح سقف ظهر حديد تسليحه"
+  },
+  "excerpt": {
+    "el": "Ο σοβάς του ταβανιού είχε πέσει και φαίνονταν τα σίδερα. Ο οπλισμός προστατεύτηκε, το ταβάνι ξαναφτιάχτηκε και βάφτηκε.",
+    "en": "The ceiling plaster had fallen away and the steel bars were showing. The bars were protected, and the ceiling was built back up and painted.",
+    "ar": "تساقط جص السقف وظهر حديد التسليح، فحُمي الحديد وأُعيد بناء السقف وطلاؤه."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 224,
+    "step-02.jpg": 223,
+    "step-03.jpg": 225,
+    "step-04.jpg": 226,
+    "step-05.jpg": 227
+  }
+}

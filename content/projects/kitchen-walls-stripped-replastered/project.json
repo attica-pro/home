@@ -1,0 +1,22 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 84,
+  "title": {
+    "el": "Κουζίνα: καθαίρεση και νέοι τοίχοι για τα καινούργια ντουλάπια",
+    "en": "Kitchen Stripped and Walls Rebuilt for New Units",
+    "ar": "مطبخ: هدم القديم وتجهيز الجدران للخزائن الجديدة"
+  },
+  "excerpt": {
+    "el": "Τα παλιά πλακάκια και ντουλάπια της κουζίνας βγήκαν, μπήκαν νέες παροχές και οι τοίχοι σοβατίστηκαν και βάφτηκαν, έτοιμοι για νέα κουζίνα.",
+    "en": "The old kitchen tiles and units came out, new supply points went in, and the walls were plastered and painted, ready for a new kitchen.",
+    "ar": "أُزيل البلاط والخزائن القديمة من المطبخ، ورُكّبت نقاط تمديدات جديدة، ثم لُيّست الجدران وطُليت لتصبح جاهزة لمطبخ جديد."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 84,
+    "step-02.jpg": 86,
+    "step-03.jpg": 87
+  }
+}

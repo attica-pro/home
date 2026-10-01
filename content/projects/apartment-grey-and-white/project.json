@@ -1,0 +1,24 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 792,
+  "title": {
+    "el": "Βαφή διαμερίσματος σε γκρι και λευκό",
+    "en": "Apartment Painted in Grey and White",
+    "ar": "طلاء شقة بالرمادي والأبيض"
+  },
+  "excerpt": {
+    "el": "Ανοιχτό γκρι στους τοίχους, που αναδεικνύει τις λευκές ντουλάπες, τις πόρτες και τη βιβλιοθήκη, για ένα ήρεμο και φωτεινό σπίτι.",
+    "en": "Light grey walls that set off the white wardrobes, doors and shelves, for a calm, bright home.",
+    "ar": "جدران رمادية فاتحة تُبرز الخزائن والأبواب والرفوف البيضاء، لبيت هادئ ومشرق."
+  },
+  "cover": "step-01.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 792,
+    "step-02.jpg": 793,
+    "step-03.jpg": 794,
+    "step-04.jpg": 795
+  },
+  "relatedGuide": "interior-painting-guide"
+}

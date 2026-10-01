@@ -1,0 +1,26 @@
+{
+  "service": "repairs",
+  "featured": false,
+  "order": 848,
+  "title": {
+    "el": "Επισκευή ρωγμής στο ταβάνι και βαφή υπνοδωματίου",
+    "en": "Ceiling Crack Repaired and Bedroom Repainted",
+    "ar": "إصلاح شق في السقف وطلاء غرفة نوم"
+  },
+  "excerpt": {
+    "el": "Μια ρωγμή στο ταβάνι είχε φτάσει μέχρι το σίδερο του οπλισμού. Επισκευάστηκε και το δωμάτιο βάφτηκε ξανά.",
+    "en": "A crack in the ceiling had reached the steel reinforcement. It was repaired and the room was painted again.",
+    "ar": "شق في السقف وصل إلى حديد التسليح. أُصلح الشق وأعيد طلاء الغرفة."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 849,
+    "step-02.jpg": 850,
+    "step-03.jpg": 851,
+    "step-04.jpg": 852,
+    "step-05.jpg": 853,
+    "step-06.jpg": 848
+  },
+  "relatedGuide": "interior-painting-guide"
+}

@@ -1,0 +1,39 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 330,
+  "title": {
+    "el": "Υγρασία στους τοίχους και πεσμένο ταβάνι σε διαμέρισμα",
+    "en": "Damp Walls and a Collapsed Ceiling in an Apartment",
+    "ar": "رطوبة في الجدران وسقف متساقط في شقة"
+  },
+  "excerpt": {
+    "el": "Φουσκωμένα χρώματα στα κάτω μέρη των τοίχων και ένα κομμάτι ταβανιού που είχε πέσει. Ξύσιμο, σοβάτισμα, στοκάρισμα και βαφή σε όλο το διαμέρισμα.",
+    "en": "Bubbling paint low on the walls and a section of ceiling that had come down. Scraping, re-plastering, filling and painting throughout the apartment.",
+    "ar": "طلاء منتفخ في أسفل الجدران وجزء من السقف قد سقط. كشط ولياسة ومعجنة وطلاء في الشقة كلها."
+  },
+  "cover": "after-2.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 333,
+    "after-1.jpg": 339,
+    "before-2.jpg": 353,
+    "after-2.jpg": 357,
+    "step-01.jpg": 331,
+    "step-02.jpg": 335,
+    "step-03.jpg": 352,
+    "step-04.jpg": 355,
+    "step-05.jpg": 347,
+    "step-06.jpg": 350
+  },
+  "relatedGuide": "rising-damp-solutions"
+}

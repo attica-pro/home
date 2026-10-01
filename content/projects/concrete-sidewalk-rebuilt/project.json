@@ -1,0 +1,31 @@
+{
+  "service": "paving",
+  "featured": false,
+  "order": 519,
+  "title": {
+    "el": "Νέο τσιμεντένιο πεζοδρόμιο",
+    "en": "A New Concrete Sidewalk",
+    "ar": "رصيف خرساني جديد"
+  },
+  "excerpt": {
+    "el": "Ένα σπασμένο πεζοδρόμιο με αγριόχορτα και βρύα στρώθηκε ξανά με τσιμέντο και βάφτηκε γκρι.",
+    "en": "A broken sidewalk overgrown with weeds and moss was relaid in concrete and painted grey.",
+    "ar": "رصيف مكسور تغطيه الأعشاب والطحالب أُعيد صبّه بالخرسانة ثم طُلي باللون الرمادي."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 519,
+    "after-1.jpg": 523,
+    "step-01.jpg": 520,
+    "step-02.jpg": 521,
+    "step-03.jpg": 522,
+    "step-04.jpg": 524,
+    "step-05.jpg": 525
+  }
+}

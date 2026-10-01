@@ -1,0 +1,34 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 228,
+  "title": {
+    "el": "Κλείσιμο ανοίγματος σε τοίχο σαλονιού",
+    "en": "Closing Up a Wall Opening in a Living Room",
+    "ar": "إغلاق فتحة في جدار غرفة المعيشة"
+  },
+  "excerpt": {
+    "el": "Ένα άνοιγμα ανάμεσα σε δύο χώρους χτίστηκε με τούβλα, σοβατίστηκε και βάφτηκε, και ο τοίχος δείχνει σαν να ήταν πάντα ενιαίος.",
+    "en": "An opening between two rooms was bricked up, plastered and painted, and the wall now looks as if it had always been one piece.",
+    "ar": "بُنيت فتحة بين غرفتين بالطوب ثم لُبّست بالجص وطُليت، فصار الجدار يبدو كأنه كان قطعة واحدة دائمًا."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 232,
+    "after-1.jpg": 235,
+    "step-01.jpg": 228,
+    "step-02.jpg": 229,
+    "step-03.jpg": 230,
+    "step-04.jpg": 231,
+    "step-05.jpg": 234,
+    "step-06.jpg": 236,
+    "step-07.jpg": 237,
+    "step-08.jpg": 240
+  }
+}

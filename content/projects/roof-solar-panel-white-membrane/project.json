@@ -1,0 +1,25 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 185,
+  "title": {
+    "el": "Λευκή στεγανωτική μεμβράνη σε ταράτσα με ηλιακό",
+    "en": "White Waterproofing Membrane on a Roof with a Solar Heater",
+    "ar": "غشاء عازل أبيض لسطح عليه سخان شمسي"
+  },
+  "excerpt": {
+    "el": "Η παλιά επιφάνεια μιας ταράτσας τρίφτηκε, ασταρώθηκε και καλύφθηκε με λευκή επαλειφόμενη μεμβράνη, από τα τοιχία μέχρι κάτω από τη βάση του ηλιακού.",
+    "en": "A roof's old surface was ground back, primed and covered with a white liquid membrane, from the low walls to under the solar heater frame.",
+    "ar": "صُقل السطح القديم لسطح بناية، ووُضعت عليه طبقة أساس، ثم غُطّي بغشاء سائل أبيض من الجدران المنخفضة حتى تحت قاعدة السخان الشمسي."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 185,
+    "step-02.jpg": 186,
+    "step-03.jpg": 187,
+    "step-04.jpg": 188,
+    "step-05.jpg": 189
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

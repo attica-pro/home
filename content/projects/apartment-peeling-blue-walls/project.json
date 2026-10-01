@@ -1,0 +1,41 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 830,
+  "title": {
+    "el": "Διαμέρισμα με ξεφλουδισμένους μπλε τοίχους βαμμένο λευκό",
+    "en": "Apartment with Peeling Blue Walls Painted White",
+    "ar": "شقة بجدران زرقاء متقشرة طُليت بالأبيض"
+  },
+  "excerpt": {
+    "el": "Το γαλάζιο χρώμα έφευγε σε μεγάλα κομμάτια. Οι τοίχοι ξύστηκαν, στοκαρίστηκαν και βάφτηκαν λευκοί σε όλο το σπίτι.",
+    "en": "The blue paint was coming off in large patches. The walls were scraped, filled and painted white throughout the home.",
+    "ar": "كان الطلاء الأزرق يتساقط في قطع كبيرة. كُشطت الجدران وعولجت بالمعجون وطُليت بالأبيض في البيت كله."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 839,
+    "after-1.jpg": 847,
+    "before-2.jpg": 838,
+    "after-2.jpg": 845,
+    "step-01.jpg": 830,
+    "step-02.jpg": 835,
+    "step-03.jpg": 832,
+    "step-04.jpg": 840,
+    "step-05.jpg": 837,
+    "step-06.jpg": 841,
+    "step-07.jpg": 843,
+    "step-08.jpg": 844
+  },
+  "relatedGuide": "interior-painting-guide"
+}

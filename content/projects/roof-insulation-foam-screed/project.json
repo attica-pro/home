@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 0,
+  "title": {
+    "el": "Θερμομόνωση ταράτσας με πολυουρεθάνη και νέο γέμισμα",
+    "en": "Roof Insulated with Spray Polyurethane Foam and a New Screed",
+    "ar": "عزل حراري لسطح برغوة البولي يوريثان وطبقة تسوية جديدة"
+  },
+  "excerpt": {
+    "el": "Μια γυμνή πλάκα ταράτσας ψεκάστηκε με αφρό πολυουρεθάνης, πέρασε μια στρώση πίσσα και από πάνω ρίχτηκε νέο γέμισμα με αντλία μπετού.",
+    "en": "A bare roof slab was sprayed with polyurethane foam, given a coat of tar, and covered with a new screed poured by a concrete pump.",
+    "ar": "رُشّت بلاطة سطح عارية برغوة البولي يوريثان، ثم طُليت بطبقة من القار، وصُبّت فوقها طبقة تسوية جديدة بمضخة خرسانة."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 0,
+    "step-02.jpg": 1,
+    "step-03.jpg": 2,
+    "step-04.jpg": 3,
+    "step-05.jpg": 4,
+    "step-06.jpg": 5,
+    "step-07.jpg": 6
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

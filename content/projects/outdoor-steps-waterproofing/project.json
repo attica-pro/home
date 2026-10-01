@@ -1,0 +1,24 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1150,
+  "title": {
+    "el": "Στεγανοποίηση εξωτερικής σκάλας",
+    "en": "Waterproofing Outdoor Steps",
+    "ar": "عزل مائي لدرج خارجي"
+  },
+  "excerpt": {
+    "el": "Τα φθαρμένα σκαλοπάτια μιας εξωτερικής σκάλας προετοιμάστηκαν και καλύφθηκαν με στεγανωτικές στρώσεις, σε πατήματα, ρίχτια και στο δάπεδο μπροστά τους.",
+    "en": "The worn treads and risers of an outdoor staircase, and the floor in front of them, were prepared and covered with waterproof layers.",
+    "ar": "جُهّزت الدرجات المتآكلة لسلم خارجي، بأسطحها وواجهاتها والأرضية أمامها، وغُطّيت بطبقات عازلة للماء."
+  },
+  "cover": "step-04.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 1150,
+    "step-02.jpg": 1152,
+    "step-03.jpg": 1153,
+    "step-04.jpg": 1155,
+    "step-05.jpg": 1157
+  }
+}

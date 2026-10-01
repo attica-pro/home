@@ -1,0 +1,31 @@
+{
+  "service": "paving",
+  "featured": true,
+  "order": 805,
+  "title": {
+    "el": "Αυλή εστιατορίου: νέοι αρμοί στην πέτρινη πλακόστρωση",
+    "en": "Restaurant Courtyard: New Joints for the Stone Paving",
+    "ar": "ساحة مطعم: فواصل جديدة لأرضية الحجر"
+  },
+  "excerpt": {
+    "el": "Μια σκοτεινή πέτρινη αυλή εστιατορίου απέκτησε λευκούς αρμούς, που αναδεικνύουν το σχέδιο της πέτρας.",
+    "en": "A dark stone-paved restaurant courtyard got new white joints that bring out the pattern of the stone.",
+    "ar": "ساحة مطعم مرصوفة بحجر داكن حصلت على فواصل بيضاء جديدة تُبرز شكل الحجر."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 806,
+    "after-1.jpg": 810,
+    "step-01.jpg": 805,
+    "step-02.jpg": 808,
+    "step-03.jpg": 809,
+    "step-04.jpg": 811,
+    "step-05.jpg": 813
+  }
+}

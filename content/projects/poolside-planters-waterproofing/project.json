@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1132,
+  "title": {
+    "el": "Στεγανοποίηση ζαρντινιέρων δίπλα σε πισίνα",
+    "en": "Waterproofing Planters Beside a Pool",
+    "ar": "عزل مائي لأحواض زرع بجانب مسبح"
+  },
+  "excerpt": {
+    "el": "Οι παλιές ζαρντινιέρες άδειασαν, η φθαρμένη στεγάνωση αφαιρέθηκε και ο πάτος και τα τοιχώματά τους καλύφθηκαν με νέα επίστρωση.",
+    "en": "The old planters were emptied, the worn waterproofing came out, and their floors and sides got a new coating.",
+    "ar": "أُفرغت أحواض الزرع القديمة، وأُزيل العزل المتآكل، وكُسيت أرضياتها وجوانبها بطلاء جديد."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 1138,
+    "step-02.jpg": 1139,
+    "step-03.jpg": 1140,
+    "step-04.jpg": 1135,
+    "step-05.jpg": 1136,
+    "step-06.jpg": 1137,
+    "step-07.jpg": 1133,
+    "step-08.jpg": 1132
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 610,
+  "title": {
+    "el": "Μικρό διαμέρισμα με νέο δάπεδο και νέα χρώματα",
+    "en": "Small Flat with a New Floor and New Colours",
+    "ar": "شقة صغيرة بأرضية جديدة وألوان جديدة"
+  },
+  "excerpt": {
+    "el": "Το παλιό δάπεδο ξηλώθηκε και στρώθηκαν νέα πλακάκια, ενώ οι σκούροι μπλε τοίχοι βάφτηκαν σε ένα απαλό γκριζοπράσινο.",
+    "en": "The old floor was taken up and new tiles were laid, and the dark blue walls were repainted in a soft grey-green.",
+    "ar": "خُلعت الأرضية القديمة ورُكّب بلاط جديد، وأعيد طلاء الجدران الزرقاء الداكنة بلون أخضر رمادي ناعم."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 614,
+    "after-1.jpg": 622,
+    "before-2.jpg": 612,
+    "after-2.jpg": 620,
+    "step-01.jpg": 610,
+    "step-02.jpg": 611,
+    "step-03.jpg": 613,
+    "step-04.jpg": 616,
+    "step-05.jpg": 615,
+    "step-06.jpg": 617,
+    "step-07.jpg": 619,
+    "step-08.jpg": 621
+  }
+}

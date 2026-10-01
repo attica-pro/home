@@ -1,0 +1,31 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 383,
+  "title": {
+    "el": "Σωληνώσεις σε βεράντα: ξύλινο κάλυμμα και μόνωση",
+    "en": "Terrace Pipes Boxed in with Wood and Waterproofed",
+    "ar": "أنابيب على شرفة: تغطيتها بصندوق خشبي وعزلها"
+  },
+  "excerpt": {
+    "el": "Οι σωληνώσεις στη βάση του τοίχου μιας βεράντας είχαν ένα παλιό κάλυμμα που είχε διαλυθεί. Σκεπάστηκαν με νέο ξύλινο κουτί, σφραγίστηκαν οι αρμοί και όλο το κουτί, μαζί με τα πλακάκια γύρω του, μονώθηκε με λευκό στεγανωτικό.",
+    "en": "The pipes along the foot of a terrace wall had an old cover that had fallen apart. They were boxed in with wood, the joints were sealed, and the whole box, along with the tiles around it, was waterproofed with a white coating.",
+    "ar": "كانت الأنابيب الممتدة عند أسفل جدار شرفة تحت غطاء قديم متهالك. غُطّيت بصندوق خشبي جديد، وسُدّت فواصله، ثم عُزل الصندوق كله مع البلاط المحيط به بطلاء عازل أبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 385,
+    "after-1.jpg": 388,
+    "step-01.jpg": 383,
+    "step-02.jpg": 384,
+    "step-03.jpg": 386,
+    "step-04.jpg": 387,
+    "step-05.jpg": 389
+  }
+}

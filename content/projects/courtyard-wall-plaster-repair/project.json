@@ -1,0 +1,26 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 178,
+  "title": {
+    "el": "Επισκευή σοβάδων και βαφή σε τοίχο αυλής",
+    "en": "Courtyard Wall: Plaster Repairs and Fresh Paint",
+    "ar": "جدار فناء: إصلاح اللياسة وطلاء جديد"
+  },
+  "excerpt": {
+    "el": "Ένας εξωτερικός τοίχος με σοβάδες που είχαν φουσκώσει και πέσει μπαλώθηκε, ενισχύθηκε με πλέγμα, πέρασε λεπτό σοβά και βάφτηκε λευκός.",
+    "en": "An outside wall with blistered and fallen plaster was patched, reinforced with mesh, given a thin finishing coat and painted white.",
+    "ar": "جدار خارجي انتفخت لياسته وسقطت أجزاء منها رُمّم وقُوّي بشبك، ثم وُضعت عليه طبقة لياسة رقيقة وطُلي بالأبيض."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 178,
+    "step-02.jpg": 180,
+    "step-03.jpg": 181,
+    "step-04.jpg": 182,
+    "step-05.jpg": 183,
+    "step-06.jpg": 184
+  },
+  "relatedGuide": "facade-painting-guide"
+}

@@ -1,0 +1,22 @@
+{
+  "service": "wood",
+  "featured": false,
+  "order": 467,
+  "title": {
+    "el": "Ανανέωση ταλαιπωρημένων ξύλινων παντζουριών",
+    "en": "Weathered Wooden Shutters Refinished",
+    "ar": "تجديد شيش خشبي أتلفه الطقس"
+  },
+  "excerpt": {
+    "el": "Παντζούρια που είχαν γκριζάρει και σκάσει από τον ήλιο τρίφτηκαν και πήραν ξανά ζεστό χρώμα ξύλου.",
+    "en": "Shutters that had turned grey and cracked in the sun were sanded and given a warm wood finish again.",
+    "ar": "شيش تحوّل لونه إلى الرمادي وتشقق من الشمس تمت صنفرته واستعاد لون الخشب الدافئ."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 467,
+    "step-02.jpg": 468,
+    "step-03.jpg": 469
+  }
+}

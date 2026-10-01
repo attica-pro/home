@@ -1,0 +1,33 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 775,
+  "title": {
+    "el": "Σφράγισμα σωλήνων, βάσεων και στηθαίων σε ταράτσα",
+    "en": "Sealing Pipes, Posts and Parapets on a Roof",
+    "ar": "إحكام عزل الأنابيب والقواعد والحواجز على سطح"
+  },
+  "excerpt": {
+    "el": "Τα σημεία όπου σωλήνες και σίδερα περνούν μέσα από τη μεμβράνη είναι εκεί που συνήθως μπαίνει το νερό. Εδώ σφραγίστηκαν ένα ένα με λευκό στεγανωτικό.",
+    "en": "The places where pipes and steel posts pass through the membrane are usually where water gets in. Here each one was sealed with a white waterproof coating.",
+    "ar": "الأماكن التي تخترق فيها الأنابيب والأعمدة الحديدية الغشاء هي عادةً حيث يدخل الماء. هنا أُحكم عزل كل منها على حدة بطلاء عازل أبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 780,
+    "after-1.jpg": 779,
+    "step-01.jpg": 781,
+    "step-02.jpg": 782,
+    "step-03.jpg": 776,
+    "step-04.jpg": 775,
+    "step-05.jpg": 778,
+    "step-06.jpg": 777
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

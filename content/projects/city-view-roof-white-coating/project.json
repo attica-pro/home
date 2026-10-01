@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 503,
+  "title": {
+    "el": "Ταράτσα από σκούρα σε λευκή",
+    "en": "A Dark Roof Terrace Turned White",
+    "ar": "سطح داكن يصبح أبيض"
+  },
+  "excerpt": {
+    "el": "Μια ταράτσα με παλιά, σκούρα επίστρωση και φθορές στις άκρες επισκευάστηκε και καλύφθηκε με λευκό στεγανωτικό που αντανακλά τον ήλιο.",
+    "en": "A roof with an old, dark coating and worn edges was repaired and covered with a white waterproof coating that reflects the sun.",
+    "ar": "سطح بطبقة قديمة داكنة وحواف متآكلة تم إصلاحه وتغطيته بطلاء أبيض عازل للماء يعكس أشعة الشمس."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 508,
+    "after-1.jpg": 517,
+    "step-01.jpg": 503,
+    "step-02.jpg": 504,
+    "step-03.jpg": 506,
+    "step-04.jpg": 507,
+    "step-05.jpg": 510,
+    "step-06.jpg": 511,
+    "step-07.jpg": 513,
+    "step-08.jpg": 514
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

@@ -1,0 +1,25 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1037,
+  "title": {
+    "el": "Θερμομόνωση ταράτσας με ψεκαζόμενη πολυουρεθάνη",
+    "en": "Roof Insulated with Spray Polyurethane Foam",
+    "ar": "عزل حراري لسطح برغوة البولي يوريثان المرشوشة"
+  },
+  "excerpt": {
+    "el": "Η ταράτσα καλύφθηκε με ενιαία στρώση αφρού πολυουρεθάνης, που ανεβαίνει στους τοίχους και τυλίγει τις βάσεις των κλιματιστικών.",
+    "en": "The roof was covered with one continuous layer of polyurethane foam that runs up the walls and around the bases of the air conditioning units.",
+    "ar": "غُطّي السطح بطبقة متصلة من رغوة البولي يوريثان تصعد على الجدران وتلتف حول قواعد وحدات التكييف."
+  },
+  "cover": "step-01.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 1037,
+    "step-02.jpg": 1038,
+    "step-03.jpg": 1041,
+    "step-04.jpg": 1042,
+    "step-05.jpg": 1045
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

@@ -1,0 +1,31 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 89,
+  "title": {
+    "el": "Ανακαίνιση στενού WC από τα τούβλα",
+    "en": "A Narrow WC Rebuilt from the Brickwork Up",
+    "ar": "تجديد حمام ضيق بدءًا من الطوب"
+  },
+  "excerpt": {
+    "el": "Ένα στενό WC ξηλώθηκε ως τα τούβλα. Μπήκε εντοιχιζόμενο καζανάκι και νέες παροχές, οι τοίχοι σοβατίστηκαν και το δάπεδο στρώθηκε με νέα πλακάκια.",
+    "en": "A narrow WC was stripped back to the brick. A concealed cistern and new supply pipes went in, the walls were plastered and the floor was laid with new tiles.",
+    "ar": "جُرّد حمام ضيق حتى الطوب، ورُكّب فيه صندوق طرد مخفي وتمديدات جديدة، ثم لُيّست الجدران وبُلّطت الأرضية ببلاط جديد."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 89,
+    "after-1.jpg": 95,
+    "step-01.jpg": 90,
+    "step-02.jpg": 91,
+    "step-03.jpg": 92,
+    "step-04.jpg": 94,
+    "step-05.jpg": 93
+  }
+}

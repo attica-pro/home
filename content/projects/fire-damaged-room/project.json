@@ -1,0 +1,32 @@
+{
+  "service": "painting",
+  "featured": true,
+  "order": 96,
+  "title": {
+    "el": "Αποκατάσταση δωματίου μετά από φωτιά",
+    "en": "Restoring a Room After a Fire",
+    "ar": "ترميم غرفة بعد حريق"
+  },
+  "excerpt": {
+    "el": "Τοίχοι και ταβάνι μαύρα από την αιθάλη. Καθαρισμός, επισκευή των σοβάδων και νέα βαφή έκαναν το δωμάτιο ξανά κατοικήσιμο.",
+    "en": "Walls and ceiling black with soot. Cleaning, plaster repairs and fresh paint made the room livable again.",
+    "ar": "جدران وسقف سوداء من السخام. التنظيف وإصلاح الجص والطلاء الجديد أعادت الغرفة صالحة للسكن."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 97,
+    "after-1.jpg": 104,
+    "step-01.jpg": 96,
+    "step-02.jpg": 98,
+    "step-03.jpg": 99,
+    "step-04.jpg": 100,
+    "step-05.jpg": 102,
+    "step-06.jpg": 103
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 172,
+  "title": {
+    "el": "Ανανέωση λευκής στεγάνωσης σε ταράτσα με αεραγωγούς",
+    "en": "Renewing the White Waterproofing on a Roof with Vent Pipes",
+    "ar": "تجديد العزل الأبيض لسطح فيه أنابيب تهوية"
+  },
+  "excerpt": {
+    "el": "Η παλιά λευκή επίστρωση μιας ταράτσας είχε λερωθεί και φθαρεί. Πλύθηκε και καλύφθηκε με νέο λευκό στεγανωτικό, με προσοχή γύρω από τους αεραγωγούς και στα τοιχία.",
+    "en": "A roof's old white coating had gone dirty and worn. It was washed and covered with a fresh white waterproofing, with extra care around the vent pipes and along the low walls.",
+    "ar": "كان الطلاء الأبيض القديم لسطح قد اتسخ وتآكل، فغُسل وغُطّي بعازل أبيض جديد، مع عناية خاصة حول أنابيب التهوية وعلى الجدران المنخفضة."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 172,
+    "step-02.jpg": 173,
+    "step-03.jpg": 174,
+    "step-04.jpg": 175,
+    "step-05.jpg": 176,
+    "step-06.jpg": 177
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

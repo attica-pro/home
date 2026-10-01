@@ -1,0 +1,24 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 449,
+  "title": {
+    "el": "Επισκευή και βάψιμο δωματίου με λεκέδες",
+    "en": "Repairing and Repainting a Stained Room",
+    "ar": "إصلاح وطلاء غرفة ببقع على الجدران"
+  },
+  "excerpt": {
+    "el": "Λεκέδες και φθορές κάτω από τα παράθυρα επισκευάστηκαν και το δωμάτιο βάφτηκε ξανά σε ενιαίο ανοιχτό χρώμα.",
+    "en": "Stains and damaged spots under the windows were repaired and the room was repainted in one even, light colour.",
+    "ar": "أُصلحت بقع وأضرار تحت النوافذ، وأُعيد طلاء الغرفة بلون فاتح موحد."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 449,
+    "step-02.jpg": 450,
+    "step-03.jpg": 451,
+    "step-04.jpg": 452
+  },
+  "relatedGuide": "interior-painting-guide"
+}

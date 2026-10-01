@@ -1,0 +1,25 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 260,
+  "title": {
+    "el": "Ανακαίνιση κουζίνας από το σχέδιο ως το τέλος",
+    "en": "Kitchen Renovation from Drawing to Finish",
+    "ar": "تجديد مطبخ من التصميم حتى النهاية"
+  },
+  "excerpt": {
+    "el": "Μια παλιά κουζίνα ξηλώθηκε εντελώς και στη θέση της μπήκε νέα γκρι κουζίνα με νησίδα, σύμφωνα με το σχέδιο.",
+    "en": "An old kitchen was stripped out completely and replaced with a new grey kitchen with an island, built to the design drawing.",
+    "ar": "أُزيل مطبخ قديم بالكامل ورُكب مكانه مطبخ رمادي جديد بجزيرة وفق الرسم التصميمي."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 264,
+    "step-02.jpg": 265,
+    "step-04.jpg": 260,
+    "step-05.jpg": 262,
+    "step-06.jpg": 266,
+    "step-07.jpg": 267
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 561,
+  "title": {
+    "el": "Σφράγισμα στις βάσεις μεταλλικών ορθοστατών σε ταράτσα",
+    "en": "Sealing the Bases of Metal Posts on a Roof",
+    "ar": "عزل قواعد أعمدة معدنية على سطح"
+  },
+  "excerpt": {
+    "el": "Η παλιά σφράγιση γύρω από τους ορθοστάτες είχε ραγίσει. Κάθε βάση καλύφθηκε με λευκό στεγανωτικό οπλισμένο με ύφασμα, που ανεβαίνει και στο μέταλλο.",
+    "en": "The old seal around the posts had cracked. Each base was covered with a white waterproof coating reinforced with fabric, taken up onto the metal as well.",
+    "ar": "تشقق العزل القديم حول الأعمدة. فغُطيت كل قاعدة بمادة عازلة بيضاء مقواة بالنسيج، تصعد أيضًا على المعدن."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 561,
+    "after-1.jpg": 570,
+    "step-01.jpg": 562,
+    "step-02.jpg": 563,
+    "step-03.jpg": 565,
+    "step-04.jpg": 564,
+    "step-05.jpg": 566,
+    "step-06.jpg": 568,
+    "step-07.jpg": 569
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

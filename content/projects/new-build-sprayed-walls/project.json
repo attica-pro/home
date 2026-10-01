@@ -1,0 +1,23 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 637,
+  "title": {
+    "el": "Αφρός πολυουρεθάνης στους τοίχους νέας οικοδομής",
+    "en": "Spray Polyurethane Foam on the Walls of a New Build",
+    "ar": "رغوة البولي يوريثان على جدران مبنى جديد"
+  },
+  "excerpt": {
+    "el": "Οι γυμνοί εξωτερικοί τοίχοι μιας οικοδομής σε εξέλιξη ψεκάστηκαν με αφρό πολυουρεθάνης σε μια συνεχή μονωτική στρώση, πάνω στην οποία πέφτει μετά ο σοβάς.",
+    "en": "The bare outside walls of a house under construction were sprayed with polyurethane foam in one continuous insulating layer, with render going on top afterwards.",
+    "ar": "رُشّت الجدران الخارجية العارية لمبنى قيد الإنشاء برغوة البولي يوريثان في طبقة عازلة متصلة، ثم تُكسى بعد ذلك باللياسة."
+  },
+  "cover": "step-04.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 637,
+    "step-02.jpg": 638,
+    "step-03.jpg": 639,
+    "step-04.jpg": 640
+  }
+}

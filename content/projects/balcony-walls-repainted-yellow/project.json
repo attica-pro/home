@@ -1,0 +1,22 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 241,
+  "title": {
+    "el": "Μπαλκόνι με φρεσκοβαμμένους τοίχους",
+    "en": "Balcony Walls Repainted",
+    "ar": "إعادة طلاء جدران شرفة"
+  },
+  "excerpt": {
+    "el": "Ένα παραμελημένο μπαλκόνι άδειασε, καθαρίστηκε και οι τοίχοι του βάφτηκαν σε απαλό κίτρινο.",
+    "en": "A neglected balcony was cleared and cleaned, and its walls were painted a soft yellow.",
+    "ar": "أُفرغت شرفة مهملة ونُظفت، وطُليت جدرانها بلون أصفر فاتح."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 241,
+    "step-02.jpg": 242,
+    "step-03.jpg": 244
+  }
+}

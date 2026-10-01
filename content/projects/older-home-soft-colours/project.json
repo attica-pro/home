@@ -1,0 +1,28 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 982,
+  "title": {
+    "el": "Βαφή παλιού σπιτιού σε απαλά χρώματα",
+    "en": "Repainting an Older Home in Soft Colours",
+    "ar": "طلاء بيت قديم بألوان هادئة"
+  },
+  "excerpt": {
+    "el": "Ψηλά ταβάνια, ξύλινα κουφώματα και διπλές πόρτες με τζάμια. Οι τοίχοι πήραν απαλά χρώματα, με γκρι-μπλε ζώνη στο κάτω μέρος.",
+    "en": "High ceilings, wooden window frames and glazed double doors. The walls got soft colours, with a grey-blue band along the bottom.",
+    "ar": "أسقف عالية ونوافذ خشبية وأبواب مزدوجة بالزجاج. حصلت الجدران على ألوان هادئة مع شريط رمادي مزرق في أسفلها."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 982,
+    "step-02.jpg": 989,
+    "step-03.jpg": 988,
+    "step-04.jpg": 986,
+    "step-05.jpg": 992,
+    "step-06.jpg": 995,
+    "step-07.jpg": 994,
+    "step-08.jpg": 987
+  },
+  "relatedGuide": "interior-painting-guide"
+}

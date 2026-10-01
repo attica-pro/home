@@ -1,0 +1,24 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 1145,
+  "title": {
+    "el": "Βαφή δωματίου με πιστόλι",
+    "en": "Spray-Painting a Room White",
+    "ar": "طلاء غرفة بالأبيض بمسدس الرش"
+  },
+  "excerpt": {
+    "el": "Οι πρασινογάλαζοι τοίχοι ενός δωματίου βάφτηκαν λευκοί με πιστόλι βαφής, αφού πρώτα σκεπάστηκαν τα έπιπλα.",
+    "en": "The teal walls of a room were painted white with a spray gun, after the furniture had been covered.",
+    "ar": "طُليت جدران غرفة فيروزية اللون بالأبيض بمسدس الرش، بعد تغطية الأثاث."
+  },
+  "cover": "step-04.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 1146,
+    "step-02.jpg": 1147,
+    "step-03.jpg": 1148,
+    "step-04.jpg": 1145
+  },
+  "relatedGuide": "interior-painting-guide"
+}

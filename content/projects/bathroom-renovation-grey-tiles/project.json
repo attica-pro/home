@@ -1,0 +1,26 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 426,
+  "title": {
+    "el": "Ανακαίνιση μπάνιου με ντουζιέρα και κόγχη",
+    "en": "Bathroom Renovation with a Shower and Wall Niche",
+    "ar": "تجديد حمام مع دش وتجويف في الجدار"
+  },
+  "excerpt": {
+    "el": "Το μπάνιο γδύθηκε ως τον γυμνό τοίχο και πήρε νέες σωληνώσεις, ντουζιέρα με κόγχη στον τοίχο και γκρι πλακάκια σε τοίχους και δάπεδο.",
+    "en": "The bathroom was stripped back to bare walls, then got new pipework, a shower with a built-in niche and grey tiles on walls and floor.",
+    "ar": "جُرّد الحمام حتى الجدران العارية، ثم رُكّبت فيه تمديدات جديدة ودش بتجويف في الجدار وبلاط رمادي على الجدران والأرضية."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 426,
+    "step-02.jpg": 428,
+    "step-03.jpg": 429,
+    "step-04.jpg": 431,
+    "step-05.jpg": 432,
+    "step-06.jpg": 435,
+    "step-07.jpg": 437
+  }
+}

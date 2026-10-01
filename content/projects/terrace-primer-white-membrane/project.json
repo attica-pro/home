@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 204,
+  "title": {
+    "el": "Ταράτσα με κάγκελα: αστάρι και λευκή στεγάνωση",
+    "en": "Terrace with Iron Railings Waterproofed in White",
+    "ar": "عزل سطح بدرابزين حديدي بغشاء أبيض"
+  },
+  "excerpt": {
+    "el": "Η παλιά, λεκιασμένη επίστρωση της ταράτσας καθαρίστηκε και ασταρώθηκε, και μετά το δάπεδο και τα στηθαία καλύφθηκαν με λευκό στεγανωτικό.",
+    "en": "The terrace's old, stained coating was cleaned and primed, then the floor and low walls were covered with a white waterproof coating.",
+    "ar": "نُظفت الطبقة القديمة الملطخة على السطح ووُضعت عليها طبقة أساس، ثم غُطيت الأرضية والجدران المنخفضة بطلاء عازل أبيض."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 211,
+    "step-02.jpg": 212,
+    "step-03.jpg": 204,
+    "step-04.jpg": 205,
+    "step-05.jpg": 206,
+    "step-06.jpg": 207,
+    "step-07.jpg": 208,
+    "step-08.jpg": 210
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

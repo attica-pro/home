@@ -1,0 +1,24 @@
+{
+  "service": "repairs",
+  "featured": false,
+  "order": 756,
+  "title": {
+    "el": "Επισκευή ξεφλουδισμένου τοίχου δίπλα σε πόρτα",
+    "en": "Repairing a Peeling Wall by a Door",
+    "ar": "إصلاح جدار متقشر بجانب باب"
+  },
+  "excerpt": {
+    "el": "Χρώμα που είχε σηκωθεί σε μεγάλα κομμάτια ξύστηκε, ο τοίχος στοκαρίστηκε και βάφτηκε ξανά.",
+    "en": "Paint that had lifted in large patches was scraped off, and the wall was filled and painted again.",
+    "ar": "كُشط الطلاء الذي ارتفع على شكل قطع كبيرة، ثم مُعجن الجدار وأعيد طلاؤه."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 756,
+    "step-02.jpg": 757,
+    "step-03.jpg": 758,
+    "step-04.jpg": 759
+  },
+  "relatedGuide": "interior-painting-guide"
+}

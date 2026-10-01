@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 722,
+  "title": {
+    "el": "Σφράγισμα αρμών και περιμέτρου σε ταράτσα",
+    "en": "Sealing the Joints and Edges of a Roof Terrace",
+    "ar": "سد الفواصل والأطراف في سطح"
+  },
+  "excerpt": {
+    "el": "Θρυμματισμένες άκρες κάτω από τα κάγκελα και αρμοί που είχαν ανοίξει. Η περίμετρος και οι αρμοί σφραγίστηκαν με λευκό στεγανωτικό.",
+    "en": "Crumbling edges under the railings and joints that had opened up. The perimeter and the joints were sealed with a white waterproof coating.",
+    "ar": "أطراف متفتتة تحت الدرابزين وفواصل انفتحت. سُدّ المحيط والفواصل بمادة عازلة بيضاء."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 722,
+    "after-1.jpg": 734,
+    "step-01.jpg": 723,
+    "step-02.jpg": 726,
+    "step-03.jpg": 725,
+    "step-04.jpg": 727,
+    "step-05.jpg": 728,
+    "step-06.jpg": 730,
+    "step-07.jpg": 735,
+    "step-08.jpg": 732
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

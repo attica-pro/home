@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 190,
+  "title": {
+    "el": "Ξήλωμα παλιάς ασφαλτικής μεμβράνης και λευκή στεγάνωση",
+    "en": "Old Bitumen Membrane Stripped and Replaced with a White Coating",
+    "ar": "إزالة غشاء بيتومين قديم وعزل أبيض جديد"
+  },
+  "excerpt": {
+    "el": "Η παλιά ασφαλτική μεμβράνη μιας ταράτσας είχε ζαρώσει και ξεκολλήσει. Ξηλώθηκε ολόκληρη και η ταράτσα καλύφθηκε με λευκό στεγανωτικό, μαζί με τα τοιχία κάτω από τα κάγκελα.",
+    "en": "A roof's old bitumen membrane had wrinkled and come away. It was stripped off completely and the roof was coated with white waterproofing, including the low walls under the railings.",
+    "ar": "كان غشاء البيتومين القديم لسطح قد تجعّد وانفصل، فأُزيل بالكامل وطُلي السطح بعازل أبيض، مع الجدران المنخفضة تحت الدرابزين."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 197,
+    "step-02.jpg": 193,
+    "step-03.jpg": 196,
+    "step-04.jpg": 195,
+    "step-05.jpg": 194,
+    "step-06.jpg": 190,
+    "step-07.jpg": 191,
+    "step-08.jpg": 198
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

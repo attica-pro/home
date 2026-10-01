@@ -1,0 +1,39 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 598,
+  "title": {
+    "el": "Επισκευή και βαφή πρόσοψης με σκαλωσιά",
+    "en": "Facade Repair and Painting from Scaffolding",
+    "ar": "إصلاح وطلاء واجهة من على السقالات"
+  },
+  "excerpt": {
+    "el": "Φουσκωμένοι και θρυμματισμένοι σοβάδες στην πλαϊνή όψη μιας πολυκατοικίας ξύστηκαν, στοκαρίστηκαν και βάφτηκαν από σκαλωσιά με προστατευτικό δίχτυ.",
+    "en": "Blown and crumbling render on the side of an apartment building was scraped, filled and painted from scaffolding with safety netting.",
+    "ar": "جص منتفخ ومتفتت على الواجهة الجانبية لعمارة تم كشطه ومعجنته وطلاؤه من على سقالات مزودة بشبكة حماية."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 598,
+    "after-1.jpg": 603,
+    "before-2.jpg": 601,
+    "after-2.jpg": 602,
+    "step-01.jpg": 609,
+    "step-02.jpg": 604,
+    "step-03.jpg": 599,
+    "step-04.jpg": 600,
+    "step-05.jpg": 605,
+    "step-06.jpg": 607
+  },
+  "relatedGuide": "facade-painting-guide"
+}

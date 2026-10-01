@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 145,
+  "title": {
+    "el": "Στεγανοποίηση ταράτσας κάτω από ηλιακούς θερμοσίφωνες",
+    "en": "Waterproofing a Roof Under Solar Water Heaters",
+    "ar": "عزل مائي لسطح تحت سخانات شمسية"
+  },
+  "excerpt": {
+    "el": "Μια βρόμικη, ανώμαλη ταράτσα γεμάτη βάσεις θερμοσιφώνων καθαρίστηκε, μπαλώθηκε, ισιώθηκε και καλύφθηκε με στεγανωτικό, ακόμη και κάτω από το κλιματιστικό.",
+    "en": "A dirty, uneven roof crowded with solar heater frames was cleaned, patched and levelled, then coated with waterproofing, right under the air conditioning unit.",
+    "ar": "سطح متسخ وغير مستوٍ مزدحم بقواعد السخانات الشمسية نُظّف ورُمّم وسُوّي، ثم طُلي بمادة عازلة حتى تحت وحدة التكييف."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 145,
+    "after-1.jpg": 154,
+    "step-01.jpg": 146,
+    "step-02.jpg": 147,
+    "step-03.jpg": 148,
+    "step-04.jpg": 149,
+    "step-05.jpg": 150,
+    "step-06.jpg": 151,
+    "step-07.jpg": 153,
+    "step-08.jpg": 155
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

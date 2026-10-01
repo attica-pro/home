@@ -1,0 +1,33 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 796,
+  "title": {
+    "el": "Από λαχανί σε λευκό: βαφή δωματίου",
+    "en": "From Lime Green to White: a Room Repaint",
+    "ar": "من الأخضر الفاقع إلى الأبيض: إعادة طلاء غرفة"
+  },
+  "excerpt": {
+    "el": "Ένα δωμάτιο σε έντονο λαχανί, με ρωγμές και φθορές στους τοίχους, στοκαρίστηκε και βάφτηκε λευκό.",
+    "en": "A room in loud lime green, with cracks and damage in the walls, was filled and painted white.",
+    "ar": "غرفة بلون أخضر فاقع، في جدرانها شقوق وتلف، عولجت بالمعجون وطُليت بالأبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 803,
+    "after-1.jpg": 796,
+    "step-01.jpg": 800,
+    "step-02.jpg": 801,
+    "step-03.jpg": 802,
+    "step-04.jpg": 797,
+    "step-05.jpg": 798,
+    "step-06.jpg": 799
+  },
+  "relatedGuide": "interior-painting-guide"
+}

@@ -1,0 +1,41 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 670,
+  "title": {
+    "el": "Παλιό διαμέρισμα με υγρασία, μούχλα και ξεφλουδίσματα",
+    "en": "Old Apartment with Damp, Mould and Peeling Walls",
+    "ar": "شقة قديمة فيها رطوبة وعفن وجدران متقشرة"
+  },
+  "excerpt": {
+    "el": "Υγρασία στη βάση των τοίχων, χρώματα που έπεφταν σε φύλλα και μούχλα στο ταβάνι. Ξύσιμο, επισκευή και βαφή σε όλο το σπίτι, μαζί με τα ντουλάπια της κουζίνας.",
+    "en": "Damp at the base of the walls, paint coming off in sheets and mould on the ceiling. Scraping, repairs and painting throughout, kitchen cupboards included.",
+    "ar": "رطوبة في أسفل الجدران وطلاء يتساقط كالأوراق وعفن في السقف. كشط وإصلاح وطلاء في البيت كله، بما في ذلك خزائن المطبخ."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 671,
+    "after-1.jpg": 670,
+    "before-2.jpg": 684,
+    "after-2.jpg": 683,
+    "step-01.jpg": 674,
+    "step-02.jpg": 673,
+    "step-03.jpg": 672,
+    "step-04.jpg": 690,
+    "step-05.jpg": 692,
+    "step-06.jpg": 694,
+    "step-07.jpg": 693,
+    "step-08.jpg": 681
+  },
+  "relatedGuide": "rising-damp-solutions"
+}

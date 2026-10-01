@@ -1,0 +1,27 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 246,
+  "title": {
+    "el": "Ανακαίνιση μπάνιου με ριγέ πλακάκια",
+    "en": "Bathroom Renovation with Striped Tiles",
+    "ar": "تجديد حمام ببلاط مخطط"
+  },
+  "excerpt": {
+    "el": "Ένα παλιό μπάνιο με μπανιέρα ξηλώθηκε ως το τούβλο και ξαναφτιάχτηκε με νέες σωληνώσεις, ψευδοροφή και ριγέ πλακάκια.",
+    "en": "An old bathroom with a bathtub was stripped back to the brick and rebuilt with new pipework, a plasterboard ceiling and striped tiles.",
+    "ar": "جُرّد حمام قديم بحوض استحمام حتى الطوب، وأُعيد بناؤه بتمديدات جديدة وسقف من الألواح الجبسية وبلاط مخطط."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 256,
+    "step-02.jpg": 254,
+    "step-03.jpg": 252,
+    "step-04.jpg": 253,
+    "step-05.jpg": 251,
+    "step-06.jpg": 248,
+    "step-07.jpg": 246,
+    "step-08.jpg": 259
+  }
+}

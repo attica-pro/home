@@ -1,0 +1,24 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 771,
+  "title": {
+    "el": "Βαφή δωματίου με γκρι τοίχο έμφασης",
+    "en": "Room Repainted with a Grey Feature Wall",
+    "ar": "طلاء غرفة مع جدار رمادي مميز"
+  },
+  "excerpt": {
+    "el": "Τα έπιπλα σκεπάστηκαν, οι τρύπες στους τοίχους στοκαρίστηκαν και ο καφέ τοίχος έγινε γκρι, δίπλα σε ανοιχτόχρωμους τοίχους.",
+    "en": "The furniture was covered, the holes in the walls were filled, and the brown wall became grey next to light-coloured walls.",
+    "ar": "غُطّي الأثاث وسُدّت الثقوب في الجدران، وتحوّل الجدار البني إلى رمادي بجانب جدران فاتحة اللون."
+  },
+  "cover": "step-04.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 771,
+    "step-02.jpg": 773,
+    "step-03.jpg": 772,
+    "step-04.jpg": 774
+  },
+  "relatedGuide": "interior-painting-guide"
+}

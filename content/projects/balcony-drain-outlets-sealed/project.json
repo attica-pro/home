@@ -1,0 +1,24 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 376,
+  "title": {
+    "el": "Στεγάνωση γύρω από δύο σιφώνια μπαλκονιού",
+    "en": "Waterproofing Around Two Balcony Drain Outlets",
+    "ar": "عزل حول فتحتي تصريف في شرفة"
+  },
+  "excerpt": {
+    "el": "Γύρω από δύο σιφώνια το παλιό υλικό είχε ραγίσει. Καθαρίστηκε, σφραγίστηκε με λευκό στεγανωτικό και καλύφθηκε με νέα στρώση.",
+    "en": "The old material around two drain outlets had cracked. It was cleaned out, sealed with a white waterproof patch and covered with a new coat.",
+    "ar": "تشققت المادة القديمة حول فتحتي تصريف، فنُظفت وسُدت برقعة عازلة بيضاء ثم غُطيت بطبقة جديدة."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 376,
+    "step-02.jpg": 378,
+    "step-03.jpg": 379,
+    "step-04.jpg": 380,
+    "step-05.jpg": 382
+  }
+}

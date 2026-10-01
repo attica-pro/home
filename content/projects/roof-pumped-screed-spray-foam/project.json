@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 855,
+  "title": {
+    "el": "Νέα τσιμεντοκονία και ψεκαζόμενη μόνωση σε ταράτσα",
+    "en": "New Screed and Spray Foam Insulation on a Roof",
+    "ar": "طبقة تسوية جديدة وعزل بالرش لسطح"
+  },
+  "excerpt": {
+    "el": "Η ταράτσα πήρε νέα τσιμεντοκονία με αντλία, ασφαλτικό αστάρι και στο τέλος ψεκαζόμενο αφρό πολυουρεθάνης.",
+    "en": "The roof got a new pumped screed, a bitumen primer and finally a layer of sprayed polyurethane foam.",
+    "ar": "حصل السطح على طبقة تسوية جديدة بالمضخة، ثم طبقة أساس بيتومينية، وأخيرًا طبقة من رغوة البولي يوريثان بالرش."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 867,
+    "step-02.jpg": 865,
+    "step-03.jpg": 860,
+    "step-04.jpg": 857,
+    "step-05.jpg": 864,
+    "step-06.jpg": 859,
+    "step-07.jpg": 858
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

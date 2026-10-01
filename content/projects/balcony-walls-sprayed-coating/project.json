@@ -1,0 +1,25 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1046,
+  "title": {
+    "el": "Ψεκαζόμενη πολυουρεθάνη στους τοίχους μπαλκονιού",
+    "en": "Spray Polyurethane Foam on Balcony Walls",
+    "ar": "رغوة البولي يوريثان المرشوشة على جدران شرفة"
+  },
+  "excerpt": {
+    "el": "Τα παράθυρα, οι τέντες και τα κλιματιστικά σκεπάστηκαν με νάιλον και οι τοίχοι του μπαλκονιού μονώθηκαν με αφρό πολυουρεθάνης.",
+    "en": "Windows, awnings and air conditioning units were wrapped in plastic sheeting, then the balcony walls were insulated with spray polyurethane foam.",
+    "ar": "غُطّيت النوافذ والمظلات ووحدات التكييف بالنايلون، ثم عُزلت جدران الشرفة برغوة البولي يوريثان المرشوشة."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 1046,
+    "step-02.jpg": 1050,
+    "step-03.jpg": 1047,
+    "step-04.jpg": 1053,
+    "step-05.jpg": 1052,
+    "step-06.jpg": 1051
+  }
+}

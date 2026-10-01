@@ -1,0 +1,34 @@
+{
+  "service": "insulation",
+  "featured": true,
+  "order": 75,
+  "title": {
+    "el": "Στεγανοποίηση ταράτσας πολυκατοικίας με λευκή μεμβράνη",
+    "en": "Apartment Terrace Waterproofed with a White Membrane",
+    "ar": "عزل مائي لسطح عمارة بغشاء أبيض"
+  },
+  "excerpt": {
+    "el": "Μια φθαρμένη ταράτσα με ρωγμές καθαρίστηκε, ασταρώθηκε, σφραγίστηκαν οι ρωγμές της και καλύφθηκε με λευκό επαλειφόμενο στεγανωτικό.",
+    "en": "A worn, cracked terrace was cleaned and primed, its cracks were sealed, and it was coated with a white liquid waterproofing membrane.",
+    "ar": "سطح متآكل ومتشقق تم تنظيفه ووضع طبقة أساس عليه وسد شقوقه، ثم طُلي بغشاء عازل سائل أبيض."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 78,
+    "after-1.jpg": 83,
+    "step-01.jpg": 75,
+    "step-02.jpg": 76,
+    "step-03.jpg": 77,
+    "step-04.jpg": 79,
+    "step-05.jpg": 80,
+    "step-06.jpg": 81,
+    "step-07.jpg": 82
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 711,
+  "title": {
+    "el": "Στεγάνωση σε κανάλι νερού και τοιχία ταράτσας",
+    "en": "Waterproofing a Roof Channel and Upstands",
+    "ar": "عزل قناة مياه وجدران منخفضة على سطح"
+  },
+  "excerpt": {
+    "el": "Στο κανάλι που μαζεύει τα νερά, γύρω από τις απορροές και στα χαμηλά τοιχία της ταράτσας, περάστηκε στεγανωτικό στρώμα και λευκή επίστρωση από πάνω.",
+    "en": "A waterproofing layer, finished with a white coating, went into the channel that collects the water, around the outlets and over the low walls of the roof.",
+    "ar": "وُضعت طبقة عازلة تعلوها طبقة بيضاء في القناة التي تجمع المياه وحول فتحات التصريف وعلى الجدران المنخفضة للسطح."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 714,
+    "after-1.jpg": 721,
+    "step-01.jpg": 711,
+    "step-02.jpg": 713,
+    "step-03.jpg": 715,
+    "step-04.jpg": 718,
+    "step-05.jpg": 717,
+    "step-06.jpg": 719,
+    "step-07.jpg": 720,
+    "step-08.jpg": 716
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

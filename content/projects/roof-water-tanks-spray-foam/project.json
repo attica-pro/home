@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 923,
+  "title": {
+    "el": "Ψεκαζόμενη μόνωση σε ταράτσα με δεξαμενές νερού",
+    "en": "Spray Foam Insulation on a Roof with Water Tanks",
+    "ar": "عزل بالرش لسطح عليه خزانات مياه"
+  },
+  "excerpt": {
+    "el": "Ασφαλτικό αστάρι και μετά αφρός πολυουρεθάνης στο δάπεδο, στα στηθαία και γύρω από τις βάσεις των δεξαμενών.",
+    "en": "A bitumen primer, then polyurethane foam on the floor, up the parapets and around the feet of the water tanks.",
+    "ar": "طبقة أساس بيتومينية، ثم رغوة البولي يوريثان على الأرضية وعلى الحواجز وحول قواعد خزانات المياه."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 923,
+    "step-02.jpg": 925,
+    "step-03.jpg": 931,
+    "step-04.jpg": 935,
+    "step-05.jpg": 938,
+    "step-06.jpg": 927,
+    "step-07.jpg": 929,
+    "step-08.jpg": 928
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

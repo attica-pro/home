@@ -1,0 +1,41 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1100,
+  "title": {
+    "el": "Στεγανοποίηση στις βάσεις κολόνων σε ταράτσα",
+    "en": "Sealing the Column Bases on a Tiled Terrace",
+    "ar": "عزل قواعد الأعمدة على سطح مبلّط"
+  },
+  "excerpt": {
+    "el": "Οι βάσεις των κολόνων και των τοίχων είναι από τα πιο ευάλωτα σημεία μιας ταράτσας. Εδώ τα πλακάκια γύρω τους αφαιρέθηκαν και οι ενώσεις στεγανοποιήθηκαν με επίστρωση και ύφασμα οπλισμού.",
+    "en": "Where columns and walls meet the floor is one of the weakest points of a terrace. Here the tiles around them came up and the joints were sealed with a coating and reinforcing fabric.",
+    "ar": "نقاط التقاء الأعمدة والجدران بالأرضية من أضعف أماكن السطح. هنا أُزيل البلاط حولها، وعُزلت الوصلات بطلاء ونسيج تقوية."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 1103,
+    "after-1.jpg": 1104,
+    "before-2.jpg": 1112,
+    "after-2.jpg": 1111,
+    "step-01.jpg": 1116,
+    "step-02.jpg": 1124,
+    "step-03.jpg": 1115,
+    "step-04.jpg": 1120,
+    "step-05.jpg": 1109,
+    "step-06.jpg": 1101,
+    "step-07.jpg": 1113,
+    "step-08.jpg": 1110
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

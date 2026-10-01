@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 760,
+  "title": {
+    "el": "Γυμνή ταράτσα με αφρό πολυουρεθάνης και λευκή προστασία",
+    "en": "Bare Roof Sprayed with Foam and Coated White",
+    "ar": "سطح عارٍ مرشوش برغوة البولي يوريثان ومطلي بالأبيض"
+  },
+  "excerpt": {
+    "el": "Μια ταράτσα από γυμνό μπετόν καλύφθηκε με συνεχές στρώμα αφρού πολυουρεθάνης, μαζί με τα τοιχία, και από πάνω με λευκή προστατευτική επίστρωση.",
+    "en": "A bare concrete roof, low walls included, was covered with a continuous layer of polyurethane foam and then a white protective coating.",
+    "ar": "غُطي سطح من الخرسانة العارية، مع جدرانه المنخفضة، بطبقة متصلة من رغوة البولي يوريثان ثم بطبقة حماية بيضاء."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 768,
+    "after-1.jpg": 763,
+    "step-01.jpg": 769,
+    "step-02.jpg": 770,
+    "step-03.jpg": 766,
+    "step-04.jpg": 767,
+    "step-05.jpg": 764,
+    "step-06.jpg": 765,
+    "step-07.jpg": 760,
+    "step-08.jpg": 761
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

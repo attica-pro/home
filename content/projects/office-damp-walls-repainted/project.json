@@ -1,0 +1,28 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 269,
+  "title": {
+    "el": "Επισκευή και βαφή τοίχων γραφείου με υγρασία",
+    "en": "Office Walls Damaged by Damp, Repaired and Repainted",
+    "ar": "إصلاح وطلاء جدران مكتب أتلفتها الرطوبة"
+  },
+  "excerpt": {
+    "el": "Γύρω από το παράθυρο το χρώμα είχε φουσκώσει και ξεφλουδίσει. Οι τοίχοι ξύστηκαν, στοκαρίστηκαν, πήραν μια πρώτη στρώση και βάφτηκαν.",
+    "en": "Around the window the paint had blistered and peeled. The walls were scraped, filled, given a base coat and painted.",
+    "ar": "حول النافذة انتفخ الطلاء وتقشر، فكُشطت الجدران وعُجنت ووُضعت عليها طبقة أولى ثم طُليت."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 269,
+    "step-02.jpg": 270,
+    "step-03.jpg": 271,
+    "step-04.jpg": 273,
+    "step-05.jpg": 274,
+    "step-06.jpg": 276,
+    "step-07.jpg": 278,
+    "step-08.jpg": 277
+  },
+  "relatedGuide": "interior-painting-guide"
+}

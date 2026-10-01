@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 527,
+  "title": {
+    "el": "Επικάλυψη κυματοειδούς στέγης",
+    "en": "Coating a Corrugated Roof",
+    "ar": "طلاء سقف مموج"
+  },
+  "excerpt": {
+    "el": "Μια κυματοειδής στέγη γεμάτη βρύα και λειχήνες καθαρίστηκε και καλύφθηκε με ασημί-λευκή επικάλυψη που την προστατεύει από τον καιρό.",
+    "en": "A corrugated roof covered in moss and lichen was cleaned and coated in a silvery-white finish that protects it from the weather.",
+    "ar": "سقف مموج مغطى بالطحالب والأشنات تم تنظيفه وطلاؤه بطبقة فضية بيضاء تحميه من عوامل الطقس."
+  },
+  "cover": "step-05.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 527,
+    "step-02.jpg": 528,
+    "step-03.jpg": 529,
+    "step-04.jpg": 530,
+    "step-05.jpg": 532,
+    "step-06.jpg": 535,
+    "step-07.jpg": 536
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

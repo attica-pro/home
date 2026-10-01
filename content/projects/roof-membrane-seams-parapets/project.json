@@ -1,0 +1,35 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 571,
+  "title": {
+    "el": "Ταράτσα με μεμβράνη: σφράγισμα ενώσεων και στηθαίων",
+    "en": "Membrane Roof: Sealing the Seams and Parapets",
+    "ar": "سطح بغشاء عازل: سد الوصلات والجدران المحيطة"
+  },
+  "excerpt": {
+    "el": "Η μεμβράνη είχε σκιστεί στις άκρες και οι ενώσεις της είχαν ανοίξει. Τα σαθρά κομμάτια αφαιρέθηκαν και ενώσεις και στηθαία σφραγίστηκαν με λευκό στεγανωτικό.",
+    "en": "The membrane had torn at the edges and its seams had opened. The loose pieces were removed, and the seams and parapets were sealed with a white waterproof coating.",
+    "ar": "تمزق الغشاء عند الأطراف وانفتحت وصلاته. أُزيلت القطع المفككة وسُدّت الوصلات والجدران المحيطة بمادة عازلة بيضاء."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 574,
+    "after-1.jpg": 575,
+    "step-01.jpg": 572,
+    "step-02.jpg": 571,
+    "step-03.jpg": 573,
+    "step-04.jpg": 576,
+    "step-05.jpg": 577,
+    "step-06.jpg": 578,
+    "step-07.jpg": 579,
+    "step-08.jpg": 580
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

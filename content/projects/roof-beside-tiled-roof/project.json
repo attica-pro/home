@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 967,
+  "title": {
+    "el": "Ταράτσα με φωτοβολταϊκά: νέα τσιμεντοκονία και αφρός πολυουρεθάνης",
+    "en": "Roof with Solar Panels: New Screed and Spray Polyurethane Foam",
+    "ar": "سطح عليه ألواح شمسية: طبقة تسوية جديدة ورغوة البولي يوريثان"
+  },
+  "excerpt": {
+    "el": "Η παλιά σκισμένη μεμβράνη ξηλώθηκε και ρίχτηκε νέα τσιμεντοκονία με αντλία, με τα φωτοβολταϊκά στη θέση τους. Από πάνω πέρασε αστάρι και αφρός πολυουρεθάνης, μέχρι την κεραμοσκεπή που ακουμπά στην ταράτσα.",
+    "en": "The old torn membrane was stripped and a new screed was pumped in, with the solar panels left in place. Primer and spray polyurethane foam then went on top, right up to the tiled roof that meets the terrace.",
+    "ar": "نُزع الغشاء القديم الممزق وصُبّت طبقة تسوية جديدة بالمضخة مع بقاء الألواح الشمسية في مكانها. ثم وُضعت فوقها طبقة أساس ورغوة البولي يوريثان المرشوشة، حتى سقف القرميد الملاصق للسطح."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 980,
+    "step-02.jpg": 981,
+    "step-03.jpg": 977,
+    "step-04.jpg": 975,
+    "step-05.jpg": 972,
+    "step-06.jpg": 967,
+    "step-07.jpg": 968,
+    "step-08.jpg": 969
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

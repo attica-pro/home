@@ -1,0 +1,33 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 482,
+  "title": {
+    "el": "Στεγάνωση φρεατίων και καναλιού",
+    "en": "Waterproofing Inspection Pits and a Channel",
+    "ar": "عزل مائي لغرف التفتيش وقناة"
+  },
+  "excerpt": {
+    "el": "Τσιμεντένια φρεάτια με σωλήνες και ένα στενό κανάλι πήραν στρώσεις στεγανωτικού, πρώτα γκρι και μετά λευκό, ώστε το νερό να μη διαρρέει από τα τοιχώματά τους.",
+    "en": "Concrete inspection pits with pipe connections and a narrow channel were given coats of waterproofing, first grey and then white, so water can't leak out through their walls.",
+    "ar": "طُليت غرف تفتيش خرسانية تتصل بها أنابيب، مع قناة ضيقة، بطبقات من مادة عازلة للماء، رمادية أولًا ثم بيضاء، حتى لا يتسرب الماء من جدرانها."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 484,
+    "after-1.jpg": 489,
+    "step-01.jpg": 482,
+    "step-02.jpg": 483,
+    "step-03.jpg": 485,
+    "step-04.jpg": 486,
+    "step-05.jpg": 488,
+    "step-06.jpg": 490,
+    "step-07.jpg": 491
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 546,
+  "title": {
+    "el": "Ξεφλουδισμένοι τοίχοι από υγρασία σε διαμέρισμα",
+    "en": "Damp, Peeling Walls in an Apartment",
+    "ar": "جدران متقشرة من الرطوبة في شقة"
+  },
+  "excerpt": {
+    "el": "Χρώματα και σοβάδες είχαν φύγει σε μεγάλα κομμάτια. Ξύσιμο ως τη γερή βάση, νέο σοβάτισμα και βαφή έδωσαν ξανά καθαρούς λευκούς τοίχους.",
+    "en": "Paint and plaster had come away in large patches. Stripping back to a sound base, re-plastering and painting brought back clean white walls.",
+    "ar": "تساقط الطلاء والجص على شكل قطع كبيرة. الكشط حتى القاعدة السليمة ثم اللياسة الجديدة والطلاء أعادت الجدران بيضاء نظيفة."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 553,
+    "after-1.jpg": 552,
+    "before-2.jpg": 554,
+    "after-2.jpg": 555,
+    "step-01.jpg": 556,
+    "step-02.jpg": 547,
+    "step-03.jpg": 549,
+    "step-04.jpg": 558,
+    "step-05.jpg": 548,
+    "step-06.jpg": 551,
+    "step-07.jpg": 550,
+    "step-08.jpg": 560
+  },
+  "relatedGuide": "interior-painting-guide"
+}

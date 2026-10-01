@@ -1,0 +1,24 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1141,
+  "title": {
+    "el": "Ταράτσα με αφρό πολυουρεθάνης και λευκή προστασία",
+    "en": "Flat Roof Sprayed with Foam and Coated White",
+    "ar": "سطح مرشوش بالرغوة ومطلي بالأبيض"
+  },
+  "excerpt": {
+    "el": "Μια επίπεδη ταράτσα δίπλα στα κεραμίδια μιας εκκλησίας ψεκάστηκε με αφρό πολυουρεθάνης και μετά καλύφθηκε με λευκή προστατευτική επίστρωση.",
+    "en": "A flat roof beside the tiled roofs of a church was sprayed with polyurethane foam and then given a white protective coating.",
+    "ar": "سطح مستوٍ بجوار الأسقف القرميدية لكنيسة رُشّ برغوة البولي يوريثان، ثم كُسي بطبقة حماية بيضاء."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 1143,
+    "step-02.jpg": 1144,
+    "step-03.jpg": 1142,
+    "step-04.jpg": 1141
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

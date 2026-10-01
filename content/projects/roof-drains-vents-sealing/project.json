@@ -1,0 +1,41 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 737,
+  "title": {
+    "el": "Σφράγισμα απορροών και αεραγωγών σε ταράτσες",
+    "en": "Sealing Roof Drains and Vent Pipes",
+    "ar": "عزل مصارف المياه وأنابيب التهوية في الأسطح"
+  },
+  "excerpt": {
+    "el": "Απορροές, ανοίγματα στα στηθαία και σωλήνες εξαερισμού είναι τα σημεία που αφήνουν πιο συχνά το νερό να περάσει. Καθαρίζονται και σφραγίζονται με στεγανωτικό οπλισμένο με ύφασμα.",
+    "en": "Drains, openings through parapets and vent pipes are where water most often gets through. They are cleaned out and sealed with waterproofing reinforced with fabric.",
+    "ar": "المصارف والفتحات في الجدران المحيطة وأنابيب التهوية هي أكثر الأماكن التي يتسرب منها الماء. تُنظَّف وتُعزل بمادة عازلة مقواة بالنسيج."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 740,
+    "after-1.jpg": 745,
+    "before-2.jpg": 752,
+    "after-2.jpg": 755,
+    "step-01.jpg": 737,
+    "step-02.jpg": 741,
+    "step-03.jpg": 742,
+    "step-04.jpg": 744,
+    "step-05.jpg": 748,
+    "step-06.jpg": 749,
+    "step-07.jpg": 750,
+    "step-08.jpg": 751
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

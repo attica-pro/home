@@ -1,0 +1,32 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 10,
+  "title": {
+    "el": "Στεγανοποίηση ζαρντινιέρας σε ταράτσα",
+    "en": "Waterproofing a Planter on a Terrace",
+    "ar": "عزل مائي لحوض زراعة على سطح"
+  },
+  "excerpt": {
+    "el": "Μια χτιστή ζαρντινιέρα αδειάστηκε από φυτά και χώμα, καθαρίστηκε και καλύφθηκε με λευκό στεγανωτικό σε δάπεδο και τοιχία.",
+    "en": "A built-in planter was emptied of plants and soil, cleaned, and coated with a white waterproofing layer on the floor and walls.",
+    "ar": "أُفرغ حوض زراعة مبني من النباتات والتراب، ونُظّف، ثم طُليت أرضيته وجدرانه بطبقة عازلة بيضاء."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 14,
+    "after-1.jpg": 16,
+    "step-01.jpg": 10,
+    "step-02.jpg": 11,
+    "step-03.jpg": 15,
+    "step-04.jpg": 12,
+    "step-05.jpg": 13,
+    "step-06.jpg": 17
+  }
+}

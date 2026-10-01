@@ -1,0 +1,27 @@
+{
+  "service": "renovations",
+  "featured": false,
+  "order": 106,
+  "title": {
+    "el": "Ανακαίνιση μπάνιου με ντουζιέρα στο ίδιο επίπεδο με το δάπεδο",
+    "en": "Bathroom Renovation with a Walk-In Shower",
+    "ar": "تجديد حمام بدش في مستوى الأرضية"
+  },
+  "excerpt": {
+    "el": "Ένα μπάνιο με σκούρα παλιά πλακάκια και μπανιέρα ξηλώθηκε ολόκληρο και έγινε φωτεινό, με ντουζιέρα χωρίς σκαλοπάτι, κρεμαστή λεκάνη και νέο νιπτήρα.",
+    "en": "A bathroom with dark old tiles and a tub was stripped out completely and became a bright room with a step-free shower, a wall-hung toilet and a new basin.",
+    "ar": "حمام ببلاط قديم داكن وحوض استحمام جُرّد بالكامل وأصبح حمامًا مضيئًا بدش بلا درجة ومرحاض معلّق ومغسلة جديدة."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 106,
+    "step-02.jpg": 108,
+    "step-03.jpg": 109,
+    "step-04.jpg": 110,
+    "step-05.jpg": 113,
+    "step-06.jpg": 114,
+    "step-07.jpg": 115,
+    "step-08.jpg": 116
+  }
+}

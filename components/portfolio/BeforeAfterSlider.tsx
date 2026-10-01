@@ -59,6 +59,8 @@ export function BeforeAfterSlider({
   return (
     <div
       ref={containerRef}
+      // The clip and handle are positioned from the left, so keep this LTR even on Arabic pages.
+      dir="ltr"
       className={cn(
         'relative aspect-[4/3] w-full select-none overflow-hidden rounded-lg bg-muted touch-none',
         className,
@@ -77,8 +79,9 @@ export function BeforeAfterSlider({
       />
 
       <div
-        className="pointer-events-none absolute inset-0 overflow-hidden"
-        style={{ width: `${position}%` }}
+        className="pointer-events-none absolute inset-0"
+        // Clip rather than resize, so the before image stays the same size and lines up with the after image.
+        style={{ clipPath: `inset(0 ${100 - position}% 0 0)` }}
       >
         <Image
           src={assetPath(beforeImage)}

@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 641,
+  "title": {
+    "el": "Σφράγισμα στις άκρες ταράτσας με πλακάκια",
+    "en": "Sealing the Edges of a Tiled Terrace",
+    "ar": "عزل أطراف سطح مبلط"
+  },
+  "excerpt": {
+    "el": "Η ένωση δαπέδου και στηθαίου είχε ανοίξει κάτω από τα κάγκελα. Καθαρίστηκε και σφραγίστηκε με λευκό στεγανωτικό οπλισμένο με ύφασμα.",
+    "en": "The joint between floor and parapet had opened up under the railings. It was cleaned out and sealed with a white waterproof coating reinforced with fabric.",
+    "ar": "انفتح الفاصل بين الأرضية والجدار المحيط تحت الدرابزين. فنُظّف وسُدّ بمادة عازلة بيضاء مقواة بالنسيج."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 642,
+    "step-02.jpg": 641,
+    "step-03.jpg": 643,
+    "step-04.jpg": 647,
+    "step-05.jpg": 645,
+    "step-06.jpg": 644,
+    "step-07.jpg": 646
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

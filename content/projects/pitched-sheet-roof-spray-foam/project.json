@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 952,
+  "title": {
+    "el": "Αφρός πολυουρεθάνης σε στέγη με κυματοειδή φύλλα και σε ταράτσα",
+    "en": "Spray Polyurethane Foam on a Corrugated Roof and a Flat Roof",
+    "ar": "رغوة البولي يوريثان المرشوشة على سقف من الألواح المموجة وسطح مستوٍ"
+  },
+  "excerpt": {
+    "el": "Στο ίδιο κτίριο, η δίρριχτη στέγη από κυματοειδή φύλλα και η ταράτσα ψεκάστηκαν με αφρό πολυουρεθάνης. Στην ταράτσα ο αφρός πήρε από πάνω λευκή βαφή που τον προστατεύει από τον ήλιο.",
+    "en": "On the same building, the pitched corrugated roof and the flat roof were both sprayed with polyurethane foam. On the flat roof the foam was finished with a white coat that shields it from the sun.",
+    "ar": "في المبنى نفسه، رُشّ السقف المائل المصنوع من الألواح المموجة والسطح المستوي برغوة البولي يوريثان. وعلى السطح المستوي غُطّيت الرغوة بطلاء أبيض يحميها من الشمس."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 957,
+    "step-02.jpg": 953,
+    "step-03.jpg": 954,
+    "step-04.jpg": 952,
+    "step-05.jpg": 959,
+    "step-06.jpg": 962,
+    "step-07.jpg": 963,
+    "step-08.jpg": 964
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

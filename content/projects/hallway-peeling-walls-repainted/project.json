@@ -1,0 +1,32 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 294,
+  "title": {
+    "el": "Βαφή εισόδου με φθορές από υγρασία",
+    "en": "Entrance Hall with Damp Damage Repainted",
+    "ar": "طلاء مدخل تضرر من الرطوبة"
+  },
+  "excerpt": {
+    "el": "Οι τοίχοι της εισόδου είχαν ξεφλουδίσει σε πολλά σημεία. Επισκευάστηκαν και βάφτηκαν σε ζεστό κρεμ χρώμα.",
+    "en": "The entrance hall walls were peeling in many places. They were repaired and painted a warm cream.",
+    "ar": "كانت جدران المدخل متقشرة في أماكن كثيرة، فأُصلحت وطُليت بلون كريمي دافئ."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 296,
+    "after-1.jpg": 300,
+    "step-01.jpg": 294,
+    "step-02.jpg": 295,
+    "step-03.jpg": 297,
+    "step-04.jpg": 298,
+    "step-05.jpg": 299
+  },
+  "relatedGuide": "interior-painting-guide"
+}

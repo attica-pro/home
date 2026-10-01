@@ -1,0 +1,28 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 301,
+  "title": {
+    "el": "Διαμέρισμα με μούχλα στους τοίχους: καθαρισμός και βαφή",
+    "en": "Flat with Mouldy Walls Cleaned Up and Repainted",
+    "ar": "تنظيف وطلاء شقة بجدران متعفنة"
+  },
+  "excerpt": {
+    "el": "Οι τοίχοι ήταν μαυρισμένοι από τη μούχλα και το χρώμα έφευγε σε φύλλα. Ξύστηκαν, επισκευάστηκαν και βάφτηκαν, στα δωμάτια και στην είσοδο.",
+    "en": "The walls were black with mould and the paint was coming off in sheets. They were scraped, repaired and painted, in the rooms and the entrance hall.",
+    "ar": "كانت الجدران سوداء من العفن والطلاء ينفصل كصفائح، فكُشطت وأُصلحت وطُليت في الغرف والمدخل."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 307,
+    "step-02.jpg": 304,
+    "step-03.jpg": 301,
+    "step-04.jpg": 312,
+    "step-05.jpg": 313,
+    "step-06.jpg": 302,
+    "step-07.jpg": 303,
+    "step-08.jpg": 318
+  },
+  "relatedGuide": "interior-painting-guide"
+}

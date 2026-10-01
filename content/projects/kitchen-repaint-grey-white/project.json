@@ -1,0 +1,41 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 470,
+  "title": {
+    "el": "Βάψιμο κουζίνας σε γκρι και λευκό",
+    "en": "Kitchen Repainted in Grey and White",
+    "ar": "طلاء مطبخ بالرمادي والأبيض"
+  },
+  "excerpt": {
+    "el": "Οι τιρκουάζ τοίχοι και οι μπλε πόρτες της κουζίνας στοκαρίστηκαν και βάφτηκαν σε ήρεμο γκρι και λευκό, χωρίς να αλλάξουν τα ντουλάπια.",
+    "en": "The kitchen’s turquoise walls and blue doors were filled and repainted in calm grey and white, keeping the existing cabinets.",
+    "ar": "عولجت جدران المطبخ الفيروزية وأبوابه الزرقاء بالمعجون، ثم طُليت بالرمادي الهادئ والأبيض، مع الإبقاء على الخزائن الموجودة."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 471,
+    "after-1.jpg": 479,
+    "before-2.jpg": 472,
+    "after-2.jpg": 478,
+    "step-01.jpg": 470,
+    "step-02.jpg": 473,
+    "step-03.jpg": 474,
+    "step-04.jpg": 475,
+    "step-05.jpg": 476,
+    "step-06.jpg": 477,
+    "step-07.jpg": 480,
+    "step-08.jpg": 481
+  },
+  "relatedGuide": "interior-painting-guide"
+}

@@ -1,0 +1,32 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 1093,
+  "title": {
+    "el": "Στεγανοποίηση ταράτσας με κάγκελα",
+    "en": "Railed Terrace Waterproofed in White",
+    "ar": "عزل مائي لسطح محاط بدرابزين"
+  },
+  "excerpt": {
+    "el": "Μια παλιά ταράτσα με πλάκες καλύφθηκε πρώτα με στρώση βάσης και μετά με λευκή στεγανωτική επίστρωση από άκρη σε άκρη.",
+    "en": "An old paved terrace got a base layer first, then a white waterproof coating from edge to edge.",
+    "ar": "سطح قديم مبلّط غُطّي أولًا بطبقة أساس، ثم بطلاء أبيض عازل للماء من طرف إلى طرف."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 1097,
+    "after-1.jpg": 1096,
+    "step-01.jpg": 1099,
+    "step-02.jpg": 1098,
+    "step-03.jpg": 1094,
+    "step-04.jpg": 1095,
+    "step-05.jpg": 1093
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

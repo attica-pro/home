@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 18,
+  "title": {
+    "el": "Πλάκα ταράτσας με πολυουρεθάνη, πίσσα και γέμισμα",
+    "en": "Roof Slab with Polyurethane Foam, Tar and a Screed",
+    "ar": "بلاطة سطح برغوة البولي يوريثان والقار وطبقة تسوية"
+  },
+  "excerpt": {
+    "el": "Στην πλάκα μιας ταράτσας ψεκάστηκε αφρός πολυουρεθάνης στις άκρες, πέρασε πίσσα σε όλη την επιφάνεια και από πάνω ρίχτηκε νέο γέμισμα.",
+    "en": "Spray polyurethane foam went along the edges of a roof slab, a coat of tar went over the whole surface, and a new screed was laid on top.",
+    "ar": "رُشّت رغوة البولي يوريثان على أطراف بلاطة سطح، ثم طُلي السطح كله بالقار، وصُبّت فوقها طبقة تسوية جديدة."
+  },
+  "cover": "step-07.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 18,
+    "step-02.jpg": 20,
+    "step-03.jpg": 21,
+    "step-04.jpg": 22,
+    "step-05.jpg": 23,
+    "step-06.jpg": 25,
+    "step-07.jpg": 24
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

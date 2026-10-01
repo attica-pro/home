@@ -1,0 +1,32 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 538,
+  "title": {
+    "el": "Λευκή στεγανωτική επίστρωση σε πλακάκια μπαλκονιού",
+    "en": "Balcony Tiles Sealed with a White Coating",
+    "ar": "طلاء عازل أبيض فوق بلاط شرفة"
+  },
+  "excerpt": {
+    "el": "Λεκιασμένα πλακάκια με μαυρισμένους αρμούς καθαρίστηκαν και καλύφθηκαν με λευκή στεγανωτική επίστρωση, χωρίς ξήλωμα, που ανεβαίνει και στα σοβατεπί.",
+    "en": "Stained tiles with blackened grout were cleaned and covered with a white waterproof coating, without lifting them, that also runs up the skirting.",
+    "ar": "بلاط ملطخ بفواصل سوداء تم تنظيفه وتغطيته بطلاء عازل أبيض دون خلعه، ويصعد الطلاء أيضًا على الوزرة."
+  },
+  "cover": "after-1.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 541,
+    "after-1.jpg": 543,
+    "step-01.jpg": 538,
+    "step-02.jpg": 539,
+    "step-03.jpg": 540,
+    "step-04.jpg": 542,
+    "step-05.jpg": 544,
+    "step-06.jpg": 545
+  }
+}

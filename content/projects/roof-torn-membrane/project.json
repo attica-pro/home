@@ -1,0 +1,33 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 438,
+  "title": {
+    "el": "Ταράτσα με σκισμένες μεμβράνες: αφαίρεση, πολυουρεθάνη και νέα στεγάνωση",
+    "en": "Roof with Torn Membranes: Stripped, Foam-Insulated and Waterproofed Again",
+    "ar": "سطح بأغشية ممزقة: إزالتها وعزله بالبولي يوريثان وعزل مائي جديد"
+  },
+  "excerpt": {
+    "el": "Οι παλιές μεμβράνες είχαν σκιστεί και ξεκολλήσει. Αφαιρέθηκαν, πέρασε αστάρι, ψεκάστηκε αφρός πολυουρεθάνης και από πάνω μπήκε λευκή υγρή μεμβράνη πολυουρεθάνης.",
+    "en": "The old membranes had torn and lifted. They were stripped off, the slab was primed, spray polyurethane foam went on, and a white liquid polyurethane membrane was applied on top.",
+    "ar": "كانت الأغشية القديمة ممزقة ومنفصلة. أُزيلت، ثم دُهن السطح بطبقة أساس، ورُشّت رغوة البولي يوريثان، وفوقها غشاء بولي يوريثان سائل أبيض."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 441,
+    "after-1.jpg": 443,
+    "step-01.jpg": 438,
+    "step-02.jpg": 440,
+    "step-03.jpg": 442,
+    "step-04.jpg": 444,
+    "step-05.jpg": 446,
+    "step-06.jpg": 448
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

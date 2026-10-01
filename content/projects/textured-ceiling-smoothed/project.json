@@ -1,0 +1,38 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": 492,
+  "title": {
+    "el": "Λείο ταβάνι στη θέση του ανάγλυφου",
+    "en": "A Textured Ceiling Made Smooth",
+    "ar": "سقف محبب يصبح أملس"
+  },
+  "excerpt": {
+    "el": "Ένας τοίχος με ξεφλουδισμένο χρώμα επισκευάστηκε και ένα τραχύ ανάγλυφο ταβάνι με σπασμένα σημεία έγινε λείο και λευκό.",
+    "en": "A wall with peeling paint was repaired, and a rough textured ceiling with broken patches was made smooth and white.",
+    "ar": "أُصلح جدار بطلاء متقشر، وتحوّل سقف محبب خشن فيه أجزاء مكسورة إلى سقف أملس أبيض."
+  },
+  "cover": "after-2.jpg",
+  "comparisons": [
+    {
+      "before": "before-1.jpg",
+      "after": "after-1.jpg"
+    },
+    {
+      "before": "before-2.jpg",
+      "after": "after-2.jpg"
+    }
+  ],
+  "photos": {
+    "before-1.jpg": 492,
+    "after-1.jpg": 494,
+    "before-2.jpg": 497,
+    "after-2.jpg": 502,
+    "step-01.jpg": 493,
+    "step-02.jpg": 495,
+    "step-03.jpg": 498,
+    "step-04.jpg": 499,
+    "step-05.jpg": 501
+  },
+  "relatedGuide": "interior-painting-guide"
+}

@@ -1,0 +1,28 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 156,
+  "title": {
+    "el": "Ταράτσα με φθαρμένα πλακάκια, στεγανοποιημένη με ψεκασμό",
+    "en": "Worn Tiled Terrace Waterproofed by Spraying",
+    "ar": "سطح ببلاط متآكل عُزل بالرش"
+  },
+  "excerpt": {
+    "el": "Σε μια ταράτσα με ξεκολλημένα πλακάκια και παλιές επιστρώσεις που ξεφλούδιζαν, σφραγίστηκαν αρμοί και τρύπες και ψεκάστηκε γκριζογάλανο στεγανωτικό σε όλη την επιφάνεια.",
+    "en": "On a terrace with loose tiles and peeling old coatings, the joints and holes were sealed and a blue-grey waterproofing was sprayed over the whole surface.",
+    "ar": "على سطح ببلاط مفكوك وطلاءات قديمة متقشرة، سُدّت الفواصل والثقوب ورُشّت مادة عازلة رمادية مزرقة على السطح كله."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 156,
+    "step-02.jpg": 158,
+    "step-03.jpg": 160,
+    "step-04.jpg": 161,
+    "step-05.jpg": 163,
+    "step-06.jpg": 165,
+    "step-07.jpg": 167,
+    "step-08.jpg": 169
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}

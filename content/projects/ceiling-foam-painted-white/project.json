@@ -1,0 +1,27 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 941,
+  "title": {
+    "el": "Αφρός πολυουρεθάνης σε ταβάνι, βαμμένος λευκός",
+    "en": "Spray Polyurethane Foam on a Ceiling, Painted White",
+    "ar": "رغوة البولي يوريثان المرشوشة على سقف مطلي بالأبيض"
+  },
+  "excerpt": {
+    "el": "Ο χώρος σκεπάστηκε με νάιλον, το ταβάνι ψεκάστηκε με αφρό πολυουρεθάνης και στο τέλος βάφτηκε λευκό.",
+    "en": "The room was wrapped in plastic sheeting, the ceiling was sprayed with polyurethane foam, and it was then painted white.",
+    "ar": "غُطّي المكان بالنايلون، ورُشّ السقف برغوة البولي يوريثان، ثم طُلي بالأبيض."
+  },
+  "cover": "step-08.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 941,
+    "step-02.jpg": 942,
+    "step-03.jpg": 944,
+    "step-04.jpg": 946,
+    "step-05.jpg": 945,
+    "step-06.jpg": 947,
+    "step-07.jpg": 948,
+    "step-08.jpg": 949
+  }
+}

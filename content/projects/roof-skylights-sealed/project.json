@@ -1,0 +1,26 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": 288,
+  "title": {
+    "el": "Στεγάνωση φεγγιτών σε ταράτσα",
+    "en": "Sealing the Skylights on a Flat Roof",
+    "ar": "عزل المناور الزجاجية على سطح"
+  },
+  "excerpt": {
+    "el": "Οι βάσεις δύο φεγγιτών είχαν σπάσει. Τα χαλασμένα υλικά βγήκαν και οι βάσεις στεγανώθηκαν με λευκό στεγανωτικό.",
+    "en": "The bases of two skylights had broken up. The damaged material was removed and the bases were sealed with a white waterproof coating.",
+    "ar": "تكسرت قواعد منورين زجاجيين، فأُزيلت المواد التالفة وعُزلت القواعد بطلاء عازل أبيض."
+  },
+  "cover": "step-06.jpg",
+  "comparisons": [],
+  "photos": {
+    "step-01.jpg": 290,
+    "step-02.jpg": 289,
+    "step-03.jpg": 288,
+    "step-04.jpg": 291,
+    "step-05.jpg": 292,
+    "step-06.jpg": 293
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}
