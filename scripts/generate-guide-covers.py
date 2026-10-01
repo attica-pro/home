@@ -28,23 +28,22 @@ def pts(points):
 
 def insulation(r):
     out = []
-    top = r.uniform(430, 500)
-    # The slab in section: concrete, screed, insulation, membrane (clay), from the bottom up.
-    layers = [(OLIVE, 0.42), (PAPER, 0.18), (MUTED, 0.16), (CLAY, 0.05)]
+    top = r.uniform(400, 450)
+    # The slab in section, from the bottom up: concrete, screed, insulation, membrane (clay).
+    layers = [(OLIVE, 0.40), (PAPER, 0.24), (MUTED, 0.24), (CLAY, 0.12)]
     y = H + 10
     for fill, share in layers:
-        h = (H - top) * share
+        h = (H + 10 - top) * share
         y -= h
         out.append(f'<rect x="-10" y="{y:.1f}" width="{W + 20}" height="{h:.1f}" fill="{fill}" {LINE}/>')
-    # Parapet at one end.
-    px = r.choice([150, W - 330])
-    out.append(f'<rect x="{px}" y="{y - 150:.1f}" width="180" height="150" fill="{PAPER}" {LINE}/>')
-    # Rain as short slanted ink strokes, and one drop.
-    for _ in range(26):
-        x, yy = r.uniform(80, W - 80), r.uniform(60, y - 190)
-        out.append(f'<line x1="{x:.1f}" y1="{yy:.1f}" x2="{x - 22:.1f}" y2="{yy + 46:.1f}" {THIN}/>')
-    dx, dy = r.uniform(600, 1000), y - 120
-    out.append(f'<path d="M{dx},{dy - 70} C{dx + 40},{dy - 10} {dx + 42},{dy + 30} {dx},{dy + 32} C{dx - 42},{dy + 30} {dx - 40},{dy - 10} {dx},{dy - 70} Z" fill="{PAPER}" {LINE}/>')
+    # Parapets at both ends.
+    for px in (60, W - 240):
+        out.append(f'<rect x="{px}" y="{y - 170:.1f}" width="180" height="170" fill="{PAPER}" {LINE}/>')
+    # A few heavy drops falling onto the roof.
+    for _ in range(r.randint(5, 7)):
+        dx, dy, s = r.uniform(320, W - 320), r.uniform(80, y - 110), r.uniform(0.7, 1.3)
+        out.append(f'<path d="M{dx:.1f},{dy - 70 * s:.1f} C{dx + 40 * s:.1f},{dy - 10 * s:.1f} {dx + 42 * s:.1f},{dy + 30 * s:.1f} {dx:.1f},{dy + 32 * s:.1f} '
+                   f'C{dx - 42 * s:.1f},{dy + 30 * s:.1f} {dx - 40 * s:.1f},{dy - 10 * s:.1f} {dx:.1f},{dy - 70 * s:.1f} Z" fill="{PAPER}" {LINE}/>')
     return out
 
 
@@ -145,25 +144,31 @@ def wood(r):
 
 
 def repairs(r):
-    out = [f'<rect x="0" y="0" width="{W}" height="{H}" fill="{PAPER}"/>']
-    # A crack across the wall.
-    x, y = r.uniform(100, 300), r.uniform(150, 300)
+    """A cracked wall, a fresh patch of plaster over the middle of the crack, and the putty knife that laid it."""
+    out = [f'<rect x="0" y="0" width="{W}" height="{H}" fill="{MUTED}"/>']
+    # The crack runs across the wall; the patch hides its middle.
+    x, y = -20, r.uniform(260, 380)
     crack = [(x, y)]
-    while x < W - 150:
-        x += r.uniform(60, 130)
-        y += r.uniform(-40, 70)
-        crack.append((x, min(max(y, 80), H - 120)))
-    out.append(f'<polyline points="{pts(crack)}" fill="none" stroke="{INK}" stroke-width="6" stroke-linejoin="bevel"/>')
-    # Patches of fresh plaster over parts of it.
+    while x < W + 20:
+        x += r.uniform(80, 150)
+        y += r.uniform(-50, 70)
+        crack.append((x, min(max(y, 160), H - 220)))
+    out.append(f'<polyline points="{pts(crack)}" fill="none" stroke="{INK}" stroke-width="10" stroke-linejoin="bevel"/>')
+    px, pw = r.uniform(520, 640), r.uniform(420, 520)
+    mid = [p for p in crack if px <= p[0] <= px + pw] or [crack[len(crack) // 2]]
+    py = sum(p[1] for p in mid) / len(mid)
+    out.append(f'<rect x="{px:.1f}" y="{py - 150:.1f}" width="{pw:.1f}" height="300" rx="40" fill="{PAPER}" {LINE}/>')
+    # Trowel marks in the fresh plaster.
     for k in range(3):
-        cx, cy = crack[r.randrange(1, len(crack) - 1)]
-        w, h = r.uniform(200, 320), r.uniform(120, 200)
-        fill = CLAY if k == 0 else OLIVE if k == 1 else MUTED
-        out.append(f'<rect x="{cx - w / 2:.1f}" y="{cy - h / 2:.1f}" width="{w:.1f}" height="{h:.1f}" rx="10" fill="{fill}" fill-opacity="{1 if k == 0 else 0.9}" {LINE}/>')
-    # A trowel.
-    tx, ty = r.uniform(1050, 1250), r.uniform(560, 680)
-    out.append(f'<polygon points="{pts([(tx, ty), (tx + 260, ty - 40), (tx + 230, ty + 80)])}" fill="{LIME}" {LINE}/>')
-    out.append(f'<path d="M{tx + 160},{ty + 20} l40,90 h70" fill="none" stroke="{INK}" stroke-width="10" stroke-linecap="round"/>')
+        yy = py - 80 + k * 70
+        out.append(f'<path d="M{px + 50:.1f},{yy:.1f} q{pw / 4:.1f},-24 {pw / 2:.1f},0 t{pw / 2 - 100:.1f},0" fill="none" {THIN}/>')
+    # The putty knife: a flat blade with an olive handle and a clay ferrule, resting on the patch edge.
+    kx, ky, angle = px + pw - 40, py + 60, r.uniform(-35, -20)
+    out.append(f'<g transform="translate({kx:.1f} {ky:.1f}) rotate({angle:.1f})">'
+               f'<path d="M0,-70 L230,-48 L230,48 L0,70 Z" fill="{PAPER}" {LINE}/>'
+               f'<rect x="230" y="-34" width="46" height="68" rx="6" fill="{CLAY}" {LINE}/>'
+               f'<rect x="276" y="-28" width="230" height="56" rx="24" fill="{OLIVE}" {LINE}/>'
+               f'</g>')
     return out
 
 

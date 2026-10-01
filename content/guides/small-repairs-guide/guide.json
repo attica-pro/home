@@ -1,0 +1,57 @@
+{
+  "category": "repairs",
+  "coverImage": "/images/articles/small-repairs-guide.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Ρωγμές, σοβάδες και σκουριασμένα σίδερα: Οδηγός για τις μικρές επισκευές",
+    "en": "Cracks, Loose Plaster and Rusty Steel: A Guide to Small Repairs",
+    "ar": "الشقوق والجص المتساقط والحديد الصدئ: دليل الإصلاحات الصغيرة"
+  },
+  "excerpt": {
+    "el": "Τι δείχνει μια ρωγμή ή ένας λεκές, πώς επισκευάζεται ένα ταβάνι με σκουριασμένο οπλισμό και πώς κλείνει σωστά ένας τοίχος μετά τον υδραυλικό ή τον ηλεκτρολόγο. Σε πέντε μέρη.",
+    "en": "What a crack or a stain is telling you, how a ceiling with rusty steel is repaired, and how a wall is properly closed up after the plumber or electrician. In five parts.",
+    "ar": "ماذا يعني الشق أو البقعة، وكيف يُصلح سقف ظهر فيه حديد صدئ، وكيف يُغلق الجدار كما يجب بعد السبّاك أو الكهربائي. في خمسة أجزاء."
+  },
+  "chapters": [
+    {
+      "slug": "reading-the-damage",
+      "title": {
+        "el": "Τι δείχνει η ζημιά",
+        "en": "Reading the Damage",
+        "ar": "ماذا يخبرك الضرر"
+      }
+    },
+    {
+      "slug": "cracks-and-loose-plaster",
+      "title": {
+        "el": "Ρωγμές και σοβάδες που φεύγουν",
+        "en": "Cracks and Loose Plaster",
+        "ar": "الشقوق والجص المتفكك"
+      }
+    },
+    {
+      "slug": "rusty-steel",
+      "title": {
+        "el": "Όταν φαίνεται σκουριασμένο σίδερο",
+        "en": "When Rusty Steel Shows Through",
+        "ar": "عندما يظهر حديد صدئ"
+      }
+    },
+    {
+      "slug": "damp-patches",
+      "title": {
+        "el": "Λεκέδες υγρασίας: πρώτα η αιτία",
+        "en": "Damp Patches: the Cause Comes First",
+        "ar": "بقع الرطوبة: السبب أولاً"
+      }
+    },
+    {
+      "slug": "after-plumber-electrician",
+      "title": {
+        "el": "Μετά τον υδραυλικό και τον ηλεκτρολόγο",
+        "en": "After the Plumber or Electrician",
+        "ar": "بعد السبّاك والكهربائي"
+      }
+    }
+  ]
+}

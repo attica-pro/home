@@ -1,0 +1,49 @@
+{
+  "category": "demolition",
+  "coverImage": "/images/articles/demolition-strip-out-guide.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Καθαίρεση και ξήλωμα: τι να ξέρετε πριν από το πρώτο χτύπημα",
+    "en": "Demolition and Strip-Out: What to Know Before the First Blow",
+    "ar": "الهدم والخلع: ما يجب معرفته قبل الضربة الأولى"
+  },
+  "excerpt": {
+    "el": "Ποιοι τοίχοι μπορούν να φύγουν και ποιοι θέλουν μηχανικό, πώς ξηλώνονται πλακάκια και σοβάδες, πώς προστατεύεται το σπίτι από τη σκόνη και πού πάνε τα μπάζα. Σε τέσσερα μέρη.",
+    "en": "Which walls can come down and which need an engineer, how tiles and render are stripped, how to protect the home from dust, and where the rubble goes. In four parts.",
+    "ar": "أي الجدران يمكن إزالتها وأيها يحتاج إلى مهندس، وكيف يُخلع البلاط والجص، وكيف يُحمى البيت من الغبار، وإلى أين تذهب الأنقاض. في أربعة أجزاء."
+  },
+  "chapters": [
+    {
+      "slug": "which-walls-can-go",
+      "title": {
+        "el": "Ποιοι τοίχοι μπορούν να φύγουν",
+        "en": "Which Walls Can Come Down",
+        "ar": "أي الجدران يمكن إزالتها"
+      }
+    },
+    {
+      "slug": "stripping-tiles-and-render",
+      "title": {
+        "el": "Ξήλωμα πλακιδίων και σοβάδων",
+        "en": "Stripping Tiles and Render",
+        "ar": "خلع البلاط والجص"
+      }
+    },
+    {
+      "slug": "dust-and-protection",
+      "title": {
+        "el": "Σκόνη, θόρυβος και προστασία του σπιτιού",
+        "en": "Dust, Noise and Protecting the Home",
+        "ar": "الغبار والضجيج وحماية البيت"
+      }
+    },
+    {
+      "slug": "rubble-and-what-to-ask",
+      "title": {
+        "el": "Τα μπάζα και τι να ρωτήσετε",
+        "en": "Rubble, and What to Ask",
+        "ar": "الأنقاض وما يجب أن تسأل عنه"
+      }
+    }
+  ]
+}

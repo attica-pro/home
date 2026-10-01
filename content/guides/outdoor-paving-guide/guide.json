@@ -1,0 +1,49 @@
+{
+  "category": "paving",
+  "coverImage": "/images/articles/outdoor-paving-guide.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Αυλές, πεζοδρόμια και μπαλκόνια: οδηγός για τα εξωτερικά δάπεδα",
+    "en": "Courtyards, Sidewalks and Balconies: A Guide to Outdoor Floors",
+    "ar": "الساحات والأرصفة والشرفات: دليل الأرضيات الخارجية"
+  },
+  "excerpt": {
+    "el": "Γιατί χαλάνε οι αρμοί, πότε φτάνει μια ανανέωση και πότε το δάπεδο θέλει να ξαναγίνει, πώς στρώνεται ένα πεζοδρόμιο από μπετό και γιατί οι κλίσεις κρίνουν ένα μπαλκόνι. Σε τέσσερα μέρη.",
+    "en": "Why joints fail, when a refresh is enough and when the floor needs redoing, how a concrete sidewalk is laid, and why falls make or break a balcony. In four parts.",
+    "ar": "لماذا تتلف الفواصل، ومتى يكفي التجديد ومتى يجب إعادة الأرضية، وكيف يُصب رصيف خرساني، ولماذا تحدد الميول نجاح الشرفة. في أربعة أجزاء."
+  },
+  "chapters": [
+    {
+      "slug": "why-outdoor-floors-fail",
+      "title": {
+        "el": "Τι παθαίνει ένα εξωτερικό δάπεδο",
+        "en": "What Goes Wrong with Outdoor Floors",
+        "ar": "ما الذي يصيب الأرضيات الخارجية"
+      }
+    },
+    {
+      "slug": "stone-paving-joints",
+      "title": {
+        "el": "Πέτρινη πλακόστρωση: νέοι αρμοί ή ξαναστρώσιμο;",
+        "en": "Stone Paving: New Joints or Relaying?",
+        "ar": "الأرضية الحجرية: فواصل جديدة أم إعادة رصف؟"
+      }
+    },
+    {
+      "slug": "concrete-walkways",
+      "title": {
+        "el": "Πεζοδρόμια και διάδρομοι από μπετό",
+        "en": "Concrete Sidewalks and Walkways",
+        "ar": "الأرصفة والممرات الخرسانية"
+      }
+    },
+    {
+      "slug": "balconies-and-falls",
+      "title": {
+        "el": "Μπαλκόνια, βεράντες και κλίσεις",
+        "en": "Balconies, Verandas and Falls",
+        "ar": "الشرفات والتراسات والميول"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "category": "renovations",
+  "coverImage": "/images/articles/bathroom-renovation-step-by-step.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Ανακαίνιση μπάνιου βήμα βήμα: από το ξήλωμα μέχρι τα είδη υγιεινής",
+    "en": "Bathroom Renovation Step by Step: From Strip-Out to Fixtures",
+    "ar": "تجديد الحمّام خطوة بخطوة: من الهدم إلى تركيب الأدوات الصحية"
+  },
+  "excerpt": {
+    "el": "Τι γίνεται σε μια ολική ανακαίνιση μπάνιου, με ποια σειρά και γιατί: από τις αποφάσεις πριν το ξήλωμα μέχρι τον τελικό έλεγχο, με παραδείγματα από πραγματικά μπάνια. Σε πέντε μέρη.",
+    "en": "What happens in a full bathroom renovation, in what order and why: from the decisions before the strip-out to the final checks, with examples from real bathrooms. In five parts.",
+    "ar": "ما الذي يجري في التجديد الكامل للحمّام، وبأي ترتيب ولماذا: من القرارات قبل الهدم حتى الفحص الأخير، مع أمثلة من حمّامات حقيقية. في خمسة أجزاء."
+  },
+  "chapters": [
+    {
+      "slug": "before-you-start",
+      "title": {
+        "el": "Πριν ξεκινήσετε: οι αποφάσεις που μετράνε",
+        "en": "Before You Start: The Decisions That Matter",
+        "ar": "قبل البدء: القرارات المهمة"
+      }
+    },
+    {
+      "slug": "strip-out-and-pipework",
+      "title": {
+        "el": "Ξήλωμα και νέες σωληνώσεις",
+        "en": "Strip-Out and New Pipework",
+        "ar": "الهدم والتمديدات الجديدة"
+      }
+    },
+    {
+      "slug": "floor-and-walls",
+      "title": {
+        "el": "Δάπεδο, στεγανοποίηση και σοβάδες",
+        "en": "Floor, Waterproofing and Render",
+        "ar": "الأرضية والعزل المائي واللياسة"
+      }
+    },
+    {
+      "slug": "tiles-and-fixtures",
+      "title": {
+        "el": "Πλακάκια και είδη υγιεινής",
+        "en": "Tiles and Fixtures",
+        "ar": "البلاط والأدوات الصحية"
+      }
+    },
+    {
+      "slug": "checks-and-questions",
+      "title": {
+        "el": "Τι να ρωτήσετε και τι να ελέγξετε",
+        "en": "What to Ask and What to Check",
+        "ar": "ماذا تسأل وماذا تتحقق"
+      }
+    }
+  ]
+}
