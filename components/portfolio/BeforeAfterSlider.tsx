@@ -26,29 +26,66 @@ export function BeforeAfterSlider({
 }: BeforeAfterSliderProps) {
   const [position, setPosition] = useState(50);
   const containerRef = useRef<HTMLDivElement>(null);
-  const isDragging = useRef(false);
+  // The pointer currently pressed on the slider, if any.
+  const gesture = useRef<{ id: number; touch: boolean; startX: number; startPosition: number; moved: boolean } | null>(
+    null,
+  );
 
-  const updatePosition = useCallback((clientX: number) => {
-    const el = containerRef.current;
-    if (!el) return;
-    const rect = el.getBoundingClientRect();
-    const ratio = ((clientX - rect.left) / rect.width) * 100;
-    setPosition(Math.min(100, Math.max(0, ratio)));
+  const toPercent = useCallback((dx: number) => {
+    const width = containerRef.current?.getBoundingClientRect().width;
+    return width ? (dx / width) * 100 : 0;
   }, []);
 
-  const onPointerDown = (e: React.PointerEvent) => {
-    isDragging.current = true;
-    (e.target as Element).setPointerCapture(e.pointerId);
-    updatePosition(e.clientX);
+  const positionAt = useCallback((clientX: number) => {
+    const rect = containerRef.current?.getBoundingClientRect();
+    return rect ? ((clientX - rect.left) / rect.width) * 100 : 50;
+  }, []);
+
+  const clamp = (value: number) => Math.min(100, Math.max(0, value));
+
+  // A mouse jumps the divider to where it's pressed. A finger leaves it alone until it moves
+  // sideways, so that a vertical swipe over the photo scrolls the page instead (touch-action
+  // pan-y hands vertical swipes to the browser, which then cancels the pointer).
+  const onPointerDown = (e: React.PointerEvent<HTMLDivElement>) => {
+    if (e.pointerType === 'mouse' && e.button !== 0) return;
+    const touch = e.pointerType !== 'mouse';
+    gesture.current = { id: e.pointerId, touch, startX: e.clientX, startPosition: position, moved: false };
+    if (!touch) {
+      // Keep receiving moves when the mouse leaves the photo mid-drag. (Touch pointers are captured
+      // implicitly.) It throws if the pointer is already gone, which doesn't matter here.
+      try {
+        e.currentTarget.setPointerCapture(e.pointerId);
+      } catch {}
+      setPosition(clamp(positionAt(e.clientX)));
+    }
   };
 
-  const onPointerMove = (e: React.PointerEvent) => {
-    if (!isDragging.current) return;
-    updatePosition(e.clientX);
+  const onPointerMove = (e: React.PointerEvent<HTMLDivElement>) => {
+    const g = gesture.current;
+    if (!g || g.id !== e.pointerId) return;
+    if (!g.touch) {
+      setPosition(clamp(positionAt(e.clientX)));
+      return;
+    }
+    const dx = e.clientX - g.startX;
+    if (!g.moved) {
+      if (Math.abs(dx) < 6) return;
+      g.moved = true;
+    }
+    // Drag relative to where the finger started, so grabbing anywhere doesn't make the divider jump.
+    setPosition(clamp(g.startPosition + toPercent(dx)));
   };
 
-  const onPointerUp = () => {
-    isDragging.current = false;
+  const onPointerUp = (e: React.PointerEvent<HTMLDivElement>) => {
+    const g = gesture.current;
+    if (!g || g.id !== e.pointerId) return;
+    // A tap (no sideways drag) moves the divider to the tapped spot.
+    if (g.touch && !g.moved) setPosition(clamp(positionAt(e.clientX)));
+    gesture.current = null;
+  };
+
+  const onPointerCancel = () => {
+    gesture.current = null;
   };
 
   const onKeyDown = (e: React.KeyboardEvent) => {
@@ -62,13 +99,14 @@ export function BeforeAfterSlider({
       // The clip and handle are positioned from the left, so keep this LTR even on Arabic pages.
       dir="ltr"
       className={cn(
-        'relative aspect-[4/3] w-full select-none overflow-hidden rounded-lg bg-muted touch-none',
+        'relative aspect-[4/3] w-full cursor-ew-resize select-none overflow-hidden rounded-lg bg-muted',
         className,
       )}
+      style={{ touchAction: 'pan-y pinch-zoom', WebkitTouchCallout: 'none' }}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}
       onPointerUp={onPointerUp}
-      onPointerLeave={onPointerUp}
+      onPointerCancel={onPointerCancel}
     >
       <Image
         src={assetPath(afterImage)}
