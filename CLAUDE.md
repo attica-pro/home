@@ -16,7 +16,7 @@ Never mention ελενίτ or asbestos anywhere on the site, in any language. In
 
 Questions only Mohamed can answer (materials, groupings, claims) are collected in `content/open-questions.json`, written in Greek and Arabic. Add new ones there rather than guessing, and apply his answers when they come in.
 
-Photos of Mohamed's real work are on his Facebook page, https://www.facebook.com/mohamed.tawesh. They are the source for the portfolio photos and for the service drawings (see Brand). The guide cover images in `public/images/articles/` are still placeholder SVGs.
+Photos of Mohamed's real work are on his Facebook page, https://www.facebook.com/mohamed.tawesh. They are the source for the portfolio photos and for the service drawings (see Brand). 
 
 ## Brand
 
@@ -41,12 +41,14 @@ There is no test suite. Verify changes with `npm run lint` and `npm run build` (
 
 ## Deployment and the static-export constraint
 
-`.github/workflows/deploy-pages.yml` builds with `NEXT_PUBLIC_GITHUB_PAGES=true` and deploys `./out` to GitHub Pages on pushes to `main` and `claude/mohamed-static-site-8kdefn`. That flag (read in both `next.config.mjs` and `lib/site-config.ts`) switches on `output: 'export'` and `basePath: '/atticapro'`.
+The site is served by GitHub Pages at **https://attica.pro** (custom domain), from the repository https://github.com/attica-pro/home. `.github/workflows/deploy-pages.yml` builds with `NEXT_PUBLIC_GITHUB_PAGES=true` and deploys `./out` on pushes to `main`. That flag (read in `next.config.mjs`) switches on `output: 'export'`. The site lives at the domain root, so `basePath` is empty and `siteUrl` in `lib/site-config.ts` is `https://attica.pro`. `public/CNAME` holds the domain; the domain itself is set under the repository's Settings → Pages, with DNS pointing at GitHub Pages.
+
+Everything the build needs is committed: `content/`, `public/` (including the job photos in `public/images/projects/` and the guide covers) and `scripts/`. Only `fb-photos/` (the raw Facebook download) stays out of the repository.
 
 Consequences to keep in mind:
 - The site must stay fully static: no middleware, API routes, server actions, or request-time data. Every dynamic route needs `generateStaticParams` covering all `locales`.
 - There is no next-intl middleware. `app/page.tsx` redirects `/` to `/el` client-side, and every server page/layout calls `setRequestLocale(locale)` before using translations.
-- `next/link` adds `basePath` automatically, but `next/image` with `unoptimized: true` does not. Wrap every local image `src` in `assetPath()` from `lib/site-config.ts`.
+- Keep wrapping local image `src` values in `assetPath()` from `lib/site-config.ts`. It's a no-op at the domain root, but it keeps images working if the site is ever served under a sub-path again (`next/image` with `unoptimized: true` doesn't add `basePath` itself).
 - Internal links are hand-built as `` `/${locale}/...` `` (there is no locale-aware Link wrapper).
 
 ## i18n and RTL
@@ -62,7 +64,7 @@ Consequences to keep in mind:
 The hub is organized by the same categories as the services: `/[locale]/knowledge-hub/<service>` lists that category's guides, glossary terms and a few jobs, and each service page links to it. Guides are nested under their category (`/knowledge-hub/<category>/<guide>/<chapter>`; build links with `guidePath()` from `lib/guides.ts`).
 
 Guides live in `content/guides/<guide-slug>/`:
-- `guide.json` holds the category (a service slug), coverImage, date, localized title and excerpt, and an ordered `chapters` array (slug plus localized title).
+- `guide.json` holds the category (a service slug), coverImage (`/images/articles/<guide-slug>.svg`, an abstract cover in the brand palette drawn by `python3 scripts/generate-guide-covers.py` from the guide's category; re-run it after adding a guide), date, localized title and excerpt, and an ordered `chapters` array (slug plus localized title).
 - `<chapter-slug>.<locale>.mdx` holds one file per chapter per locale. All three locales are expected, and a missing file 404s that page.
 
 The glossary lives in `content/glossary/<slug>.json` (`term`, `aliases`, `short`, `body`, `categories`, `photo`, `related`, each text field `{el,en,ar}`), with an index at `/knowledge-hub/glossary` and one page per term. All markdown (job write-ups, guide chapters, term bodies) renders through `components/knowledge/RichText.tsx`, whose remark plugin (`remarkGlossary` in `lib/glossary.ts`) links the first mention of each term on a page to its glossary page, with a hover pop-up showing `short` (`GlossaryLink`). Aliases are whole words, or stems when they end in `*`; Arabic matches may start with و ف ب ك ل and/or ال. Headings, images and existing links are never linked. Each term page lists the jobs and guide chapters that mention it.
@@ -84,4 +86,4 @@ Each past job has its own page at `/[locale]/portfolio/<slug>`. Projects live in
 
 - The contact form (`components/contact/ContactForm.tsx`) posts directly from the browser to Web3Forms (`siteConfig.formEndpoint`/`formAccessKey`), with multiple photo attachments as `attachment[]`. Contact numbers (mobile, which is also WhatsApp/Viber, and landline), email, the Google Maps link and social links are all in `siteConfig`; the street address is `common.address` in the message files.
 - Client UI state (the mobile menu) lives in a zustand store, `store/useUIStore.ts`.
-- Some values are still placeholders: `siteUrl` for non-Pages builds (`atticapro.example.com`), `formAccessKey`, and the social links.
+- Some values are still placeholders: `formAccessKey` and the social links.

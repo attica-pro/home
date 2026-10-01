@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - claude/mohamed-static-site-8kdefn
   workflow_dispatch:
 
 permissions:

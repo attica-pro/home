@@ -3,7 +3,8 @@ import createNextIntlPlugin from 'next-intl/plugin';
 const withNextIntl = createNextIntlPlugin('./i18n.ts');
 
 const isGithubPages = process.env.NEXT_PUBLIC_GITHUB_PAGES === 'true';
-const basePath = isGithubPages ? '/atticapro' : '';
+// Served from the root of the custom domain (https://attica.pro), so there is no basePath.
+const basePath = '';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {

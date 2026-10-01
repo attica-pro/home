@@ -1,7 +1,6 @@
-const isGithubPages = process.env.NEXT_PUBLIC_GITHUB_PAGES === 'true';
-
-export const basePath = isGithubPages ? '/atticapro' : '';
-export const siteUrl = isGithubPages ? 'https://vkefallinos.github.io/atticapro' : 'https://atticapro.example.com';
+// GitHub Pages serves the site from the root of its custom domain, so there is no basePath.
+export const basePath: string = '';
+export const siteUrl = 'https://attica.pro';
 
 /**
  * next/image with `unoptimized: true` doesn't auto-prefix basePath onto raw
