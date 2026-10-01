@@ -50,19 +50,7 @@ const config: Config = {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
-        terracotta: {
-          DEFAULT: '#C15F3C',
-          dark: '#A34C2E',
-          light: '#E08A61',
-        },
-        mustard: {
-          DEFAULT: '#C98A2C',
-          dark: '#A66F1F',
-          light: '#E4B15C',
-        },
-        slate: {
-          950: '#0f172a',
-        },
+        clay: 'hsl(var(--clay))',
       },
       borderRadius: {
         lg: 'var(--radius)',
@@ -70,15 +58,8 @@ const config: Config = {
         sm: 'calc(var(--radius) - 4px)',
       },
       fontFamily: {
-        sans: ['var(--font-inter)', 'Inter', 'sans-serif'],
-        display: ['var(--font-fraunces)', 'Georgia', 'serif'],
-        hand: ['var(--font-caveat)', 'cursive'],
-      },
-      rotate: {
-        '1.5': '1.5deg',
-        '-1.5': '-1.5deg',
-        '3': '3deg',
-        '-3': '-3deg',
+        sans: ['var(--font-body)', 'system-ui', 'sans-serif'],
+        display: ['var(--font-display)', 'var(--font-body)', 'system-ui', 'sans-serif'],
       },
       keyframes: {
         'accordion-down': {
