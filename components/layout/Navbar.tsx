@@ -10,35 +10,34 @@ export function Navbar({ locale }: { locale: string }) {
   const t = useTranslations('nav');
 
   const links = [
-    { href: `/${locale}/services/insulation`, label: t('insulation') },
-    { href: `/${locale}/services/painting`, label: t('painting') },
+    { href: `/${locale}/services`, label: t('services') },
     { href: `/${locale}/portfolio`, label: t('portfolio') },
     { href: `/${locale}/knowledge-hub`, label: t('knowledgeHub') },
     { href: `/${locale}/contact`, label: t('contact') },
   ];
 
   return (
-    <header className="sticky top-0 z-40 border-b border-border bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80">
+    <header className="sticky top-0 z-40 border-b border-foreground bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/85">
       <div className="container flex h-16 items-center justify-between">
         <Link href={`/${locale}`}>
-          <Logo />
+          <Logo withTrades />
         </Link>
 
-        <nav className="hidden md:flex items-center gap-6">
+        <nav className="hidden items-center gap-6 lg:flex">
           {links.map((link) => (
             <Link
               key={link.href}
               href={link.href}
-              className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
+              className="whitespace-nowrap text-sm font-medium text-foreground/80 transition-colors hover:text-accent"
             >
               {link.label}
             </Link>
           ))}
         </nav>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-1 sm:gap-3">
           <LocaleSwitcher />
-          <Button asChild variant="accent" size="sm" className="hidden md:inline-flex">
+          <Button asChild variant="accent" size="sm" className="hidden lg:inline-flex">
             <Link href={`/${locale}/contact`}>{t('getQuote')}</Link>
           </Button>
           <MobileMenu />

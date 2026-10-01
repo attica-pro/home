@@ -5,7 +5,6 @@ import type { Locale } from '@/i18n';
 import { Hero } from '@/components/home/Hero';
 import { ServicesSnippet } from '@/components/home/ServicesSnippet';
 import { ProcessSteps } from '@/components/home/ProcessSteps';
-import { Testimonials } from '@/components/home/Testimonials';
 import { RecentWork } from '@/components/home/RecentWork';
 
 export async function generateMetadata({
@@ -29,7 +28,6 @@ export default function HomePage({ params: { locale } }: { params: { locale: Loc
       <ServicesSnippet locale={locale} />
       <ProcessSteps />
       <RecentWork locale={locale} />
-      <Testimonials />
     </>
   );
 }

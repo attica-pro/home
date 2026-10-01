@@ -27,11 +27,12 @@ export async function generateMetadata({
 export default async function ContactPage({ params: { locale } }: { params: { locale: Locale } }) {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'contactPage' });
+  const tCommon = await getTranslations({ locale, namespace: 'common' });
 
   return (
     <div className="container py-16 md:py-24">
       <div className="mx-auto mb-12 max-w-2xl text-center">
-        <h1 className="font-display text-4xl font-semibold text-primary md:text-5xl">{t('title')}</h1>
+        <h1 className="font-display text-4xl font-bold text-primary md:text-5xl">{t('title')}</h1>
         <p className="mt-4 text-lg text-muted-foreground">{t('subtitle')}</p>
       </div>
 
@@ -48,7 +49,10 @@ export default async function ContactPage({ params: { locale } }: { params: { lo
             <CardContent className="space-y-4 pt-6">
               <CardTitle className="text-xl">{t('directTitle')}</CardTitle>
               <a href={siteConfig.phoneHref} className="flex items-center gap-3 text-sm font-medium text-foreground hover:text-accent">
-                <Phone className="h-5 w-5 text-accent" /> {t('callUs')}: {siteConfig.phoneDisplay}
+                <Phone className="h-5 w-5 text-accent" /> {t('callUs')}: <span dir="ltr">{siteConfig.phoneDisplay}</span>
+              </a>
+              <a href={siteConfig.landlineHref} className="flex items-center gap-3 text-sm font-medium text-foreground hover:text-accent">
+                <Phone className="h-5 w-5 text-accent" /> {t('landline')}: <span dir="ltr">{siteConfig.landlineDisplay}</span>
               </a>
               <a
                 href={siteConfig.whatsappHref}
@@ -70,9 +74,15 @@ export default async function ContactPage({ params: { locale } }: { params: { lo
           <Card>
             <CardContent className="space-y-3 pt-6">
               <CardTitle className="text-xl">{t('areaTitle')}</CardTitle>
-              <p className="flex items-start gap-3 text-sm text-muted-foreground">
-                <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-accent" /> {t('areaText')}
-              </p>
+              <a
+                href={siteConfig.mapsHref}
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-start gap-3 text-sm font-medium text-foreground hover:text-accent"
+              >
+                <MapPin className="mt-0.5 h-5 w-5 shrink-0 text-accent" /> {tCommon('address')}
+              </a>
+              <p className="ps-8 text-sm text-muted-foreground">{t('areaText')}</p>
             </CardContent>
           </Card>
         </div>

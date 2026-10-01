@@ -14,8 +14,11 @@ export function assetPath(path: string) {
 
 export const siteConfig = {
   name: 'AtticaPro',
-  phoneDisplay: '+30 693 159 0153',
-  phoneHref: 'tel:+306931590153',
+  phoneDisplay: '693 334 7282',
+  phoneHref: 'tel:+306933347282',
+  landlineDisplay: '210 254 5395',
+  landlineHref: 'tel:+302102545395',
+  mapsHref: 'https://www.google.com/maps/search/?api=1&query=%CE%9A%CE%B5%CF%81%CE%BA%CF%8D%CF%81%CE%B1%CF%82%20140%2C%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1',
   whatsappHref: 'https://wa.me/306933347282',
   viberHref: 'viber://chat?number=%2B306933347282',
   email: 'info@atticapro.gr',

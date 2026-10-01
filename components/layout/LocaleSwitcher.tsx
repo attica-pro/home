@@ -20,13 +20,13 @@ export function LocaleSwitcher({ className }: { className?: string }) {
 
   return (
     <div className={cn('flex items-center gap-1 text-sm font-medium', className)}>
-      <Globe className="h-4 w-4 text-muted-foreground" />
+      <Globe className="hidden h-4 w-4 text-muted-foreground sm:block" />
       {locales.map((loc, i) => (
         <span key={loc} className="flex items-center">
           <button
             onClick={() => switchTo(loc)}
             className={cn(
-              'px-1.5 py-1 uppercase transition-colors',
+              'px-1 py-1 uppercase transition-colors sm:px-1.5',
               loc === locale ? 'text-accent font-semibold' : 'text-muted-foreground hover:text-foreground',
             )}
             aria-current={loc === locale}

@@ -2,20 +2,23 @@ import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { Facebook, Instagram, Mail, MapPin, Phone } from 'lucide-react';
 
+import { serviceIcons, serviceSlugs } from '@/data/services';
 import { siteConfig } from '@/lib/site-config';
 import { Logo } from '@/components/layout/Logo';
 
 export function Footer({ locale }: { locale: string }) {
   const t = useTranslations('footer');
   const tNav = useTranslations('nav');
+  const tServices = useTranslations('services.items');
+  const tCommon = useTranslations('common');
   const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-border bg-secondary">
+    <footer className="border-t border-foreground bg-secondary">
       <div className="container grid gap-10 py-14 md:grid-cols-4">
         <div>
           <Link href={`/${locale}`}>
-            <Logo />
+            <Logo withTrades />
           </Link>
           <p className="mt-4 text-sm text-muted-foreground">{t('tagline')}</p>
           <div className="mt-4 flex gap-3">
@@ -40,8 +43,17 @@ export function Footer({ locale }: { locale: string }) {
         <div>
           <h3 className="font-semibold text-foreground">{t('servicesTitle')}</h3>
           <ul className="mt-4 space-y-2 text-sm">
-            <li><Link href={`/${locale}/services/insulation`} className="text-muted-foreground hover:text-accent">{tNav('insulation')}</Link></li>
-            <li><Link href={`/${locale}/services/painting`} className="text-muted-foreground hover:text-accent">{tNav('painting')}</Link></li>
+            {serviceSlugs.map((slug) => {
+              const Icon = serviceIcons[slug];
+              return (
+                <li key={slug}>
+                  <Link href={`/${locale}/services/${slug}`} className="flex items-center gap-2 text-muted-foreground hover:text-accent">
+                    <Icon className="h-4 w-4 shrink-0 text-foreground" />
+                    {tServices(`${slug}.title`)}
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         </div>
 
@@ -49,13 +61,19 @@ export function Footer({ locale }: { locale: string }) {
           <h3 className="font-semibold text-foreground">{t('contactTitle')}</h3>
           <ul className="mt-4 space-y-3 text-sm text-muted-foreground">
             <li className="flex items-center gap-2">
-              <Phone className="h-4 w-4 text-accent" /> {siteConfig.phoneDisplay}
+              <Phone className="h-4 w-4 text-accent" />
+              <a href={siteConfig.phoneHref} dir="ltr" className="hover:text-accent">{siteConfig.phoneDisplay}</a>
+            </li>
+            <li className="flex items-center gap-2">
+              <Phone className="h-4 w-4 text-accent" />
+              <a href={siteConfig.landlineHref} dir="ltr" className="hover:text-accent">{siteConfig.landlineDisplay}</a>
             </li>
             <li className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-accent" /> {siteConfig.email}
             </li>
             <li className="flex items-center gap-2">
-              <MapPin className="h-4 w-4 text-accent" /> Αττική / Attica
+              <MapPin className="h-4 w-4 shrink-0 text-accent" />
+              <a href={siteConfig.mapsHref} target="_blank" rel="noreferrer" className="hover:text-accent">{tCommon('address')}</a>
             </li>
           </ul>
         </div>
