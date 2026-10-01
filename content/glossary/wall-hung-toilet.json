@@ -1,0 +1,51 @@
+{
+  "term": {
+    "el": "Κρεμαστή λεκάνη",
+    "en": "Wall-hung toilet",
+    "ar": "المرحاض المعلّق"
+  },
+  "aliases": {
+    "el": [
+      "κρεμαστή λεκάνη",
+      "κρεμαστής λεκάνης",
+      "κρεμαστές λεκάνες",
+      "κρεμαστών λεκανών",
+      "λεκάνη κρέμεται"
+    ],
+    "en": [
+      "wall-hung toilet*",
+      "wall hung toilet*",
+      "wall-mounted toilet*",
+      "toilet hangs from the wall"
+    ],
+    "ar": [
+      "مرحاض معلّق",
+      "مرحاض معلق",
+      "مرحاض المعلّق",
+      "مرحاض المعلق",
+      "مراحيض معلقة"
+    ]
+  },
+  "short": {
+    "el": "Λεκάνη τουαλέτας που στερεώνεται στον τοίχο, πάνω σε μεταλλικό πλαίσιο μαζί με εντοιχιζόμενο καζανάκι, χωρίς να πατάει στο δάπεδο.",
+    "en": "A toilet bowl fixed to the wall on a metal frame, together with a concealed cistern, without touching the floor.",
+    "ar": "مرحاض يُثبَّت على الجدار فوق إطار معدني مع صندوق طرد مخفي، من دون أن يرتكز على الأرضية."
+  },
+  "body": {
+    "el": "Η κρεμαστή λεκάνη δεν πατάει στο δάπεδο. Βιδώνεται σε ένα μεταλλικό πλαίσιο που στερεώνεται στον τοίχο ή στο δάπεδο πριν από τον σοβά ή την επένδυση, και που κρατά επίσης το εντοιχιζόμενο καζανάκι. Από τον τοίχο βγαίνουν μόνο οι βίδες στήριξης και οι συνδέσεις νερού και αποχέτευσης.\n\nΤο μεγάλο της πλεονέκτημα είναι το καθάρισμα: κάτω από τη λεκάνη το δάπεδο μένει ελεύθερο. Πιάνει επίσης λιγότερο χώρο, κάτι που μετράει σε μια στενή τουαλέτα. Σε ένα μπάνιο, γύρω από το πλαίσιο σχηματίστηκε ένα χτιστό ράφι, και πάνω από τη λεκάνη φαίνεται μόνο το πλήκτρο.\n\nΗ κρεμαστή λεκάνη μπαίνει μόνο όταν ο τοίχος είναι ανοιχτός, γιατί το πλαίσιο κρύβεται πίσω από τον σοβά και τα πλακάκια. Αν σκέφτεστε να τη βάλετε, πείτε το πριν ξεκινήσουν οι σωληνώσεις. Ο αρμός ανάμεσα στη λεκάνη και τον τοίχο κλείνει συνήθως με σιλικόνη.",
+    "en": "A wall-hung toilet doesn't stand on the floor. It is bolted to a metal frame that is fixed to the wall or floor before the render or the boxing goes on, and the same frame holds the concealed cistern. Only the fixing bolts and the water and drain connections come out of the wall.\n\nIts big advantage is cleaning: the floor under the bowl stays clear. It also takes up less room, which matters in a narrow WC. In one bathroom, a built-in shelf was formed around the frame, and above the toilet only the flush plate shows.\n\nA wall-hung toilet can only go in while the wall is open, because the frame is hidden behind the render and the tiles. If you're thinking of one, say so before the pipework starts. The gap between the bowl and the wall is usually closed with silicone.",
+    "ar": "المرحاض المعلّق لا يرتكز على الأرضية. يُثبَّت بالبراغي على إطار معدني يُركَّب على الجدار أو الأرضية قبل اللياسة أو الكسوة، والإطار نفسه يحمل صندوق الطرد المخفي. ولا يخرج من الجدار إلا براغي التثبيت ووصلات الماء والصرف.\n\nميزته الكبرى هي التنظيف: تبقى الأرضية تحت المرحاض خالية. كما أنه يأخذ مساحة أقل، وهذا مهم في دورة مياه ضيقة. في أحد الحمّامات شُكّل رف مبني حول الإطار، ولا يظهر فوق المرحاض إلا زر الطرد.\n\nلا يُركَّب المرحاض المعلّق إلا والجدار مفتوح، لأن الإطار يختفي خلف اللياسة والبلاط. إذا كنت تفكر فيه فقل ذلك قبل البدء بالتمديدات. وتُغلق الفجوة بين المرحاض والجدار عادةً بالسيليكون."
+  },
+  "categories": [
+    "renovations"
+  ],
+  "photo": {
+    "project": "bathroom-walk-in-shower",
+    "file": "step-08.jpg"
+  },
+  "related": [
+    "concealed-cistern",
+    "wall-chase",
+    "silicone"
+  ]
+}

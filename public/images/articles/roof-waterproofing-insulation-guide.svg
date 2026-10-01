@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#e0f2f1"/>
-      <stop offset="100%" stop-color="#b2dfdb"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0f5c56" stroke-opacity="0.08" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#g)"/>
-  <rect width="100%" height="100%" fill="url(#grid)"/>
-  <text x="50%" y="46%" font-family="Arial, sans-serif" font-size="75" font-weight="700" fill="#0f5c56" text-anchor="middle" dominant-baseline="middle">Roof Waterproofing</text>
-  <text x="50%" y="58%" font-family="Arial, sans-serif" font-size="40" fill="#0f5c56" fill-opacity="0.8" text-anchor="middle" dominant-baseline="middle">and Insulation Guide</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900"><rect width="1600" height="900" fill="#EDE6DA"/><rect x="-10" y="717.6" width="1620" height="192.4" fill="#5E6B3A" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><rect x="-10" y="602.2" width="1620" height="115.4" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><rect x="-10" y="486.8" width="1620" height="115.4" fill="#E2D9CA" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><rect x="-10" y="429.1" width="1620" height="57.7" fill="#A45A3B" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><rect x="60" y="259.1" width="180" height="170" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><rect x="1360" y="259.1" width="180" height="170" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M665.5,27.5 C698.2,76.6 699.8,109.2 665.5,110.9 C631.2,109.2 632.8,76.6 665.5,27.5 Z" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M787.5,191.7 C818.9,238.7 820.4,270.1 787.5,271.7 C754.5,270.1 756.1,238.7 787.5,191.7 Z" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M764.7,142.3 C809.5,209.3 811.7,254.1 764.7,256.3 C717.8,254.1 720.0,209.3 764.7,142.3 Z" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M723.3,235.0 C758.4,287.6 760.1,322.6 723.3,324.4 C686.5,322.6 688.3,287.6 723.3,235.0 Z" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M1248.0,160.8 C1293.3,228.6 1295.5,273.9 1248.0,276.1 C1200.5,273.9 1202.8,228.6 1248.0,160.8 Z" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><path d="M1126.8,186.8 C1160.9,238.0 1162.6,272.2 1126.8,273.9 C1090.9,272.2 1092.6,238.0 1126.8,186.8 Z" fill="#F7F3EC" stroke="#2B2A26" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/><rect x="2" y="2" width="1596" height="896" fill="none" stroke="#2B2A26" stroke-width="4"/></svg>

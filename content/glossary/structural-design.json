@@ -1,0 +1,52 @@
+{
+  "term": {
+    "el": "Στατική μελέτη",
+    "en": "Structural design",
+    "ar": "الدراسة الإنشائية"
+  },
+  "aliases": {
+    "el": [
+      "στατική μελέτη",
+      "στατικής μελέτης",
+      "στατικές μελέτες",
+      "στατική επάρκεια",
+      "στατικής επάρκειας",
+      "στατικό έλεγχο",
+      "στατικός έλεγχος",
+      "στατικού ελέγχου"
+    ],
+    "en": [
+      "structural design*",
+      "structural assessment*",
+      "structural engineer*",
+      "structural calculation*"
+    ],
+    "ar": [
+      "دراسة إنشائية",
+      "دراسة الإنشائية",
+      "دراسات إنشائية",
+      "مهندس إنشائي",
+      "مهندس الإنشائي"
+    ]
+  },
+  "short": {
+    "el": "Η μελέτη μηχανικού που ελέγχει αν ένα κτίριο αντέχει μια αλλαγή, για παράδειγμα ένα άνοιγμα σε φέροντα τοίχο, και ορίζει πώς θα γίνει και με ποια ενίσχυση.",
+    "en": "An engineer's study that checks whether a building can take a change, such as an opening in a load-bearing wall, and sets out how it is done and how it is strengthened.",
+    "ar": "دراسة يعدها مهندس للتحقق مما إذا كان المبنى يحتمل تغييرًا ما، كفتحة في جدار حامل، وتحدد كيف يُنفذ وبأي تدعيم."
+  },
+  "body": {
+    "el": "Κάθε επέμβαση που αγγίζει τον φέροντα οργανισμό ενός κτιρίου, δηλαδή κολόνες, δοκάρια, πλάκες ή φέροντες τοίχους, χρειάζεται στατική μελέτη από μηχανικό. Η μελέτη υπολογίζει πώς θα μοιραστούν τα φορτία μετά την αλλαγή και ορίζει τι θα μπει στη θέση αυτού που φεύγει: ένα πρέκι, ένα νέο δοκάρι, μια ενίσχυση.\n\nΗ στατική μελέτη συνδέεται συνήθως με την άδεια που απαιτείται για τη δουλειά. Χωρίς αυτήν, μια επέμβαση σε φέροντα στοιχεία δεν πρέπει να γίνει, όσο μικρή κι αν φαίνεται.\n\nΓια έναν ιδιοκτήτη, το πρακτικό είναι απλό: αν δεν είναι βέβαιο ότι ένας τοίχος είναι τοίχος πλήρωσης, ή αν η δουλειά πλησιάζει κολόνα ή δοκάρι, το πρώτο βήμα είναι ένας μηχανικός, πριν από οποιοδήποτε σφυρί.",
+    "en": "Any work that touches a building's structure, meaning columns, beams, slabs or load-bearing walls, needs a structural design from an engineer. It works out how the loads will be shared after the change and specifies what replaces what is removed: a lintel, a new beam, strengthening.\n\nThe structural design is usually tied to the permit the work requires. Without it, work on structural elements should not be done, however small it seems.\n\nFor a homeowner, the practical side is simple: if it isn't certain that a wall is an infill wall, or if the work comes near a column or beam, the first step is an engineer, before any hammer.",
+    "ar": "كل تدخل يمس الهيكل الإنشائي للمبنى، أي الأعمدة أو الجسور أو البلاطات أو الجدران الحاملة، يحتاج إلى دراسة إنشائية يعدها مهندس. تحسب الدراسة كيف ستتوزع الأحمال بعد التغيير، وتحدد ما سيحل محل ما يُزال: عتبة علوية، أو جسر جديد، أو تدعيم.\n\nترتبط الدراسة الإنشائية عادة بالترخيص الذي يتطلبه العمل. ودونها لا يجوز التدخل في العناصر الإنشائية، مهما بدا صغيرًا.\n\nبالنسبة لصاحب البيت، الجانب العملي بسيط: إذا لم يكن مؤكدًا أن الجدار جدار ملء، أو إذا اقترب العمل من عمود أو جسر، فالخطوة الأولى هي المهندس، قبل أي مطرقة."
+  },
+  "categories": [
+    "demolition",
+    "renovations"
+  ],
+  "photo": null,
+  "related": [
+    "load-bearing-wall",
+    "infill-wall",
+    "lintel"
+  ]
+}

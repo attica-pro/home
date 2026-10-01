@@ -1,0 +1,47 @@
+{
+  "term": {
+    "el": "Άλατα (εξανθήματα)",
+    "en": "Efflorescence (salt deposits)",
+    "ar": "تزهّر الأملاح"
+  },
+  "aliases": {
+    "el": [
+      "άλατα",
+      "αλάτων",
+      "εξανθήματ*",
+      "εξάνθημα"
+    ],
+    "en": [
+      "efflorescence",
+      "salt deposit*",
+      "salt crust*",
+      "salts"
+    ],
+    "ar": [
+      "تزهر",
+      "تزهّر",
+      "أملاح"
+    ]
+  },
+  "short": {
+    "el": "Λευκή, σκονώδης ή κρυσταλλική κρούστα στην επιφάνεια ενός τοίχου. Είναι άλατα που κουβαλά το νερό μέσα από την τοιχοποιία και μένουν πίσω όταν εκείνο εξατμίζεται.",
+    "en": "A white, powdery or crystalline crust on the surface of a wall. It is salts carried by water through the masonry, left behind when the water evaporates.",
+    "ar": "قشرة بيضاء مسحوقية أو بلورية على سطح الجدار. وهي أملاح يحملها الماء عبر البناء، وتبقى بعد أن يتبخر."
+  },
+  "body": {
+    "el": "Τα τούβλα, το μπετό, ο σοβάς και το ίδιο το έδαφος περιέχουν διαλυτά άλατα. Όταν νερό περνά μέσα από έναν τοίχο, τα διαλύει και τα φέρνει προς την επιφάνεια. Εκεί το νερό εξατμίζεται και τα άλατα μένουν πίσω, σαν λευκή σκόνη, χνούδι ή σκληρή κρούστα.\n\nΕμφανίζονται συχνά χαμηλά σε τοίχους με ανερχόμενη υγρασία, σε τοίχους κάτω από ταράτσες και μπαλκόνια που δεν στεγανώνουν πια, και σε υπόγεια. Όταν κρυσταλλώνονται πίσω από το χρώμα ή μέσα στον σοβά, τα σπρώχνουν προς τα έξω, και το χρώμα φουσκώνει και ξεφλουδίζει.\n\nΤο βούρτσισμα τα αφαιρεί από την επιφάνεια, αλλά αν το νερό συνεχίζει να περνά, θα ξαναβγούν. Πριν από το βάψιμο, ο σοβάς που έχει χαλάσει αφαιρείται και βρίσκεται η αιτία της υγρασίας. Το χρώμα από μόνο του δεν τα σταματά.",
+    "en": "Bricks, concrete, plaster and the ground itself contain soluble salts. When water passes through a wall, it dissolves them and carries them towards the surface. There the water evaporates and the salts stay behind, as a white powder, a fluff or a hard crust.\n\nIt often appears low on walls with rising damp, on walls below roofs and balconies that no longer keep water out, and in basements. When the salts crystallise behind the paint or inside the plaster, they push it outwards, and the paint bubbles and peels.\n\nBrushing removes them from the surface, but if water keeps passing through, they will come back. Before painting, the damaged plaster is removed and the cause of the damp is found. Paint on its own won't stop them.",
+    "ar": "يحتوي الطوب والخرسانة واللياسة والتربة نفسها على أملاح قابلة للذوبان. وعندما يمر الماء عبر الجدار، يذيبها ويحملها نحو السطح. وهناك يتبخر الماء وتبقى الأملاح خلفه، على شكل مسحوق أبيض أو زغب أو قشرة صلبة.\n\nيظهر التزهّر كثيرًا في أسفل الجدران المصابة بالرطوبة الصاعدة، وفي الجدران التي تحت أسطح وشرفات لم تعد تمنع الماء، وفي الأقبية. وعندما تتبلور الأملاح خلف الدهان أو داخل اللياسة، تدفعها إلى الخارج، فينتفخ الدهان ويتقشر.\n\nالتنظيف بالفرشاة يزيلها من السطح، لكن إذا استمر الماء في المرور فستعود. وقبل الدهان، تُزال اللياسة التالفة ويُعرف سبب الرطوبة. فالدهان وحده لا يوقفها."
+  },
+  "categories": [
+    "painting",
+    "insulation",
+    "repairs"
+  ],
+  "photo": null,
+  "related": [
+    "rising-damp",
+    "render",
+    "peeling-paint"
+  ]
+}

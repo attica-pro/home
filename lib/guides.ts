@@ -22,7 +22,8 @@ export interface GuideMeta {
 }
 
 function getGuideSlugs(): string[] {
-  return fs.readdirSync(GUIDES_DIR).filter((entry) => fs.statSync(path.join(GUIDES_DIR, entry)).isDirectory());
+  // A folder without guide.json (e.g. one still being written) is not a guide yet.
+  return fs.readdirSync(GUIDES_DIR).filter((entry) => fs.existsSync(path.join(GUIDES_DIR, entry, 'guide.json')));
 }
 
 export function getAllGuides(): GuideMeta[] {

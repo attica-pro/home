@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Θερμογέφυρα",
+    "en": "Thermal bridge",
+    "ar": "الجسر الحراري"
+  },
+  "aliases": {
+    "el": [
+      "θερμογέφυρ*"
+    ],
+    "en": [
+      "thermal bridge*",
+      "thermal bridging",
+      "cold bridge*",
+      "cold bridging"
+    ],
+    "ar": [
+      "جسر حراري",
+      "جسر الحراري",
+      "جسور حرارية",
+      "جسور الحرارية"
+    ]
+  },
+  "short": {
+    "el": "Σημείο ενός κτιρίου από όπου η ζέστη και το κρύο περνούν πιο εύκολα απ' ό,τι από τον υπόλοιπο τοίχο ή την πλάκα, όπως οι κολόνες, τα δοκάρια και οι άκρες της πλάκας.",
+    "en": "A spot in a building where heat and cold pass more easily than through the rest of the wall or slab, such as columns, beams and the edges of a slab.",
+    "ar": "موضع في المبنى يمر منه الحر والبرد بسهولة أكبر من بقية الجدار أو البلاطة، مثل الأعمدة والجسور الخرسانية وحواف البلاطة."
+  },
+  "body": {
+    "el": "Ένα κτίριο χάνει θερμότητα κυρίως από τα πιο αδύνατα σημεία του. Οι κολόνες και τα δοκάρια από μπετό, οι άκρες της πλάκας, οι πλάκες των μπαλκονιών που συνεχίζουν προς τα έξω και οι γωνίες όπου συναντιούνται τοίχος και ταβάνι μεταφέρουν τη θερμότητα πιο εύκολα από τον υπόλοιπο τοίχο. Το ίδιο συμβαίνει όπου η μόνωση σταματά ή αφήνει κενά.\n\nΤον χειμώνα αυτά τα σημεία είναι πιο κρύα από μέσα. Οι υδρατμοί του σπιτιού γίνονται νερό πάνω τους, και εκεί εμφανίζεται συχνά μούχλα: στις γωνίες του ταβανιού, γύρω από τα παράθυρα, σε μια λωρίδα κατά μήκος ενός δοκαριού. Μια τέτοια μούχλα δεν οφείλεται σε διαρροή αλλά σε υγρασία συμπύκνωσης.\n\nΗ μόνωση που περνά συνεχόμενα πάνω από αυτά τα σημεία τα περιορίζει. Η θερμοπρόσοψη σκεπάζει και τις κολόνες, και ο ψεκαζόμενος αφρός πολυουρεθάνης ανεβαίνει στα στηθαία και καλύπτει τις άκρες της πλάκας. Όταν συζητάτε μια μόνωση, αξίζει να ρωτήσετε πού ακριβώς θα σταματήσει.",
+    "en": "A building loses heat mainly through its weakest spots. Concrete columns and beams, the edges of a slab, balcony slabs that carry on outwards and the corners where wall meets ceiling all carry heat more easily than the rest of the wall. The same happens wherever insulation stops or leaves gaps.\n\nIn winter these spots are colder on the inside. The moisture in the air of the home turns to water on them, and that is where mould often appears: in the corners of the ceiling, around windows, in a strip along a beam. Mould like this isn't caused by a leak but by condensation.\n\nInsulation that runs continuously over these spots reduces them. External wall insulation covers the columns as well, and spray polyurethane foam runs up the parapets and covers the edges of the slab. When you discuss insulation, it's worth asking exactly where it will stop.",
+    "ar": "يفقد المبنى الحرارة أساسًا من أضعف مواضعه. فالأعمدة والجسور الخرسانية، وحواف البلاطة، وبلاطات الشرفات الممتدة إلى الخارج، والزوايا التي يلتقي فيها الجدار بالسقف، كلها تنقل الحرارة بسهولة أكبر من بقية الجدار. ويحدث الشيء نفسه حيث يتوقف العزل أو يترك فراغات.\n\nفي الشتاء تكون هذه المواضع أبرد من الداخل. فيتحول بخار الماء الذي في هواء البيت إلى ماء عليها، وهناك يظهر العفن كثيرًا: في زوايا السقف، وحول النوافذ، وفي شريط على طول أحد الجسور. ومثل هذا العفن لا يسببه تسرب، بل رطوبة التكاثف.\n\nالعزل الذي يمر متصلًا فوق هذه المواضع يقللها. فالعزل الخارجي للواجهات يغطي الأعمدة أيضًا، ورغوة البولي يوريثان المرشوشة تصعد على الجدار المحيط بالسطح وتغطي حواف البلاطة. وعندما تناقش أي عزل، من المفيد أن تسأل أين سيتوقف بالضبط."
+  },
+  "categories": [
+    "insulation",
+    "painting"
+  ],
+  "photo": {
+    "project": "roof-water-tanks-spray-foam",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "thermal-insulation",
+    "condensation",
+    "etics",
+    "polyurethane-foam"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "term": {
+    "el": "Κούφια πλακάκια (ξεκόλλημα)",
+    "en": "Hollow (debonded) tiles",
+    "ar": "البلاط الأجوف (المنفصل عن قاعدته)"
+  },
+  "aliases": {
+    "el": [
+      "κούφια",
+      "κούφιες",
+      "κούφια πλακάκια",
+      "ξεκολλημένα πλακάκια",
+      "ξεκολλημένες πλάκες"
+    ],
+    "en": [
+      "hollow tile*",
+      "tiles that sound hollow",
+      "don't sound hollow",
+      "the ones that sound hollow"
+    ],
+    "ar": [
+      "بلاط أجوف",
+      "بلاط الأجوف",
+      "بلاطة جوفاء",
+      "بلاطة الجوفاء",
+      "بلاطات جوفاء",
+      "بلاطات الجوفاء"
+    ]
+  },
+  "short": {
+    "el": "Πλακάκια ή πλάκες που έχουν ξεκολλήσει από τη βάση τους. Ακούγονται κούφια όταν τα χτυπάς ελαφριά, και συχνά κουνιούνται ή ραγίζουν.",
+    "en": "Tiles or slabs that have come away from their base. They sound hollow when tapped lightly, and often rock or crack.",
+    "ar": "بلاط أو ألواح انفصلت عن قاعدتها. يصدر عنها صوت أجوف عند النقر عليها بخفة، وكثيرًا ما تتحرك أو تتشقق."
+  },
+  "body": {
+    "el": "Ένα πλακάκι κρατιέται στη θέση του από την κόλλα πλακιδίων ή το κονίαμα από κάτω. Όταν αυτό το δέσιμο χαλάσει, το πλακάκι μένει να πατά στον αέρα. Χτυπώντας το ελαφριά, για παράδειγμα με τη λαβή ενός κατσαβιδιού, ακούγεται ένας κούφιος ήχος αντί για τον γεμάτο ήχο ενός πλακιδίου που κάθεται καλά.\n\nΣτα μπαλκόνια και στις ταράτσες συμβαίνει συχνά, γιατί το νερό μπαίνει από ανοιχτούς αρμούς και ρωγμές και ο ήλιος με το κρύο κουνάνε συνεχώς το δάπεδο. Συμβαίνει επίσης όταν η κόλλα απλώθηκε σε λίγα σημεία και όχι σε όλη την πλάτη του πλακιδίου.\n\nΈνα κούφιο πλακάκι μπορεί να μείνει έτσι για καιρό, κάποια στιγμή όμως ραγίζει ή σηκώνεται. Λίγα κούφια πλακάκια συνήθως αλλάζουν ένα ένα. Όταν είναι πολλά, πρέπει να ελεγχθεί τι γίνεται από κάτω, γιατί συχνά υπάρχει νερό που μπαίνει στο δάπεδο. Πάνω σε κούφια πλακάκια δεν πρέπει να μπει επίστρωση πριν φτιαχτούν, γιατί δεν θα έχει πού να πιαστεί.",
+    "en": "A tile is held in place by the tile adhesive or mortar underneath it. When that bond fails, the tile is left sitting on air. Tapped lightly, for example with the handle of a screwdriver, it gives a hollow sound instead of the solid sound of a tile that is well bedded.\n\nIt happens often on balconies and flat roofs, because water gets in through open joints and cracks, and sun and cold keep the floor moving. It also happens when the adhesive was spread in a few dabs rather than over the whole back of the tile.\n\nA hollow tile can stay like that for a while, but at some point it cracks or lifts. A few hollow tiles are usually replaced one by one. When there are many, what is going on underneath needs checking, because water is often getting into the floor. No coating should go over hollow tiles before they are fixed, because it would have nothing firm to hold on to.",
+    "ar": "يثبت البلاط في مكانه بفضل لاصق البلاط أو الملاط الذي تحته. وعندما يتلف هذا الالتصاق، يبقى البلاط قائمًا على فراغ. وعند النقر عليه بخفة، بمقبض مفك براغي مثلًا، يصدر عنه صوت أجوف بدل الصوت الممتلئ للبلاط المثبت جيدًا.\n\nيحدث هذا كثيرًا في الشرفات والأسطح، لأن الماء يدخل من الفواصل المفتوحة والشقوق، والشمس والبرد يحرّكان الأرضية باستمرار. ويحدث أيضًا عندما يوضع اللاصق في نقاط قليلة لا على ظهر البلاطة كله.\n\nقد تبقى البلاطة الجوفاء على حالها مدة، لكنها تتشقق أو ترتفع في وقت ما. البلاطات الجوفاء القليلة تُستبدل عادةً واحدة واحدة. أما إذا كانت كثيرة فيجب فحص ما يحدث تحتها، لأن الماء كثيرًا ما يكون داخلًا إلى الأرضية. ولا يجوز وضع طلاء فوق بلاط أجوف قبل إصلاحه، لأنه لن يجد شيئًا ثابتًا يلتصق به."
+  },
+  "categories": [
+    "paving",
+    "renovations",
+    "repairs"
+  ],
+  "photo": {
+    "project": "tiled-terrace-grey-coating",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "tile-adhesive",
+    "grout-joint",
+    "crack",
+    "waterproofing"
+  ]
+}

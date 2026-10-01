@@ -1,0 +1,54 @@
+{
+  "term": {
+    "el": "Σάπισμα ξύλου",
+    "en": "Wood rot",
+    "ar": "تعفن الخشب"
+  },
+  "aliases": {
+    "el": [
+      "σάπι*",
+      "σαπίσ*",
+      "σαπίζ*",
+      "σαπίλ*"
+    ],
+    "en": [
+      "rot",
+      "rots",
+      "rotted",
+      "rotten",
+      "rotting",
+      "wood rot"
+    ],
+    "ar": [
+      "تعفن*",
+      "تعفّن*",
+      "متعفن*",
+      "يتعفن*",
+      "تتعفن*"
+    ]
+  },
+  "short": {
+    "el": "Η φθορά του ξύλου από μύκητες, όταν μένει υγρό για καιρό. Το σάπιο ξύλο μαλακώνει, βουλιάζει στο πάτημα ή θρυμματίζεται, και δεν σώζεται με βαφή.",
+    "en": "Decay of wood caused by fungi when it stays damp for a long time. Rotten wood goes soft, gives when pressed or crumbles, and can't be saved with paint.",
+    "ar": "تلف الخشب بفعل الفطريات حين يبقى رطبًا مدة طويلة. الخشب المتعفن يلين ويغوص عند الضغط عليه أو يتفتت، ولا ينقذه الطلاء."
+  },
+  "body": {
+    "el": "Το ξύλο σαπίζει όταν μένει υγρό για μεγάλο διάστημα. Η υγρασία επιτρέπει σε μύκητες να αναπτυχθούν μέσα στις ίνες του και να τις διαλύσουν. Στα ξύλα έξω από το σπίτι αυτό συμβαίνει κυρίως εκεί που το νερό δεν μπορεί να φύγει: στις κάτω άκρες των παντζουριών και των πορτών, στις ενώσεις, στις βάσεις των κολονών μιας πέργκολας και όπου το ξύλο ακουμπάει σε δάπεδο ή σε χώμα.\n\nΤο σάπιο ξύλο είναι μαλακό, συχνά πιο σκούρο, βουλιάζει όταν το πιέσετε με ένα κατσαβίδι ή βγαίνει σε ψίχουλα. Δεν πρέπει να μπερδεύεται με το ξύλο που απλώς έχει γκριζάρει ή ανοίξει λεπτές ρωγμές από τον ήλιο, που είναι φθορά της επιφάνειας και συνήθως φεύγει με τρίψιμο.\n\nΤο σάπισμα δεν διορθώνεται με χρώμα ή βερνίκι, γιατί από κάτω η φθορά συνεχίζεται. Το χαλασμένο ξύλο πρέπει να αφαιρεθεί και να μπει καινούργιο, ή, αν η ζημιά είναι μεγάλη, να αλλάξει όλο το κομμάτι. Η καλύτερη πρόληψη είναι ένα φινίρισμα σε καλή κατάσταση και, σε καινούργιο ή γυμνό ξύλο, ένα συντηρητικό ξύλου.",
+    "en": "Wood rots when it stays damp for a long time. The moisture lets fungi grow inside its fibres and break them down. On wood outside the house this happens mostly where water can't drain away: at the bottom ends of shutters and doors, in joints, at the feet of a pergola's posts, and wherever wood rests on a floor or on soil.\n\nRotten wood is soft, often darker, gives when you press a screwdriver into it, or comes away in crumbs. It shouldn't be confused with wood that has simply gone grey or opened fine cracks in the sun, which is surface wear and usually comes off with sanding.\n\nRot can't be fixed with paint or varnish, because the decay carries on underneath. The damaged wood has to be cut out and new wood fitted, or, if the damage is extensive, the whole piece replaced. The best prevention is a finish in good condition and, on new or bare wood, a wood preservative.",
+    "ar": "يتعفن الخشب حين يبقى رطبًا مدة طويلة، فالرطوبة تسمح للفطريات بأن تنمو داخل أليافه وتفككها. وفي الخشب خارج البيت يحدث هذا أساسًا حيث لا يستطيع الماء أن يسيل: في الأطراف السفلية للشيش والأبواب، وفي الوصلات، وعند قواعد أعمدة البرغولا، وحيث يستند الخشب إلى أرضية أو تراب.\n\nالخشب المتعفن لين، وغالبًا أغمق لونًا، ويغوص فيه مفك البراغي عند الضغط أو يخرج فتاتًا. ولا ينبغي الخلط بينه وبين الخشب الذي صار رماديًا فقط أو ظهرت فيه شقوق دقيقة من الشمس، فهذا تآكل في السطح يزول عادةً بالصنفرة.\n\nلا يُعالج التعفن بالطلاء أو الورنيش، لأن التلف يستمر تحتهما. يجب إزالة الخشب التالف ووضع خشب جديد مكانه، أو تغيير القطعة كلها إذا كان الضرر كبيرًا. وأفضل وقاية هي تشطيب في حالة جيدة، ومادة حافظة للخشب على الخشب الجديد أو العاري."
+  },
+  "categories": [
+    "wood",
+    "repairs"
+  ],
+  "photo": {
+    "project": "wooden-shutters-restoration",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "wood-preservative",
+    "weathered-wood",
+    "varnish",
+    "sanding"
+  ]
+}

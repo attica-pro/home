@@ -1,0 +1,52 @@
+{
+  "term": {
+    "el": "Γκριζάρισμα ξύλου",
+    "en": "Weathered (grey) wood",
+    "ar": "تحوّل الخشب إلى الرمادي"
+  },
+  "aliases": {
+    "el": [
+      "γκριζάρισμα",
+      "γκριζαρίσματ*",
+      "γκριζαρισμέν*"
+    ],
+    "en": [
+      "gone grey",
+      "greying",
+      "greyed",
+      "weathered wood"
+    ],
+    "ar": [
+      "صار رماديًا",
+      "يصير رماديًا",
+      "صارت رمادية",
+      "تحول إلى الرمادي",
+      "تحوّل إلى الرمادي",
+      "يتحول إلى الرمادي",
+      "تحول لونه إلى الرمادي",
+      "تحوّل لونه إلى الرمادي"
+    ]
+  },
+  "short": {
+    "el": "Το γκρίζο, τραχύ στρώμα που αποκτά το ξύλο όταν μένει χωρίς προστασία στον ήλιο και τη βροχή. Είναι φθορά της επιφάνειας και συνήθως φεύγει με τρίψιμο.",
+    "en": "The grey, rough layer wood develops when it is left unprotected in sun and rain. It is surface wear and usually comes off with sanding.",
+    "ar": "الطبقة الرمادية الخشنة التي تظهر على الخشب حين يبقى دون حماية في الشمس والمطر. إنها تآكل في السطح وتزول عادةً بالصنفرة."
+  },
+  "body": {
+    "el": "Όταν το βερνίκι ή το χρώμα φθαρεί και το ξύλο μείνει ακάλυπτο, ο ήλιος διαλύει σιγά σιγά το πάνω στρώμα των ινών του και η βροχή το ξεπλένει. Το ξύλο χάνει το χρώμα του, γίνεται γκρίζο ή ασημί, τραχαίνει στο άγγιγμα και συχνά ανοίγει λεπτές σχισμές κατά μήκος των νερών του.\n\nΤο γκριζάρισμα φαίνεται άσχημο, αλλά συνήθως αφορά ένα λεπτό στρώμα στην επιφάνεια. Με τρίψιμο μέχρι να φανεί καθαρό ξύλο, το ξύλο ξαναβρίσκει το χρώμα του και μπορεί να πάρει νέο φινίρισμα, όπως βερνίκι ή χρώμα. Το γκρίζο στρώμα πρέπει να φύγει πριν από το φινίρισμα, γιατί πάνω του δεν πιάνει καλά.\n\nΔεν είναι το ίδιο με το σάπισμα. Το γκριζαρισμένο ξύλο από κάτω είναι σκληρό, ενώ το σάπιο είναι μαλακό και βουλιάζει στο πάτημα. Είναι όμως σημάδι ότι το ξύλο έχει μείνει απροστάτευτο, και όσο μένει έτσι, τόσο πιο εύκολα μπαίνει το νερό.",
+    "en": "When varnish or paint wears away and the wood is left bare, the sun slowly breaks down the top layer of its fibres and the rain washes it away. The wood loses its colour, turns grey or silvery, feels rough to the touch and often opens fine splits along the grain.\n\nGreying looks bad, but it usually affects only a thin layer on the surface. Sanded back until clean wood shows, the wood gets its colour back and can take a new finish such as varnish or paint. The grey layer has to come off before the finish goes on, because a finish doesn't grip well on it.\n\nIt is not the same as rot. Weathered wood is hard underneath, while rotten wood is soft and gives when pressed. It is, however, a sign that the wood has been left unprotected, and the longer it stays that way, the more easily water gets in.",
+    "ar": "حين يتآكل الورنيش أو الطلاء ويبقى الخشب مكشوفًا، تفكك الشمس ببطء الطبقة العليا من أليافه ويغسلها المطر. فيفقد الخشب لونه، ويصير رماديًا أو فضيًا، ويخشن عند اللمس، وكثيرًا ما تنفتح فيه شقوق دقيقة على طول عروقه.\n\nيبدو تحوّل الخشب إلى الرمادي سيئًا، لكنه عادةً لا يمس إلا طبقة رقيقة من السطح. وبالصنفرة حتى يظهر خشب نظيف، يستعيد الخشب لونه ويمكن أن يحصل على تشطيب جديد مثل الورنيش أو الطلاء. ويجب إزالة الطبقة الرمادية قبل التشطيب، لأن التشطيب لا يتماسك عليها جيدًا.\n\nوهو ليس مثل التعفن. فالخشب الرمادي صلب من الداخل، أما الخشب المتعفن فلين ويغوص عند الضغط عليه. لكنه علامة على أن الخشب بقي دون حماية، وكلما بقي كذلك، دخل الماء إليه بسهولة أكبر."
+  },
+  "categories": [
+    "wood"
+  ],
+  "photo": {
+    "project": "louvred-shutters-wood-finish",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "sanding",
+    "varnish",
+    "wood-rot"
+  ]
+}

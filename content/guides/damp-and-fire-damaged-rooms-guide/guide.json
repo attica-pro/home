@@ -1,0 +1,57 @@
+{
+  "category": "painting",
+  "coverImage": "/images/articles/damp-and-fire-damaged-rooms-guide.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Δωμάτια με υγρασία ή ζημιές από φωτιά: η δουλειά πριν από το βάψιμο",
+    "en": "Damp and Fire-Damaged Rooms: The Work Before the Paint",
+    "ar": "غرف متضررة من الرطوبة أو الحريق: العمل الذي يسبق الطلاء"
+  },
+  "excerpt": {
+    "el": "Πώς διαβάζεται η ζημιά, ως πού φτάνει το ξύσιμο, πώς ξαναχτίζεται ο τοίχος με σοβά, στόκο και αστάρι, τι αλλάζει μετά από φωτιά και τι να ρωτήσετε πριν ξεκινήσει η δουλειά.",
+    "en": "How to read the damage, how far the scraping goes, how the wall is rebuilt with plaster, filler and primer, what changes after a fire, and what to ask before the work starts.",
+    "ar": "كيف يُقرأ الضرر، وإلى أي عمق يصل الكشط، وكيف يُعاد بناء الجدار باللياسة والمعجون وطبقة الأساس، وما الذي يتغير بعد الحريق، وما الذي تسأل عنه قبل بدء العمل."
+  },
+  "chapters": [
+    {
+      "slug": "reading-the-damage",
+      "title": {
+        "el": "Διαβάζοντας τη ζημιά",
+        "en": "Reading the Damage",
+        "ar": "قراءة الضرر"
+      }
+    },
+    {
+      "slug": "scraping-back",
+      "title": {
+        "el": "Ξύσιμο μέχρι γερή βάση",
+        "en": "Scraping Back to a Sound Base",
+        "ar": "الكشط حتى قاعدة سليمة"
+      }
+    },
+    {
+      "slug": "rebuilding-the-surface",
+      "title": {
+        "el": "Σοβάς, στόκος και αστάρι",
+        "en": "Plaster, Filler and Primer",
+        "ar": "اللياسة والمعجون وطبقة الأساس"
+      }
+    },
+    {
+      "slug": "after-a-fire",
+      "title": {
+        "el": "Μετά από φωτιά",
+        "en": "After a Fire",
+        "ar": "بعد الحريق"
+      }
+    },
+    {
+      "slug": "before-work-starts",
+      "title": {
+        "el": "Πριν ξεκινήσει η δουλειά",
+        "en": "Before the Work Starts",
+        "ar": "قبل بدء العمل"
+      }
+    }
+  ]
+}

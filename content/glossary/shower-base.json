@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Κτιστή βάση ντουζιέρας",
+    "en": "Built-up shower base",
+    "ar": "قاعدة الدش المبنية"
+  },
+  "aliases": {
+    "el": [
+      "βάση ντουζιέρας",
+      "βάσης ντουζιέρας",
+      "βάσεις ντουζιέρας",
+      "κτιστή βάση",
+      "χτιστή βάση"
+    ],
+    "en": [
+      "shower base*",
+      "built-up shower base*"
+    ],
+    "ar": [
+      "قاعدة دش",
+      "قاعدة الدش",
+      "قواعد دش",
+      "قواعد الدش"
+    ]
+  },
+  "short": {
+    "el": "Χαμηλό, χτισμένο δάπεδο ντουζιέρας με κλίση προς το σιφώνι, που ντύνεται με πλακάκι. Λύση όταν το δάπεδο δεν έχει βάθος για ντουζιέρα στο ίδιο επίπεδο.",
+    "en": "A low, built shower floor sloping to the drain and finished with tiles. An option when the floor isn't deep enough for a level shower.",
+    "ar": "أرضية دش منخفضة مبنية، مائلة نحو المصرف ومكسوة بالبلاط. حلّ عندما لا يكون في الأرضية عمق كافٍ لدش في مستوى الأرضية."
+  },
+  "body": {
+    "el": "Η κτιστή βάση ντουζιέρας είναι ένα χαμηλό, χτισμένο δάπεδο στη θέση της ντουζιέρας, λίγο ψηλότερα από το υπόλοιπο μπάνιο. Στρώνεται με κλίση προς το σιφώνι και ντύνεται με το ίδιο πλακάκι με το δάπεδο ή τους τοίχους, αντί για έτοιμη σκάφη.\n\nΕίναι μια συνηθισμένη λύση όταν μια μπανιέρα γίνεται ντουζιέρα και το δάπεδο δεν έχει αρκετό βάθος για την αποχέτευση μιας ντουζιέρας δαπέδου. Σε διαμέρισμα η πλάκα από κάτω δεν σκάβεται, οπότε το ύψος που λείπει κερδίζεται προς τα πάνω. Σε ένα μικρό μπάνιο, χτίστηκε βάση ντουζιέρας εκεί που ήταν η μπανιέρα.\n\nΌπως κάθε ντουζιέρα, η βάση θέλει στεγανοποίηση κάτω από τα πλακάκια, σωστή κλίση και προσεγμένο αρμό στο σημείο όπου συναντά τον τοίχο. Το χαμηλό σκαλοπάτι της είναι κάτι που αξίζει να σκεφτείτε αν στο σπίτι μένουν ηλικιωμένοι.",
+    "en": "A built-up shower base is a low, built floor where the shower goes, a little higher than the rest of the bathroom. It is laid with a slope to the drain and finished with the same tile as the floor or walls, instead of a ready-made tray.\n\nIt is a common answer when a bathtub becomes a shower and the floor isn't deep enough for the drain of a walk-in shower. In a flat the slab below isn't dug into, so the missing height is gained upwards. In a small bathroom, a shower base was built where the bathtub used to be.\n\nLike any shower, the base needs waterproofing under the tiles, the right slope and a carefully finished joint where it meets the wall. Its low step is worth thinking about if older people live in the home.",
+    "ar": "قاعدة الدش المبنية أرضية منخفضة تُبنى في مكان الدش، أعلى قليلًا من بقية الحمّام. تُصبّ بميل نحو المصرف وتُكسى بالبلاط نفسه الذي على الأرضية أو الجدران، بدل حوض دش جاهز.\n\nهي حل شائع عندما يتحول حوض الاستحمام إلى دش ولا يكون في الأرضية عمق كافٍ لصرف دش في مستوى الأرضية. ففي الشقق لا تُحفر البلاطة الخرسانية التي في الأسفل، لذا يُكسب الارتفاع الناقص إلى الأعلى. في حمّام صغير بُنيت قاعدة دش مكان حوض الاستحمام.\n\nوككل دش، تحتاج القاعدة إلى عزل مائي تحت البلاط، وإلى ميل صحيح، وإلى فاصل متقن حيث تلتقي بالجدار. ودرجتها المنخفضة أمر يستحق التفكير إذا كان في البيت كبار في السن."
+  },
+  "categories": [
+    "renovations"
+  ],
+  "photo": {
+    "project": "small-bathroom-renovation",
+    "file": "step-04.jpg"
+  },
+  "related": [
+    "walk-in-shower",
+    "floor-drain",
+    "falls",
+    "waterproofing"
+  ]
+}

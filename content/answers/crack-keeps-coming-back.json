@@ -1,0 +1,24 @@
+{
+  "category": "repairs",
+  "order": 4,
+  "question": {
+    "el": "Στοκάρω μια ρωγμή στον τοίχο και ξανανοίγει. Γιατί;",
+    "en": "I fill a crack in the wall and it opens again. Why?",
+    "ar": "أملأ شقاً في الجدار بالمعجون فيعود وينفتح. لماذا؟"
+  },
+  "short": {
+    "el": "Γιατί η ρωγμή κινείται και ο στόκος δεν είναι ελαστικός. Συνήθως βρίσκεται σε ένωση υλικών, σε κούφιο σοβά ή έχει βαθύτερη αιτία, οπότε χρειάζεται πλέγμα ή άλλη επισκευή.",
+    "en": "Because the crack is moving and filler doesn't stretch. It usually sits where materials meet, on hollow plaster or over a deeper cause, so it needs mesh or a different repair.",
+    "ar": "لأن الشق يتحرك والمعجون لا يتمدد. غالباً يكون عند التقاء مادتين، أو فوق جص أجوف، أو له سبب أعمق، فيحتاج إلى شبكة تقوية أو إلى إصلاح من نوع آخر."
+  },
+  "body": {
+    "el": "Ο στόκος είναι φτιαγμένος για να γεμίζει μικρά κενά πριν από τη βαφή, όχι για να κρατάει κάτι που κινείται. Αν η ρωγμή ανοιγοκλείνει, έστω και λίγο, με τη ζέστη και το κρύο ή με τις μικρές κινήσεις του κτιρίου, ο στόκος σκάει ξανά ακριβώς στην ίδια γραμμή.\n\nΟι ρωγμές που ξαναγυρίζουν βρίσκονται συνήθως εκεί όπου ενώνονται δύο διαφορετικά υλικά: τούβλο με κολόνα από μπετόν, ένα άνοιγμα που χτίστηκε με τον παλιό τοίχο, ένα μπάλωμα με τον σοβά γύρω του. Σε αυτά τα σημεία μπαίνει πλέγμα οπλισμού μέσα στον σοβά, ώστε να μοιράζει την κίνηση. Σε ένα σαλόνι όπου κλείστηκε με τούβλα ένα άνοιγμα, μπήκε πλέγμα στις ενώσεις με τον παλιό τοίχο πριν από το δεύτερο χέρι σοβά. Σε έναν τοίχο αυλής, το πλέγμα πέρασε πάνω από τα μπαλώματα και εκεί όπου συναντούσαν τον παλιό σοβά.\n\n![Το κλεισμένο άνοιγμα με το δεύτερο χέρι σοβά](living-room-wall-opening-closed/step-05.jpg)\n\nΆλλες φορές η ρωγμή ξανανοίγει γιατί ο σοβάς από κάτω έχει ξεκολλήσει, ή γιατί κάτι τη σπρώχνει από μέσα. Σε ένα ταβάνι, μια ρωγμή σε ευθεία γραμμή έκρυβε σκουριασμένο σίδερο, που φουσκώνει και ανοίγει ξανά το υλικό. Εκεί ο στόκος δεν θα κρατούσε ποτέ: η ρωγμή ανοίχτηκε ως το σίδερο για να επισκευαστεί σωστά.\n\nΠροσέξτε: λοξές ρωγμές από τις γωνίες πορτών και παραθύρων, ή ρωγμές που μεγαλώνουν από χρόνο σε χρόνο, πρέπει να τις δει μηχανικός πριν από οποιαδήποτε επισκευή.",
+    "en": "Filler is made to fill small gaps before painting, not to hold something that moves. If a crack opens and closes, even slightly, with heat and cold or with the building's small movements, the filler splits again along exactly the same line.\n\nCracks that keep coming back usually sit where two different materials meet: brick against a concrete column, a bricked-up opening against the old wall, a patch against the plaster around it. At these points mesh is set into the plaster to spread the movement. In a living room where a wall opening was bricked up, mesh went over the joints with the old wall before the second coat of plaster. On a courtyard wall, mesh went over the patches and where they met the old plaster.\n\n![The bricked-up opening with its second coat of plaster](living-room-wall-opening-closed/step-05.jpg)\n\nOther times the crack reopens because the plaster underneath has come loose, or because something is pushing it from inside. On one ceiling, a straight-line crack hid rusty steel, which swells and opens the material again. Filler would never have held there: the crack was opened up to the steel so it could be repaired properly.\n\nKeep in mind: diagonal cracks running from the corners of doors and windows, or cracks that grow from year to year, need an engineer to look at them before any repair.",
+    "ar": "المعجون مصنوع لملء الفراغات الصغيرة قبل الطلاء، لا لإمساك شيء يتحرك. إذا كان الشق ينفتح وينغلق، ولو قليلاً، مع الحر والبرد أو مع حركات المبنى الصغيرة، فإن المعجون يتشقق من جديد على الخط نفسه تماماً.\n\nالشقوق التي تعود تكون في الغالب حيث تلتقي مادتان مختلفتان: طوب بجانب عمود خرساني، أو فتحة سُدّت بالطوب بجانب الجدار القديم، أو رقعة بجانب الجص المحيط بها. في هذه الأماكن توضع شبكة تقوية داخل اللياسة لتوزّع الحركة. في غرفة جلوس سُدّت فيها فتحة بالطوب، وُضعت الشبكة على الوصلات مع الجدار القديم قبل الطبقة الثانية من اللياسة. وعلى جدار فناء، وُضعت الشبكة فوق الرقع وحيث تلتقي بالجص القديم.\n\n![الفتحة المسدودة بعد الطبقة الثانية من اللياسة](living-room-wall-opening-closed/step-05.jpg)\n\nوأحياناً يعود الشق لأن الجص تحته قد انفصل، أو لأن شيئاً يدفعه من الداخل. في أحد الأسقف كان شق مستقيم يخفي حديداً صدئاً، والحديد الصدئ يتمدد ويفتح المادة من جديد. هناك لم يكن المعجون ليصمد أبداً، ففُتح الشق حتى وصل إلى الحديد ليُصلَح كما يجب.\n\nانتبه: الشقوق المائلة التي تخرج من زوايا الأبواب والنوافذ، أو الشقوق التي تكبر من سنة إلى أخرى، يجب أن يراها مهندس قبل أي إصلاح."
+  },
+  "projects": [
+    "living-room-wall-opening-closed",
+    "courtyard-wall-plaster-repair",
+    "ceiling-crack-rusted-rebar"
+  ]
+}

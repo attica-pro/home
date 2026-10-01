@@ -1,0 +1,49 @@
+{
+  "category": "insulation",
+  "coverImage": "/images/articles/spray-polyurethane-foam-guide.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Ψεκαζόμενη πολυουρεθάνη: ταράτσες, λαμαρίνες και πιλοτές",
+    "en": "Spray Polyurethane Foam: Flat Roofs, Metal Roofs and Pilotis Ceilings",
+    "ar": "رغوة البولي يوريثان المرشوشة: الأسطح وأسقف الصفيح وسقف البيلوتي"
+  },
+  "excerpt": {
+    "el": "Τι είναι ο αφρός πολυουρεθάνης, πού ταιριάζει, πώς προετοιμάζεται η επιφάνεια, πώς ψεκάζονται τα δύσκολα σημεία και τι πρέπει να τον σκεπάσει. Με παραδείγματα από πραγματικές δουλειές.",
+    "en": "What spray polyurethane foam is, where it fits, how the surface is prepared, how the awkward spots are sprayed and what has to cover it. With examples from real jobs.",
+    "ar": "ما هي رغوة البولي يوريثان المرشوشة، وأين تناسب، وكيف يُحضَّر السطح، وكيف تُرش المواضع الصعبة، وما الذي يجب أن يغطيها. مع أمثلة من أعمال حقيقية."
+  },
+  "chapters": [
+    {
+      "slug": "what-it-is-and-where",
+      "title": {
+        "el": "Τι είναι και πού μπαίνει",
+        "en": "What It Is and Where It Goes",
+        "ar": "ما هي وأين تُستخدم"
+      }
+    },
+    {
+      "slug": "preparing-the-surface",
+      "title": {
+        "el": "Η προετοιμασία της επιφάνειας",
+        "en": "Preparing the Surface",
+        "ar": "تحضير السطح"
+      }
+    },
+    {
+      "slug": "spraying-the-awkward-spots",
+      "title": {
+        "el": "Ο ψεκασμός και τα δύσκολα σημεία",
+        "en": "Spraying and the Awkward Spots",
+        "ar": "الرش والمواضع الصعبة"
+      }
+    },
+    {
+      "slug": "protecting-the-foam",
+      "title": {
+        "el": "Η προστασία του αφρού και τι να ρωτήσετε",
+        "en": "Protecting the Foam, and What to Ask",
+        "ar": "حماية الرغوة وما يجب أن تسأل عنه"
+      }
+    }
+  ]
+}

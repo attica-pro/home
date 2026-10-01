@@ -182,7 +182,7 @@ for path in sorted(glob.glob(os.path.join(ROOT, 'content/guides/*/guide.json')))
     svg = (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">'
            f'<rect width="{W}" height="{H}" fill="{LIME}"/>' + ''.join(shapes) +
            f'<rect x="2" y="2" width="{W - 4}" height="{H - 4}" fill="none" stroke="{INK}" stroke-width="4"/></svg>\n')
-    out = os.path.join(ROOT, guide['coverImage'].lstrip('/'))
+    out = os.path.join(ROOT, 'public', guide['coverImage'].lstrip('/'))
     os.makedirs(os.path.dirname(out), exist_ok=True)
     open(out, 'w').write(svg)
     print(f'{slug}: {guide["category"]} -> {guide["coverImage"]}')

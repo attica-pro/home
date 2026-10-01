@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Αντισκωριακό οπλισμού",
+    "en": "Anti-corrosion coating",
+    "ar": "طلاء مضاد للصدأ"
+  },
+  "aliases": {
+    "el": [
+      "αντισκωριακ*",
+      "αντιδιαβρωτικ*",
+      "κόκκινο προστατευτικό"
+    ],
+    "en": [
+      "anti-corrosion*",
+      "anticorrosion*",
+      "rust-inhibiting*",
+      "red protective coat"
+    ],
+    "ar": [
+      "مضاد للصدأ",
+      "مضادة للصدأ",
+      "مضاد الصدأ",
+      "طبقة حماية حمراء"
+    ]
+  },
+  "short": {
+    "el": "Προστατευτική στρώση που περνιέται στα σίδερα του οπλισμού, αφού καθαριστούν από τη σκουριά, για να μη συνεχίσουν να σκουριάζουν πριν κλείσουν με νέο υλικό.",
+    "en": "A protective coat brushed onto steel reinforcement, once the rust has been cleaned off, so the bars don't keep rusting before they are covered with new material.",
+    "ar": "طبقة حماية تُدهن على حديد التسليح بعد تنظيفه من الصدأ، حتى لا يستمر في الصدأ قبل أن يُغطّى بمادة جديدة."
+  },
+  "body": {
+    "el": "Όταν ένα ταβάνι ή ένα μπαλκόνι ανοιχτεί και φανούν σκουριασμένα σίδερα, δεν αρκεί να σκεπαστούν ξανά. Πρώτα αφαιρείται η χαλαρή σκουριά και το μπετόν που θρυμματίζεται, και μετά κάθε σίδερο που φαίνεται περνιέται με αντισκωριακό, συνήθως με πινέλο, σε όλη του την περίμετρο.\n\nΤο αντισκωριακό σταματά τη σκουριά να συνεχίσει κάτω από το νέο υλικό και βοηθά το επισκευαστικό κονίαμα να πιάσει. Υπάρχουν διάφοροι τύποι και χρώματα. Σε επισκευές ταβανιών συχνά φαίνεται κόκκινο ή γκρι πάνω στα σίδερα πριν κλείσουν.\n\nΔεν είναι μόνο του λύση: η επισκευή κρατάει αν τα σίδερα σκεπαστούν καλά και αν σταματήσει το νερό που τα σκούριασε. Αν ένα σίδερο έχει χάσει μεγάλο μέρος από το πάχος του, πρέπει να το δει μηχανικός.",
+    "en": "When a ceiling or balcony is opened up and rusty bars show, covering them up again isn't enough. First the loose rust and crumbling concrete are removed, and then every exposed bar gets an anti-corrosion coating, usually with a brush, all the way round.\n\nThe coating stops rust from carrying on under the new material and helps the repair mortar bond. There are various types and colours. In ceiling repairs you often see red or grey on the bars before they are covered.\n\nOn its own it isn't a fix: the repair lasts if the bars are well covered and the water that rusted them is stopped. If a bar has lost much of its thickness, an engineer needs to see it.",
+    "ar": "عندما يُفتح سقف أو شرفة ويظهر حديد صدئ، لا يكفي أن يُغطّى من جديد. أولاً يُزال الصدأ المتقشر والخرسانة المتفتتة، ثم يُدهن كل قضيب ظاهر بطلاء مضاد للصدأ، عادة بالفرشاة، من كل الجهات.\n\nيمنع هذا الطلاء الصدأ من الاستمرار تحت المادة الجديدة، ويساعد ملاط الإصلاح على الالتصاق. وهناك أنواع وألوان مختلفة، وفي إصلاحات الأسقف كثيراً ما يُرى الأحمر أو الرمادي على القضبان قبل تغطيتها.\n\nلكنه ليس حلاً وحده: الإصلاح يصمد إذا غُطّي الحديد جيداً وتوقف الماء الذي سبّب الصدأ. وإذا فقد القضيب جزءاً كبيراً من سماكته، فيجب أن يراه مهندس."
+  },
+  "categories": [
+    "repairs"
+  ],
+  "photo": {
+    "project": "ceiling-exposed-rebar-repair",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "rebar-corrosion",
+    "repair-mortar",
+    "primer"
+  ]
+}

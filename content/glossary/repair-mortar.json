@@ -1,0 +1,49 @@
+{
+  "term": {
+    "el": "Επισκευαστικό κονίαμα",
+    "en": "Repair mortar",
+    "ar": "ملاط الإصلاح"
+  },
+  "aliases": {
+    "el": [
+      "επισκευαστικό κονίαμα",
+      "επισκευαστικού κονιάματος",
+      "επισκευαστικά κονιάματα",
+      "επισκευαστικών κονιαμάτων",
+      "κονίαμα επισκευής",
+      "κονιάματα επισκευής"
+    ],
+    "en": [
+      "repair mortar*"
+    ],
+    "ar": [
+      "ملاط إصلاح",
+      "ملاط الإصلاح",
+      "مونة إصلاح",
+      "مونة الإصلاح"
+    ]
+  },
+  "short": {
+    "el": "Ειδικό τσιμεντοειδές κονίαμα για να ξαναχτίζεται μπετόν που έσπασε ή έπεσε, π.χ. γύρω από σκουριασμένα σίδερα. Πιάνει καλά στο παλιό μπετόν και κλείνει τον οπλισμό.",
+    "en": "A special cement-based mortar for rebuilding concrete that has cracked or fallen away, for example around rusty steel. It bonds well to old concrete and seals the reinforcement in.",
+    "ar": "ملاط إسمنتي خاص لإعادة بناء الخرسانة التي تشققت أو سقطت، مثلاً حول الحديد الصدئ. يلتصق جيداً بالخرسانة القديمة ويغطي حديد التسليح."
+  },
+  "body": {
+    "el": "Το επισκευαστικό κονίαμα είναι έτοιμο μείγμα με βάση το τσιμέντο, φτιαγμένο ειδικά για επισκευές σε μπετόν: ταβάνια, δοκάρια, κολόνες, μπαλκόνια. Σε σχέση με έναν απλό σοβά, πιάνει πιο δυνατά στο παλιό μπετόν και μαζεύει λιγότερο καθώς στεγνώνει, ώστε να μην ανοίγει ρωγμή γύρω από το μπάλωμα.\n\nΧρησιμοποιείται κυρίως όταν η διάβρωση οπλισμού έχει σπάσει το μπετόν. Το σημείο ανοίγεται μέχρι το γερό υλικό, τα σίδερα καθαρίζονται και περνιούνται με αντισκωριακό, και μετά το κομμάτι που λείπει ξαναχτίζεται με επισκευαστικό κονίαμα, ώστε να σκεπάσει τα σίδερα από όλες τις πλευρές. Από πάνω ακολουθούν στόκος και βαφή.\n\nΥπάρχουν διαφορετικοί τύποι, για λεπτές ή για παχιές στρώσεις, για εσωτερικούς ή εξωτερικούς χώρους. Η επιλογή εξαρτάται από το βάθος της ζημιάς και το σημείο. Και όπως σε κάθε επισκευή μπετόν, κρατάει μόνο αν έχει σταματήσει το νερό που προκάλεσε τη ζημιά.",
+    "en": "Repair mortar is a ready-made, cement-based mix designed for repairs to concrete: ceilings, beams, columns, balconies. Compared with ordinary plaster, it grips old concrete more strongly and shrinks less as it dries, so a crack is less likely to open around the patch.\n\nIt is used mainly when rebar corrosion has broken the concrete. The area is opened up back to sound material, the bars are cleaned and given an anti-corrosion coating, and then the missing section is rebuilt with repair mortar so that it covers the bars on every side. Filler and paint go on top.\n\nThere are different types, for thin or thick layers, for indoors or outdoors. The choice depends on how deep the damage is and where it is. And as with any concrete repair, it only lasts if the water that caused the damage has been stopped.",
+    "ar": "ملاط الإصلاح خليط جاهز أساسه الإسمنت، مصنوع خصيصاً لإصلاح الخرسانة: الأسقف والجسور والأعمدة والشرفات. مقارنة باللياسة العادية، يلتصق بالخرسانة القديمة بقوة أكبر وينكمش أقل أثناء جفافه، فيقل احتمال أن ينفتح شق حول الرقعة.\n\nيُستخدم أساساً عندما يكسر صدأ حديد التسليح الخرسانة. يُفتح المكان حتى المادة السليمة، ويُنظَّف الحديد ويُطلى بطلاء مضاد للصدأ، ثم يُعاد بناء الجزء المفقود بملاط الإصلاح بحيث يغطي الحديد من كل الجهات. وفوقه يأتي المعجون والطلاء.\n\nهناك أنواع مختلفة، للطبقات الرقيقة أو السميكة، وللأماكن الداخلية أو الخارجية. ويتوقف الاختيار على عمق الضرر ومكانه. وكما في كل إصلاح للخرسانة، لا يصمد إلا إذا توقف الماء الذي سبّب الضرر."
+  },
+  "categories": [
+    "repairs"
+  ],
+  "photo": {
+    "project": "ceiling-exposed-rebar-repair",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "rebar-corrosion",
+    "anti-corrosion-coating",
+    "render",
+    "crack"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "term": {
+    "el": "Ωρίμανση μπετού (κατάβρεγμα)",
+    "en": "Concrete curing",
+    "ar": "معالجة الخرسانة"
+  },
+  "aliases": {
+    "el": [
+      "ωρίμανσ*",
+      "κατάβρεγμα",
+      "καταβρέχ*"
+    ],
+    "en": [
+      "curing",
+      "cured concrete"
+    ],
+    "ar": [
+      "معالجة الخرسانة",
+      "معالجة الإسمنت"
+    ]
+  },
+  "short": {
+    "el": "Η φροντίδα του φρέσκου μπετού τις πρώτες μέρες: να μην πατηθεί και να μη στεγνώσει απότομα, ώστε να σκληρύνει σωστά και να μη ραγίσει.",
+    "en": "Looking after fresh concrete in its first days: keeping people off it and stopping it from drying out too fast, so it hardens properly and doesn't crack.",
+    "ar": "العناية بالخرسانة الطازجة في أيامها الأولى: ألا يُداس عليها وألا تجف بسرعة، حتى تتصلب كما يجب ولا تتشقق."
+  },
+  "body": {
+    "el": "Το μπετό δεν σκληραίνει επειδή στεγνώνει, αλλά επειδή το τσιμέντο αντιδρά με το νερό. Αν το νερό φύγει πολύ γρήγορα, για παράδειγμα στον ήλιο ή στον αέρα του καλοκαιριού, η επιφάνεια μένει πιο αδύναμη και ανοίγουν εύκολα τριχοειδείς ρωγμές.\n\nΓι' αυτό το φρέσκο μπετό συχνά καταβρέχεται, σκεπάζεται ή σκιάζεται τις πρώτες μέρες. Ταυτόχρονα πρέπει να μείνει απάτητο: σε ένα πεζοδρόμιο ή σε έναν διάδρομο, μια σανίδα ή μια κορδέλα κλείνει το πέρασμα όσο πήζει.\n\nΑν πρόκειται να μπει χρώμα ή άλλη στρώση από πάνω, το μπετό πρέπει πρώτα να έχει σκληρύνει και στεγνώσει καλά. Ρωτήστε πότε μπορεί να περπατηθεί και πότε να βαφτεί.",
+    "en": "Concrete doesn't harden because it dries, but because the cement reacts with water. If the water leaves too fast, for example in summer sun or wind, the surface ends up weaker and fine cracks open easily.\n\nThat's why fresh concrete is often kept damp, covered or shaded for the first days. It also has to be kept off: on a sidewalk or path, a board or a tape blocks the way while it sets.\n\nIf paint or another layer is going on top, the concrete must first have hardened and dried properly. Ask when it can be walked on and when it can be painted.",
+    "ar": "لا تتصلب الخرسانة لأنها تجف، بل لأن الإسمنت يتفاعل مع الماء. فإذا خرج الماء بسرعة كبيرة، تحت شمس الصيف أو الريح مثلًا، يصبح السطح أضعف وتنفتح فيه شقوق شعرية بسهولة.\n\nلذلك تُرش الخرسانة الطازجة بالماء أو تُغطى أو تُظلَّل في أيامها الأولى. ويجب في الوقت نفسه ألا يُداس عليها: ففي الرصيف أو الممر يسد لوح خشبي أو شريط الطريق حتى تتماسك.\n\nوإذا كان سيوضع دهان أو طبقة أخرى فوقها، فيجب أن تكون الخرسانة قد تصلبت وجفت جيدًا أولًا. اسأل متى يمكن المشي عليها ومتى يمكن دهنها."
+  },
+  "categories": [
+    "paving"
+  ],
+  "photo": {
+    "project": "concrete-sidewalk-rebuilt",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "screed",
+    "crack",
+    "reinforcement-mesh"
+  ]
+}

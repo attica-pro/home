@@ -1,0 +1,45 @@
+{
+  "term": {
+    "el": "Κράσπεδο",
+    "en": "Kerb",
+    "ar": "حافة الرصيف"
+  },
+  "aliases": {
+    "el": [
+      "κράσπεδ*",
+      "κρασπέδ*"
+    ],
+    "en": [
+      "kerb",
+      "kerbs",
+      "kerbstone*"
+    ],
+    "ar": [
+      "حافة الرصيف",
+      "حواف الرصيف",
+      "حجر حافة الرصيف"
+    ]
+  },
+  "short": {
+    "el": "Η σειρά από πέτρες ή μπετό στην άκρη του πεζοδρομίου, που το χωρίζει από τον δρόμο και κρατά τη στρώση του στη θέση της.",
+    "en": "The row of stone or concrete along the edge of a sidewalk, which separates it from the road and holds the paving in place.",
+    "ar": "صف الحجارة أو الخرسانة على طرف الرصيف، يفصله عن الشارع ويثبّت أرضيته في مكانها."
+  },
+  "body": {
+    "el": "Το κράσπεδο είναι το όριο του πεζοδρομίου. Χωρίζει τους πεζούς από τα αυτοκίνητα, κρατά τις πλάκες ή το μπετό του πεζοδρομίου να μη γλιστρήσουν προς τον δρόμο, και οδηγεί το νερό της βροχής κατά μήκος του δρόμου προς τα φρεάτια.\n\nΌταν ξαναγίνεται ένα πεζοδρόμιο, το κράσπεδο ορίζει το ύψος της νέας επιφάνειας και την κλίση της: το νερό πρέπει να κυλά προς τον δρόμο και όχι προς τον τοίχο του σπιτιού. Αν το κράσπεδο έχει σπάσει ή έχει γείρει, συνήθως φτιάχνεται πρώτο.\n\nΤο κράσπεδο ανήκει στον δημόσιο χώρο, και σε πολλούς δήμους οι αλλαγές του, όπως και το χρώμα του, ακολουθούν συγκεκριμένους κανόνες. Ρωτήστε τον δήμο σας πριν το πειράξετε.",
+    "en": "The kerb is the edge of the sidewalk. It separates pedestrians from cars, stops the sidewalk's slabs or concrete from sliding towards the road, and channels rainwater along the street to the drains.\n\nWhen a sidewalk is redone, the kerb sets the height of the new surface and its slope: water should run towards the road, not towards the wall of the house. If the kerb has broken or tilted, it's usually fixed first.\n\nThe kerb belongs to the public space, and in many municipalities changes to it, including its colour, follow set rules. Ask your municipality before touching it.",
+    "ar": "حافة الرصيف هي حدّه. فهي تفصل المشاة عن السيارات، وتمنع بلاط الرصيف أو خرسانته من الانزلاق نحو الشارع، وتوجّه ماء المطر على طول الشارع إلى فتحات التصريف.\n\nعند إعادة رصيف، تحدد حافة الرصيف ارتفاع السطح الجديد وميله: يجب أن يجري الماء نحو الشارع لا نحو جدار البيت. وإذا كانت الحافة مكسورة أو مائلة، فإنها تُصلح عادةً أولًا.\n\nوحافة الرصيف جزء من المكان العام، وفي كثير من البلديات تخضع التغييرات فيها، ومنها لونها، لقواعد محددة. اسأل البلدية قبل أن تعمل فيها."
+  },
+  "categories": [
+    "paving"
+  ],
+  "photo": {
+    "project": "restaurant-courtyard-stone-joints",
+    "file": "step-03.jpg"
+  },
+  "related": [
+    "falls",
+    "stone-paving",
+    "inspection-pit"
+  ]
+}

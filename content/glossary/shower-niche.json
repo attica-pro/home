@@ -1,0 +1,52 @@
+{
+  "term": {
+    "el": "Κόγχη ντουζιέρας",
+    "en": "Shower niche",
+    "ar": "تجويف الدش"
+  },
+  "aliases": {
+    "el": [
+      "κόγχη",
+      "κόγχης",
+      "κόγχες",
+      "κογχών",
+      "εσοχή στον τοίχο"
+    ],
+    "en": [
+      "niche",
+      "niches",
+      "wall niche*",
+      "shower niche*"
+    ],
+    "ar": [
+      "تجويف في الجدار",
+      "تجويف في جدار",
+      "تجويف للزجاجات",
+      "تجويف الدش",
+      "تجاويف الدش"
+    ]
+  },
+  "short": {
+    "el": "Μια εσοχή μέσα στον τοίχο της ντουζιέρας, ντυμένη με πλακάκι, για σαμπουάν και σαπούνια. Αντικαθιστά τα ράφια και τα καλαθάκια που προεξέχουν.",
+    "en": "A recess built into the shower wall and lined with tiles, for shampoo and soap. It replaces shelves and baskets that stick out.",
+    "ar": "فجوة داخل جدار الدش مكسوة بالبلاط، توضع فيها زجاجات الشامبو والصابون. تحل محل الرفوف والسلال البارزة."
+  },
+  "body": {
+    "el": "Η κόγχη είναι ένα ρηχό άνοιγμα μέσα στον τοίχο της ντουζιέρας, ντυμένο με το ίδιο πλακάκι με τον υπόλοιπο τοίχο. Τα μπουκάλια μένουν μέσα στον τοίχο αντί να κρέμονται σε ράφια ή καλαθάκια. Σε ένα μπάνιο με γκρι πλακάκια, η κόγχη στρώθηκε με το ίδιο πλακάκι με τους τοίχους και τη ντουζιέρα.\n\nΗ κόγχη σχεδιάζεται πριν από τον σοβά. Χρειάζεται τοίχο με αρκετό πάχος ή μια επένδυση μπροστά του, και δεν ανοίγεται σε φέροντα στοιχεία ή πάνω από σωλήνες και καλώδια.\n\nΕπειδή βρίσκεται μέσα στη ζώνη που βρέχεται, η κόγχη θέλει την ίδια στεγανοποίηση με τον υπόλοιπο τοίχο της ντουζιέρας, προσεγμένες γωνίες και μια μικρή κλίση στη βάση της, ώστε το νερό να μη μένει μέσα. Οι γωνίες της είναι από τα σημεία όπου οι αρμοί και η σιλικόνη θέλουν συχνότερη ματιά.",
+    "en": "A niche is a shallow opening in the shower wall, lined with the same tile as the rest of the wall. Bottles sit inside the wall instead of hanging on shelves or baskets. In a bathroom with grey tiles, the niche was lined with the same tile as the walls and the shower.\n\nA niche is planned before the render goes on. It needs a wall thick enough, or boxing in front of it, and it isn't cut into structural elements or over pipes and cables.\n\nBecause it sits in the area that gets wet, a niche needs the same waterproofing as the rest of the shower wall, carefully finished corners and a slight slope on its base so water doesn't stay inside. Its corners are among the places where the grout and silicone need checking more often.",
+    "ar": "التجويف فتحة قليلة العمق داخل جدار الدش، مكسوة بالبلاط نفسه الذي على بقية الجدار. توضع الزجاجات داخل الجدار بدل تعليقها على رفوف أو سلال. في حمّام ذي بلاط رمادي كُسي التجويف بالبلاط نفسه الذي على الجدران والدش.\n\nيُخطَّط للتجويف قبل اللياسة. فهو يحتاج إلى جدار سميك بما يكفي أو إلى كسوة أمامه، ولا يُفتح في العناصر الإنشائية ولا فوق الأنابيب والأسلاك.\n\nولأنه يقع في المنطقة التي تبتل، يحتاج التجويف إلى العزل المائي نفسه الذي في بقية جدار الدش، وإلى زوايا متقنة وميل خفيف في قاعدته حتى لا يبقى الماء فيه. وزواياه من المواضع التي تحتاج فيها الفواصل والسيليكون إلى فحص أكثر تكرارًا."
+  },
+  "categories": [
+    "renovations"
+  ],
+  "photo": {
+    "project": "bathroom-renovation-grey-tiles",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "walk-in-shower",
+    "waterproofing",
+    "grout-joint",
+    "silicone"
+  ]
+}

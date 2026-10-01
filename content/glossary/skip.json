@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Κάδος μπαζών",
+    "en": "Skip",
+    "ar": "حاوية الأنقاض"
+  },
+  "aliases": {
+    "el": [
+      "κάδος μπαζών",
+      "κάδο μπαζών",
+      "κάδου μπαζών",
+      "κάδοι μπαζών",
+      "κάδους μπαζών",
+      "κάδων μπαζών",
+      "κοντέινερ μπαζών"
+    ],
+    "en": [
+      "a skip",
+      "the skip",
+      "rubble skip*",
+      "builder's skip*"
+    ],
+    "ar": [
+      "حاوية أنقاض",
+      "حاوية الأنقاض",
+      "حاويات أنقاض",
+      "حاويات الأنقاض"
+    ]
+  },
+  "short": {
+    "el": "Μεγάλο μεταλλικό κοντέινερ όπου ρίχνονται τα μπάζα μιας οικοδομικής δουλειάς και που το παίρνει φορτηγό όταν γεμίσει. Στον δρόμο θέλει συνήθως άδεια του δήμου.",
+    "en": "A large metal container for the rubble from building work, collected by a truck once full. On the street it usually needs a permit from the municipality.",
+    "ar": "حاوية معدنية كبيرة تُرمى فيها أنقاض أعمال البناء، وتأخذها شاحنة عندما تمتلئ. ووضعها في الشارع يحتاج عادة إلى ترخيص من البلدية."
+  },
+  "body": {
+    "el": "Όταν τα μπάζα μιας καθαίρεσης είναι πολλά, αντί για πολλά δρομολόγια με φορτηγάκι μπαίνει κάδος μπαζών κοντά στο κτίριο. Τα σακιά με τα μπάζα αδειάζουν μέσα, και όταν γεμίσει ο κάδος, τον παίρνει φορτηγό και φέρνει άδειο αν χρειάζεται.\n\nΑν ο κάδος μπει στον δρόμο ή στο πεζοδρόμιο, συνήθως χρειάζεται άδεια από τον δήμο, και πρέπει να μην κλείνει το πέρασμα και να φαίνεται τη νύχτα. Σε μια αυλή ή σε ιδιωτικό χώρο τα πράγματα είναι πιο απλά.\n\nΟ κάδος είναι για μπάζα: σπασμένα πλακάκια, τούβλα, σοβάδες, μπετόν. Το περιεχόμενό του πρέπει να καταλήξει σε αδειοδοτημένο σύστημα διαχείρισης αποβλήτων από οικοδομικές εργασίες, όχι σε χωματερή ή σε άδειο οικόπεδο.",
+    "en": "When a demolition produces a lot of rubble, a skip is placed near the building instead of many trips with a small truck. The rubble bags are emptied into it, and when it is full a truck takes it away and brings an empty one if needed.\n\nIf the skip goes on the street or pavement, it usually needs a permit from the municipality, and it must not block the way and must be visible at night. In a yard or on private ground things are simpler.\n\nA skip is for rubble: broken tiles, bricks, render, concrete. Its contents have to end up with a licensed scheme for building waste, not at a landfill or on an empty plot.",
+    "ar": "عندما ينتج الهدم كثيرًا من الأنقاض، توضع حاوية أنقاض قرب المبنى بدلًا من رحلات كثيرة بشاحنة صغيرة. تُفرغ فيها أكياس الأنقاض، وعندما تمتلئ تأخذها شاحنة وتأتي بأخرى فارغة إذا لزم الأمر.\n\nإذا وُضعت الحاوية في الشارع أو على الرصيف، فهي تحتاج عادة إلى ترخيص من البلدية، ويجب ألا تسد الطريق وأن تكون ظاهرة في الليل. أما في فناء أو أرض خاصة فالأمر أبسط.\n\nالحاوية للأنقاض: بلاط مكسور وطوب وجص وخرسانة. ويجب أن ينتهي ما فيها في نظام مرخّص لإدارة مخلفات البناء، لا في مكب نفايات أو أرض فارغة."
+  },
+  "categories": [
+    "demolition"
+  ],
+  "photo": null,
+  "related": [
+    "debris",
+    "demolition"
+  ]
+}

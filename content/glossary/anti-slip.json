@@ -1,0 +1,47 @@
+{
+  "term": {
+    "el": "Αντιολισθητική επιφάνεια",
+    "en": "Slip-resistant surface",
+    "ar": "السطح المقاوم للانزلاق"
+  },
+  "aliases": {
+    "el": [
+      "αντιολισθητ*"
+    ],
+    "en": [
+      "slip-resistant",
+      "slip resistant",
+      "anti-slip",
+      "non-slip"
+    ],
+    "ar": [
+      "مقاوم للانزلاق",
+      "مقاومة للانزلاق",
+      "مقاوم الانزلاق",
+      "مانع للانزلاق",
+      "مانع الانزلاق",
+      "مقاومًا للانزلاق",
+      "مقاوما للانزلاق"
+    ]
+  },
+  "short": {
+    "el": "Δάπεδο, πλακάκι ή χρώμα με τραχιά υφή, που δεν γλιστράει εύκολα όταν βραχεί. Χρειάζεται σε μπαλκόνια, αυλές, σκάλες και γύρω από ντουζιέρες.",
+    "en": "A floor, tile or paint with a textured finish that doesn't get slippery easily when wet. It's needed on balconies, courtyards, steps and around showers.",
+    "ar": "أرضية أو بلاط أو دهان ذو ملمس خشن لا يصبح زلقًا بسهولة عندما يبتل. يلزم في الشرفات والساحات والدرج وحول أماكن الاستحمام."
+  },
+  "body": {
+    "el": "Ένα δάπεδο που μέσα στο σπίτι είναι μια χαρά, έξω μπορεί να γίνει επικίνδυνο. Τα γυαλιστερά πλακάκια, το λείο μάρμαρο και μια βαμμένη επιφάνεια μπετού γλιστράνε πολύ όταν βραχούν από βροχή, από πότισμα ή από το πλύσιμο.\n\nΤα αντιολισθητικά πλακάκια έχουν τραχιά ή ανάγλυφη επιφάνεια που κρατά το πόδι. Υπάρχουν και χρώματα δαπέδου με αντιολισθητική υφή, για μπετό και πεζοδρόμια. Στην πέτρα, η επιφάνεια μπορεί να έχει υφή από την κατεργασία της.\n\nΌταν διαλέγετε υλικό για μπαλκόνι, αυλή ή σκάλα, ρωτήστε αν είναι για εξωτερικό χώρο και πόσο γλιστράει βρεγμένο. Θυμηθείτε επίσης ότι τα βρύα και η βρωμιά κάνουν κάθε επιφάνεια να γλιστράει, οπότε μετρά και το να φεύγει σωστά το νερό.",
+    "en": "A floor that is perfectly fine indoors can be dangerous outside. Glossy tiles, polished marble and a painted concrete surface get very slippery when wet from rain, watering or washing.\n\nSlip-resistant tiles have a rough or textured surface that grips the foot. There are also floor paints with a slip-resistant texture, for concrete and sidewalks. With stone, the surface can get its texture from the way it is finished.\n\nWhen choosing a material for a balcony, courtyard or steps, ask whether it's made for outdoor use and how slippery it is when wet. Remember too that moss and dirt make any surface slippery, so it also matters that water drains away properly.",
+    "ar": "الأرضية التي تكون مناسبة تمامًا داخل البيت قد تصبح خطرة في الخارج. فالبلاط اللامع والرخام المصقول وسطح الخرسانة المدهون تصبح زلقة جدًا عندما تبتل بالمطر أو بالسقي أو بالغسل.\n\nالبلاط المقاوم للانزلاق له سطح خشن أو بارز يمسك القدم. وهناك أيضًا دهانات أرضيات ذات ملمس مقاوم للانزلاق، للخرسانة والأرصفة. أما الحجر فقد يأخذ ملمسه من طريقة معالجة سطحه.\n\nعندما تختار مادة لشرفة أو ساحة أو درج، اسأل إن كانت مخصصة للأماكن الخارجية وإلى أي حد تنزلق وهي مبتلة. وتذكّر أن الطحالب والأوساخ تجعل أي سطح زلقًا، لذلك من المهم أيضًا أن يتصرف الماء بشكل صحيح."
+  },
+  "categories": [
+    "paving",
+    "renovations"
+  ],
+  "photo": null,
+  "related": [
+    "stone-paving",
+    "falls",
+    "walk-in-shower"
+  ]
+}

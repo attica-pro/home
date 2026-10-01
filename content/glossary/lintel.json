@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Πρέκι",
+    "en": "Lintel",
+    "ar": "العتبة العلوية"
+  },
+  "aliases": {
+    "el": [
+      "πρέκι",
+      "πρέκια",
+      "πρεκιού",
+      "πρεκιών",
+      "υπέρθυρο",
+      "υπέρθυρα",
+      "υπερθύρου"
+    ],
+    "en": [
+      "lintel",
+      "lintels"
+    ],
+    "ar": [
+      "عتبة علوية",
+      "عتبات علوية",
+      "العتبة العلوية",
+      "ساكف"
+    ]
+  },
+  "short": {
+    "el": "Το δοκάρι πάνω από μια πόρτα, ένα παράθυρο ή ένα άνοιγμα σε τοίχο, που σηκώνει τα τούβλα από πάνω και μεταφέρει το βάρος τους στα πλάγια.",
+    "en": "The beam over a door, window or opening in a wall, which carries the bricks above it and passes their weight to the sides.",
+    "ar": "الجسر الصغير فوق الباب أو النافذة أو الفتحة في الجدار، الذي يحمل الطوب فوقه وينقل وزنه إلى الجانبين."
+  },
+  "body": {
+    "el": "Όταν ανοίγει μια τρύπα σε τοίχο, τα τούβλα από πάνω χάνουν το στήριγμά τους. Το πρέκι γεφυρώνει το άνοιγμα και πατάει στον τοίχο δεξιά και αριστερά. Συνήθως είναι από οπλισμένο σκυρόδεμα, χυτό επί τόπου ή έτοιμο, και σε κάποιες περιπτώσεις από μέταλλο.\n\nΣε ένα νέο άνοιγμα σε τοίχο πλήρωσης, το πρέκι μπαίνει πριν ή καθώς βγαίνουν τα τούβλα, ώστε ο τοίχος από πάνω να μην κάτσει ή ραγίσει. Πρέπει να πατάει αρκετά στα πλάγια του ανοίγματος.\n\nΣε φέροντα τοίχο το πρέκι δεν είναι απλή υπόθεση: το μέγεθος και η κατασκευή του προκύπτουν από στατική μελέτη μηχανικού. Ρωγμές λοξές από τις γωνίες μιας πόρτας ή ενός παραθύρου είναι κάτι που αξίζει να δει ειδικός.",
+    "en": "When a hole is made in a wall, the bricks above lose their support. The lintel bridges the opening and rests on the wall on either side. It is usually reinforced concrete, cast in place or precast, and in some cases steel.\n\nIn a new opening in an infill wall, the lintel goes in before or as the bricks come out, so the wall above doesn't sag or crack. It needs a good bearing on each side of the opening.\n\nIn a load-bearing wall a lintel is no simple matter: its size and construction come from an engineer's structural design. Diagonal cracks running from the corners of a door or window are worth having a specialist look at.",
+    "ar": "عندما تُفتح فتحة في جدار، يفقد الطوب الذي فوقها ما يستند إليه. العتبة العلوية تعبر الفتحة وترتكز على الجدار من الجانبين. وتكون عادة من الخرسانة المسلحة، مصبوبة في المكان أو جاهزة، وأحيانًا من المعدن.\n\nفي فتحة جديدة في جدار ملء، توضع العتبة العلوية قبل إزالة الطوب أو أثناءها، حتى لا يهبط الجدار الذي فوقها أو يتشقق. ويجب أن ترتكز جيدًا على جانبي الفتحة.\n\nفي الجدار الحامل لا تكون العتبة العلوية أمرًا بسيطًا: حجمها وطريقة بنائها تحددهما دراسة إنشائية يعدها مهندس. والشقوق المائلة التي تبدأ من زوايا باب أو نافذة تستحق أن يراها مختص."
+  },
+  "categories": [
+    "demolition",
+    "renovations"
+  ],
+  "photo": null,
+  "related": [
+    "infill-wall",
+    "load-bearing-wall",
+    "structural-design"
+  ]
+}

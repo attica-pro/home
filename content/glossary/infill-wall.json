@@ -1,0 +1,55 @@
+{
+  "term": {
+    "el": "Τοίχος πλήρωσης",
+    "en": "Infill wall",
+    "ar": "جدار الملء"
+  },
+  "aliases": {
+    "el": [
+      "τοίχος πλήρωσης",
+      "τοίχο πλήρωσης",
+      "τοίχου πλήρωσης",
+      "τοίχοι πλήρωσης",
+      "τοίχους πλήρωσης",
+      "τοίχων πλήρωσης",
+      "τοιχοποιία πλήρωσης",
+      "τοιχοποιίας πλήρωσης",
+      "τοιχοποιίες πλήρωσης"
+    ],
+    "en": [
+      "infill wall*",
+      "infill brickwork",
+      "infill masonry"
+    ],
+    "ar": [
+      "جدار ملء",
+      "جدار الملء",
+      "جدران ملء",
+      "جدران الملء"
+    ]
+  },
+  "short": {
+    "el": "Τοίχος από τούβλα που γεμίζει το κενό ανάμεσα σε κολόνες, δοκάρια και πλάκες. Χωρίζει χώρους, αλλά δεν είναι φτιαγμένος για να κρατά το κτίριο.",
+    "en": "A brick wall that fills the gap between columns, beams and slabs. It divides rooms, but it isn't built to hold the building up.",
+    "ar": "جدار من الطوب يملأ الفراغ بين الأعمدة والجسور والبلاطات. يفصل بين الغرف، لكنه ليس مبنيًا ليحمل المبنى."
+  },
+  "body": {
+    "el": "Στα περισσότερα κτίρια με σκελετό από οπλισμένο σκυρόδεμα, το βάρος το σηκώνουν οι κολόνες, τα δοκάρια και οι πλάκες. Οι τοίχοι από τούβλα που χτίζονται ανάμεσά τους, εξωτερικοί ή εσωτερικοί, είναι τοίχοι πλήρωσης: κλείνουν και χωρίζουν τους χώρους.\n\nΕπειδή δεν είναι φέροντες, οι τοίχοι πλήρωσης είναι συνήθως αυτοί που μπορούν να γκρεμιστούν, να ανοίξουν για μια πόρτα ή να χτιστούν από την αρχή σε μια ανακαίνιση. Πάνω από ένα νέο άνοιγμα μπαίνει πρέκι, για να στηρίζονται τα τούβλα από πάνω.\n\nΜε το μάτι, όμως, δεν ξεχωρίζει πάντα ένας τοίχος πλήρωσης από ένα τοίχωμα από μπετόν, και στα παλιά πέτρινα ή πλινθόκτιστα σπίτια οι τοίχοι είναι συχνά φέροντες. Πριν γκρεμιστεί οποιοσδήποτε τοίχος, το τι είναι το κρίνει μηχανικός. Και ένας τοίχος πλήρωσης συχνά κρύβει σωλήνες και καλώδια, που πρέπει να εντοπιστούν πρώτα.",
+    "en": "In most buildings with a reinforced concrete frame, the weight is carried by the columns, beams and slabs. The brick walls built between them, outside or inside, are infill walls: they enclose and divide the spaces.\n\nBecause they aren't load-bearing, infill walls are usually the ones that can be knocked down, opened up for a door or built anew in a renovation. A lintel goes over a new opening so the bricks above are supported.\n\nBy eye, though, an infill wall can't always be told apart from a concrete wall, and in old stone or brick houses the walls are often load-bearing. Before any wall comes down, an engineer decides what it is. An infill wall also often hides pipes and cables, which have to be found first.",
+    "ar": "في معظم المباني ذات الهيكل من الخرسانة المسلحة، تحمل الأعمدة والجسور والبلاطات الوزن. أما الجدران المبنية بالطوب بينها، خارجية كانت أو داخلية، فهي جدران ملء: تُغلق المساحات وتفصل بينها.\n\nولأنها ليست جدرانًا حاملة، فجدران الملء هي عادةً التي يمكن هدمها أو فتح باب فيها أو بناؤها من جديد في التجديد. وفوق أي فتحة جديدة توضع عتبة علوية ليستند إليها الطوب الذي فوقها.\n\nلكن لا يمكن دائمًا تمييز جدار الملء بالعين عن جدار خرساني، وفي البيوت القديمة المبنية بالحجر أو الطوب كثيرًا ما تكون الجدران حاملة. قبل هدم أي جدار، المهندس هو من يقرر ما هو. وكثيرًا ما يخفي جدار الملء أنابيب وأسلاكًا يجب تحديد مكانها أولًا."
+  },
+  "categories": [
+    "demolition",
+    "renovations"
+  ],
+  "photo": {
+    "project": "living-room-wall-opening-closed",
+    "file": "step-02.jpg"
+  },
+  "related": [
+    "load-bearing-wall",
+    "lintel",
+    "demolition",
+    "wall-chase"
+  ]
+}

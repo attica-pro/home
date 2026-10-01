@@ -1,0 +1,49 @@
+{
+  "category": "wood",
+  "coverImage": "/images/articles/outdoor-wood-care-guide.svg",
+  "date": "2026-10-01",
+  "title": {
+    "el": "Ξύλινα παντζούρια, πόρτες και πέργκολες: ο οδηγός ανανέωσης",
+    "en": "Wooden Shutters, Doors and Pergolas: A Restoration Guide",
+    "ar": "الشيش والأبواب والبرغولات الخشبية: دليل التجديد"
+  },
+  "excerpt": {
+    "el": "Γιατί ξεβάφουν, γκριζάρουν και σαπίζουν τα ξύλα έξω από το σπίτι, πότε ταιριάζει χρώμα και πότε βερνίκι, και πώς γίνεται η ανανέωση βήμα βήμα. Σε τέσσερα μέρη.",
+    "en": "Why outdoor wood fades, greys and rots, when paint suits it and when varnish does, and how restoration works step by step. In four parts.",
+    "ar": "لماذا يبهت الخشب في الخارج ويصير رماديًا ويتعفن، ومتى يناسبه الطلاء ومتى الورنيش، وكيف يجري التجديد خطوة بخطوة. في أربعة أجزاء."
+  },
+  "chapters": [
+    {
+      "slug": "why-outdoor-wood-wears",
+      "title": {
+        "el": "Γιατί φθείρεται το ξύλο στο ύπαιθρο",
+        "en": "Why Outdoor Wood Wears Out",
+        "ar": "لماذا يتلف الخشب في الخارج"
+      }
+    },
+    {
+      "slug": "paint-or-varnish",
+      "title": {
+        "el": "Χρώμα ή βερνίκι;",
+        "en": "Paint or Varnish?",
+        "ar": "طلاء أم ورنيش؟"
+      }
+    },
+    {
+      "slug": "restoration-step-by-step",
+      "title": {
+        "el": "Η ανανέωση βήμα βήμα",
+        "en": "Restoration Step by Step",
+        "ar": "التجديد خطوة بخطوة"
+      }
+    },
+    {
+      "slug": "pergolas-and-upkeep",
+      "title": {
+        "el": "Πέργκολες, καφασωτά και τακτική συντήρηση",
+        "en": "Pergolas, Lattice and Regular Upkeep",
+        "ar": "البرغولات والألواح الشبكية والصيانة الدورية"
+      }
+    }
+  ]
+}

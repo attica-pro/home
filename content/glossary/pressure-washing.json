@@ -1,0 +1,54 @@
+{
+  "term": {
+    "el": "Υδροβολή (πλύσιμο με πιεστικό)",
+    "en": "Pressure washing",
+    "ar": "الغسيل بالضغط"
+  },
+  "aliases": {
+    "el": [
+      "υδροβολ*",
+      "πιεστικό",
+      "πιεστικού",
+      "πλύσιμο υψηλής πίεσης",
+      "νερό υπό πίεση"
+    ],
+    "en": [
+      "pressure wash*",
+      "pressure-wash*",
+      "high-pressure wash*",
+      "jet wash*"
+    ],
+    "ar": [
+      "غسيل بالضغط",
+      "غسل بالضغط",
+      "غسلت بالضغط",
+      "غُسلت بالضغط",
+      "غُسل بالضغط",
+      "يُغسل بالضغط",
+      "يغسل بالضغط"
+    ]
+  },
+  "short": {
+    "el": "Καθάρισμα μιας επιφάνειας με δυνατή δέσμη νερού από μηχάνημα. Πριν από στεγάνωση, μόνωση ή βάψιμο, βγάζει σκόνη, βρωμιά, λειχήνες και ό,τι χαλαρό, για να πιάσει καλά το νέο υλικό.",
+    "en": "Cleaning a surface with a strong jet of water from a machine. Before waterproofing, insulation or painting, it removes dust, dirt, lichen and loose material so the new layer bonds well.",
+    "ar": "تنظيف السطح بدفعة ماء قوية من آلة. قبل العزل المائي أو الحراري أو الدهان، يزيل الغبار والأوساخ والأشنات وكل ما هو مفكك، حتى تلتصق المادة الجديدة جيدًا."
+  },
+  "body": {
+    "el": "Το πιεστικό μηχάνημα στέλνει νερό με μεγάλη πίεση από ένα στενό ακροφύσιο. Χρησιμοποιείται σε ταράτσες, στέγες από λαμαρίνα, μπαλκόνια και δάπεδα, πριν περάσει αστάρι, στεγανωτική επίστρωση ή αφρός πολυουρεθάνης.\n\nΗ δουλειά του είναι να αφήσει μια καθαρή επιφάνεια. Σκόνη, βρωμιά και λειχήνες εμποδίζουν τα υλικά να πιάσουν. Το πλύσιμο φανερώνει επίσης σημεία που έχουν ξεκολλήσει ή ραγίσει και θέλουν επισκευή πριν συνεχιστεί η δουλειά.\n\nΜετά το πλύσιμο η επιφάνεια πρέπει να στεγνώσει πριν μπει οτιδήποτε από πάνω. Σε μαλακά ή εύθραυστα υλικά, όπως ένας παλιός σοβάς ή φθαρμένοι αρμοί, μια πολύ δυνατή δέσμη μπορεί να κάνει ζημιά, γι' αυτό η πίεση και η απόσταση προσαρμόζονται στην επιφάνεια.",
+    "en": "A pressure washer sends water at high pressure through a narrow nozzle. It is used on flat roofs, metal roofs, balconies and floors before a primer, a waterproof coating or polyurethane foam goes on.\n\nIts job is to leave a clean surface. Dust, dirt and lichen stop materials from bonding. Washing also reveals spots that have come loose or cracked and need repairing before the work carries on.\n\nAfter washing, the surface has to dry before anything goes on top. On soft or fragile materials, such as old render or worn grout, a very strong jet can do damage, so the pressure and distance are adjusted to the surface.",
+    "ar": "ترسل آلة الغسيل بالضغط الماء بضغط عالٍ عبر فوهة ضيقة. وتُستخدم على الأسطح المستوية وأسقف الصفيح والشرفات والأرضيات، قبل وضع البرايمر أو الطلاء العازل أو رغوة البولي يوريثان.\n\nمهمتها أن تترك سطحًا نظيفًا. فالغبار والأوساخ والأشنات تمنع المواد من الالتصاق. والغسل يكشف أيضًا المواضع التي انفصلت أو تشققت وتحتاج إلى إصلاح قبل متابعة العمل.\n\nبعد الغسل يجب أن يجف السطح قبل وضع أي شيء فوقه. وعلى المواد الطرية أو الهشة، مثل اللياسة القديمة أو الفواصل المتآكلة، قد تسبب الدفعة القوية جدًا ضررًا، ولذلك يُعدَّل الضغط والمسافة بحسب السطح."
+  },
+  "categories": [
+    "insulation",
+    "paving"
+  ],
+  "photo": {
+    "project": "corrugated-roof-foam-white-coat",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "primer",
+    "polyurethane-foam",
+    "elastomeric-coating"
+  ]
+}

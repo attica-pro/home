@@ -1,0 +1,24 @@
+{
+  "category": "repairs",
+  "order": 5,
+  "question": {
+    "el": "Ο σοβάς ακούγεται κούφιος όταν τον χτυπάω. Τι σημαίνει;",
+    "en": "The plaster sounds hollow when I tap it. What does that mean?",
+    "ar": "الجص يصدر صوتاً أجوف عندما أنقر عليه. ماذا يعني ذلك؟"
+  },
+  "short": {
+    "el": "Ότι ο σοβάς έχει ξεκολλήσει από τον τοίχο πίσω του, ακόμα κι αν δεν φαίνεται. Δεν στοκάρεται από πάνω: αφαιρείται ως τη γερή βάση και ξαναγίνεται.",
+    "en": "That the plaster has come away from the wall behind it, even if it doesn't show yet. It isn't filled over: it is removed back to a sound base and redone.",
+    "ar": "أن الجص قد انفصل عن الجدار خلفه، حتى لو لم يظهر ذلك بعد. لا يُعجن من فوقه، بل يُزال حتى الأساس السليم ويُعاد عمله."
+  },
+  "body": {
+    "el": "Ο γερός σοβάς είναι κολλημένος σφιχτά στο τούβλο ή στο μπετόν και, όταν τον χτυπάτε ελαφρά με τις αρθρώσεις ή με τη λαβή ενός εργαλείου, ακούγεται γεμάτος. Όταν έχει ξεκολλήσει, ανάμεσα στον σοβά και στον τοίχο υπάρχει κενό και ο ήχος βγαίνει υπόκωφος. Συχνά δεν φαίνεται τίποτα ακόμα, ή υπάρχουν μόνο λεπτές ρωγμές και φουσκάλες στο χρώμα.\n\nΗ πιο συνηθισμένη αιτία είναι η υγρασία, που με τα χρόνια χαλάει την πρόσφυση του σοβά. Άλλες αιτίες είναι η ηλικία σε παλιά σπίτια, οι κραδασμοί και, στα ταβάνια, η σκουριά στα σίδερα που σπρώχνει το υλικό προς τα έξω.\n\nΚούφιος σοβάς δεν διορθώνεται με στόκο και χρώμα. Ό,τι έχει ξεκολλήσει αφαιρείται μέχρι να βρεθεί γερή βάση, ακόμα κι αν το κομμάτι βγει μεγαλύτερο απ' ό,τι φαινόταν. Σε έναν τοίχο αυλής, ο σοβάς είχε φουσκώσει και πέσει σε μεγάλα κομμάτια. Αφαιρέθηκε ό,τι ήταν χαλαρό, τα κενά γέμισαν με νέο σοβά, μπήκε πλέγμα πάνω από τα μπαλώματα και ένα λεπτό χέρι σοβά ένωσε όλη την επιφάνεια πριν από τη βαφή.\n\n![Ο τοίχος της αυλής με τα φρέσκα μπαλώματα σοβά](courtyard-wall-plaster-repair/step-02.jpg)\n\nΠροσέξτε: σε ταβάνι, ο κούφιος σοβάς μπορεί να πέσει. Αν ακούγεται κούφιος σε μεγάλη έκταση ή κρέμεται, κρατήστε τον χώρο από κάτω ελεύθερο μέχρι να τον δει κάποιος. Και αν η αιτία είναι υγρασία, πρέπει πρώτα να λυθεί αυτή, αλλιώς ο νέος σοβάς θα ξεκολλήσει κι αυτός.",
+    "en": "Sound plaster is bonded tightly to the brick or concrete, and when you tap it lightly with your knuckles or the handle of a tool, it sounds solid. When it has come away, there is a gap between the plaster and the wall, and the sound is dull. Often nothing shows yet, or there are only fine cracks and blisters in the paint.\n\nThe most common cause is damp, which over the years ruins the plaster's grip. Other causes are age in old houses, vibration and, on ceilings, rust on the steel bars pushing the material outwards.\n\nHollow plaster can't be fixed with filler and paint. Everything that has come loose is removed until a sound base is reached, even if the piece turns out bigger than it looked. On a courtyard wall, the plaster had blistered and fallen off in large pieces. Everything loose was removed, the gaps were filled with new plaster, mesh went over the patches, and a thin coat of plaster joined the whole surface together before painting.\n\n![The courtyard wall with fresh plaster patches](courtyard-wall-plaster-repair/step-02.jpg)\n\nKeep in mind: on a ceiling, hollow plaster can fall. If it sounds hollow over a large area or is sagging, keep the space underneath clear until someone has looked at it. And if the cause is damp, that has to be dealt with first, or the new plaster will come away too.",
+    "ar": "الجص السليم ملتصق بإحكام بالطوب أو الخرسانة، وعندما تنقر عليه بخفة بمفاصل أصابعك أو بمقبض أداة، يكون صوته ممتلئاً. أما عندما ينفصل، فيكون بين الجص والجدار فراغ، ويخرج الصوت مكتوماً أجوف. وكثيراً ما لا يظهر شيء بعد، أو تكون هناك فقط شقوق رفيعة وانتفاخات في الطلاء.\n\nالسبب الأكثر شيوعاً هو الرطوبة، التي تُفسد مع السنين تماسك الجص بالجدار. ومن الأسباب الأخرى قِدم البناء في البيوت القديمة، والاهتزازات، وفي الأسقف صدأ الحديد الذي يدفع المادة إلى الخارج.\n\nالجص الأجوف لا يُصلَح بالمعجون والطلاء. كل ما انفصل يُزال حتى نصل إلى أساس سليم، حتى لو كانت القطعة أكبر مما بدت. على جدار أحد الأفنية كان الجص قد انتفخ وسقط على شكل قطع كبيرة. أُزيل كل ما كان مفككاً، ومُلئت الفراغات بلياسة جديدة، ووُضعت شبكة تقوية فوق الرقع، ثم وحّدت طبقة رقيقة من اللياسة السطح كله قبل الطلاء.\n\n![جدار الفناء مع رقع جديدة من الجص](courtyard-wall-plaster-repair/step-02.jpg)\n\nانتبه: في السقف قد يسقط الجص الأجوف. إذا كان الصوت أجوف على مساحة كبيرة أو كان الجص متدلياً، فاترك المكان تحته فارغاً حتى يراه أحد المختصين. وإذا كان السبب الرطوبة، فيجب معالجتها أولاً، وإلا انفصلت اللياسة الجديدة أيضاً."
+  },
+  "projects": [
+    "courtyard-wall-plaster-repair",
+    "ceiling-crack-rusted-rebar",
+    "peeling-wall-by-door"
+  ]
+}

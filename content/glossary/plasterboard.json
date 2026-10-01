@@ -1,0 +1,50 @@
+{
+  "term": {
+    "el": "Γυψοσανίδα",
+    "en": "Plasterboard",
+    "ar": "ألواح الجبس"
+  },
+  "aliases": {
+    "el": [
+      "γυψοσανίδ*",
+      "γυψοσανιδ*"
+    ],
+    "en": [
+      "plasterboard*",
+      "drywall",
+      "gypsum board*"
+    ],
+    "ar": [
+      "ألواح جبسية",
+      "ألواح جبس",
+      "ألواح الجبس",
+      "لوح جبس",
+      "لوح جبسي",
+      "لوح الجبس"
+    ]
+  },
+  "short": {
+    "el": "Φύλλο από γύψο ντυμένο με χαρτόνι, που βιδώνεται σε μεταλλικό σκελετό για ψευδοροφές και ελαφριούς τοίχους. Κρύβει καλώδια και σωλήνες και δέχεται χωνευτά φώτα.",
+    "en": "A sheet of gypsum faced with paper, screwed to a metal frame to make suspended ceilings and light partition walls. It hides cables and pipes and takes recessed lights.",
+    "ar": "لوح من الجبس مكسو بالورق، يُثبَّت بالبراغي على هيكل معدني لعمل الأسقف المعلقة والجدران الخفيفة. يخفي الأسلاك والأنابيب ويستقبل الأضواء المدمجة."
+  },
+  "body": {
+    "el": "Η γυψοσανίδα είναι ένα επίπεδο φύλλο γύψου ντυμένο και από τις δύο πλευρές με χαρτόνι. Βιδώνεται σε σκελετό από μεταλλικά προφίλ και φτιάχνει ψευδοροφές, επενδύσεις και ελαφριούς διαχωριστικούς τοίχους. Οι ενώσεις ανάμεσα στα φύλλα κλείνουν με ταινία και στόκο, και η επιφάνεια βάφεται όπως ένας κανονικός τοίχος.\n\nΣτις ανακαινίσεις χρησιμοποιείται συχνά στο ταβάνι, γιατί κρύβει καλώδια, σωλήνες και αεραγωγούς και δέχεται χωνευτά φώτα. Σε ένα μπάνιο, το ταβάνι έκλεισε με γυψοσανίδα και αργότερα πήρε χωνευτά φωτιστικά.\n\nΣε υγρούς χώρους, όπως το μπάνιο και η κουζίνα, χρησιμοποιείται γυψοσανίδα ανθεκτική στην υγρασία, που συνήθως ξεχωρίζει από το πράσινο χρώμα της. Ακόμα κι έτσι, η γυψοσανίδα δεν είναι αδιάβροχη: θέλει καλό αερισμό για να μη μαζεύει υγρασία συμπύκνωσης και μούχλα, και ένα σημάδι νερού πάνω της δείχνει διαρροή από πάνω που πρέπει να βρεθεί.\n\nΗ γυψοσανίδα δεν σηκώνει βαριά φορτία σε οποιοδήποτε σημείο. Ντουλάπια, ράφια ή βαριά φωτιστικά θέλουν ειδικά βύσματα ή στερέωση στον σκελετό.",
+    "en": "Plasterboard is a flat sheet of gypsum faced on both sides with paper. It is screwed to a frame of metal studs to make suspended ceilings, wall linings and light partition walls. The joints between sheets are closed with tape and filler, and the surface is painted like any other wall.\n\nIn renovations it is often used for ceilings, because it hides cables, pipes and ducts and takes recessed lights. In one bathroom, the ceiling was closed in with plasterboard that later took recessed lights.\n\nIn wet rooms such as bathrooms and kitchens, a moisture-resistant board is used, usually recognisable by its green colour. Even so, plasterboard is not waterproof: it needs good ventilation so it doesn't collect condensation and mould, and a water stain on it points to a leak above that needs finding.\n\nPlasterboard can't carry heavy loads just anywhere. Cabinets, shelves or heavy light fittings need special fixings or fixing to the frame.",
+    "ar": "ألواح الجبس هي ألواح مسطحة من الجبس مكسوة بالورق من الجهتين. تُثبَّت بالبراغي على هيكل من المقاطع المعدنية لعمل الأسقف المعلقة والكسوات والجدران الفاصلة الخفيفة. تُغلق الفواصل بين الألواح بشريط ومعجون، ويُدهن السطح كأي جدار عادي.\n\nفي أعمال التجديد تُستعمل كثيرًا في السقف، لأنها تخفي الأسلاك والأنابيب ومجاري الهواء وتستقبل الأضواء المدمجة. في أحد الحمّامات أُغلق السقف بألواح الجبس، ورُكّبت فيها لاحقًا أضواء مدمجة.\n\nفي الأماكن الرطبة مثل الحمّام والمطبخ تُستعمل ألواح مقاومة للرطوبة، تُعرف عادةً بلونها الأخضر. ومع ذلك فهي لا تمنع الماء: تحتاج إلى تهوية جيدة حتى لا يتجمع عليها التكاثف والعفن، وأي بقعة ماء عليها تدل على تسرب من الأعلى يجب البحث عنه.\n\nلا تحتمل ألواح الجبس الأحمال الثقيلة في أي مكان. الخزائن والرفوف والمصابيح الثقيلة تحتاج إلى مثبتات خاصة أو إلى تثبيت على الهيكل."
+  },
+  "categories": [
+    "renovations",
+    "repairs"
+  ],
+  "photo": {
+    "project": "bathroom-renovation-striped-tiles",
+    "file": "step-06.jpg"
+  },
+  "related": [
+    "render",
+    "condensation",
+    "mould",
+    "filler"
+  ]
+}

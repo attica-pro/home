@@ -1,0 +1,23 @@
+{
+  "category": "paving",
+  "order": 5,
+  "question": {
+    "el": "Για την αυλή ή το πεζοδρόμιο, τι είναι καλύτερο: μπετό ή πλάκες;",
+    "en": "For a yard or sidewalk, which is better: concrete or slabs?",
+    "ar": "للساحة أو الرصيف، أيهما أفضل: الخرسانة أم البلاط؟"
+  },
+  "short": {
+    "el": "Δεν υπάρχει ένα σωστό. Το μπετό δίνει μια συνεχή επιφάνεια χωρίς αρμούς για χόρτα. Οι πλάκες και η πέτρα είναι πιο όμορφες και επισκευάζονται κομμάτι κομμάτι, αλλά θέλουν φροντίδα στους αρμούς.",
+    "en": "There's no single right answer. Concrete gives one continuous surface with no joints for weeds. Slabs and stone look better and can be repaired piece by piece, but their joints need care.",
+    "ar": "لا يوجد جواب واحد صحيح. الخرسانة تعطي سطحًا واحدًا متصلًا بلا فواصل تنبت فيها الأعشاب، أما البلاط والحجر فأجمل ويُصلحان قطعة قطعة، لكن فواصلهما تحتاج إلى عناية."
+  },
+  "body": {
+    "el": "Το μπετό στρώνεται σε μία ενιαία επιφάνεια. Ακολουθεί εύκολα στραβά σχήματα, καπάκια φρεατίων και εισόδους, και δεν έχει πολλούς αρμούς από όπου να μπει νερό ή να φυτρώσουν χόρτα. Έχει όμως πιο απλή όψη, και αν ραγίσει, η ρωγμή φαίνεται και η επισκευή ξεχωρίζει.\n\n![Νέο τσιμεντένιο πεζοδρόμιο βαμμένο γκρι](concrete-sidewalk-rebuilt/step-04.jpg)\n\nΣε ένα πεζοδρόμιο που είχε σπάσει σε όλο του το μήκος, στρώθηκε νέο μπετό από το κράσπεδο ως τον τοίχο. Όταν στέγνωσε, βάφτηκε γκρι, ώστε να έχει ομοιόμορφη όψη. Το χρώμα όμως είναι λεπτή στρώση που φθείρεται με το περπάτημα και κάποια στιγμή θέλει ανανέωση, και πρέπει να είναι για δάπεδα εξωτερικού χώρου, ώστε να μη γλιστράει όταν βραχεί.\n\nΟι πλάκες και η πέτρα δίνουν πιο ζεστή εικόνα και ταιριάζουν σε αυλές και σε παλιά σπίτια. Όταν χαλάσει ένα σημείο, φτιάχνεται μόνο αυτό. Το αδύναμο σημείο τους είναι οι αρμοί, που με τα χρόνια μαυρίζουν και ανοίγουν. Σε μια πέτρινη αυλή εστιατορίου, οι πέτρες ήταν γερές μετά από χρόνια, και αρκούσαν καινούργιοι αρμοί για να ξαναφανεί όμορφη.\n\n![Η πέτρινη αυλή με τους νέους λευκούς αρμούς](restaurant-courtyard-stone-joints/step-05.jpg)\n\nΗ επιλογή εξαρτάται από τη χρήση, το ύφος του σπιτιού και την κατάσταση της βάσης από κάτω. Για το πεζοδρόμιο μπροστά από το σπίτι, ρωτήστε πρώτα τον δήμο σας, γιατί συχνά ορίζει τα υλικά και τα χρώματα.",
+    "en": "Concrete is laid as one single surface. It easily follows awkward shapes, manhole covers and entrances, and doesn't have lots of joints for water to get in or weeds to grow. But it looks plainer, and if it cracks, the crack shows and the repair stands out.\n\n![A new concrete sidewalk painted grey](concrete-sidewalk-rebuilt/step-04.jpg)\n\nOn a sidewalk that had broken along its whole length, new concrete was laid from the kerb to the wall. Once it had dried, it was painted grey for an even look. Paint is a thin layer, though: it wears under foot traffic and needs renewing at some point, and it has to be made for outdoor floors so it isn't slippery when wet.\n\nSlabs and stone look warmer and suit courtyards and older houses. When one spot fails, only that spot is repaired. Their weak point is the joints, which darken and open up over the years. In a stone restaurant courtyard, the stones were still sound after years, and new joints were enough to make it look good again.\n\n![The stone courtyard with its new white joints](restaurant-courtyard-stone-joints/step-05.jpg)\n\nThe choice depends on how the space is used, the style of the house and the state of the base underneath. For the sidewalk in front of the house, ask your municipality first, because it often sets the materials and colours.",
+    "ar": "تُصب الخرسانة سطحًا واحدًا متصلًا. وهي تتبع بسهولة الأشكال غير المنتظمة وأغطية غرف التفتيش والمداخل، وليس فيها فواصل كثيرة يدخل منها الماء أو تنبت فيها الأعشاب. لكن منظرها أبسط، وإذا تشققت يظهر الشق ويظهر الإصلاح مختلفًا.\n\n![رصيف خرساني جديد مدهون بالرمادي](concrete-sidewalk-rebuilt/step-04.jpg)\n\nفي رصيف انكسر على طوله كله، صُبت خرسانة جديدة من حافة الرصيف إلى الجدار. وبعد أن جفت دُهنت بالرمادي ليكون منظرها متجانسًا. لكن الدهان طبقة رقيقة تتآكل مع المشي وتحتاج إلى تجديد في وقت ما، ويجب أن يكون مخصصًا للأرضيات الخارجية حتى لا يصبح زلقًا عندما يبتل.\n\nأما البلاط والحجر فمنظرهما أدفأ ويناسبان الساحات والبيوت القديمة. وإذا تلف مكان واحد يُصلح وحده. ونقطة ضعفهما هي الفواصل، التي تسودّ وتنفتح مع السنين. في ساحة مطعم مرصوفة بالحجر، كانت الحجارة ما تزال سليمة بعد سنوات، وكفت فواصل جديدة لتعود جميلة.\n\n![الساحة الحجرية بفواصلها البيضاء الجديدة](restaurant-courtyard-stone-joints/step-05.jpg)\n\nيتوقف الاختيار على طريقة الاستعمال وطابع البيت وحالة القاعدة تحت الأرضية. أما الرصيف أمام البيت، فاسأل البلدية أولًا، لأنها كثيرًا ما تحدد المواد والألوان."
+  },
+  "projects": [
+    "concrete-sidewalk-rebuilt",
+    "restaurant-courtyard-stone-joints"
+  ]
+}

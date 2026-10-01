@@ -1,0 +1,48 @@
+{
+  "term": {
+    "el": "Καφασωτό",
+    "en": "Lattice",
+    "ar": "الألواح الشبكية الخشبية"
+  },
+  "aliases": {
+    "el": [
+      "καφασωτ*"
+    ],
+    "en": [
+      "lattice*",
+      "trellis*"
+    ],
+    "ar": [
+      "ألواح الشبكية",
+      "ألواح شبكية",
+      "حواجز الشبكية",
+      "حواجز شبكية",
+      "لوح شبكي",
+      "لوح الشبكي",
+      "شبكي خشبي",
+      "شبكية خشبية"
+    ]
+  },
+  "short": {
+    "el": "Πάνελ από λεπτά ξύλινα πηχάκια που διασταυρώνονται σε πλέγμα. Χρησιμοποιείται για διαχωριστικά, για κάλυψη θέας και σε πέργκολες και ζαρντινιέρες.",
+    "en": "A panel of thin wooden battens crossed in a grid. It is used for screens, for privacy and on pergolas and planters.",
+    "ar": "ألواح من شرائح خشبية رفيعة متقاطعة على شكل شبكة. تُستخدم كحواجز وللحجب عن الأنظار وفي البرغولات وأحواض الزرع."
+  },
+  "body": {
+    "el": "Το καφασωτό είναι πάνελ από λεπτά ξύλινα πηχάκια, που διασταυρώνονται διαγώνια ή όρθια και σχηματίζουν πυκνό πλέγμα μέσα σε ένα ξύλινο πλαίσιο. Σε ταράτσες, μπαλκόνια και αυλές μπαίνει ως διαχωριστικό, πίσω από κάγκελα για να κρύβει τη θέα από τα γειτονικά κτίρια, γύρω από πέργκολες ή για να ντύσει ζαρντινιέρες. Αφήνει να περνάει ο αέρας και λίγο φως.\n\nΕπειδή είναι φτιαγμένο από πολλά λεπτά κομμάτια, το καφασωτό έχει πολλή επιφάνεια εκτεθειμένη στον ήλιο και τη βροχή, και το νερό μένει στις διασταυρώσεις των πηχακιών. Γι' αυτό θέλει τακτικό βερνίκι ή άλλο φινίρισμα, που πρέπει να φτάσει σε κάθε πηχάκι και σε κάθε διασταύρωση.\n\nΑν ένα πηχάκι έχει μαλακώσει ή σπάσει, το πρόβλημα δεν λύνεται με βερνίκι: θέλει πρώτα επισκευή. Ένα καφασωτό που συντηρείται έγκαιρα αρκείται συνήθως σε καθάρισμα, ελαφρύ τρίψιμο και νέο φινίρισμα.",
+    "en": "Lattice is a panel of thin wooden battens that cross diagonally or square-on to form a tight grid inside a wooden frame. On roof terraces, balconies and yards it is used as a screen, behind railings to block the view from neighbouring buildings, around pergolas, or to clad planters. It lets air and some light through.\n\nBecause it is made of many thin pieces, lattice has a lot of surface exposed to sun and rain, and water sits where the battens cross. That's why it needs regular varnish or another finish, which has to reach every batten and every crossing.\n\nIf a batten has gone soft or broken, varnish won't solve it: it needs repairing first. Lattice that is maintained in time usually just needs cleaning, a light sanding and a fresh finish.",
+    "ar": "الألواح الشبكية الخشبية هي ألواح من شرائح خشبية رفيعة تتقاطع بشكل مائل أو مستقيم لتكوّن شبكة كثيفة داخل إطار خشبي. على الأسطح والشرفات والأفنية تُستخدم كحواجز، أو خلف الدرابزين لحجب الرؤية عن المباني المجاورة، أو حول البرغولات، أو لكسوة أحواض الزرع. وهي تسمح بمرور الهواء وقليل من الضوء.\n\nولأنها مصنوعة من قطع رفيعة كثيرة، فلها سطح كبير معرض للشمس والمطر، ويبقى الماء عند نقاط تقاطع الشرائح. لهذا تحتاج إلى ورنيش أو تشطيب آخر بانتظام، ويجب أن يصل إلى كل شريحة وكل نقطة تقاطع.\n\nإذا لانت شريحة أو انكسرت، فالورنيش لا يحل المشكلة: تحتاج أولاً إلى إصلاح. والألواح الشبكية التي تُصان في الوقت المناسب تكفيها عادةً تنظيف وصنفرة خفيفة وتشطيب جديد."
+  },
+  "categories": [
+    "wood"
+  ],
+  "photo": {
+    "project": "roof-terrace-wooden-pergola",
+    "file": "step-05.jpg"
+  },
+  "related": [
+    "pergola",
+    "varnish",
+    "wood-preservative"
+  ]
+}

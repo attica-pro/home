@@ -1,0 +1,22 @@
+{
+  "category": "wood",
+  "order": 3,
+  "question": {
+    "el": "Μπορώ να βάψω τα παντζούρια πάνω από το παλιό χρώμα, χωρίς τρίψιμο;",
+    "en": "Can I paint my shutters over the old paint without sanding?",
+    "ar": "هل يمكنني طلاء الشيش فوق الطلاء القديم دون صنفرة؟"
+  },
+  "short": {
+    "el": "Μόνο αν το παλιό χρώμα κρατάει γερά παντού. Αν ξεφλουδίζει ή έχει σκάσει, το καινούργιο θα φύγει μαζί του. Ό,τι δεν κρατάει πρέπει να φύγει με ξύστρα και τρίψιμο.",
+    "en": "Only if the old paint is holding firmly everywhere. If it's peeling or cracked, the new coat will come off with it. Anything loose has to come off with a scraper and sanding first.",
+    "ar": "فقط إذا كان الطلاء القديم متماسكًا في كل مكان. إذا كان يتقشر أو متشققًا، فسيسقط الطلاء الجديد معه. كل ما هو غير متماسك يجب أن يُزال أولاً بالكشط والصنفرة."
+  },
+  "body": {
+    "el": "Το καινούργιο χρώμα κρατάει όσο κρατάει αυτό που βρίσκεται από κάτω. Αν το παλιό χρώμα έχει σκάσει, φουσκώσει ή ξεφλουδίζει, η νέα στρώση κολλάει πάνω σε κάτι που ήδη ξεκολλάει, και θα φύγει μαζί του. Επιπλέον, οι ρωγμές και τα γυμνά σημεία δεν κλείνουν με μια βαφή από πάνω, και το νερό συνεχίζει να μπαίνει στο ξύλο.\n\n![Παλιά παντζούρια με ξεφλουδισμένο χρώμα και γυμνό ξύλο στα κάτω μέρη](wooden-shutters-restoration/before-1.jpg)\n\nΣε αυτά τα παντζούρια το χρώμα είχε φύγει σε μεγάλα κομμάτια και το ξύλο είχε μείνει εκτεθειμένο, κυρίως στα κάτω μέρη. Μια βαφή από πάνω δεν θα είχε νόημα. Τα παλιά χρώματα έφυγαν με τριβείο και ξύστρα μέχρι να φανεί γερό ξύλο, πέρασε αστάρι και μετά το τελικό χρώμα.\n\nΑν πάλι το παλιό χρώμα είναι γερό παντού και έχει απλώς ξεθωριάσει ή λερωθεί, δεν χρειάζεται να φύγει όλο. Θέλει καλό καθάρισμα και ελαφρύ τρίψιμο, ώστε να χάσει τη γυαλάδα του και να πιάσει πάνω του το νέο χρώμα.\n\nΝα έχετε υπόψη: ελέγξτε τις κάτω άκρες και τις ενώσεις πριν αποφασίσετε. Εκεί ξεκινάει συνήθως η φθορά, και εκεί κρύβεται το σάπιο ξύλο, που δεν διορθώνεται με χρώμα. Επίσης, κάθε χρώμα δεν πιάνει πάνω σε κάθε παλιό χρώμα, οπότε αξίζει να ξέρει αυτός που θα κάνει τη δουλειά τι υπάρχει ήδη πάνω στο ξύλο.",
+    "en": "New paint only holds as well as whatever is underneath it. If the old paint has cracked, blistered or is peeling, the new coat sticks to something that's already coming loose, and it will come off with it. On top of that, cracks and bare patches don't close up under a coat of paint, and water keeps getting into the wood.\n\n![Old shutters with peeling paint and bare wood at the bottom](wooden-shutters-restoration/before-1.jpg)\n\nOn these shutters the paint had come off in large pieces and the wood was left exposed, especially at the bottom. Painting over it would have made no sense. The old paint came off with a sander and scraper until sound wood showed, then a primer went on, and finally the top coat.\n\nIf, on the other hand, the old paint is sound everywhere and has only faded or got dirty, it doesn't all need to come off. It needs a good clean and a light sanding, so it loses its sheen and the new paint can grip.\n\nKeep in mind: check the bottom ends and the joints before you decide. That's usually where the wear starts, and where rotten wood hides, which paint can't fix. Also, not every paint takes well over every old paint, so whoever does the job should know what is already on the wood.",
+    "ar": "الطلاء الجديد لا يصمد إلا بقدر ما يصمد ما تحته. إذا كان الطلاء القديم متشققًا أو منتفخًا أو يتقشر، فإن الطبقة الجديدة تلتصق بشيء ينفصل أصلاً، وستسقط معه. وفوق ذلك، الشقوق والمواضع العارية لا تُغلق بطبقة طلاء فوقها، ويستمر الماء في الدخول إلى الخشب.\n\n![شيش قديم بطلاء متقشر وخشب عارٍ في الأجزاء السفلية](wooden-shutters-restoration/before-1.jpg)\n\nفي هذا الشيش كان الطلاء قد سقط في قطع كبيرة، وبقي الخشب مكشوفًا، خاصة في الأجزاء السفلية. لم يكن للطلاء فوقه أي معنى. أزيل الطلاء القديم بآلة الصنفرة والمكشطة حتى ظهر خشب سليم، ثم وُضعت طبقة أساس، وبعدها الطلاء النهائي.\n\nأما إذا كان الطلاء القديم سليمًا في كل مكان وقد بهت أو اتسخ فقط، فلا حاجة لإزالته كله. يحتاج إلى تنظيف جيد وصنفرة خفيفة، كي يفقد لمعانه ويتماسك عليه الطلاء الجديد.\n\nانتبه: افحص الأطراف السفلية والوصلات قبل أن تقرر. هناك يبدأ التآكل عادةً، وهناك يختبئ الخشب المتعفن الذي لا يصلحه الطلاء. كذلك ليس كل طلاء يتماسك فوق كل طلاء قديم، لذا يجب أن يعرف من سيقوم بالعمل ما الموجود أصلاً على الخشب."
+  },
+  "projects": [
+    "wooden-shutters-restoration"
+  ]
+}

@@ -36,6 +36,10 @@
     "answers": {
       "el": "Γρήγορες απαντήσεις",
       "ar": "إجابات سريعة"
+    },
+    "knowledge": {
+      "el": "Οδηγοί και γνώσεις",
+      "ar": "الأدلة والمعرفة"
     }
   },
   "questions": [
@@ -1411,6 +1415,1130 @@
         "corrugated-roof-coating",
         "corrugated-roof-foam-white-coat",
         "pitched-sheet-roof-spray-foam"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-rubble-removal",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Ποιος παίρνει τα μπάζα στις δουλειές σου; Τα κατεβάζεις και τα μεταφέρεις εσύ, ή έρχεται άλλος με φορτηγάκι ή κάδο; Πού καταλήγουν; Περιλαμβάνεται συνήθως η απομάκρυνση στην προσφορά;",
+        "ar": "من يأخذ الأنقاض في أعمالك؟ هل تُنزلها وتنقلها أنت بنفسك، أم يأتي شخص آخر بشاحنة صغيرة أو بحاوية؟ إلى أين تذهب الأنقاض في النهاية؟ وهل يكون نقلها عادةً داخلًا في عرض السعر؟"
+      },
+      "options": [],
+      "photos": [
+        611
+      ],
+      "about": [
+        "guide:demolition-strip-out-guide",
+        "answers:where-does-the-rubble-go",
+        "glossary:skip",
+        "studio-new-floor-repaint",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-home-protection",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πώς προστατεύεις το σπίτι όταν ξηλώνεις μπάνιο ή κουζίνα; Σκεπάζεις με νάιλον, κλείνεις τις πόρτες με ταινία, βάζεις κάτι στο πάτωμα και στη σκάλα της πολυκατοικίας; Χρησιμοποιείς κάτι για να μειώσεις τη σκόνη (π.χ. νερό ή σκούπα αναρρόφησης);",
+        "ar": "كيف تحمي البيت عندما تخلع حمامًا أو مطبخًا؟ هل تغطي الأشياء بالنايلون، وتسد الأبواب بالشريط اللاصق، وتضع شيئًا على الأرضية وعلى درج العمارة؟ وهل تستعمل شيئًا لتقليل الغبار (مثل الماء أو مكنسة شفط)؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:demolition-strip-out-guide",
+        "answers:living-at-home-during-strip-out",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-wall-removal-experience",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Έχεις γκρεμίσει ποτέ ολόκληρο τοίχο ή έχεις ανοίξει νέα πόρτα ή άνοιγμα σε τοίχο; Αν ναι, υπήρχε μηχανικός; Τι πρέκι έβαλες πάνω από το άνοιγμα (από μπετόν, έτοιμο, μεταλλικό); Έχεις φωτογραφίες από τέτοια δουλειά;",
+        "ar": "هل هدمت من قبل جدارًا كاملًا، أو فتحت بابًا أو فتحة جديدة في جدار؟ إذا نعم، هل كان هناك مهندس؟ وما نوع العتبة العلوية (الساكف) التي وضعتها فوق الفتحة: خرسانة مصبوبة في المكان، أم جاهزة، أم معدن؟ وهل لديك صور من عمل كهذا؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:demolition-strip-out-guide",
+        "glossary:lintel",
+        "glossary:infill-wall",
+        "answers:can-i-remove-a-wall",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-small-bathroom-tub-panel",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο μικρό μπάνιο (φωτογραφία 28), η μπανιέρα ήταν χτισμένη μέσα σε ποδιά από τούβλα και πλακάκια, και από κάτω ήταν σκουριασμένη; Γράψαμε ότι «μόλις έσπασε η ποδιά, φάνηκε η σκουριά στο σώμα της μπανιέρας και ο φθαρμένος τοίχος πίσω της». Είναι σωστό;",
+        "ar": "في الحمام الصغير (الصورة رقم 28): هل كان حوض الاستحمام مبنيًا داخل واجهة من الطوب والبلاط، وكان جسمه صدئًا من الأسفل؟ كتبنا أنه «ما إن كُسرت الواجهة حتى ظهر الصدأ على جسم الحوض والجدار المهترئ خلفه». هل هذا صحيح؟"
+      },
+      "options": [],
+      "photos": [
+        28
+      ],
+      "about": [
+        "guide:demolition-strip-out-guide",
+        "answers:where-does-the-rubble-go",
+        "small-bathroom-renovation",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-tiles-over-old-tiles",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Βάζεις ποτέ καινούργια πλακάκια πάνω στα παλιά, χωρίς ξήλωμα; Αν ναι, σε ποιες περιπτώσεις και τι κάνεις πριν (καθάρισμα, αστάρι, ειδική κόλλα); Αν όχι, γιατί;",
+        "ar": "هل تضع أحيانًا بلاطًا جديدًا فوق البلاط القديم دون خلعه؟ إذا نعم، ففي أي حالات، وماذا تفعل قبل ذلك (تنظيف، طبقة أساس، لاصق خاص)؟ وإذا لا، فلماذا؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "answers:tile-over-old-tiles",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-grey-tiles-bathroom-wall-marks",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο μπάνιο με τα γκρι πλακάκια (φωτογραφία 426), τα σημάδια στους τοίχους μετά το ξήλωμα είναι από την κόλλα ή από το τσιμεντοκονίαμα των παλιών πλακιδίων; Ο σοβάς από κάτω έμεινε ή έφυγε κι αυτός πριν από τα νέα πλακάκια;",
+        "ar": "في الحمام ذي البلاط الرمادي (الصورة رقم 426): الآثار التي على الجدران بعد الخلع، هل هي من لاصق البلاط القديم أم من المونة الإسمنتية التي كان مركّبًا عليها؟ وهل بقي الجص تحتها، أم أزيل هو أيضًا قبل البلاط الجديد؟"
+      },
+      "options": [],
+      "photos": [
+        426
+      ],
+      "about": [
+        "answers:tile-over-old-tiles",
+        "bathroom-renovation-grey-tiles",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "demolition-tools-greek-names",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Με ποια εργαλεία ξηλώνεις πλακάκια και σοβάδες (κρουστικό δράπανο, σκαπτικό, κομπρεσέρ, βαριά); Πώς τα λένε οι Έλληνες μάστορες, ώστε να γράψουμε τα σωστά ονόματα;",
+        "ar": "ما الأدوات التي تستعملها لخلع البلاط والجص (مثقاب بالطرق، مطرقة تكسير كهربائية، كمبريسور، مطرقة ثقيلة)؟ وما أسماؤها عند العمال اليونانيين، حتى نكتب الأسماء الصحيحة؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:demolition-strip-out-guide",
+        "glossary:demolition",
+        "services:demolition"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-primer",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Βάζεις πάντα ασφαλτικό αστάρι (το μαύρο) πριν ψεκάσεις αφρό πολυουρεθάνης; Σε ποιες επιφάνειες δεν το βάζεις (π.χ. παλιές πλάκες, λαμαρίνα, φρέσκο γαρμπιλομπετό);",
+        "ar": "هل تضع دائمًا البرايمر البيتوميني (الأسود) قبل رش رغوة البولي يوريثان؟ وعلى أي أسطح لا تضعه؟ (مثلًا: البلاط القديم، أو الصفيح، أو طبقة التسوية الجديدة)"
+      },
+      "options": [],
+      "photos": [
+        895,
+        1166
+      ],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "paved-roof-spray-foam",
+        "rooftop-walkways-spray-foam",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-thickness",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πώς αποφασίζεις πόσο παχύς θα είναι ο αφρός σε μια ταράτσα, και πώς το ελέγχεις όταν ψεκάζεις; Στα στηθαία βάζεις το ίδιο πάχος;",
+        "ar": "كيف تقرر سماكة الرغوة على السطح، وكيف تتأكد منها أثناء الرش؟ وهل تكون السماكة نفسها على الجدار المحيط بالسطح؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-topcoat",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Τι υλικό βάζεις συνήθως πάνω από τον αφρό στην ταράτσα: ελαστομερές λευκό, υγρή μεμβράνη πολυουρεθάνης ή κάτι άλλο; Πώς διαλέγεις; Και κάθε πότε πρέπει να ξαναπεραστεί;",
+        "ar": "ما المادة التي تضعها عادة فوق الرغوة على السطح: طلاء أبيض مطاطي، أو غشاء بولي يوريثان سائل، أو شيء آخر؟ كيف تختار بينها؟ وكل كم من الوقت يجب إعادة وضعها؟"
+      },
+      "options": [],
+      "photos": [
+        764
+      ],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "bare-roof-foam-white-coat",
+        "roof-torn-membrane",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-uncovered-time",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πόσο καιρό το πολύ μπορεί να μείνει ο αφρός στον ήλιο χωρίς προστατευτική επίστρωση; Βάζεις την επίστρωση την ίδια μέρα;",
+        "ar": "ما أقصى مدة يمكن أن تبقى فيها الرغوة تحت الشمس بدون طبقة حماية؟ وهل تضع طبقة الحماية في اليوم نفسه؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-drains",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Όταν ψεκάζεις αφρό σε ταράτσα, τι κάνεις με τα σιφώνια και τις απορροές ώστε να μη φράξουν και να μη μείνουν ψηλότερα από τον αφρό γύρω τους;",
+        "ar": "عندما ترش الرغوة على السطح، ماذا تفعل بمصارف المياه (السيفونات) حتى لا تُسد ولا تصبح أعلى من الرغوة التي حولها؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-weather",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Περιμένεις να στεγνώσει τελείως η ταράτσα μετά το πλύσιμο ή τη βροχή πριν ψεκάσεις; Υπάρχει καιρός που δεν ψεκάζεις (αέρας, κρύο, υγρασία);",
+        "ar": "هل تنتظر حتى يجف السطح تمامًا بعد الغسل أو المطر قبل الرش؟ وهل هناك طقس لا ترش فيه (رياح، برد، رطوبة)؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "glossary:pressure-washing",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-foam-indoor-ceiling",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο ταβάνι του δωματίου που ψέκασες και μετά έβαψες λευκό, τι χρώμα πέρασες πάνω στον αφρό; Μέσα στο σπίτι βάζεις κάποια άλλη προστασία πάνω από τον αφρό;",
+        "ar": "في سقف الغرفة الذي رششته بالرغوة ثم دهنته بالأبيض، ما نوع الدهان الذي وضعته فوق الرغوة؟ وهل تضع داخل البيت أي حماية أخرى فوق الرغوة؟"
+      },
+      "options": [],
+      "photos": [
+        945,
+        947
+      ],
+      "about": [
+        "guide:spray-polyurethane-foam-guide",
+        "ceiling-foam-painted-white",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "insulation-screed-when",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πότε αποφασίζεις να βάλεις καινούργιο γαρμπιλομπετό πριν από τον αφρό, και πότε από πάνω του (με πίσσα από κάτω); Στην ταράτσα με τον ηλιακό θερμοσίφωνα και την αντλία, γιατί χρειάστηκε καινούργιο γαρμπιλομπετό;",
+        "ar": "متى تقرر وضع طبقة تسوية جديدة قبل الرغوة، ومتى تضعها فوق الرغوة (مع القار تحتها)؟ وفي السطح الذي عليه السخان الشمسي وصببت فيه بالمضخة، لماذا احتاج إلى طبقة تسوية جديدة؟"
+      },
+      "options": [],
+      "photos": [
+        865,
+        3
+      ],
+      "about": [
+        "answers:new-screed-before-insulation",
+        "guide:spray-polyurethane-foam-guide",
+        "roof-pumped-screed-spray-foam",
+        "roof-insulation-foam-screed",
+        "services:insulation"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-soot-cleaning",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Μετά από φωτιά, με τι καθαρίζεις την αιθάλη από τοίχους και ταβάνι (στεγνό σφουγγάρι, απορρυπαντικό, πλύσιμο, τρίψιμο); Τι έκανες στο δωμάτιο που είχε καεί;",
+        "ar": "بعد الحريق، بماذا تنظف السخام (السواد) عن الجدران والسقف؟ (إسفنجة جافة، منظف، غسل بالماء، صنفرة؟) وماذا فعلت في الغرفة المحترقة؟"
+      },
+      "options": [],
+      "photos": [
+        96,
+        99
+      ],
+      "about": [
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "fire-damaged-room",
+        "answers:painting-after-fire",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-fire-ceiling-photo",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στη φωτογραφία με το ταβάνι μισό μαύρο και μισό λευκό (δωμάτιο μετά από φωτιά), το λευκό μέρος είναι μόνο καθαρισμένο ή έχει ήδη αστάρι ή χρώμα;",
+        "ar": "في الصورة التي يظهر فيها السقف نصفه أسود ونصفه أبيض (الغرفة بعد الحريق)، هل الجزء الأبيض منظف فقط، أم وُضع عليه برايمر أو دهان؟"
+      },
+      "options": [],
+      "photos": [
+        99
+      ],
+      "about": [
+        "fire-damaged-room",
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-stain-primer",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Τι αστάρι χρησιμοποιείς για λεκέδες από αιθάλη ή νερό: διαλύτου ή νερού; Το ίδιο βάζεις και μετά τη μούχλα;",
+        "ar": "ما نوع البرايمر الذي تستعمله لبقع السخام أو بقع الماء: برايمر بالتنر (مذيب) أم برايمر مائي؟ وهل تستعمل نفسه بعد تنظيف العفن؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "fire-damaged-room",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-mould-cleaning",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Με τι καθαρίζεις τη μούχλα πριν από το βάψιμο (χλωρίνη, ειδικό υγρό κατά της μούχλας, κάτι άλλο); Βάζεις χρώμα με πρόσθετο κατά της μούχλας σε τέτοιους χώρους;",
+        "ar": "بماذا تنظف العفن قبل الدهان؟ (كلور، سائل خاص ضد العفن، أو شيء آخر؟) وهل تستعمل دهانًا فيه مادة ضد العفن في هذه الأماكن؟"
+      },
+      "options": [],
+      "photos": [
+        694,
+        307
+      ],
+      "about": [
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "old-apartment-damp-peeling-walls",
+        "flat-mouldy-walls-repainted",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-office-first-coat",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο γραφείο με την υγρασία γύρω από το παράθυρο, η πρώτη στρώση στα επισκευασμένα σημεία ήταν αστάρι ή αραιωμένο πλαστικό χρώμα;",
+        "ar": "في المكتب الذي كانت فيه رطوبة حول النافذة، الطبقة الأولى على المواضع المصلحة: هل كانت برايمر أم دهان بلاستيك مخفف؟"
+      },
+      "options": [],
+      "photos": [
+        274
+      ],
+      "about": [
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "office-damp-walls-repainted",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-plaster-drying",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πόσο περιμένεις να στεγνώσει ο καινούργιος σοβάς πριν βάλεις αστάρι και χρώμα; Αλλάζει χειμώνα και καλοκαίρι;",
+        "ar": "كم تنتظر حتى تجف اللياسة الجديدة قبل وضع البرايمر والدهان؟ وهل يختلف ذلك بين الشتاء والصيف؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-salts",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Όταν βλέπεις άσπρα άλατα (κρούστα ή σκόνη) σε έναν τοίχο με υγρασία, τι κάνεις: τα βουρτσίζεις, βγάζεις τον σοβά, βάζεις ειδικό σοβά ή αστάρι;",
+        "ar": "عندما ترى أملاحًا بيضاء (قشرة أو مسحوق) على جدار فيه رطوبة، ماذا تفعل: تزيلها بالفرشاة، أم تزيل اللياسة، أم تضع لياسة خاصة أو برايمر خاص؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:damp-and-fire-damaged-rooms-guide",
+        "glossary:efflorescence",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "painting-textured-ceiling",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο ταβάνι με το τραχύ ανάγλυφο που έγινε λείο: ξύστηκε πρώτα το ανάγλυφο ή στρώθηκε από πάνω; Με τι υλικό το έστρωσες (στόκος, σπατουλαριστός σοβάς, κάτι άλλο);",
+        "ar": "في السقف المحبب الخشن الذي جعلته أملس: هل كشطت الحبيبات أولًا، أم سوّيت فوقها مباشرة؟ وبأي مادة سوّيته؟ (معجون، لياسة ناعمة بالمالج، أو شيء آخر؟)"
+      },
+      "options": [],
+      "photos": [
+        495,
+        501
+      ],
+      "about": [
+        "answers:smooth-textured-ceiling",
+        "textured-ceiling-smoothed",
+        "services:painting"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-courtyard-joint-material",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στην πέτρινη αυλή του εστιατορίου, οι λευκοί αρμοί έγιναν με καινούργιο υλικό (π.χ. λευκό αρμόστοκο ή λευκό τσιμεντοκονίαμα) ή βάφτηκαν λευκοί οι παλιοί αρμοί; Αφαίρεσες πρώτα τον παλιό αρμό; Τι υλικό χρησιμοποίησες;",
+        "ar": "في الساحة الحجرية للمطعم، هل عُملت الفواصل البيضاء بمادة جديدة (مثل روبة بيضاء أو ملاط إسمنت أبيض)، أم دُهنت الفواصل القديمة باللون الأبيض فقط؟ هل أزلت الفاصل القديم أولًا؟ وما المادة التي استعملتها؟"
+      },
+      "options": [],
+      "photos": [
+        808,
+        813
+      ],
+      "about": [
+        "restaurant-courtyard-stone-joints",
+        "guide:outdoor-paving-guide",
+        "answers:renew-stone-paving-joints",
+        "answers:concrete-or-paving-slabs",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-courtyard-kerb",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στη φωτογραφία με τον δρόμο έξω από το εστιατόριο, το κράσπεδο είναι βαμμένο λευκό. Το έβαψες εσύ, ως μέρος της ίδιας δουλειάς;",
+        "ar": "في الصورة التي يظهر فيها الشارع خارج المطعم، حافة الرصيف مدهونة باللون الأبيض. هل دهنتها أنت كجزء من العمل نفسه؟"
+      },
+      "options": [],
+      "photos": [
+        809
+      ],
+      "about": [
+        "restaurant-courtyard-stone-joints",
+        "glossary:kerb",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-sidewalk-base",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο τσιμεντένιο πεζοδρόμιο: έσπασες και έβγαλες το παλιό δάπεδο ή έριξες το μπετό από πάνω του; Έβαλες δομικό πλέγμα μέσα στο μπετό; Έδωσες κλίση προς τον δρόμο;",
+        "ar": "في الرصيف الخرساني: هل كسرت الأرضية القديمة وأزلتها، أم صببت الخرسانة فوقها؟ هل وضعت شبكة حديد داخل الخرسانة؟ وهل جعلت للسطح ميلًا نحو الشارع؟"
+      },
+      "options": [],
+      "photos": [
+        520,
+        521
+      ],
+      "about": [
+        "concrete-sidewalk-rebuilt",
+        "guide:outdoor-paving-guide",
+        "answers:broken-sidewalk-repair-or-relay",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-sidewalk-curing-lines",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πώς προστάτεψες το φρέσκο μπετό στο πεζοδρόμιο; Το κατάβρεχες ή το σκέπαζες τις πρώτες μέρες; Και οι γραμμές που φαίνονται στην επιφάνεια ανά διαστήματα είναι αρμοί που χαράχτηκαν επίτηδες;",
+        "ar": "كيف حميت الخرسانة الطازجة في الرصيف؟ هل كنت ترشّها بالماء أو تغطيها في الأيام الأولى؟ والخطوط التي تظهر على السطح على مسافات، هل هي فواصل حُفرت عن قصد؟"
+      },
+      "options": [],
+      "photos": [
+        521,
+        524
+      ],
+      "about": [
+        "concrete-sidewalk-rebuilt",
+        "glossary:concrete-curing",
+        "guide:outdoor-paving-guide",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-sidewalk-paint",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Με τι χρώμα βάφτηκε γκρι το πεζοδρόμιο; Είναι χρώμα για δάπεδα εξωτερικού χώρου; Γλιστράει όταν βραχεί;",
+        "ar": "بأي دهان طُلي الرصيف باللون الرمادي؟ هل هو دهان مخصص للأرضيات الخارجية؟ وهل يصبح زلقًا عندما يبتل؟"
+      },
+      "options": [],
+      "photos": [
+        524
+      ],
+      "about": [
+        "concrete-sidewalk-rebuilt",
+        "answers:concrete-or-paving-slabs",
+        "glossary:anti-slip",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-sidewalk-permit",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Για το πεζοδρόμιο χρειάστηκε άδεια ή έγκριση από τον δήμο; Ποιος τη ζήτησε, εσύ ή ο ιδιοκτήτης;",
+        "ar": "هل احتاج العمل في الرصيف إلى ترخيص أو موافقة من البلدية؟ ومن طلبها، أنت أم صاحب البيت؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "concrete-sidewalk-rebuilt",
+        "guide:outdoor-paving-guide",
+        "answers:broken-sidewalk-repair-or-relay",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "paving-balcony-relay",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Κάνεις και ξαναστρώσιμο μπαλκονιών: ξήλωμα πλακιδίων, νέο γαρμπιλομπετό με σωστές κλίσεις, στεγάνωση και νέα πλακάκια; Αν ναι, υπάρχουν φωτογραφίες από τέτοια δουλειά; Τι πλακάκια προτείνεις για έξω (π.χ. αντιολισθητικά);",
+        "ar": "هل تقوم أيضًا بإعادة تبليط الشرفات: خلع البلاط، وصب طبقة تسوية جديدة بميول صحيحة، ثم العزل المائي، ثم بلاط جديد؟ إذا كان الجواب نعم، هل توجد صور من عمل كهذا؟ وأي بلاط تنصح به للأماكن الخارجية (مثلًا البلاط المقاوم للانزلاق)؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:outdoor-paving-guide",
+        "answers:balcony-water-pools-by-door",
+        "glossary:anti-slip",
+        "services:paving"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-shower-waterproofing",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στις ντουζιέρες βάζετε στρώμα στεγανοποίησης κάτω από τα πλακάκια, στο δάπεδο και στους τοίχους; Με ποιο υλικό, ως ποιο ύψος στους τοίχους, και βάζετε ταινία ενίσχυσης στις γωνίες και γύρω από το σιφώνι; Έγινε αυτό στο μπάνιο με την πράσινη μπανιέρα και σε εκείνο με το κανάλι κάτω από το παράθυρο;",
+        "ar": "في أماكن الدش، هل تضع طبقة عزل مائي تحت البلاط، على الأرضية وعلى الجدران؟ ما المادة التي تستعملها؟ إلى أي ارتفاع تصل بها على الجدران؟ وهل تضع شريط تقوية في الزوايا وحول المصرف؟ هل فعلت ذلك في الحمّام ذي الحوض الأخضر، وفي الحمّام ذي المصرف الطويل تحت النافذة؟"
+      },
+      "options": [],
+      "photos": [
+        54,
+        110
+      ],
+      "about": [
+        "guide:bathroom-renovation-step-by-step",
+        "answers:shower-waterproofing-under-tiles",
+        "glossary:shower-base",
+        "bathroom-renovation-green-tub",
+        "bathroom-walk-in-shower",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-pipe-leak-test",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πριν κλείσουν οι τοίχοι, οι νέοι σωλήνες νερού ελέγχονται για διαρροές (για παράδειγμα με δοκιμή πίεσης); Ποιος το κάνει: εσείς ή ο υδραυλικός;",
+        "ar": "قبل إغلاق الجدران، هل تُفحص أنابيب الماء الجديدة للتأكد من عدم وجود تسرب (مثلًا باختبار الضغط)؟ ومن يقوم بذلك: أنت أم السبّاك؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:bathroom-renovation-step-by-step",
+        "answers:concealed-cistern-pros-cons",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-who-buys-and-coordinates",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Σε μια ανακαίνιση μπάνιου, ποιος αγοράζει συνήθως τα πλακάκια και τα είδη υγιεινής: ο πελάτης ή εσείς; Και ποιος συντονίζει τον υδραυλικό και τον ηλεκτρολόγο;",
+        "ar": "في تجديد الحمّام، من يشتري عادةً البلاط والأدوات الصحية: الزبون أم أنت؟ ومن ينسّق العمل مع السبّاك والكهربائي؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:bathroom-renovation-step-by-step",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-tiles-over-tiles",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Βάζετε ποτέ καινούργια πλακάκια πάνω σε παλιά; Αν ναι, σε ποιες περιπτώσεις, και πώς ετοιμάζετε την παλιά επιφάνεια ώστε να πιάσει η κόλλα;",
+        "ar": "هل تركّب أحيانًا بلاطًا جديدًا فوق البلاط القديم؟ إذا كان الجواب نعم، ففي أي حالات؟ وكيف تجهّز سطح البلاط القديم حتى يتماسك عليه اللاصق؟"
+      },
+      "options": [],
+      "photos": [
+        106
+      ],
+      "about": [
+        "answers:tile-over-old-tiles",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-cistern-access",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στα εντοιχιζόμενα καζανάκια που τοποθετείτε, αν χαλάσει ο μηχανισμός, επισκευάζεται από το άνοιγμα του πλήκτρου χωρίς να σπάσει ο τοίχος; Μπορούμε να το γράψουμε έτσι στο site;",
+        "ar": "في صناديق الطرد المخفية التي تركّبها، إذا تعطّلت الآلية، هل يمكن إصلاحها من فتحة زر الطرد من دون كسر الجدار؟ هل يمكننا أن نكتب ذلك في الموقع؟"
+      },
+      "options": [],
+      "photos": [
+        116
+      ],
+      "about": [
+        "answers:concealed-cistern-pros-cons",
+        "glossary:wall-hung-toilet",
+        "guide:bathroom-renovation-step-by-step",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-grey-tiles-shower-brickwork",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο μπάνιο με τα γκρι πλακάκια και την κόγχη, τι είναι τα χαμηλά τούβλα στη γωνία της ντουζιέρας; Είναι κτιστή βάση ντουζιέρας, ένα χαμηλό τοιχάκι (σκαλοπάτι) που κρατά το νερό, ή κάτι άλλο;",
+        "ar": "في الحمّام ذي البلاط الرمادي والتجويف في الجدار، ما هو الطوب المنخفض في زاوية الدش؟ هل هو قاعدة دش مبنية، أم حاجز منخفض (درجة) يحبس الماء، أم شيء آخر؟"
+      },
+      "options": [],
+      "photos": [
+        428
+      ],
+      "about": [
+        "bathroom-renovation-grey-tiles",
+        "guide:bathroom-renovation-step-by-step",
+        "glossary:shower-base",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-ceiling-plasterboard",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο μπάνιο με τα ριγέ πλακάκια, η γυψοσανίδα στο ταβάνι είναι η πράσινη, ανθεκτική στην υγρασία; Βάζετε πάντα αυτόν τον τύπο σε μπάνια;",
+        "ar": "في الحمّام ذي البلاط المخطط، هل ألواح الجبس في السقف هي الألواح الخضراء المقاومة للرطوبة؟ وهل تستعمل هذا النوع دائمًا في الحمّامات؟"
+      },
+      "options": [],
+      "photos": [
+        248
+      ],
+      "about": [
+        "bathroom-renovation-striped-tiles",
+        "glossary:plasterboard",
+        "guide:bathroom-renovation-step-by-step",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "renovations-shallow-floor-shower",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Όταν το δάπεδο δεν έχει αρκετό βάθος για ντουζιέρα στο ίδιο επίπεδο με το μπάνιο, ποια λύση προτείνετε: κτιστή βάση ντουζιέρας με πλακάκι, έτοιμη σκάφη ντουζιέρας, ή κάτι άλλο;",
+        "ar": "عندما لا يكون في الأرضية عمق كافٍ لدش في نفس مستوى أرضية الحمّام، ما الحل الذي تقترحه: قاعدة دش مبنية ومكسوة بالبلاط، أم حوض دش جاهز، أم شيئًا آخر؟"
+      },
+      "options": [],
+      "photos": [
+        33
+      ],
+      "about": [
+        "guide:bathroom-renovation-step-by-step",
+        "glossary:shower-base",
+        "small-bathroom-renovation",
+        "services:renovations"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-rebar-red-coat",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο ταβάνι με τα φανερά σίδερα, τι ήταν το κόκκινο υλικό που πέρασες στα σίδερα; (π.χ. αντισκωριακό αστάρι, τσιμεντοειδές αντιδιαβρωτικό, μίνιο;) Το χρησιμοποιείς σε κάθε τέτοια επισκευή;",
+        "ar": "في السقف الذي ظهر فيه حديد التسليح، ما هي المادة الحمراء التي دهنت بها الحديد؟ (مثلاً: برايمر مضاد للصدأ، أو مادة إسمنتية مضادة للتآكل، أو مينيوم؟) وهل تستعملها في كل إصلاح من هذا النوع؟"
+      },
+      "options": [],
+      "photos": [
+        223,
+        224
+      ],
+      "about": [
+        "ceiling-exposed-rebar-repair",
+        "guide:small-repairs-guide",
+        "glossary:anti-corrosion-coating",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-rebar-cleaning",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πριν περάσεις το προστατευτικό στα σίδερα, πώς τα καθαρίζεις από τη σκουριά; (συρματόβουρτσα, τροχός με βούρτσα, κάτι άλλο;) Και ως πού ανοίγεις το μπετόν γύρω τους;",
+        "ar": "قبل أن تدهن طبقة الحماية على الحديد، كيف تنظفه من الصدأ؟ (فرشاة سلك، صاروخ (جلّاخة) بفرشاة، أو شيء آخر؟) وإلى أي حد تفتح الخرسانة حول الحديد؟"
+      },
+      "options": [],
+      "photos": [
+        223,
+        851
+      ],
+      "about": [
+        "guide:small-repairs-guide",
+        "ceiling-exposed-rebar-repair",
+        "ceiling-crack-rusted-rebar",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-repair-mortar-type",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Με τι υλικό ξαναχτίζεις το κομμάτι πάνω από τα σίδερα; Έτοιμο επισκευαστικό κονίαμα (σε σακί) ή απλό τσιμεντοκονίαμα/σοβά; Το γκρι σκούρο υλικό στη φωτογραφία τι είναι;",
+        "ar": "بأي مادة تعيد بناء الجزء فوق الحديد؟ هل هي ملاط إصلاح جاهز (في كيس) أم ملاط إسمنتي عادي أو لياسة عادية؟ وما هي المادة الرمادية الغامقة في الصورة؟"
+      },
+      "options": [],
+      "photos": [
+        225
+      ],
+      "about": [
+        "ceiling-exposed-rebar-repair",
+        "guide:small-repairs-guide",
+        "glossary:repair-mortar",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-crack-rebar-same-method",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο υπνοδωμάτιο με τη ρωγμή στο ταβάνι, αφού άνοιξες τη ρωγμή και φάνηκε το σκουριασμένο σίδερο, έκανες την ίδια επισκευή (καθάρισμα, προστατευτικό, επισκευαστικό κονίαμα) ή κάτι διαφορετικό;",
+        "ar": "في غرفة النوم التي فيها شق في السقف، بعد أن فتحت الشق وظهر الحديد الصدئ، هل قمت بالإصلاح نفسه (تنظيف، ثم طبقة حماية، ثم ملاط إصلاح) أم بشيء مختلف؟"
+      },
+      "options": [],
+      "photos": [
+        851
+      ],
+      "about": [
+        "ceiling-crack-rusted-rebar",
+        "guide:small-repairs-guide",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-ceiling-hole-cause",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στο ταβάνι με την τρύπα: τι φαινόταν μέσα στην τρύπα (ξύλινες σανίδες, καλάμια, κάτι άλλο;), γιατί έπεσε το κομμάτι και με τι υλικό την έκλεισες; Και οι λεκέδες ανάμεσα στα παράθυρα από τι ήταν;",
+        "ar": "في السقف الذي فيه ثقب: ماذا كان يظهر داخل الثقب (ألواح خشب، قصب، شيء آخر؟)، ولماذا سقطت القطعة، وبأي مادة أغلقت الثقب؟ وما كان سبب البقع بين النافذتين؟"
+      },
+      "options": [],
+      "photos": [
+        662,
+        663,
+        669
+      ],
+      "about": [
+        "ceiling-hole-damp-stains",
+        "guide:small-repairs-guide",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-recurring-crack-materials",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Όταν μια ρωγμή ξανανοίγει μετά το στοκάρισμα, τι κάνεις; Βάζεις υαλόπλεγμα, ελαστικό στόκο ή ακρυλική μαστίχη, ή κάτι άλλο; Και στα κανάλια που αφήνουν ο υδραυλικός και ο ηλεκτρολόγος, βάζεις πλέγμα;",
+        "ar": "عندما يعود الشق وينفتح بعد التعجين، ماذا تفعل؟ هل تضع شبكة ألياف زجاجية، أو معجوناً مرناً، أو معجون أكريليك (ماستيك)، أو شيئاً آخر؟ وفي المجاري التي يتركها السبّاك والكهربائي في الجدران، هل تضع شبكة تقوية؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "answers:crack-keeps-coming-back",
+        "answers:closing-wall-after-plumber-electrician",
+        "guide:small-repairs-guide",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-who-closes-chases",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Όταν δουλεύεις με τον υδραυλικό ή τον ηλεκτρολόγο, ποιος κλείνει τα κανάλια στους τοίχους, εσύ ή εκείνοι; Μπορούμε να γράψουμε στο site ότι αναλαμβάνεις εσύ το κλείσιμο και το φινίρισμα μετά από αυτούς;",
+        "ar": "عندما تعمل مع السبّاك أو الكهربائي، من يغلق المجاري في الجدران، أنت أم هم؟ وهل نستطيع أن نكتب في الموقع أنك تتولى إغلاق الجدران وتشطيبها بعد انتهاء عملهم؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:small-repairs-guide",
+        "answers:closing-wall-after-plumber-electrician",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "repairs-stain-primer",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Πριν βάψεις πάνω από έναν λεκέ υγρασίας που έχει στεγνώσει, περνάς κάποιο ειδικό αστάρι για λεκέδες; Αν ναι, τι τύπο (όχι μάρκα);",
+        "ar": "قبل أن تطلي فوق بقعة رطوبة جفّت، هل تدهن برايمر خاصاً بالبقع؟ إذا كان نعم، فما نوعه (ليس اسم الماركة)؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:small-repairs-guide",
+        "answers:damp-stain-on-ceiling",
+        "services:repairs"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-shutters-primer-paint",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στα παλιά κρεμ παντζούρια που έτριψες και έβαψες: τι αστάρι και τι χρώμα πέρασες; Ήταν νερού ή διαλύτη (π.χ. βερνικόχρωμα με διαλυτικό);",
+        "ar": "في الشيش القديم بلون الكريم الذي صنفرته وطليته: ما نوع طبقة الأساس (البرايمر) وما نوع الطلاء الذي استعملته؟ هل كان طلاءً مائيًا أم طلاءً زيتيًا يُخفف بالتنر؟"
+      },
+      "options": [],
+      "photos": [
+        67,
+        69
+      ],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "answers:paint-over-old-shutter-paint",
+        "wooden-shutters-restoration",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-shutters-bottom-repair",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στα ίδια παντζούρια, οι κάτω άκρες ήταν φθαρμένες. Το ξύλο εκεί ήταν σάπιο; Το διόρθωσες με στόκο ξύλου ή έβαλες καινούργιο κομμάτι ξύλο;",
+        "ar": "في الشيش نفسه كانت الأطراف السفلية تالفة. هل كان الخشب هناك متعفنًا؟ هل أصلحته بمعجون الخشب، أم وضعت قطعة خشب جديدة مكانه؟"
+      },
+      "options": [],
+      "photos": [
+        65,
+        66,
+        67
+      ],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "glossary:wood-rot",
+        "wooden-shutters-restoration",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-filler-can",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στη φωτογραφία 64 υπάρχει πάνω στο παντζούρι ένα κουτί με πράσινο καπάκι. Τι είναι; Στόκος για ξύλο;",
+        "ar": "في الصورة رقم 64 توجد علبة بغطاء أخضر فوق درفة الشيش. ما هي؟ هل هي معجون للخشب؟"
+      },
+      "options": [],
+      "photos": [
+        64
+      ],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "wooden-shutters-restoration",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-shutters-taken-down",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Τα παντζούρια τα βγάζεις πάντα από τη θέση τους για να τα τρίψεις και να τα βάψεις, ή κάποιες φορές τα δουλεύεις κρεμασμένα στη θέση τους;",
+        "ar": "هل تفك الشيش دائمًا من مكانه لتصنفره وتطليه، أم تعمل عليه أحيانًا وهو معلق في مكانه؟"
+      },
+      "options": [],
+      "photos": [
+        64,
+        67
+      ],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-louvred-panels",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στα παντζούρια σε χρώμα ξύλου (φωτογραφίες 467-469), οι ταμπλάδες που είχαν σκάσει άλλαξαν με καινούργιο ξύλο ή απλώς τρίφτηκαν; Στη φωτογραφία 469 οι ταμπλάδες φαίνονται διαφορετικοί από τη 467.",
+        "ar": "في الشيش بلون الخشب (الصور 467 إلى 469)، هل غيّرت الحشوات المشققة بخشب جديد، أم صنفرتها فقط؟ في الصورة 469 تبدو الحشوات مختلفة عن الصورة 467."
+      },
+      "options": [],
+      "photos": [
+        467,
+        468,
+        469
+      ],
+      "about": [
+        "louvred-shutters-wood-finish",
+        "answers:grey-cracked-wood-rotten",
+        "glossary:weathered-wood",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-preservative-use",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Βάζεις συντηρητικό ξύλου στο γυμνό ξύλο πριν από το αστάρι ή το βερνίκι; Σε ποιες δουλειές (παντζούρια, πόρτες, πέργκολες);",
+        "ar": "هل تضع مادة حافظة للخشب على الخشب العاري قبل طبقة الأساس أو الورنيش؟ وفي أي أعمال (الشيش، الأبواب، البرغولات)؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "glossary:wood-preservative",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-pergola-prep",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Στην πέργκολα της ταράτσας, πριν από το βερνίκι, το ξύλο τρίφτηκε, πλύθηκε ή μόνο καθαρίστηκε; Πόσα χέρια βερνίκι πέρασες;",
+        "ar": "في البرغولا على السطح، قبل الورنيش: هل صنفرت الخشب، أم غسلته، أم نظفته فقط؟ وكم طبقة ورنيش وضعت؟"
+      },
+      "options": [],
+      "photos": [
+        907,
+        911,
+        920
+      ],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "roof-terrace-wooden-pergola",
+        "glossary:lattice",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-revarnish-interval",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Κάθε πότε συμβουλεύεις να ξαναπερνάει βερνίκι σε πέργκολες και καφασωτά που είναι στον ήλιο, και κάθε πότε σε παντζούρια;",
+        "ar": "كل كم من الوقت تنصح بإعادة الورنيش للبرغولات والألواح الشبكية المعرضة للشمس؟ وكل كم من الوقت للشيش؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "answers:wooden-pergola-needs-varnish",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-hardware",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Τα σιδερικά (μεντεσέδες, χερούλια, μπετούγιες) τα ξεβιδώνεις πριν βάψεις, τα σκεπάζεις με ταινία ή τα βάφεις μαζί με το ξύλο;",
+        "ar": "القطع المعدنية (المفصلات، المقابض، المزاليج): هل تفكها قبل الطلاء، أم تغطيها بشريط لاصق، أم تطليها مع الخشب؟"
+      },
+      "options": [],
+      "photos": [
+        69,
+        469
+      ],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "services:wood"
+      ],
+      "asked": "2026-10-01",
+      "answer": null
+    },
+    {
+      "id": "wood-doors-jobs",
+      "status": "open",
+      "topic": "knowledge",
+      "question": {
+        "el": "Έχεις ανανεώσει και ξύλινες εξώπορτες ή άλλες ξύλινες πόρτες; Αν ναι, υπάρχουν φωτογραφίες στο Facebook για να τις βάλουμε στο site;",
+        "ar": "هل جددت أيضًا أبوابًا خارجية خشبية أو أبوابًا خشبية أخرى؟ إذا كان الجواب نعم، هل توجد صور على فيسبوك لنضعها في الموقع؟"
+      },
+      "options": [],
+      "photos": [],
+      "about": [
+        "guide:outdoor-wood-care-guide",
+        "services:wood"
       ],
       "asked": "2026-10-01",
       "answer": null

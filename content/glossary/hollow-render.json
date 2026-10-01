@@ -1,0 +1,63 @@
+{
+  "term": {
+    "el": "Κούφιος (φουσκωμένος) σοβάς",
+    "en": "Hollow (blistered) plaster",
+    "ar": "الجص الأجوف (المنتفخ)"
+  },
+  "aliases": {
+    "el": [
+      "κούφιο σοβά",
+      "κούφιος σοβάς",
+      "κούφιους σοβάδες",
+      "κούφιοι σοβάδες",
+      "σοβάς που ακούγεται κούφιος",
+      "φουσκωμένο σοβά",
+      "φουσκωμένος σοβάς",
+      "φουσκωμένους σοβάδες",
+      "φουσκωμένοι σοβάδες",
+      "σοβάδες που είχαν φουσκώσει",
+      "σοβάς είχε φουσκώσει",
+      "σοβάς έχει φουσκώσει",
+      "σοβάς που έχει φουσκώσει"
+    ],
+    "en": [
+      "hollow plaster",
+      "hollow render",
+      "plaster that sounds hollow",
+      "plaster sounds hollow",
+      "blistered plaster",
+      "blistered render"
+    ],
+    "ar": [
+      "جص أجوف",
+      "جص الأجوف",
+      "جص منتفخ",
+      "جص المنتفخ",
+      "جص يصدر صوتاً أجوف"
+    ]
+  },
+  "short": {
+    "el": "Σοβάς που έχει ξεκολλήσει από τον τοίχο ή το ταβάνι πίσω του. Ακούγεται υπόκωφος όταν τον χτυπάτε ελαφρά και συχνά φουσκώνει ή ραγίζει πριν πέσει.",
+    "en": "Plaster that has come away from the wall or ceiling behind it. It sounds dull when you tap it lightly, and often blisters or cracks before it falls.",
+    "ar": "جص انفصل عن الجدار أو السقف خلفه. يصدر صوتاً مكتوماً عند النقر عليه بخفة، وكثيراً ما ينتفخ أو يتشقق قبل أن يسقط."
+  },
+  "body": {
+    "el": "Ο σοβάς κρατιέται επειδή είναι κολλημένος στο τούβλο ή στο μπετόν. Όταν αυτή η πρόσφυση χαθεί, ανάμεσά τους μένει κενό. Ο σοβάς μπορεί να μείνει στη θέση του για καιρό, όμως ακούγεται κούφιος όταν τον χτυπάτε, φουσκώνει, ραγίζει και κάποια στιγμή πέφτει.\n\nΗ πιο συνηθισμένη αιτία είναι η υγρασία, από διαρροή, από ανερχόμενη υγρασία ή από νερό που μπαίνει απ' έξω. Άλλες αιτίες είναι η ηλικία, οι κραδασμοί και, σε ταβάνια και μπαλκόνια, η διάβρωση οπλισμού που σπρώχνει το υλικό προς τα έξω.\n\nΚούφιος σοβάς δεν στοκάρεται από πάνω. Αφαιρείται μέχρι να βρεθεί γερή βάση, το κενό γεμίζει με νέο σοβά, συχνά με πλέγμα εκεί που ο νέος συναντά τον παλιό, και μετά ακολουθούν στόκος και βαφή. Σε ταβάνι, αν ακούγεται κούφιος σε μεγάλη έκταση, κρατήστε τον χώρο από κάτω ελεύθερο μέχρι να τον δει κάποιος.",
+    "en": "Plaster stays up because it is bonded to the brick or concrete. When that bond is lost, a gap forms between them. The plaster may stay in place for a long time, but it sounds hollow when you tap it, it blisters, cracks and, at some point, falls.\n\nThe most common cause is damp, from a leak, from rising damp or from water getting in from outside. Other causes are age, vibration and, on ceilings and balconies, rebar corrosion pushing the material outwards.\n\nHollow plaster isn't filled over. It is removed until a sound base is reached, the gap is filled with new plaster, often with mesh where new meets old, and then come filler and paint. On a ceiling, if it sounds hollow over a large area, keep the space underneath clear until someone has looked at it.",
+    "ar": "يبقى الجص في مكانه لأنه ملتصق بالطوب أو الخرسانة. وعندما يزول هذا الالتصاق يتكوّن فراغ بينهما. قد يبقى الجص في مكانه مدة طويلة، لكنه يصدر صوتاً أجوف عند النقر عليه، وينتفخ ويتشقق، ثم يسقط في وقت ما.\n\nالسبب الأكثر شيوعاً هو الرطوبة، من تسريب، أو من الرطوبة الصاعدة، أو من ماء يدخل من الخارج. ومن الأسباب الأخرى قِدم البناء والاهتزازات، وفي الأسقف والشرفات صدأ حديد التسليح الذي يدفع المادة إلى الخارج.\n\nالجص الأجوف لا يُعجن من فوقه، بل يُزال حتى نصل إلى أساس سليم، وتُملأ الفجوة بلياسة جديدة، وكثيراً ما توضع شبكة تقوية حيث يلتقي الجديد بالقديم، ثم يأتي المعجون والطلاء. وفي السقف، إذا كان الصوت أجوف على مساحة كبيرة، فاترك المكان تحته فارغاً حتى يراه أحد المختصين."
+  },
+  "categories": [
+    "repairs",
+    "painting"
+  ],
+  "photo": {
+    "project": "courtyard-wall-plaster-repair",
+    "file": "step-01.jpg"
+  },
+  "related": [
+    "render",
+    "filler",
+    "peeling-paint",
+    "rising-damp"
+  ]
+}
