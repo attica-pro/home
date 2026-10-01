@@ -7,52 +7,261 @@
   "nav": {
     "home": "Home",
     "services": "Services",
-    "insulation": "Insulation",
-    "painting": "Painting",
     "portfolio": "Our Work",
     "knowledgeHub": "Knowledge Hub",
     "contact": "Contact",
     "getQuote": "Free Estimate"
   },
   "hero": {
-    "eyebrow": "Professional insulation & painting in Attica",
-    "title": "Permanent solutions for <mark>humidity</mark> and space renovation in Attica",
-    "subtitle": "Professional insulation, waterproofing and painting. We eliminate humidity at its root and give new life to your home or business.",
+    "eyebrow": "Insulation · Painting · Renovations in Attica",
+    "title": "Your home, done right.",
+    "subtitle": "From the roof to the courtyard: insulation, painting, renovations and repairs for Attica's homes. One team for the whole job, with 18 years of experience.",
     "ctaPrimary": "Free Estimate",
-    "ctaSecondary": "View Our Work"
+    "illustrationAlt": "Drawing: a worker in a protective suit spraying insulation on a flat roof, Athens apartment blocks behind"
   },
-  "servicesSnippet": {
+  "services": {
+    "eyebrow": "What we do",
     "title": "Our Services",
-    "subtitle": "Complete insulation and painting solutions, tailored to your space.",
-    "insulationTitle": "Insulation & Waterproofing",
-    "insulationDesc": "Permanent treatment of humidity, roofs, walls and basements with modern materials.",
-    "paintingTitle": "Professional Painting",
-    "paintingDesc": "Interior & exterior painting, facade renovation and decorative finishes.",
-    "learnMore": "Learn More"
-  },
-  "testimonials": {
-    "title": "What Our Clients Say",
-    "subtitle": "Trust is built with projects, not words.",
-    "items": [
-      {
-        "name": "Eleni Papadopoulou",
-        "location": "Chalandri",
-        "text": "After years of basement humidity, the crew solved the problem permanently. Excellent work and consistency.",
-        "rating": 5
+    "subtitle": "From roofs to bathrooms: insulation, painting and renovation work across Attica.",
+    "partners": "For electrical and plumbing work we team up with trusted electricians and plumbers, so you have one person for the whole job.",
+    "heroCta": "Request Free Estimate",
+    "whyTitle": "Why Trust Us",
+    "learnMore": "Learn More",
+    "items": {
+      "insulation": {
+        "name": "Insulation",
+        "place": "Roof",
+        "title": "Insulation & Waterproofing",
+        "cardDesc": "Roofs, walls and basements: waterproofing membranes, spray polyurethane and external wall insulation.",
+        "subtitle": "Permanent solutions against humidity, with high-durability materials and 18 years of experience.",
+        "sections": [
+          {
+            "title": "Roof Waterproofing",
+            "text": "We apply elastomeric bituminous membranes and cool-roof materials for complete roof waterproofing, ensuring long-term protection from leaks."
+          },
+          {
+            "title": "Wall & Basement Insulation",
+            "text": "We treat rising damp with specialized renders and cementitious waterproofing coatings, stopping the problem at its root."
+          },
+          {
+            "title": "External Wall Thermal Insulation",
+            "text": "External thermal insulation composite systems (ETICS) that reduce energy loss by up to 40% and upgrade the building's appearance."
+          },
+          {
+            "title": "Bathroom & Wet Area Waterproofing",
+            "text": "Specialized waterproofing systems under tiles that prevent water penetration into adjacent spaces."
+          },
+          {
+            "title": "Spray Polyurethane Foam",
+            "text": "Polyurethane foam sprayed onto flat roofs, tiled roofs, metal sheeting and ceilings, forming one seamless layer of insulation with no joints."
+          },
+          {
+            "title": "Metal & Corrugated Roofs",
+            "text": "Gutter repairs, anti-rust protection and waterproof coatings for metal sheet and corrugated roofs."
+          }
+        ],
+        "whyItems": [
+          "Free site inspection and detailed cost estimate",
+          "Certified materials from leading manufacturers",
+          "Written warranty on all work performed",
+          "Clean and organized way of working"
+        ]
       },
-      {
-        "name": "Giorgos Ioannidis",
-        "location": "Glyfada",
-        "text": "Our roof was fully waterproofed and the facade painting makes the house look brand new.",
-        "rating": 5
+      "painting": {
+        "name": "Painting",
+        "place": "Walls",
+        "title": "Professional Painting",
+        "cardDesc": "Interior & exterior painting, facade renovation and decorative finishes.",
+        "subtitle": "Interior and exterior painting with excellent technical training and attention to detail.",
+        "sections": [
+          {
+            "title": "Interior Painting",
+            "text": "We use certified eco-friendly paints, with meticulous surface preparation (filling, priming) for a flawless finish."
+          },
+          {
+            "title": "Exterior Painting & Facades",
+            "text": "Durable acrylic and silicone-based paints that protect the facade from weather conditions for years."
+          },
+          {
+            "title": "Decorative Finishes",
+            "text": "Special decorative renders, textured finishes and cement-look finishes for a modern aesthetic."
+          },
+          {
+            "title": "Anti-Rust Protection for Metal Surfaces",
+            "text": "Painting of railings, doors and metal structures with long-lasting anti-corrosion systems."
+          },
+          {
+            "title": "Damp Walls & Ceiling Repair",
+            "text": "Scraping, re-plastering and filling where damp or fallen plaster has damaged walls and ceilings, before any paint goes on."
+          },
+          {
+            "title": "Fire Damage Restoration",
+            "text": "Soot cleaning, stain-blocking primers and fresh paint to make a fire-damaged room livable again."
+          }
+        ],
+        "whyItems": [
+          "Protection of furniture & floors during work",
+          "Completion within the agreed timeline",
+          "Quality materials from leading paint manufacturers",
+          "Site clean-up after completion"
+        ]
       },
-      {
-        "name": "Maria Konstantinou",
-        "location": "Marousi",
-        "text": "Very professional, kept the delivery schedule and the price was fair for the quality of work.",
-        "rating": 5
+      "renovations": {
+        "name": "Renovations",
+        "place": "Bathroom & kitchen",
+        "title": "Bathroom & Kitchen Renovations",
+        "cardDesc": "Complete bathroom and kitchen renovations, from demolition and plumbing to tiles and fixtures.",
+        "subtitle": "We rebuild bathrooms and kitchens from the bare walls up, with waterproofing at every step.",
+        "sections": [
+          {
+            "title": "Full Bathroom Renovation",
+            "text": "Removal of old tiles and fixtures, new plumbing pipework, and a finished bathroom handed back ready to use."
+          },
+          {
+            "title": "Waterproofing Before Tiling",
+            "text": "A waterproofing layer under the shower and floor tiles, so water never reaches the rooms next door or below."
+          },
+          {
+            "title": "Tiles & Fixtures",
+            "text": "Wall and floor tiling, concealed cisterns, shower enclosures, basins and bathroom furniture."
+          },
+          {
+            "title": "Kitchen Renovation",
+            "text": "From planning the new layout to stripping out the old kitchen, pipework, tiling and painting the room."
+          }
+        ],
+        "whyItems": [
+          "One person responsible for the whole job, with trusted electricians and plumbers for the wiring and pipework",
+          "Waterproofing in every bathroom, not just new tiles",
+          "The rest of your home protected from dust and debris",
+          "Debris removed and the space cleaned at the end"
+        ]
+      },
+      "demolition": {
+        "name": "Demolition",
+        "place": "Inside walls",
+        "title": "Wall Demolition",
+        "cardDesc": "Knocking down walls, stripping tiles and plaster, and taking the debris away.",
+        "subtitle": "We open up spaces and strip out whatever has to go, leaving the room clean and ready for what comes next.",
+        "sections": [
+          {
+            "title": "Interior Wall Demolition",
+            "text": "We take down non-load-bearing walls to join spaces, such as a kitchen and living room, and tidy up the floor, walls and ceiling around the opening."
+          },
+          {
+            "title": "Stripping Tiles & Plaster",
+            "text": "Old tiles, plaster and wall coverings removed back to the brick, as the first step of a renovation."
+          },
+          {
+            "title": "Openings in Walls",
+            "text": "Creating or widening openings for doors, windows and passageways."
+          },
+          {
+            "title": "Debris Removal",
+            "text": "The debris is bagged and taken away, so the space is left clean."
+          }
+        ],
+        "whyItems": [
+          "Floors, furniture and window frames protected from dust and knocks",
+          "Load-bearing walls only with an engineer's approval",
+          "Debris removed and the space cleaned at the end",
+          "The space handed back ready for plastering, tiling or painting"
+        ]
+      },
+      "paving": {
+        "name": "Paving",
+        "place": "Yard & terrace",
+        "title": "Paving & Courtyards",
+        "cardDesc": "Stone paving, concrete walkways and balcony tiles for courtyards and outdoor spaces.",
+        "subtitle": "Stone, concrete and tiles for courtyards, walkways and balconies that stand up to the weather.",
+        "sections": [
+          {
+            "title": "Stone Paving & Grouting",
+            "text": "Laying and grouting stone slabs in courtyards, entrances and walkways, including shop and restaurant courtyards."
+          },
+          {
+            "title": "Concrete Walkways & Pavements",
+            "text": "New reinforced concrete for pavements, paths and yard surfaces."
+          },
+          {
+            "title": "Balcony & Veranda Tiles",
+            "text": "Replacing worn tiles with the right fall, so rainwater drains away instead of pooling."
+          },
+          {
+            "title": "Refreshing Outdoor Spaces",
+            "text": "Repairs, cleaning and new grout joints that bring tired courtyards back to life."
+          }
+        ],
+        "whyItems": [
+          "Correct falls so water runs off",
+          "Waterproofing under the tiles where it's needed",
+          "Materials suited to outdoor use",
+          "A tidy site during the work and after"
+        ]
+      },
+      "wood": {
+        "name": "Woodwork",
+        "place": "Windows, doors, pergolas",
+        "title": "Wooden Shutters, Doors & Pergolas",
+        "cardDesc": "Restoring, painting and varnishing wooden shutters, doors and pergolas.",
+        "subtitle": "We bring old wooden shutters, doors and pergolas back to life, so you don't have to replace them.",
+        "sections": [
+          {
+            "title": "Shutters & Wooden Windows",
+            "text": "Sanding, repairing and painting or varnishing old wooden shutters and windows."
+          },
+          {
+            "title": "Wooden Doors",
+            "text": "Stripping old paint and applying a new finish to front doors and interior doors."
+          },
+          {
+            "title": "Pergolas & Trellises",
+            "text": "Varnishing and maintaining wooden pergolas, trellises and other wooden structures on roofs and terraces."
+          },
+          {
+            "title": "Protection from Damp & Sun",
+            "text": "Wood preservatives and exterior varnishes that protect the wood from the weather."
+          }
+        ],
+        "whyItems": [
+          "Repair instead of replacement wherever possible",
+          "Proper surface preparation before every coat",
+          "Materials made for outdoor use",
+          "Surroundings protected while we work"
+        ]
+      },
+      "repairs": {
+        "name": "Repairs",
+        "place": "Around the house",
+        "title": "Small Repairs & Odd Jobs",
+        "cardDesc": "Small repairs around the home: cracks, plaster, tiles, grout, silicone and anything else that needs a hand.",
+        "subtitle": "The small jobs nobody wants to take on. We come round and finish them properly.",
+        "sections": [
+          {
+            "title": "Cracks & Plaster",
+            "text": "Closing cracks, patching fallen plaster and filling before painting."
+          },
+          {
+            "title": "Tiles & Grout",
+            "text": "Replacing broken tiles, re-grouting and re-sealing with silicone in bathrooms and kitchens."
+          },
+          {
+            "title": "Sealing",
+            "text": "Sealing around drains, pipes and window frames, wherever water gets in."
+          },
+          {
+            "title": "Finishing After Other Trades",
+            "text": "After the plumber or electrician: closing wall chases, re-plastering and painting the spot."
+          }
+        ],
+        "whyItems": [
+          "No job is too small",
+          "Several small jobs in one visit",
+          "A clear price before we start",
+          "Clean-up after the repair"
+        ]
       }
-    ]
+    }
   },
   "process": {
     "eyebrow": "How we work",
@@ -82,77 +291,23 @@
     "subtitle": "A glimpse of the most recent transformations we've completed.",
     "viewAll": "View All Projects"
   },
-  "insulationPage": {
-    "title": "Insulation & Waterproofing",
-    "subtitle": "Permanent solutions against humidity, with high-durability materials and proven expertise.",
-    "heroCta": "Request Free Estimate",
-    "sections": [
-      {
-        "title": "Roof Waterproofing",
-        "text": "We apply elastomeric bituminous membranes and cool-roof materials for complete roof waterproofing, ensuring long-term protection from leaks."
-      },
-      {
-        "title": "Wall & Basement Insulation",
-        "text": "We treat rising damp with specialized renders and cementitious waterproofing coatings, stopping the problem at its root."
-      },
-      {
-        "title": "External Wall Thermal Insulation",
-        "text": "External thermal insulation composite systems (ETICS) that reduce energy loss by up to 40% and upgrade the building's appearance."
-      },
-      {
-        "title": "Bathroom & Wet Area Waterproofing",
-        "text": "Specialized waterproofing systems under tiles that prevent water penetration into adjacent spaces."
-      }
-    ],
-    "whyTitle": "Why Trust Us",
-    "whyItems": [
-      "Free site inspection and detailed cost estimate",
-      "Certified materials from leading manufacturers",
-      "Written warranty on all work performed",
-      "Clean and organized way of working"
-    ]
-  },
-  "paintingPage": {
-    "title": "Professional Painting",
-    "subtitle": "Interior and exterior painting with excellent technical training and attention to detail.",
-    "heroCta": "Request Free Estimate",
-    "sections": [
-      {
-        "title": "Interior Painting",
-        "text": "We use certified eco-friendly paints, with meticulous surface preparation (filling, priming) for a flawless finish."
-      },
-      {
-        "title": "Exterior Painting & Facades",
-        "text": "Durable acrylic and silicone-based paints that protect the facade from weather conditions for years."
-      },
-      {
-        "title": "Decorative Finishes",
-        "text": "Special decorative renders, textured finishes and cement-look finishes for a modern aesthetic."
-      },
-      {
-        "title": "Anti-Rust Protection for Metal Surfaces",
-        "text": "Painting of railings, doors and metal structures with long-lasting anti-corrosion systems."
-      }
-    ],
-    "whyTitle": "Why Trust Us",
-    "whyItems": [
-      "Protection of furniture & floors during work",
-      "Completion within the agreed timeline",
-      "Quality materials from leading paint manufacturers",
-      "Site clean-up after completion"
-    ]
-  },
   "portfolioPage": {
     "title": "Our Work",
-    "subtitle": "Explore real transformations with the interactive Before/After tool.",
+    "subtitle": "Real jobs, with photos of every step. Drag to compare before and after.",
     "filterAll": "All",
-    "filterInsulation": "Insulation",
-    "filterPainting": "Painting",
-    "dragHint": "Drag to compare"
+    "dragHint": "Drag to compare",
+    "viewProject": "See the job step by step",
+    "backToPortfolio": "All projects",
+    "stepByStep": "Step by step",
+    "similarJob": "Have a similar job?",
+    "featuredTitle": "Featured projects",
+    "featuredSubtitle": "One standout job from each service.",
+    "allTitle": "All projects ({count})",
+    "jobQuestions": "Questions this job answers"
   },
   "knowledgeHubPage": {
     "title": "Knowledge Hub",
-    "subtitle": "Practical tips and technical knowledge on humidity, insulation and painting.",
+    "subtitle": "Guides and a glossary for each of our services, from waterproofing to small repairs.",
     "backToHub": "Back to Knowledge Hub",
     "minRead": "min read",
     "chapterCount": "{count} parts",
@@ -163,7 +318,30 @@
     "previousPart": "Previous part",
     "nextPart": "Next part",
     "guideComplete": "You've finished the guide",
-    "askUs": "Have a question about your own home? Talk to us."
+    "askUs": "Have a question about your own home? Talk to us.",
+    "categoriesTitle": "Categories",
+    "guidesTitle": "Guides",
+    "termsTitle": "Terms",
+    "worksTitle": "Jobs in this category",
+    "seeService": "See the service",
+    "seeAllWorks": "All jobs",
+    "glossaryTitle": "Glossary",
+    "glossarySubtitle": "The terms you'll meet in our jobs and guides, explained simply.",
+    "glossaryCta": "See all terms",
+    "seenIn": "Where you'll see it",
+    "relatedTerms": "Related terms",
+    "inCategories": "Categories",
+    "photoFrom": "Photo from the job",
+    "filterAll": "All",
+    "alsoKnownAs": "In other languages",
+    "guideCount": "{count, plural, =0 {No guides yet} one {# guide} other {# guides}}",
+    "termCount": "{count, plural, =0 {No terms} one {# term} other {# terms}}",
+    "learnInHub": "Guides and glossary for this service",
+    "answersTitle": "Quick answers",
+    "answersSubtitle": "Answers to the questions we get asked most, with examples from real jobs.",
+    "answersCta": "All answers",
+    "answerJobs": "Jobs that show it",
+    "moreAnswers": "More answers"
   },
   "contactPage": {
     "title": "Get In Touch",
@@ -188,6 +366,7 @@
     "errorMessage": "Something went wrong. Please try again or call us directly.",
     "directTitle": "Direct Contact",
     "callUs": "Call Us",
+    "landline": "Landline",
     "whatsapp": "WhatsApp",
     "viber": "Viber",
     "areaTitle": "Service Area",
@@ -205,10 +384,10 @@
     "whatsapp": "WhatsApp"
   },
   "common": {
-    "categoryInsulation": "Insulation",
-    "categoryPainting": "Painting",
     "before": "Before",
     "after": "After",
-    "readGuide": "Read the full guide"
+    "readGuide": "Read the full guide",
+    "address": "Kerkyras 140, Ano Kypseli, Athens",
+    "trades": "Insulation · Painting · Renovations"
   }
 }
