@@ -1,18 +1,25 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
-import { Check } from 'lucide-react';
+import { ArrowRight, Check } from 'lucide-react';
 
 import { serviceIllustration, type ServiceSlug } from '@/data/services';
 import { assetPath } from '@/lib/site-config';
+import type { GuideMeta } from '@/lib/guides';
+import type { ProjectSummary } from '@/lib/projects';
+import type { Locale } from '@/i18n';
+import { GuideCard } from '@/components/knowledge/GuideCard';
+import { ProjectCard } from '@/components/portfolio/ProjectCard';
 import { Button } from '@/components/ui/button';
 
 interface ServicePageContentProps {
   locale: string;
   slug: ServiceSlug;
+  works: ProjectSummary[];
+  guides: GuideMeta[];
 }
 
-export function ServicePageContent({ locale, slug }: ServicePageContentProps) {
+export function ServicePageContent({ locale, slug, works, guides }: ServicePageContentProps) {
   const tServices = useTranslations('services');
   const tHub = useTranslations('knowledgeHubPage');
   const t = useTranslations(`services.items.${slug}`);
@@ -53,6 +60,43 @@ export function ServicePageContent({ locale, slug }: ServicePageContentProps) {
           ))}
         </div>
       </section>
+
+      {(works.length > 0 || guides.length > 0) && (
+        <section className="border-t border-border py-16 md:py-24">
+          <div className="container space-y-16">
+            {works.length > 0 && (
+              <div>
+                <div className="flex flex-wrap items-end justify-between gap-4">
+                  <h2 className="font-display text-3xl font-bold">{tHub('worksTitle')}</h2>
+                  <Link href={`/${locale}/portfolio`} className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline">
+                    {tHub('seeAllWorks')} <ArrowRight className="h-4 w-4 rtl:rotate-180" />
+                  </Link>
+                </div>
+                <div className="mt-8 grid gap-10 md:grid-cols-2 lg:grid-cols-3">
+                  {works.map((project) => (
+                    <ProjectCard key={project.slug} project={project} locale={locale} />
+                  ))}
+                </div>
+              </div>
+            )}
+            {guides.length > 0 && (
+              <div>
+                <div className="flex flex-wrap items-end justify-between gap-4">
+                  <h2 className="font-display text-3xl font-bold">{tHub('guidesTitle')}</h2>
+                  <Link href={`/${locale}/knowledge-hub/${slug}`} className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline">
+                    {tHub('learnInHub')} <ArrowRight className="h-4 w-4 rtl:rotate-180" />
+                  </Link>
+                </div>
+                <div className="mt-8 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+                  {guides.map((guide) => (
+                    <GuideCard key={guide.slug} guide={guide} locale={locale as Locale} />
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
 
       <section className="border-t border-border bg-secondary py-16 md:py-24">
         <div className="container">

@@ -4,6 +4,8 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 
 import { locales, type Locale } from '@/i18n';
 import { isServiceSlug, serviceSlugs } from '@/data/services';
+import { getAllGuides } from '@/lib/guides';
+import { getAllProjects, toProjectSummary } from '@/lib/projects';
 import { ServicePageContent } from '@/components/services/ServicePageContent';
 
 export const dynamicParams = false;
@@ -28,5 +30,11 @@ export async function generateMetadata({
 export default function ServicePage({ params: { locale, service } }: { params: { locale: Locale; service: string } }) {
   setRequestLocale(locale);
   if (!isServiceSlug(service)) notFound();
-  return <ServicePageContent locale={locale} slug={service} />;
+  const works = getAllProjects()
+    .filter((project) => project.service === service)
+    .sort((a, b) => Number(b.featured) - Number(a.featured) || a.order - b.order)
+    .slice(0, 3)
+    .map((project) => toProjectSummary(project, locale));
+  const guides = getAllGuides().filter((guide) => guide.category === service);
+  return <ServicePageContent locale={locale} slug={service} works={works} guides={guides} />;
 }
