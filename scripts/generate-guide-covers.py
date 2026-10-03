@@ -2,8 +2,8 @@
 """Draw an abstract SVG cover for every guide: public/images/articles/<guide-slug>.svg.
 
 Each category has its own motif (roof layers, roller strokes, tiles, bricks, paving stones,
-shutter slats, a patched crack), drawn in the brand palette: limestone ground, ink lines,
-paper and olive fills, and one clay accent. The guide slug seeds the variation, so covers are
+shutter slats, a patched crack), drawn in the brand palette: lime-plaster ground, ink lines,
+paper and indigo fills, and one copper accent. The guide slug seeds the variation, so covers are
 stable between runs and different between guides of the same category.
 
 Usage: python3 scripts/generate-guide-covers.py
@@ -17,7 +17,7 @@ import random
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 W, H = 1600, 900
-LIME, PAPER, MUTED, INK, STONE, OLIVE, CLAY = '#EDE6DA', '#F7F3EC', '#E2D9CA', '#2B2A26', '#615D54', '#5E6B3A', '#A45A3B'
+LIME, PAPER, MUTED, INK, STONE, INDIGO, CLAY = '#EEEBE3', '#FAF8F2', '#E3DFD4', '#1C1E2B', '#5C5D66', '#2E3A6E', '#985623'
 LINE = f'stroke="{INK}" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"'
 THIN = f'stroke="{INK}" stroke-width="2.5" stroke-linecap="round"'
 
@@ -29,8 +29,8 @@ def pts(points):
 def insulation(r):
     out = []
     top = r.uniform(400, 450)
-    # The slab in section, from the bottom up: concrete, screed, insulation, membrane (clay).
-    layers = [(OLIVE, 0.40), (PAPER, 0.24), (MUTED, 0.24), (CLAY, 0.12)]
+    # The slab in section, from the bottom up: concrete, screed, insulation, membrane (copper).
+    layers = [(INDIGO, 0.40), (PAPER, 0.24), (MUTED, 0.24), (CLAY, 0.12)]
     y = H + 10
     for fill, share in layers:
         h = (H + 10 - top) * share
@@ -50,7 +50,7 @@ def insulation(r):
 def painting(r):
     out = [f'<rect x="0" y="0" width="{W}" height="{H}" fill="{LIME}"/>']
     angle = r.uniform(-14, -6)
-    fills = [PAPER, MUTED, OLIVE, PAPER, MUTED]
+    fills = [PAPER, MUTED, INDIGO, PAPER, MUTED]
     r.shuffle(fills)
     fills.insert(r.randrange(1, 4), CLAY)
     y = 40
@@ -74,7 +74,7 @@ def renovations(r):
     clay = (r.randrange(3, 10), r.randrange(1, 5))
     for i in range(int(W / size) + 2):
         for j in range(int(H / size) + 2):
-            fill = CLAY if (i, j) == clay else OLIVE if (i, j) in special else PAPER if (i + j) % 2 else MUTED
+            fill = CLAY if (i, j) == clay else INDIGO if (i, j) in special else PAPER if (i + j) % 2 else MUTED
             out.append(f'<rect x="{ox + i * size:.1f}" y="{oy + j * size:.1f}" width="{size}" height="{size}" fill="{fill}" {THIN}/>')
     # A shower arc and its spray.
     cx = r.uniform(950, 1250)
@@ -96,13 +96,13 @@ def demolition(r):
             # Leave a ragged hole in the wall.
             if abs(x + bw / 2 - gap_c) < gap_w * (0.6 + 0.4 * math.sin(row * 1.7 + r.random())) and 2 <= row <= 10:
                 continue
-            fill = CLAY if (row, col) == clay_at else OLIVE if r.random() < 0.12 else PAPER if r.random() < 0.6 else MUTED
+            fill = CLAY if (row, col) == clay_at else INDIGO if r.random() < 0.12 else PAPER if r.random() < 0.6 else MUTED
             out.append(f'<rect x="{x:.1f}" y="{row * bh:.1f}" width="{bw}" height="{bh}" fill="{fill}" {THIN}/>')
     # Fallen fragments at the bottom of the hole.
     for _ in range(9):
         fx, fy, s = gap_c + r.uniform(-250, 250), H - r.uniform(40, 110), r.uniform(25, 55)
         poly = [(fx + s * math.cos(a) * r.uniform(0.6, 1.1), fy + s * math.sin(a) * r.uniform(0.5, 1)) for a in sorted(r.uniform(0, 6.28) for _ in range(5))]
-        out.append(f'<polygon points="{pts(poly)}" fill="{r.choice([PAPER, MUTED, OLIVE])}" {THIN}/>')
+        out.append(f'<polygon points="{pts(poly)}" fill="{r.choice([PAPER, MUTED, INDIGO])}" {THIN}/>')
     return out
 
 
@@ -118,7 +118,7 @@ def paving(r):
             cx, cy = sum(p[0] for p in quad) / 4, sum(p[1] for p in quad) / 4
             # Shrink each stone toward its centre to leave a joint around it.
             stone = [(cx + (x - cx) * 0.86, cy + (y - cy) * 0.84) for x, y in quad]
-            fill = CLAY if (rr, c) == clay else OLIVE if r.random() < 0.18 else MUTED if r.random() < 0.5 else LIME
+            fill = CLAY if (rr, c) == clay else INDIGO if r.random() < 0.18 else MUTED if r.random() < 0.5 else LIME
             out.append(f'<polygon points="{pts(stone)}" fill="{fill}" {LINE}/>')
     return out
 
@@ -131,7 +131,7 @@ def wood(r):
     clay_panel = r.randrange(n)
     for k in range(n):
         x = x0 + k * (pw + gap)
-        out.append(f'<rect x="{x:.1f}" y="70" width="{pw}" height="{H - 140}" fill="{OLIVE if k % 2 else PAPER}" {LINE}/>')
+        out.append(f'<rect x="{x:.1f}" y="70" width="{pw}" height="{H - 140}" fill="{INDIGO if k % 2 else PAPER}" {LINE}/>')
         # Louvres in the top half, a raised panel below.
         for s in range(9):
             y = 110 + s * 38
@@ -162,12 +162,12 @@ def repairs(r):
     for k in range(3):
         yy = py - 80 + k * 70
         out.append(f'<path d="M{px + 50:.1f},{yy:.1f} q{pw / 4:.1f},-24 {pw / 2:.1f},0 t{pw / 2 - 100:.1f},0" fill="none" {THIN}/>')
-    # The putty knife: a flat blade with an olive handle and a clay ferrule, resting on the patch edge.
+    # The putty knife: a flat blade with an indigo handle and a copper ferrule, resting on the patch edge.
     kx, ky, angle = px + pw - 40, py + 60, r.uniform(-35, -20)
     out.append(f'<g transform="translate({kx:.1f} {ky:.1f}) rotate({angle:.1f})">'
                f'<path d="M0,-70 L230,-48 L230,48 L0,70 Z" fill="{PAPER}" {LINE}/>'
                f'<rect x="230" y="-34" width="46" height="68" rx="6" fill="{CLAY}" {LINE}/>'
-               f'<rect x="276" y="-28" width="230" height="56" rx="24" fill="{OLIVE}" {LINE}/>'
+               f'<rect x="276" y="-28" width="230" height="56" rx="24" fill="{INDIGO}" {LINE}/>'
                f'</g>')
     return out
 
