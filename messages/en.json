@@ -14,10 +14,13 @@
   },
   "hero": {
     "eyebrow": "Insulation · Painting · Renovations in Attica",
-    "title": "Your home, done right.",
+    "title": "Work that holds.",
     "subtitle": "From the roof to the courtyard: insulation, painting, renovations and repairs for Attica's homes. One team for the whole job, with 18 years of experience.",
     "ctaPrimary": "Free Estimate",
-    "illustrationAlt": "Drawing: a worker in a protective suit spraying insulation on a flat roof, Athens apartment blocks behind"
+    "illustrationAlt": "Mohamed, AtticaPro's main worker, in a hard hat and safety glasses",
+    "trustYears": "18 years of experience",
+    "trustTeam": "One team for the whole job",
+    "trustFree": "Free estimate"
   },
   "services": {
     "eyebrow": "What we do",
