@@ -18,7 +18,7 @@ import numpy as np
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, 'fb-photos', 'illustration-refs')
 OUT = os.path.join(ROOT, 'public', 'images', 'illustrations')
-INK_BGR = (0x26, 0x2A, 0x2B)  # #2B2A26
+INK_BGR = (0x2B, 0x1E, 0x1C)  # #1C1E2B
 W, H = 600, 800
 
 # Crop (x0, y0, x1, y1) in source pixels, all 3:4, chosen so the worker fills a similar share of the frame.
