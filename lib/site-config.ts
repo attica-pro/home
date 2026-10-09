@@ -17,7 +17,7 @@ export const siteConfig = {
   phoneHref: 'tel:+306933347282',
   landlineDisplay: '210 254 5395',
   landlineHref: 'tel:+302102545395',
-  mapsHref: 'https://www.google.com/maps/search/?api=1&query=%CE%9A%CE%B5%CF%81%CE%BA%CF%8D%CF%81%CE%B1%CF%82%20140%2C%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1',
+  mapsHref: 'https://www.google.com/maps/search/?api=1&query=%CE%9B.%20%CE%A3%CF%85%CE%B3%CE%B3%CF%81%CE%BF%CF%8D%20196%2C%20%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CE%B8%CE%AD%CE%B1',
   whatsappHref: 'https://wa.me/306933347282',
   viberHref: 'viber://chat?number=%2B306933347282',
   email: 'info@atticapro.gr',
