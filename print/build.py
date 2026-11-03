@@ -58,14 +58,14 @@ card = doc(91, 61, f'''
 
 # ---- A4 poster ----
 svc = ['insulation', 'painting', 'renovations', 'demolition', 'paving', 'wood', 'repairs']
-grid = ''.join(f'<div style="text-align:center"><img src="{img(s)}" style="height:27mm;width:100%;object-fit:contain"><div class=d style="font-size:4.4mm;margin-top:1.5mm">{msg[s]["name"]}</div></div>' for s in svc[:6])
+grid = ''.join(f'<div style="text-align:center"><img src="{img(s)}" style="height:25mm;width:100%;object-fit:contain"><div class=d style="font-size:4.4mm;margin-top:1.5mm">{'Τσιμεντοστρώσεις' if s=='paving' else msg[s]['name']}</div></div>' for s in svc[:6])
 a4 = doc(210, 297, f'''
 <div class=page style="width:210mm;height:297mm;padding:14mm 16mm;display:flex;flex-direction:column">
  {lockup(17)}
- <div style="margin-top:18mm"><div class=eb style="font-size:4mm">Μονώσεις · Χρώματα · Ανακαινίσεις στην Αττική</div>
- <div class=d style="font-size:25mm;line-height:.95;margin-top:4mm">Δουλειά<br>που στέκει.</div>
+ <div style="margin-top:12mm"><div class=eb style="font-size:4mm">Μονώσεις · Χρώματα · Ανακαινίσεις στην Αττική</div>
+ <div class=d style="font-size:23mm;line-height:.95;margin-top:4mm">Δουλειά<br>που στέκει.</div>
  <div style="font-size:5.2mm;line-height:1.45;margin-top:7mm;max-width:150mm">Από την ταράτσα ως την αυλή: μία ομάδα για όλη τη δουλειά, με 18 χρόνια εμπειρίας.</div></div>
- <div style="margin-top:12mm;border-top:.5mm solid {INK};border-bottom:.5mm solid {INK};padding:7mm 0;display:grid;grid-template-columns:repeat(3,1fr);gap:7mm 6mm">{grid}</div>
+ <div style="margin-top:10mm;border-top:.5mm solid {INK};padding:7mm 0 0;display:grid;grid-template-columns:repeat(3,1fr);gap:7mm 6mm">{grid}</div>
  <div style="margin-top:auto;background:{INDIGO};color:{PAPER};border-radius:2mm;padding:9mm 11mm;display:flex;justify-content:space-between;align-items:center">
   <div><div style="font-size:4.5mm;opacity:.85">Δωρεάν εκτίμηση · Καλέστε μας</div>
    <div class=d style="font-size:15mm;line-height:1.1;margin-top:2mm">{PHONE}</div>
@@ -88,8 +88,8 @@ PROJ = ROOT.parent / 'public/images/projects'
 def ph(slug, f, h='45mm', pos='center'):
     return f'<img src="data:image/jpeg;base64,{base64.b64encode((PROJ/slug/f).read_bytes()).decode()}" style="width:100%;height:{h};object-fit:cover;object-position:{pos};display:block">'
 def cap(t): return f'<div style="font-size:2.8mm;opacity:.75;margin:1mm 0 3.5mm">{t}</div>'
-def ba(slug, h='34mm'):
-    return f'<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5mm">{ph(slug,"before-1.jpg",h)}{ph(slug,"after-1.jpg",h)}</div><div style="display:grid;grid-template-columns:1fr 1fr;font-size:2.6mm;letter-spacing:.12em;text-transform:uppercase;color:{COPPER};font-weight:700;margin-top:1mm"><span>Πριν</span><span>Μετά</span></div>'
+def ba(slug, h='34mm', n=1):
+    return f'<div style="display:grid;grid-template-columns:1fr 1fr;gap:1.5mm">{ph(slug,f"before-{n}.jpg",h)}{ph(slug,f"after-{n}.jpg",h)}</div><div style="display:grid;grid-template-columns:1fr 1fr;font-size:2.6mm;letter-spacing:.12em;text-transform:uppercase;color:{COPPER};font-weight:700;margin-top:1mm"><span>Πριν</span><span>Μετά</span></div>'
 def panel(w, inner, bg=BG, color=INK):
     return f'<div style="width:{w}mm;height:210mm;padding:11mm 9mm;background:{bg};color:{color};display:flex;flex-direction:column;flex-shrink:0">{inner}</div>'
 def h2(t, c=INK): return f'<div class=d style="font-size:8.2mm;line-height:1.05;margin:1.5mm 0 3.5mm;color:{c}">{t}</div>'
@@ -107,7 +107,7 @@ flap = panel(94, f'''{eb('Πώς δουλεύουμε')}{h2('Από το πρώ�
  ('1', 'Επικοινωνία', 'Μας καλείτε ή μας στέλνετε φωτογραφίες του προβλήματος στο WhatsApp ή στο Viber.'),
  ('2', 'Δωρεάν εκτίμηση', 'Βλέπουμε τον χώρο από κοντά, σας εξηγούμε τι φταίει και τι χρειάζεται να γίνει.'),
  ('3', 'Η δουλειά', 'Ο Μοχάμεντ και η ομάδα τον προστατεύουν και κάνουν την εργασία βήμα βήμα. Για ηλεκτρολογικά και υδραυλικά συνεργαζόμαστε με έμπιστους επαγγελματίες.'),
- ('4', 'Παράδοση', 'Φεύγουμε αφήνοντας τον χώρο καθαρό και σας δείχνουμε το αποτέλεσμα.')]) + '<div style="margin-top:auto;border-top:.4mm solid '+INK+';padding-top:3mm">'+ph('fire-damaged-room','after-1.jpg','40mm')+cap('Δωμάτιο που αποκαταστάθηκε μετά από φωτιά.')+'</div>')
+ ('4', 'Παράδοση', 'Φεύγουμε αφήνοντας τον χώρο καθαρό και σας δείχνουμε το αποτέλεσμα.')]))
 back = panel(100, f'''{eb('Επικοινωνία')}{h2('Δωρεάν εκτίμηση για τη δουλειά σας', PAPER)}
 {p('Στείλτε μας μία φωτογραφία ή καλέστε μας. Θα συζητήσουμε τι χρειάζεται ο χώρος σας και θα κανονίσουμε να τον δούμε από κοντά.', 3.6)}
 <div style="margin-top:5mm">{contact()}</div>
@@ -120,22 +120,29 @@ cover = panel(103, f'''{lockup(11)}
 <div style="margin:auto -9mm -11mm">{ph('city-view-roof-white-coating','after-1.jpg','82mm')}</div>''')
 outside = f'<div class=page style="width:297mm;height:210mm;display:flex">{flap}{back}{cover}</div>'
 
-# Inside: 3 x 99
-def svcline(s): return (f'<div style="display:grid;grid-template-columns:16mm 1fr;gap:3mm;align-items:center;border-top:.25mm solid {INK};padding:1.5mm 0"><img src="{img(s)}" style="width:16mm;height:12mm;object-fit:contain"><div style="font-size:3.2mm;line-height:1.35"><b>{msg[s]["name"]}</b> {msg[s]["cardDesc"]}</div></div>')
-i1 = panel(99, f'''{eb('Ταράτσες, μπαλκόνια, υγρασία')}{h2('Μονώσεις που προστατεύουν το σπίτι')}
+# Inside: 3 x 99. The service photos are the ones the drawings were made from (fb-photos/illustration-refs).
+REFS = ROOT.parent / 'fb-photos/illustration-refs'
+def pr(name, h, pos='center 30%'):
+    return f'<img src="data:image/jpeg;base64,{base64.b64encode((REFS/(name+".jpg")).read_bytes()).decode()}" style="width:100%;height:{h};object-fit:cover;object-position:{pos};display:block">'
+def tile(name, label, h='38mm', pos='center 30%'):
+    return f'<div>{pr(name,h,pos)}<div class=d style="font-size:3.6mm;margin-top:1.2mm">{label}</div></div>'
+i1 = panel(99, f'''{eb('Ταράτσες, μπαλκόνια, υγρασία')}{h2('Στεγανώσεις που προστατεύουν το σπίτι')}
 {p('Η υγρασία και η ζέστη μπαίνουν από την ταράτσα, τα μπαλκόνια και τους εξωτερικούς τοίχους. Για αυτό ξεκινάμε πάντα από το πού μπαίνει το νερό και μετά διαλέγουμε τη λύση.')}
-{ba('city-view-roof-white-coating','36mm')}{cap('Ταράτσα από σκούρα σε λευκή, με στεγανωτική προστασία.')}
-{p('Κάνουμε ψεκαζόμενη πολυουρεθάνη, λευκά στεγανωτικά, στεγανοποίηση γύρω από σιφώνια και θερμοπρόσοψη σε τοίχους, και μονώνουμε και ταβάνια πιλοτής.')}
-{ph('ceiling-sprayed-foam-insulation','after-1.jpg','34mm')}{cap('Μόνωση ταβανιού πιλοτής με αφρό πολυουρεθάνης.')}''')
+{ba('city-view-roof-white-coating','34mm')}{cap('Ταράτσα από σκούρα σε λευκή, με στεγανωτική προστασία.')}
+{p('Κάνουμε στεγανώσεις σε ταράτσες, μπαλκόνια και τοίχους: λευκά στεγανωτικά, στεγάνωση γύρω από σιφώνια και θερμοπρόσοψη.')}
+{pr('insulation-0041','52mm','center 35%')}{cap('Στεγάνωση ταράτσας.')}''')
 i2 = panel(99, f'''{eb('Ο χώρος μέσα στο σπίτι')}{h2('Βαφές και ανακαινίσεις')}
 {p('Ξεφλουδισμένοι τοίχοι, μούχλα, λεκέδες, παλιά χρώματα: καθαρίζουμε, επισκευάζουμε τα σοβατίσματα και βάφουμε, με προστασία στα έπιπλα και στα πατώματα.')}
-{ba('lime-green-room-to-white','34mm')}{cap('Από λαχανί σε λευκό: βαφή δωματίου.')}
+{ba('damp-walls-collapsed-ceiling','38mm',2)}{cap('Πεσμένο ταβάνι και υγρασία: επισκευή και βαφή.')}
 {p('Αναλαμβάνουμε και ολική ανακαίνιση μπάνιου και κουζίνας, από την καθαίρεση και τα πλακάκια ως τα είδη υγιεινής και τα ντουλάπια.')}
-{ba('bathroom-renovation-green-tub','36mm')}{cap('Μπάνιο: από την πράσινη μπανιέρα σε ντουζιέρα.')}''', '#FAF8F2')
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:2mm">{pr('painting-0313','52mm','center 55%')}{pr('renovations-0254','52mm','center 30%')}</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:2mm;font-size:3mm;opacity:.75;margin-top:1mm"><span>Βαφή τοίχου.</span><span>Ανακαίνιση μπάνιου.</span></div>''', '#FAF8F2')
 i3 = panel(99, f'''{eb('Και όλα τα υπόλοιπα')}{h2('Μικρές και μεγάλες δουλειές')}
 {p('Ό,τι χρειάζεται ένα σπίτι ή ένας επαγγελματικός χώρος, από την καθαίρεση ως το τελευταίο μερεμέτι.')}
-{''.join(svcline(s) for s in ['demolition','paving','wood','repairs'])}
-<div style="margin-top:3mm;display:grid;grid-template-columns:1fr 1fr;gap:1.5mm">{ph('concrete-sidewalk-rebuilt','step-05.jpg','32mm')}{ph('louvred-shutters-wood-finish','step-03.jpg','32mm')}</div>{cap('Νέο πεζοδρόμιο · ανανέωση ξύλινων παντζουριών.')}
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:3mm 2.5mm">
+{tile('demolition-0229','Καθαιρέσεις','40mm')}{tile('paving-0006','Τσιμεντοστρώσεις','40mm','center 45%')}
+{tile('wood-0469','Ξύλινα','40mm','center 35%')}{tile('repairs-0230','Μερεμέτια','40mm')}</div>
+<div style="height:3mm"></div>{p('Καθαιρέσεις τοίχων, τσιμεντοστρώσεις, πεζοδρόμια και πλακοστρώσεις, αποκατάσταση ξύλινων παντζουριών, πορτών και πέργκολων, και μικρές επισκευές όπως ρωγμές, σοβάδες και αρμοί.', 3.3)}
 <div style="margin-top:auto;background:{INDIGO};color:{PAPER};padding:4mm 5mm"><div style="font-size:3.2mm;opacity:.85">Έχετε μια δουλειά στο μυαλό σας;</div><div class=d style="font-size:6.2mm;margin-top:1mm">{PHONE}</div></div>''')
 inside = f'<div class=page style="width:297mm;height:210mm;display:flex">{i1}{i2}{i3}</div>'
 bro = doc(297, 210, outside + inside)
