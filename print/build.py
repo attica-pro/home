@@ -114,9 +114,9 @@ back = panel(100, f'''{eb('Επικοινωνία')}{h2('Δωρεάν εκτίμ
 <div style="margin-top:auto;display:flex;gap:5mm;align-items:flex-end"><div style="background:{PAPER};padding:2.5mm;width:34mm;flex-shrink:0">{qr('https://'+WEB)}</div>
 <div style="font-size:3.3mm;line-height:1.5">Σκανάρετε για να δείτε περισσότερες δουλειές, οδηγούς και απαντήσεις σε συχνές ερωτήσεις.</div></div>''', INDIGO, PAPER)
 cover = panel(103, f'''{lockup(11)}
-<div style="margin-top:10mm">{eb('Μονώσεις · Χρώματα · Ανακαινίσεις στην Αττική')}</div>
+<div style="margin-top:10mm"><div class=eb style="font-size:2.9mm;letter-spacing:.07em;white-space:nowrap">Μονώσεις · Χρώματα · Ανακαινίσεις</div></div>
 <div class=d style="font-size:15mm;line-height:.97;margin:3mm 0 5mm">Δουλειά που στέκει.</div>
-{p('Μία ομάδα για όλη τη δουλειά του σπιτιού, με 18 χρόνια εμπειρίας.', 4.2)}
+{p('Μία ομάδα για όλη τη δουλειά του σπιτιού, σε όλη την Αττική, με 18 χρόνια εμπειρίας.', 4.2)}
 <div style="margin:auto -9mm -11mm">{ph('city-view-roof-white-coating','after-1.jpg','82mm')}</div>''')
 outside = f'<div class=page style="width:297mm;height:210mm;display:flex">{flap}{back}{cover}</div>'
 

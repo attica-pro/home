@@ -1,0 +1,27 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": -2,
+  "title": {
+    "el": "Μπαλκόνι με φθαρμένο στηθαίο, βαμμένο λευκό",
+    "en": "A Balcony with a Worn Parapet, Painted White",
+    "ar": "شرفة بحاجز متآكل بعد دهنها بالأبيض"
+  },
+  "excerpt": {
+    "el": "Ένα μπαλκόνι με ξεφλουδισμένο σοβά και χρώμα στο στηθαίο βάφτηκε λευκό και τώρα φαίνεται καθαρό.",
+    "en": "A balcony with peeling plaster and paint on the parapet was painted white and now looks clean.",
+    "ar": "شرفة بجص ودهان متقشرين على الحاجز دُهنت بالأبيض وصارت تبدو نظيفة."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [
+    {
+      "before": "step-01.jpg",
+      "after": "step-03.jpg"
+    }
+  ],
+  "photos": {
+    "step-01.jpg": "whatsappphotos/job-b/b1.jpg",
+    "step-02.jpg": "whatsappphotos/job-b/b3.jpg",
+    "step-03.jpg": "whatsappphotos/job-b/b2.jpg"
+  }
+}

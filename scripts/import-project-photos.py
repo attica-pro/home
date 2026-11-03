@@ -6,12 +6,17 @@ number (the NNNN prefix of the files in fb-photos/, which is gitignored and only
 For each photo this uses fb-photos/full/NNNN_*.jpg when it has been downloaded, and falls back to the
 small square thumbnail in fb-photos/thumbs/ otherwise. Re-run it after more full-size photos arrive.
 
-Requires Pillow. Usage: python3 scripts/import-project-photos.py
+A value can also be a string: a path relative to fb-photos/ for photos that did not come from Facebook
+(e.g. "whatsappphotos/job-a/a3.jpg", photos Mohamed sent over WhatsApp).
+
+Requires Pillow. Usage: python3 scripts/import-project-photos.py [slug ...]
+(with slugs, only those projects are imported and no folders are removed)
 """
 import glob
 import json
 import os
 import shutil
+import sys
 
 from PIL import Image, ImageOps
 
@@ -24,18 +29,25 @@ def find(kind, number):
     return matches[0] if matches else None
 
 
+only = set(sys.argv[1:])
 thumbs_used = []
 for project_json in sorted(glob.glob(os.path.join(ROOT, 'content/projects/*/project.json'))):
     slug = os.path.basename(os.path.dirname(project_json))
+    if only and slug not in only:
+        continue
     photos = json.load(open(project_json))['photos']
     out_dir = os.path.join(ROOT, 'public/images/projects', slug)
     os.makedirs(out_dir, exist_ok=True)
     for name, number in photos.items():
-        src = find('full', number) or find('thumbs', number)
+        if isinstance(number, str):
+            src = os.path.join(ROOT, 'fb-photos', number)
+            src = src if os.path.exists(src) else None
+        else:
+            src = find('full', number) or find('thumbs', number)
         if not src:
-            raise SystemExit(f'{slug}: no download for photo {number:04d} ({name})')
+            raise SystemExit(f'{slug}: no download for photo {number} ({name})')
         if '/thumbs/' in src:
-            thumbs_used.append(f'{slug}/{name} ({number:04d})')
+            thumbs_used.append(f'{slug}/{name} ({number})')
         im = ImageOps.exif_transpose(Image.open(src)).convert('RGB')
         im.thumbnail((MAX_EDGE, MAX_EDGE))
         # Saving without the original EXIF drops location and camera metadata.
@@ -44,7 +56,7 @@ for project_json in sorted(glob.glob(os.path.join(ROOT, 'content/projects/*/proj
 
 # Drop image folders of projects that were deleted or merged away.
 slugs = {os.path.basename(os.path.dirname(p)) for p in glob.glob(os.path.join(ROOT, 'content/projects/*/project.json'))}
-for out_dir in glob.glob(os.path.join(ROOT, 'public/images/projects/*/')):
+for out_dir in [] if only else glob.glob(os.path.join(ROOT, 'public/images/projects/*/')):
     if os.path.basename(out_dir.rstrip('/')) not in slugs:
         shutil.rmtree(out_dir)
         print(f'removed {out_dir}')

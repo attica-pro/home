@@ -22,8 +22,8 @@ export interface ProjectMeta {
   /** File name inside the project's image directory. */
   cover: string;
   comparisons: ProjectComparison[];
-  /** Image file name -> Facebook photo number it was taken from (see scripts/import-project-photos.py). */
-  photos: Record<string, number>;
+  /** Image file name -> Facebook photo number, or a path under fb-photos/ for other sources (see scripts/import-project-photos.py). */
+  photos: Record<string, number | string>;
   relatedGuide?: string;
 }
 
@@ -38,6 +38,11 @@ export function getAllProjects(): ProjectMeta[] {
     .filter((entry) => fs.existsSync(path.join(PROJECTS_DIR, entry, 'project.json')))
     .map((slug) => getProjectBySlug(slug)!)
     .sort((a, b) => a.order - b.order);
+}
+
+/** The newest projects (lowest `order` first), for the home page. */
+export function getLatestProjects(limit: number): ProjectMeta[] {
+  return getAllProjects().slice(0, limit);
 }
 
 /** The featured project of each service (at most one per service), in service order. */

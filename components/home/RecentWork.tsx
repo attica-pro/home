@@ -3,13 +3,13 @@ import { useTranslations } from 'next-intl';
 import { ArrowRight } from 'lucide-react';
 
 import type { Locale } from '@/i18n';
-import { getFeaturedProjects, toProjectSummary } from '@/lib/projects';
+import { getLatestProjects, toProjectSummary } from '@/lib/projects';
 import { ProjectCard } from '@/components/portfolio/ProjectCard';
 import { Button } from '@/components/ui/button';
 
 export function RecentWork({ locale }: { locale: Locale }) {
   const t = useTranslations('recentWork');
-  const projects = getFeaturedProjects(3);
+  const projects = getLatestProjects(3);
 
   return (
     <section className="py-16 md:py-24">

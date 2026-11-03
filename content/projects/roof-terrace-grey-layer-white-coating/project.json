@@ -1,0 +1,29 @@
+{
+  "service": "insulation",
+  "featured": false,
+  "order": -1,
+  "title": {
+    "el": "Ταράτσα με νέα λευκή επίστρωση",
+    "en": "A Roof Terrace with a New White Coating",
+    "ar": "سطح بطبقة بيضاء جديدة"
+  },
+  "excerpt": {
+    "el": "Μια ταράτσα με παλιά, φθαρμένη επιφάνεια καλύφθηκε πρώτα με μια γκρι στρώση και μετά με λευκή επίστρωση σε όλη της την έκταση.",
+    "en": "A roof terrace with an old, worn surface was covered first with a grey layer and then with a white coating across its whole area.",
+    "ar": "سطح بسطح قديم متآكل غُطي أولاً بطبقة رمادية ثم بطبقة بيضاء على كامل مساحته."
+  },
+  "cover": "step-04.jpg",
+  "comparisons": [
+    {
+      "before": "step-02.jpg",
+      "after": "step-04.jpg"
+    }
+  ],
+  "photos": {
+    "step-01.jpg": "whatsappphotos/job-a/a2.jpg",
+    "step-02.jpg": "whatsappphotos/job-a/a3.jpg",
+    "step-03.jpg": "whatsappphotos/job-a/a1.jpg",
+    "step-04.jpg": "whatsappphotos/job-a/a4.jpg"
+  },
+  "relatedGuide": "roof-waterproofing-insulation-guide"
+}
