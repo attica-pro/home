@@ -22,10 +22,10 @@ export function Footer({ locale }: { locale: string }) {
           </Link>
           <p className="mt-4 text-sm text-muted-foreground">{t('tagline')}</p>
           <div className="mt-4 flex gap-3">
-            <a href={siteConfig.social.facebook} target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-accent">
+            <a href={siteConfig.social.facebook} target="_blank" rel="noreferrer" aria-label="Facebook" className="text-muted-foreground hover:text-accent">
               <Facebook className="h-5 w-5" />
             </a>
-            <a href={siteConfig.social.instagram} target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-accent">
+            <a href={siteConfig.social.instagram} target="_blank" rel="noreferrer" aria-label="Instagram" className="text-muted-foreground hover:text-accent">
               <Instagram className="h-5 w-5" />
             </a>
           </div>
