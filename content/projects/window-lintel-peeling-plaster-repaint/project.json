@@ -1,0 +1,27 @@
+{
+  "service": "painting",
+  "featured": false,
+  "order": -4,
+  "title": {
+    "el": "Επισκευή και βαφή πάνω από παράθυρο",
+    "en": "Repair and Paint Above a Window",
+    "ar": "إصلاح ودهان فوق نافذة"
+  },
+  "excerpt": {
+    "el": "Πάνω από ένα παράθυρο ο σοβάς είχε ξεφλουδίσει. Επισκευάστηκε και βάφτηκε, και η επιφάνεια φαίνεται πάλι λεία και ομοιόμορφη.",
+    "en": "Above a window the plaster had peeled away. It was repaired and painted, and the surface looks smooth and even again.",
+    "ar": "فوق نافذة تقشر الجص. تم إصلاحه ودهانه، وصار السطح يبدو أملس ومتجانساً من جديد."
+  },
+  "cover": "step-03.jpg",
+  "comparisons": [
+    {
+      "before": "step-01.jpg",
+      "after": "step-03.jpg"
+    }
+  ],
+  "photos": {
+    "step-01.jpg": "whatsappphotos/job-d/d2.jpg",
+    "step-02.jpg": "whatsappphotos/job-d/d1.jpg",
+    "step-03.jpg": "whatsappphotos/job-d/d3.jpg"
+  }
+}
