@@ -1,0 +1,19 @@
+{
+  "category": "painting",
+  "order": 16,
+  "question": {
+    "el": "Ο εξωτερικός τοίχος της αυλής ρίχνει τον σοβά του σε μεγάλα κομμάτια. Πώς επισκευάζεται με υαλόπλεγμα για να μην ξανασκάσει;",
+    "en": "Our exterior courtyard wall is shedding large pieces of render. How is it repaired with mesh so it doesn't crack again?"
+  },
+  "short": {
+    "el": "Αφαιρούνται όλα τα κούφια κομμάτια σοβά, γεμίζονται τα βαθιά κενά, ενσωματώνεται υαλόπλεγμα οπλισμού μέσα σε ενιαία στρώση λεπτού επισκευαστικού σοβά και στο τέλος ο τοίχος βάφεται με εξωτερικό χρώμα.",
+    "en": "All hollow render is hacked off, deep voids are patched, fibreglass reinforcing mesh is embedded into a continuous skim of repair mortar across the wall, and the surface is finished with exterior paint."
+  },
+  "body": {
+    "el": "Οι εξωτερικοί τοίχοι σε αυλές, περάσματα και μαντρότοιχους τραβούν υγρασία τόσο από τη βροχή όσο και από το έδαφος. Όταν ο παλιός σοβάς ξεκολλήσει από τα τούβλα και αρχίσει να πέφτει, το απλό τοπικό μπάλωμα συνήθως ραγίζει ξανά γύρω από την ένωση του παλιού με τον νέο σοβά.\n\n![Εξωτερικός τοίχος αυλής με μπαλώματα σοβά και ρολό πλέγματος οπλισμού](courtyard-wall-plaster-repair/step-03.jpg)\n\nΣε αυτόν τον εξωτερικό τοίχο αυλής, αφαιρέθηκαν πρώτα όλα τα φουσκωμένα κομμάτια και γεμίστηκαν τα βαθιά σημεία με νέο σοβά. Στη συνέχεια τοποθετήθηκε πλέγμα οπλισμού ώστε να «δέσει» τις επισκευές με την υπόλοιπη επιφάνεια του τοίχου.\n\n![Ο τοίχος της αυλής με ενιαίο λεπτό σοβά πριν από την τελική λευκή βαφή](courtyard-wall-plaster-repair/step-04.jpg)\n\nΠάνω από το πλέγμα τραβήχτηκε ενιαίος λεπτός σοβάς σε όλη την επιφάνεια και, αφού στέγνωσε, ο τοίχος βάφτηκε λευκός, χωρίς να φαίνεται κανένα μπάλωμα.",
+    "en": "Exterior courtyard and boundary walls absorb moisture both from rain and from the ground. Once old render debonds from the brickwork and falls away, simple spot-patching usually cracks again along the joint between old and new mortar.\n\n![Courtyard wall with mortar patches and a roll of reinforcing mesh](courtyard-wall-plaster-repair/step-03.jpg)\n\nOn this courtyard wall, all hollow, blistered sections were hacked off first and the deeper voids filled with new mortar. Fibreglass reinforcing mesh was then laid across the surface to tie the patches into the surrounding wall.\n\n![The courtyard wall coated with a continuous fine render layer ahead of painting](courtyard-wall-plaster-repair/step-04.jpg)\n\nA full skim coat of fine render was trowelled over the mesh across the entire wall and, once cured, painted white with no visible joints."
+  },
+  "projects": [
+    "courtyard-wall-plaster-repair"
+  ]
+}

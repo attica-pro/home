@@ -1,0 +1,20 @@
+{
+  "category": "wood",
+  "order": 6,
+  "question": {
+    "el": "Πώς συντηρούνται μαζί η ξύλινη πέργκολα, τα καφασωτά και οι ξύλινες ζαρντινιέρες στην ταράτσα;",
+    "en": "How do you maintain a wooden rooftop pergola together with its trellis panels and wooden planter claddings?"
+  },
+  "short": {
+    "el": "Στις ταράτσες ο ήλιος και ο αέρας ξεραίνουν όχι μόνο τα δοκάρια της πέργκολας, αλλά ακόμα πιο γρήγορα τα λεπτά πηχάκια στα καφασωτά και τις ξύλινες επενδύσεις στις ζαρντινιέρες. Ο καθαρισμός και το έγκαιρο βερνίκωμα όλων των ξύλινων στοιχείων μαζί κρατάει το ξύλο ζωντανό.",
+    "en": "On a roof terrace, sun and wind dry out not only the main pergola beams but even faster the thin slats of trellis panels and wooden planter claddings. Cleaning and re-varnishing all the woodwork together keeps the timber protected."
+  },
+  "body": {
+    "el": "Μια διαμορφωμένη ταράτσα ή ρετιρέ έχει συχνά, εκτός από την ξύλινη πέργκολα, περιμετρικά ξύλινα καφασωτά πάνω στα κάγκελα για προστασία από τον αέρα και τα βλέμματα, καθώς και ζαρντινιέρες ντυμένες με ξύλο. Τα λεπτά πηχάκια στα καφασωτά και οι περσίδες σκίασης έχουν πολλές ακμές και ξεθωριάζουν από τον ήλιο πιο γρήγορα από τα χοντρά δοκάρια.\n\n![Δύο ξύλινες πέργκολες και καφασωτά σε ταράτσα μετά τη συντήρηση και το βερνίκωμα](roof-terrace-wooden-pergola/step-03.jpg)\n\nΣε αυτή την ταράτσα, συντηρήθηκαν και βερνικώθηκαν ταυτόχρονα οι δύο ξύλινες πέργκολες με τις περσίδες τους, ο σκεπαστός διάδρομος μέχρι την πόρτα, τα καφασωτά πάνελ στα κάγκελα και οι ντυμένες με ξύλο ζαρντινιέρες.\n\n![Ζαρντινιέρα ταράτσας ντυμένη με ξύλινο καφασωτό συντηρημένο με βερνίκι](roof-terrace-wooden-pergola/step-04.jpg)\n\nΌταν η συντήρηση γίνεται σε όλα τα ξύλινα μέρη της ταράτσας πριν το ξύλο γκριζάρει βαθιά και ανοίξει, το βερνίκι ποτίζει ομοιόμορφα, προστατεύει από τη βροχή και το πότισμα των φυτών και κρατάει όλο τον εξωτερικό χώρο ζεστό και περιποιημένο.",
+    "en": "A landscaped roof terrace or penthouse often includes not just a wooden pergola, but also wooden trellis screens along the railings for privacy and wind protection, as well as timber-clad planters. Because trellis slats and shading louvres are thin and have many edges, the sun dries them out even faster than the main beams.\n\n![Two wooden rooftop pergolas and trellis screens after maintenance and varnishing](roof-terrace-wooden-pergola/step-03.jpg)\n\nOn this roof terrace, both louvred wooden pergolas, the covered walkway to the door, the perimeter trellis panels along the railings and the timber-clad planters were cleaned and re-varnished together.\n\n![Terrace planter clad in wooden trellis finished with protective varnish](roof-terrace-wooden-pergola/step-04.jpg)\n\nMaintaining all the rooftop woodwork before the timber turns grey and splits lets the varnish nourish the wood evenly, protecting it against rain, sun and plant watering."
+  },
+  "projects": [
+    "roof-terrace-wooden-pergola",
+    "louvred-shutters-wood-finish"
+  ]
+}

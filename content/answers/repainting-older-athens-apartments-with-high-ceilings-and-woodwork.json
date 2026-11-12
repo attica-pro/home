@@ -1,0 +1,21 @@
+{
+  "category": "painting",
+  "order": 17,
+  "question": {
+    "el": "Τι προσοχή θέλει το βάψιμο ενός παλιού αθηναϊκού διαμερίσματος με ψηλά ταβάνια, ξύλινες εσωτερικές πόρτες και εντοιχισμένες ντουλάπες;",
+    "en": "What care is needed when repainting an older Athens apartment with high ceilings, interior wooden doors and built-in wardrobes?"
+  },
+  "short": {
+    "el": "Τα παλιά αθηναϊκά σπίτια έχουν ψηλά ταβάνια με γύψινα, ξύλινες δίφυλλες πόρτες με τζάμια, μεγάλες εντοιχισμένες ντουλάπες και παλιά δάπεδα. Χρειάζεται προσεκτικό χαρτάρισμα στις ακμές, επισκευή των ρωγμών στους τοίχους και ξεχωριστή φροντίδα στις ξύλινες επιφάνειες.",
+    "en": "Older Athens apartments feature high ceilings with plaster mouldings, glazed double doors, tall built-in wardrobes and classic floors. They require careful taping along edges, crack repairs on the walls, and dedicated preparation for the woodwork."
+  },
+  "body": {
+    "el": "Πολλά διαμερίσματα στο κέντρο της Αθήνας και στις παλιές γειτονιές έχουν ψηλά ταβάνια με διακοσμητικά πλαίσια (γύψινα), εσωτερικές δίφυλλες ξύλινες πόρτες με τζάμια, εντοιχισμένες ξύλινες ντουλάπες μέχρι το ταβάνι και μωσαϊκά ή ξύλινα πατώματα. Αυτά τα στοιχεία δίνουν την ομορφιά του σπιτιού, αλλά θέλουν προσεκτική δουλειά στο βάψιμο.\n\n![Διπλή εσωτερική πόρτα με τζάμια βαμμένη σε απαλό γκρι δίπλα σε ανοιχτόχρωμο τοίχο](older-home-soft-colours/step-02.jpg)\n\nΣε αυτό το παλιό σπίτι, οι ψηλοί τοίχοι επισκευάστηκαν και βάφτηκαν σε απαλά χρώματα, τα διακοσμητικά πλαίσια στα ταβάνια αναδείχθηκαν σε καθαρό λευκό, και οι διπλές ξύλινες πόρτες με τα τζάμια βάφτηκαν προσεκτικά χωρίς να λερωθεί το γυαλί.\n\n![Εντοιχισμένες λευκές ντουλάπες που ξεχωρίζουν πάνω σε φρεσκοβαμμένο γκρι τοίχο](apartment-grey-and-white/step-03.jpg)\n\nΌταν οι τοίχοι γύρω από τις παλιές λευκές ντουλάπες και τις κάσες των πορτών χαρτάρονται σωστά με χαρτοταινία και βάφονται σε έναν ήρεμο τόνο (όπως ανοιχτό γκρι ή ζεστό κρεμ), οι γραμμές βγαίνουν απόλυτα ίσιες και όλο το σπίτι δείχνει ανανεωμένο.",
+    "en": "Many apartments in central Athens and older neighbourhoods have high ceilings with plaster mouldings, glazed wooden double doors, floor-to-ceiling built-in wardrobes and mosaic or parquet floors. Those details give the home its character, and they reward careful preparation when painting.\n\n![Glazed interior double doors painted soft grey beside a light wall](older-home-soft-colours/step-02.jpg)\n\nIn this older home, the tall walls were repaired and painted in soft tones, the ceiling mouldings were picked out in clean white, and the glazed double doors were painted cleanly right up to the glass panes.\n\n![White built-in wardrobes set against a freshly painted grey wall](apartment-grey-and-white/step-03.jpg)\n\nWhen the edges around built-in wardrobes and door frames are masked cleanly with tape and the walls are painted in a calm tone such as light grey or warm cream, the lines stay sharp and the whole flat feels bright and cared for."
+  },
+  "projects": [
+    "older-home-soft-colours",
+    "apartment-grey-and-white",
+    "hallway-peeling-walls-repainted"
+  ]
+}

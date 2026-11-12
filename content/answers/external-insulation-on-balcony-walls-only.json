@@ -1,0 +1,20 @@
+{
+  "category": "insulation",
+  "order": 11,
+  "question": {
+    "el": "Μπορώ να κάνω εξωτερική θερμομόνωση μόνο στους τοίχους του μπαλκονιού μου, χωρίς σκαλωσιά σε όλη την πολυκατοικία;",
+    "en": "Can I add external wall insulation only on my balcony walls, without scaffolding the whole apartment building?"
+  },
+  "short": {
+    "el": "Ναι, οι εξωτερικοί τοίχοι που βλέπουν σε δικό σας μπαλκόνι ή βεράντα είναι προσβάσιμοι χωρίς σκαλωσιά και μπορούν να μονωθούν είτε με θερμομονωτικές πλάκες και σοβά είτε με ψεκαζόμενη πολυουρεθάνη.",
+    "en": "Yes. Exterior walls facing your own balcony or terrace can be reached without scaffolding and insulated either with insulation boards and render or with sprayed polyurethane."
+  },
+  "body": {
+    "el": "Σε πολλές πολυκατοικίες της Αθήνας είναι δύσκολο να συμφωνήσουν όλοι οι ιδιοκτήτες για θερμοπρόσοψη σε ολόκληρο το κτίριο. Όμως ένα μεγάλο μέρος των εξωτερικών τοίχων ενός διαμερίσματος — ειδικά στο σαλόνι και στα υπνοδωμάτια — βρίσκεται ακριβώς πίσω από το μπαλκόνι ή τη βεράντα, όπου ο τεχνίτης μπορεί να δουλέψει άνετα χωρίς εξωτερική σκαλωσιά.\n\n![Ο τοίχος του μπαλκονιού ντυμένος με λευκές θερμομονωτικές πλάκες και βύσματα](balcony-walls-external-insulation/step-04.jpg)\n\nΣε αυτό το μπαλκόνι, οι εξωτερικοί τοίχοι ντύθηκαν από κάτω μέχρι πάνω με θερμομονωτικές πλάκες, οι οποίες στερεώθηκαν με ειδικά βύσματα, καλύφθηκαν με σοβά και βάφτηκαν ώστε ο τοίχος να δείχνει ξανά ενιαίος. Έτσι κόβεται το κρύο και η ζέστη στους χώρους που συνορεύουν με το μπαλκόνι.\n\n![Ψεκασμός πολυουρεθάνης σε τοίχο μπαλκονιού με προστασία στα κουφώματα](balcony-walls-sprayed-coating/step-02.jpg)\n\nΜια δεύτερη λύση για μπαλκόνια είναι η ψεκαζόμενη πολυουρεθάνη. Αφού σκεπαστούν προσεκτικά με νάιλον οι μπαλκονόπορτες, τα παράθυρα, οι τέντες και τα κλιματιστικά, ο αφρός ψεκάζεται απευθείας στον τοίχο και αγκαλιάζει κάθε γωνία γύρω από τα κουφώματα και τους σωλήνες χωρίς ενώσεις.\n\nΠριν ξεκινήσει η εργασία, χρειάζεται να ελεγχθεί πόσο περιθώριο υπάρχει γύρω από τα κουφώματα, τα παντζούρια, τις πρίζες και τις σωληνώσεις του μπαλκονιού, ώστε το πάχος της μόνωσης να μην εμποδίζει το άνοιγμα των παραθύρων.",
+    "en": "In many Athens apartment buildings it is hard to get every owner to agree to insulate the whole facade. Yet a large share of an apartment's exterior walls — especially along the living room and bedrooms — sits right behind its own balcony or terrace, where a crew can work safely without exterior scaffolding.\n\n![Balcony wall clad with white insulation boards and mechanical fixings](balcony-walls-external-insulation/step-04.jpg)\n\nOn this balcony, the exterior walls were clad from floor to ceiling with thermal insulation boards, anchored with mechanical fixings, rendered and painted to look like a normal finished wall again. That cuts heat loss and summer heat gain in the rooms behind the balcony.\n\n![Spraying polyurethane onto a balcony wall with doors and awnings masked](balcony-walls-sprayed-coating/step-02.jpg)\n\nA second option for balcony walls is sprayed polyurethane foam. Once the balcony doors, windows, awnings and air-conditioning units are carefully wrapped in plastic sheeting, the foam is sprayed directly onto the wall, sealing tightly around window frames and pipes without joints.\n\nBefore starting, the clearance around window frames, shutters, outdoor sockets and pipes needs to be checked so that the added thickness of the insulation does not get in the way."
+  },
+  "projects": [
+    "balcony-walls-external-insulation",
+    "balcony-walls-sprayed-coating"
+  ]
+}

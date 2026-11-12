@@ -1,0 +1,20 @@
+{
+  "category": "renovations",
+  "order": 8,
+  "question": {
+    "el": "Έχω ένα πολύ στενό WC ή μικρό μπάνιο. Τι λύσεις υπάρχουν στην ανακαίνιση για να γίνει άνετο και λειτουργικό;",
+    "en": "I have a very narrow WC or tiny bathroom. What renovation choices make it comfortable and practical?"
+  },
+  "short": {
+    "el": "Σε ένα στενό WC ή μικρό μπάνιο κερδίζετε πολύτιμα εκατοστά βγάζοντας την παλιά μπανιέρα για ντουζιέρα, βάζοντας εντοιχιζόμενο καζανάκι με κρεμαστή λεκάνη και επιλέγοντας ανοιχτόχρωμα πλακάκια ή λείους λευκούς τοίχους.",
+    "en": "In a narrow WC or small bathroom you gain valuable space by replacing an old tub with a shower, fitting a concealed cistern with a wall-hung toilet, and using light tiles or smooth white walls."
+  },
+  "body": {
+    "el": "Στα περισσότερα διαμερίσματα της Αθήνας το δεύτερο WC είναι ένας πολύ στενός χώρος, ενώ και το κύριο μπάνιο είναι συχνά μικρό και κλεισμένο από μια παλιά μπανιέρα που αφήνει ελάχιστο πέρασμα.\n\n![Στενό WC ξηλωμένο μέχρι τα τούβλα με τοποθετημένο το πλαίσιο εντοιχιζόμενου καζανακιού](narrow-wc-renovation/step-01.jpg)\n\nΣε αυτό το στενό WC, μετά το ξήλωμα μέχρι τα τούβλα, τοποθετήθηκε εντοιχιζόμενο καζανάκι μέσα στον τοίχο ώστε η λεκάνη να έρθει πιο πίσω και να ελευθερωθεί το δάπεδο. Οι τοίχοι σοβατίστηκαν και έγιναν τελείως λείοι και λευκοί, ενώ στο δάπεδο στρώθηκαν νέα γκρι πλακάκια.\n\n![Η βάση της ντουζιέρας και οι σοβατισμένοι τοίχοι σε ανακαίνιση μικρού μπάνιου](small-bathroom-renovation/step-04.jpg)\n\nΣτο μικρό μπάνιο, η παλιά μπανιέρα ξηλώθηκε, περάστηκαν νέες σωληνώσεις ύδρευσης και αποχέτευσης, φτιάχτηκε άνετη ντουζιέρα στη γωνία και μπήκε νέο έπιπλο νιπτήρα, κάνοντας το μπάνιο πολύ πιο ευρύχωρο στην καθημερινή χρήση.",
+    "en": "In many Athens flats the guest WC is a very narrow room, and even the main bathroom is often cramped by an old bathtub that leaves minimal standing room.\n\n![Narrow WC stripped to the brickwork with a concealed cistern frame installed](narrow-wc-renovation/step-01.jpg)\n\nIn this narrow WC, once stripped back to the bricks, a concealed cistern frame was built into the wall so the toilet sits further back and leaves the floor clear. The walls were plastered and finished smooth white, with new grey tiles laid on the floor.\n\n![Shower base and newly plastered walls during a small bathroom renovation](small-bathroom-renovation/step-04.jpg)\n\nIn a small bathroom, ripping out the old tub, running new plumbing and building a corner shower alongside a compact vanity unit opens up the room for everyday use."
+  },
+  "projects": [
+    "narrow-wc-renovation",
+    "small-bathroom-renovation"
+  ]
+}

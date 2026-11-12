@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 22,
+  "question": {
+    "el": "Μπαίνει ψεκαζόμενος αφρός πολυουρεθάνης σε τοίχους νέας οικοδομής πριν τον σοβά ή σε εσωτερικό ταβάνι;",
+    "en": "Can sprayed polyurethane foam be used on the exterior walls of a new build before plastering, or on an interior ceiling?"
+  },
+  "short": {
+    "el": "Ναι. Στους γυμνούς τοίχους μιας οικοδομής ο αφρός δημιουργεί έναν ενιαίο θερμομονωτικό μανδύα χωρίς αρμούς πριν πέσει ο σοβάς, ενώ σε εσωτερικά ταβάνια ή πιλοτές ψεκάζεται από κάτω και μπορεί να βαφτεί λευκός.",
+    "en": "Yes. On bare exterior walls of a building under construction, sprayed foam forms a seamless thermal blanket before rendering, while on interior ceilings or pilotis soffits it is sprayed from below and can be painted white."
+  },
+  "body": {
+    "el": "Ο ψεκαζόμενος αφρός πολυουρεθάνης δεν χρησιμοποιείται μόνο πάνω σε ταράτσες. Επειδή κολλάει απευθείας σε μπετόν και τούβλα και φουσκώνει κλείνοντας κάθε κενό, εφαρμόζεται και σε κατακόρυφους τοίχους ή σε ταβάνια από την κάτω πλευρά.\n\n![Η όψη νέας οικοδομής καλυμμένη με ψεκαζόμενο αφρό πολυουρεθάνης πριν από τον σοβά](new-build-sprayed-walls/step-03.jpg)\n\nΣε αυτή την οικοδομή, οι γυμνοί εξωτερικοί τοίχοι ψεκάστηκαν από σκαλωσιά με συνεχή στρώση αφρού πολυουρεθάνης, καλύπτοντας ενιαία τούβλα, κολόνες και δοκάρια χωρίς θερμογέφυρες, έτοιμοι να δεχτούν από πάνω τον σοβά.\n\n![Ψεκασμός αφρού πολυουρεθάνης σε εσωτερικό ταβάνι και βαφή σε λευκό](ceiling-foam-painted-white/step-06.jpg)\n\nΑντίστοιχα, όταν ένας χώρος κάτω από κρύα πλάκα χρειάζεται θερμομόνωση από μέσα, όλο το δωμάτιο και τα φωτιστικά τυλίγονται με νάιλον, το ταβάνι ψεκάζεται με αφρό πολυουρεθάνης και στο τέλος βάφεται λευκό.",
+    "en": "Sprayed polyurethane foam is not only for flat roofs. Because it bonds directly to concrete and brickwork and expands to fill every gap, it is also used on vertical walls and on the underside of ceilings.\n\n![Exterior walls of a new building sprayed with polyurethane foam ahead of rendering](new-build-sprayed-walls/step-03.jpg)\n\nOn this building under construction, the bare exterior walls were sprayed from scaffolding with a continuous layer of polyurethane foam, covering brickwork, columns and beams in one seamless blanket without thermal bridges before the render goes on.\n\n![Interior ceiling sprayed with polyurethane foam and half-painted white](ceiling-foam-painted-white/step-06.jpg)\n\nSimilarly, when a room beneath a cold slab needs insulation from the inside, the walls, floor and light fittings are wrapped in plastic sheeting, the ceiling is sprayed with polyurethane foam, and the cured surface is painted white."
+  },
+  "projects": [
+    "new-build-sprayed-walls",
+    "ceiling-foam-painted-white",
+    "ceiling-sprayed-foam-insulation"
+  ]
+}

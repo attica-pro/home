@@ -1,0 +1,20 @@
+{
+  "category": "renovations",
+  "order": 11,
+  "question": {
+    "el": "Όταν σε ένα διαμέρισμα ξηλώνεται το παλιό δάπεδο, μπαίνουν νέα πλακάκια και βάφονται οι τοίχοι, με ποια σειρά γίνονται οι δουλειές;",
+    "en": "When stripping an old floor, laying new tiles and repainting a flat, in what order is the work done?"
+  },
+  "short": {
+    "el": "Πρώτα γίνεται το ξήλωμα του παλιού δαπέδου και η αποκομιδή των μπάζων, μετά η προετοιμασία των τοίχων και το στρώσιμο των νέων πλακιδίων με τα σοβατεπί, και στο τέλος τα τελικά χέρια βαφής.",
+    "en": "First the old flooring is broken out and the rubble bagged and cleared, then wall preparation and floor tiling (including skirtings) are completed, and the final coats of paint go on last."
+  },
+  "body": {
+    "el": "Σε μια ανακαίνιση μικρού διαμερίσματος ή γκαρσονιέρας όπου αλλάζει το δάπεδο και βάφεται όλος ο χώρος, η σωστή σειρά των εργασιών προστατεύει τα καινούργια υλικά από ζημιές.\n\n![Ξήλωμα του παλιού δαπέδου και μάζεμα των μπάζων σε σακιά](studio-new-floor-repaint/step-02.jpg)\n\nΠρώτα ξηλώνεται ολόκληρο το παλιό δάπεδο, μαζεύονται τα σπασμένα πλακάκια σε σακιά και καθαρίζεται η γυμνή βάση. Όλη η σκόνη και τα χτυπήματα στους τοίχους γίνονται σε αυτό το πρώτο στάδιο.\n\n![Το διαμέρισμα ολοκληρωμένο με τα νέα γκρι πλακάκια δαπέδου και τους φρεσκοβαμμένους τοίχους](studio-new-floor-repaint/step-08.jpg)\n\nΣτη συνέχεια προετοιμάζονται οι τοίχοι, στρώνονται τα νέα πλακάκια δαπέδου και τα σοβατεπί, αρμολογούνται και ολοκληρώνεται η βαφή των τοίχων (εδώ από το παλιό σκούρο μπλε σε φωτεινό, απαλό τόνο), παραδίδοντας το διαμέρισμα καθαρό.",
+    "en": "When renovating a studio or apartment that needs both a new tiled floor and a full repaint, doing the stages in the right sequence keeps the new finishes clean and undamaged.\n\n![Breaking up the old floor tiles and bagging the rubble](studio-new-floor-repaint/step-02.jpg)\n\nFirst, the old floor is broken out completely, the rubble is bagged up and cleared, and the bare slab is cleaned. All the heavy dust and wall knocks happen in this first phase.\n\n![Finished studio flat with new grey floor tiles and freshly painted walls](studio-new-floor-repaint/step-08.jpg)\n\nNext, the walls are prepared, the new floor tiles and tile skirtings are laid and grouted, and the final coats of wall paint are applied — here replacing dark blue walls with a bright, soft tone."
+  },
+  "projects": [
+    "studio-new-floor-repaint",
+    "kitchen-renovation-grey-island"
+  ]
+}

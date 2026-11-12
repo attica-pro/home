@@ -1,0 +1,21 @@
+{
+  "category": "painting",
+  "order": 9,
+  "question": {
+    "el": "Οι τοίχοι έχουν έντονο χρώμα (λαχανί, μπλε, μέντα). Πώς γίνονται ξανά κάτασπροι χωρίς να φέγγει το παλιό χρώμα;",
+    "en": "Our walls are painted a strong colour (lime green, blue, mint). How do you turn them pure white without the old shade showing through?"
+  },
+  "short": {
+    "el": "Για να καλυφθεί ένα έντονο ή σκούρο χρώμα, πρώτα ξύνονται όσα σημεία ξεφλουδίζουν και γίνονται τα στοκαρίσματα, και έπειτα εφαρμόζονται διαδοχικές στρώσεις λευκού με το κατάλληλο στέγνωμα ενδιάμεσα μέχρι η επιφάνεια να γίνει απόλυτα ομοιόμορφη.",
+    "en": "To cover a strong or dark shade cleanly, any flaking paint is scraped first and repairs are filled and sanded, followed by successive coats of white with proper drying time in between until the colour is completely uniform."
+  },
+  "body": {
+    "el": "Τα έντονα χρώματα στους τοίχους — όπως το λαχανί, το έντονο γαλάζιο, η μέντα ή το σκούρο μπλε — κάνουν συχνά τα δωμάτια να δείχνουν πιο μικρά και σκοτεινά, ειδικά όταν έχουν αποκτήσει γρατζουνιές, τρύπες από κάδρα ή ξεφλουδίσματα. Η επιστροφή στο λευκό φωτίζει αμέσως το σπίτι, αλλά απαιτεί σωστή σειρά εργασιών για να μη «φέγγει» το παλιό χρώμα από κάτω.\n\n![Δωμάτιο με λαχανί τοίχους και μπαλώματα στόκου πριν από τη λευκή βαφή](lime-green-room-to-white/step-01.jpg)\n\nΠριν πέσει το πρώτο χέρι λευκό, ο τοίχος πρέπει να γίνει λείος. Αν το παλιό χρώμα ξεκολλάει (όπως συμβαίνει συχνά όταν είχαν κολληθεί αφίσες ή ταινίες), ξύνεται μέχρι εκεί που πιάνει γερά. Όλες οι γωνίες, οι τρύπες και οι ρωγμές στοκάρονται και τρίβονται.\n\n![Το πρώτο λευκό χέρι πάνω στον πράσινο τοίχο κατά τη βαφή](mint-walls-to-white/step-04.jpg)\n\nΤο πρώτο χέρι λευκό σπάει τη δύναμη του παλιού χρώματος και αποκαλύπτει τυχόν μικροατέλειες. Αφού στεγνώσει καλά, ακολουθούν τα επόμενα χέρια μέχρι ο τοίχος να δείχνει κάτασπρος και ομοιόμορφος σε κάθε φωτισμό.",
+    "en": "Bold wall colours — such as lime green, bright blue or mint — often make rooms feel smaller and darker, especially once they pick up scuffs, picture-hook holes or peeling patches. Returning to white brightens the flat immediately, but takes proper preparation so the old colour does not bleed through.\n\n![Room with lime-green walls and filler patches ready for painting white](lime-green-room-to-white/step-01.jpg)\n\nBefore the first white coat goes on, the surface must be sound and smooth. Anywhere the old paint is lifting is scraped back to a firm edge, and all corners, holes and cracks are filled and sanded.\n\n![First coat of white going over a mint-green bedroom wall](mint-walls-to-white/step-04.jpg)\n\nThe first coat of white breaks the strength of the old colour and highlights any tiny blemishes. Once dry, the finishing coats bring the walls to a clean, even white under any light."
+  },
+  "projects": [
+    "lime-green-room-to-white",
+    "mint-walls-to-white",
+    "apartment-peeling-blue-walls"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "category": "renovations",
+  "order": 12,
+  "question": {
+    "el": "Οι τοίχοι και το ταβάνι του μπάνιου πάνω από τα πλακάκια ξεφλουδίζουν από τους υδρατμούς. Πώς επισκευάζονται και πότε μπαίνει ψευδοροφή;",
+    "en": "The bathroom walls and ceiling above the tiles are peeling from steam. How are they repaired, and when is a false ceiling used?"
+  },
+  "short": {
+    "el": "Αν τα πλακάκια του μπάνιου κρατούν καλά, οι ξεφλουδισμένοι τοίχοι και το ταβάνι πάνω από αυτά ξύνονται, επισκευάζονται και βάφονται. Σε ολική ανακαίνιση μπορεί να μπει και ψευδοροφή γυψοσανίδας ανθεκτικής στην υγρασία για κρυφό φωτισμό ή κάλυψη σωληνώσεων.",
+    "en": "If the bathroom tiles are still sound, the peeling walls and ceiling above them are scraped back, repaired and repainted. During a full renovation, a moisture-resistant plasterboard ceiling can also be fitted to hide pipes and house recessed lighting."
+  },
+  "body": {
+    "el": "Σε πολλά μπάνια όπου τα πλακάκια δεν φτάνουν μέχρι το ταβάνι, η ζώνη του τοίχου από πάνω και η οροφή δέχονται όλους τους υδρατμούς από το ντους. Με τον καιρό το χρώμα φουσκώνει, μαυρίζει και πέφτει.\n\n![Τοίχος μπάνιου πάνω από τα πλακάκια με λεκέδες υγρασίας και ξεφλουδίσματα πριν από την επισκευή](bathroom-peeling-walls-restored/step-02.jpg)\n\nΌταν το υπόλοιπο μπάνιο δεν χρειάζεται ξήλωμα, αφαιρούνται τα παλιά εξαρτήματα, ξύνεται όλο το ξεφλουδισμένο χρώμα και ο χαλαρός σοβάς πάνω από τα πλακάκια, στοκάρεται η επιφάνεια μέχρι να γίνει τελείως λεία και βάφεται ξανά λευκή.\n\n![Ψευδοροφή γυψοσανίδας στο ταβάνι του μπάνιου με στοκαρισμένους αρμούς κατά την ολική ανακαίνιση](bathroom-renovation-striped-tiles/step-06.jpg)\n\nΌταν όμως γίνεται ολική ανακαίνιση μπάνιου από το τούβλο, μπορεί στο ταβάνι να κατασκευαστεί ψευδοροφή από γυψοσανίδα, η οποία στοκάρεται στους αρμούς και βάφεται, κρύβοντας από πάνω καλώδια ή σωλήνες και δίνοντας καθαρή, επίπεδη οροφή.",
+    "en": "In bathrooms where wall tiles stop short of the ceiling, the strip of plastered wall above them and the ceiling itself soak up steam from every shower. Over time the paint blisters, spots with mould and peels away.\n\n![Bathroom wall above the tiles with damp stains and peeling paint before repair](bathroom-peeling-walls-restored/step-02.jpg)\n\nWhen the tiles and fixtures do not need replacing, old fittings are removed, all flaking paint and loose plaster above the tiles are scraped back, and the surface is filled smooth and repainted white.\n\n![Plasterboard false ceiling with taped and filled joints during a full bathroom renovation](bathroom-renovation-striped-tiles/step-06.jpg)\n\nDuring a full bathroom strip-out, a plasterboard false ceiling can also be installed, taped, filled and painted to conceal overhead wiring or pipes and leave a crisp, level ceiling."
+  },
+  "projects": [
+    "bathroom-peeling-walls-restored",
+    "bathroom-renovation-striped-tiles"
+  ]
+}

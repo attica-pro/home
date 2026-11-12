@@ -1,0 +1,20 @@
+{
+  "category": "paving",
+  "order": 5,
+  "question": {
+    "el": "Μια παλιά πέτρινη αυλή έχει σκοτεινιάσει και οι αρμοί της έχουν φθαρεί. Πώς ανανεώνεται με νέα αρμολόγηση χωρίς να ξηλωθούν οι πέτρες;",
+    "en": "An old stone-paved courtyard has grown dark and its joints are worn. How can it be refreshed with new pointing without lifting the stones?"
+  },
+  "short": {
+    "el": "Όταν οι πλάκες της πέτρας πατούν γερά, δεν χρειάζεται ξήλωμα. Οι παλιοί μαυρισμένοι αρμοί καθαρίζονται και γεμίζουν από την αρχή με νέο λευκό ή ανοιχτόχρωμο αρμό, που σφραγίζει το δάπεδο και φωτίζει αμέσως όλη την αυλή.",
+    "en": "When the flagstones themselves are solid, there is no need to lift them. The old darkened joints are raked out and cleaned, then repointed with fresh white or light mortar that seals the paving and brightens the whole courtyard."
+  },
+  "body": {
+    "el": "Οι πέτρινες αυλές σε κατοικίες και καταστήματα αντέχουν για δεκαετίες, αλλά με τα χρόνια το τσιμέντο ανάμεσα στις πέτρες μαυρίζει από την υγρασία και τη βρωμιά ή τρίβεται και αφήνει κενά. Έτσι όλη η αυλή δείχνει σκοτεινή και παραμελημένη, ακόμα κι αν η ίδια η πέτρα είναι γερή.\n\n![Η πέτρινη αυλή πριν από την εργασία, με σκούρους και φθαρμένους αρμούς](restaurant-courtyard-stone-joints/step-01.jpg)\n\nΣε αυτή την πέτρινη αυλή, οι πλάκες ήταν στη θέση τους αλλά οι σκούροι αρμοί έκαναν τον χώρο να φαίνεται μουντός. Αφού καθαρίστηκαν οι ενώσεις ανάμεσα στις πέτρες, περάστηκε νέος λευκός αρμός σε όλη την πλακόστρωση και στον διάδρομο της εισόδου.\n\n![Η πέτρινη αυλή ολοκληρωμένη με τους νέους λευκούς αρμούς να αναδεικνύουν το σχέδιο της πέτρας](restaurant-courtyard-stone-joints/step-02.jpg)\n\nΟ νέος αρμός εμποδίζει το νερό και τα χόρτα να μπαίνουν κάτω από τις πλάκες και ταυτόχρονα αναδεικνύει το σχήμα κάθε πέτρας, φωτίζοντας την αυλή μέρα και νύχτα.",
+    "en": "Stone-paved courtyards in homes and restaurants last for decades, yet over the years the mortar joints between the stones darken with damp and grime or crumble away. That makes the whole courtyard look dark and tired even when the stones themselves are completely sound.\n\n![The stone courtyard before work, with dark, worn joints](restaurant-courtyard-stone-joints/step-01.jpg)\n\nIn this stone-paved courtyard, the flagstones were firm but the darkened joints made the space look gloomy. Once the joints between the stones were cleaned out, fresh white pointing was worked across the entire courtyard and entrance walkway.\n\n![The courtyard paving with fresh white joints highlighting the pattern of the stones](restaurant-courtyard-stone-joints/step-02.jpg)\n\nNew pointing stops water and weeds getting underneath the slabs while outlining each stone and brightening the courtyard day and night."
+  },
+  "projects": [
+    "restaurant-courtyard-stone-joints",
+    "concrete-sidewalk-rebuilt"
+  ]
+}

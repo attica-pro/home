@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 12,
+  "question": {
+    "el": "Πρέπει να ξηλωθούν οι ηλιακοί θερμοσίφωνες, τα κλιματιστικά και οι δεξαμενές για να γίνει μόνωση στην ταράτσα;",
+    "en": "Do solar water heaters, air conditioners and water tanks have to be removed to waterproof the roof?"
+  },
+  "short": {
+    "el": "Στις περισσότερες περιπτώσεις δεν χρειάζεται να αποσυνδεθούν οι ηλιακοί ή οι δεξαμενές. Οι εξωτερικές μονάδες κλιματιστικών σηκώνονται προσωρινά, ενώ γύρω και κάτω από τις βάσεις των ηλιακών εφαρμόζονται υγρά στεγανωτικά ή ψεκαζόμενος αφρός που αγκαλιάζουν κάθε σίδερο.",
+    "en": "In most cases solar heaters and water tanks do not need to be disconnected. Air-conditioning units can be lifted onto blocks while liquid coatings or sprayed foam are worked right under the frames and around every support leg."
+  },
+  "body": {
+    "el": "Οι ταράτσες στις πολυκατοικίες της Αθήνας είναι σχεδόν πάντα γεμάτες ηλιακούς θερμοσίφωνες, εξωτερικές μονάδες κλιματιστικών, σωλήνες και δεξαμενές. Η πλήρης αποξήλωσή τους θα απαιτούσε υδραυλικό και ψυκτικό για κάθε διαμέρισμα. Στην πράξη, με τα κατάλληλα υλικά η στεγανοποίηση περνάει κανονικά κάτω από τα μηχανήματα και σφραγίζει τις βάσεις τους.\n\n![Η ταράτσα κάτω από τους ηλιακούς θερμοσίφωνες μετά το ίσιωμα και το αστάρι, με το κλιματιστικό σηκωμένο](roof-solar-heaters-grey-coating/step-06.jpg)\n\nΣε αυτή την ταράτσα με τους πολλούς ηλιακούς θερμοσίφωνες, η επιφάνεια καθαρίστηκε, μπαλώθηκαν τα φθαρμένα σημεία και στρώθηκε νέο υλικό εξομάλυνσης. Η εξωτερική μονάδα του κλιματιστικού σηκώθηκε πάνω σε τούβλα ώστε το αστάρι και το στεγανωτικό να περάσουν από κάτω της χωρίς να μείνει ακάλυπτο σημείο.\n\n![Ψεκασμός αφρού πολυουρεθάνης γύρω από τα πόδια μεταλλικής δεξαμενής](roof-water-tanks-spray-foam/step-03.jpg)\n\nΌταν εφαρμόζεται επαλειφόμενη λευκή μεμβράνη ή ψεκαζόμενος αφρός πολυουρεθάνης, το υλικό φτάνει εύκολα κάτω από τα καζάνια των ηλιακών και των δεξαμενών και ανεβαίνει γύρω από κάθε μεταλλικό πόδι και σωλήνα. Εκεί είναι που χρειάζεται η μεγαλύτερη προσοχή, γιατί οι τρύπες από τα βύσματα στήριξης των ηλιακών είναι από τις πιο συχνές αιτίες διαρροής.",
+    "en": "Apartment building roofs in Athens are almost always crowded with solar water heaters, air-conditioning units, pipes and water tanks. Removing them all would mean calling a plumber and an AC technician for every flat. In practice, liquid membranes and sprayed foam allow the waterproofing to go right under the equipment and seal around its supports.\n\n![Roof under solar water heaters primed, with the AC unit propped up on bricks](roof-solar-heaters-grey-coating/step-06.jpg)\n\nOn this roof crowded with solar heaters, the slab was cleaned, patched and levelled. The outdoor air-conditioning unit was propped up on bricks so the primer and waterproof coating could be rolled right underneath it without leaving a bare spot.\n\n![Polyurethane foam sprayed around the legs of a metal water tank](roof-water-tanks-spray-foam/step-03.jpg)\n\nWith liquid white membrane or sprayed polyurethane foam, the material reaches underneath solar tanks and wraps tightly around each metal leg and pipe. Those support feet need special care, because the bolt holes drilled to anchor solar frames are one of the most common places for water to get into the slab."
+  },
+  "projects": [
+    "roof-solar-heaters-grey-coating",
+    "roof-solar-panel-white-membrane",
+    "roof-water-tanks-spray-foam"
+  ]
+}

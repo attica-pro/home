@@ -1,0 +1,21 @@
+{
+  "category": "demolition",
+  "order": 5,
+  "question": {
+    "el": "Πότε πρέπει να ξηλωθούν τελείως τα παλιά πλακάκια ή η παλιά μεμβράνη της ταράτσας πριν γίνει νέα στεγάνωση;",
+    "en": "When do old terrace tiles or old roof membranes have to be stripped off completely before new waterproofing?"
+  },
+  "short": {
+    "el": "Όταν τα πλακάκια έχουν φουσκώσει και ξεκολλήσει ή όταν κάτω από τις παλιές σκισμένες μεμβράνες έχει εγκλωβιστεί νερό και σαθρά υλικά, το ξήλωμα μέχρι τη γερή βάση είναι απαραίτητο για να πιάσει η νέα στεγάνωση.",
+    "en": "When terrace tiles have lifted and cracked or water is trapped beneath torn, debonded roof membranes, stripping them back to a solid base is essential so the new waterproofing can bond properly."
+  },
+  "body": {
+    "el": "Αν και σε πολλές ταράτσες και μπαλκόνια η στεγανοποίηση μπορεί να γίνει πάνω από την υπάρχουσα επιφάνεια, υπάρχουν περιπτώσεις όπου το παλιό υλικό έχει ξεκολλήσει τόσο πολύ ώστε αν πέσει νέο υλικό από πάνω, θα σηκωθεί μαζί με το παλιό.\n\n![Σπασμένα και ξεκολλημένα πλακάκια ξηλωμένα στην ταράτσα](terrace-tiles-removed-cement-coating/step-01.jpg)\n\nΣε αυτή την ταράτσα, τα παλιά πλακάκια είχαν σπάσει και από κάτω υπήρχε ένας παλιός ξύλινος αρμός που είχε σαπίσει εντελώς. Τα πλακάκια και το σάπιο ξύλο ξηλώθηκαν, οι αρμοί καθαρίστηκαν και σφραγίστηκαν σε όλο τους το μήκος, και η ταράτσα πήρε νέα τσιμεντοειδή στεγανωτική στρώση πάνω σε γερή βάση.\n\n![Η παλιά ασφαλτική μεμβράνη τυλίγεται καθώς ξηλώνεται από την ταράτσα](roof-old-membrane-stripped/step-03.jpg)\n\nΤο ίδιο ισχύει όταν μια παλιά ασφαλτική μεμβράνη έχει ζαρώσει, σκιστεί και ξεκολλήσει από την πλάκα: ξηλώνεται φύλλο-φύλλο και απομακρύνεται από την ταράτσα ώστε το νέο στεγανωτικό ή ο αφρός πολυουρεθάνης να πατήσει απευθείας στο καθαρό υπόστρωμα.",
+    "en": "While many roofs and balconies can be waterproofed over the existing surface, there are cases where the old layer has debonded so badly that anything applied on top of it would simply lift away with the old material.\n\n![Broken, debonded terrace tiles stripped up from the slab](terrace-tiles-removed-cement-coating/step-01.jpg)\n\nOn this terrace, the old tiles had cracked and underneath sat a wooden expansion joint strip that had rotted through. The tiles and rotten timber were stripped out, the joints were cleaned and sealed along their full length, and a new cementitious waterproof coating was applied directly onto the sound substrate.\n\n![Rolling up old debonded bitumen membrane as it is stripped from the roof](roof-old-membrane-stripped/step-03.jpg)\n\nThe same applies when an old bitumen membrane has wrinkled, split and come loose from the slab: it is pulled up sheet by sheet and cleared off the roof so the new liquid membrane or polyurethane foam bonds directly to the clean slab."
+  },
+  "projects": [
+    "terrace-tiles-removed-cement-coating",
+    "roof-old-membrane-stripped",
+    "roof-torn-membrane"
+  ]
+}

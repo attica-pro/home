@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 16,
+  "question": {
+    "el": "Η υγρασία στο ταβάνι βγαίνει ακριβώς κάτω από τα κάγκελα ή τις κολόνες της ταράτσας. Πώς σφραγίζουν οι βάσεις τους;",
+    "en": "Damp on our ceiling shows up right under the terrace railings or columns. How are their bases sealed?"
+  },
+  "short": {
+    "el": "Εκεί που τα σίδερα των κάγκελων ή οι κολόνες μπαίνουν μέσα στο δάπεδο και στο στηθαίο, το μπετόν και τα πλακάκια ανοίγουν. Η σωστή επισκευή απαιτεί άνοιγμα και καθαρισμό της βάσης και σφράγισμα με εύκαμπτο στεγανωτικό οπλισμένο με ειδικό ύφασμα που ανεβαίνει και πάνω στο μέταλλο.",
+    "en": "Where metal railing posts or columns enter the floor or parapet, rigid mortar and tiles crack around them. A lasting repair means opening and cleaning the base, then sealing it with flexible waterproof coating reinforced with fabric that turns up onto the post."
+  },
+  "body": {
+    "el": "Τα μεταλλικά κάγκελα, οι ορθοστάτες από τέντες ή πέργκολες και οι κολόνες πάνω σε μια ταράτσα ή βεράντα είναι από τα πιο ευαίσθητα σημεία για διαρροές. Το μέταλλο ζεσταίνεται, κρυώνει και κουνιέται με τον αέρα διαφορετικά από το μπετόν ή τα πλακάκια γύρω του. Έτσι, η σφράγιση στη βάση του ραγίζει, το σίδερο σκουριάζει, φουσκώνει και ανοίγει δρόμο στο νερό.\n\n![Ύφασμα οπλισμού μέσα σε λευκή στεγανωτική στρώση στη βάση μεταλλικού ορθοστάτη](roof-post-bases-sealed/step-03.jpg)\n\nΤο απλό στοκάρισμα με τσιμέντο σε αυτά τα σημεία ξανασκάει γρήγορα. Σε αυτή την ταράτσα, όπου η παλιά σφράγιση γύρω από τους μεταλλικούς ορθοστάτες είχε ραγίσει, κάθε βάση καθαρίστηκε, περάστηκε πρώτο χέρι στεγανωτικού, ντύθηκε με ειδικό ύφασμα οπλισμού που ανεβαίνει και πάνω στον μεταλλικό ορθοστάτη, και σφραγίστηκε με τελικές στρώσεις ελαστικού υλικού.\n\n![Καθαρισμένο αυλάκι γύρω από τη βάση κολόνας πριν από τη στεγανοποίηση](terrace-column-bases-sealed/step-03.jpg)\n\nΣε μια άλλη ταράτσα με πλακάκια, το νερό έμπαινε από τις βάσεις των κολόνων και των τοίχων. Τα πλακάκια γύρω από κάθε κολόνα σπάστηκαν και αφαιρέθηκαν ώστε να ανοίξει καθαρό αυλάκι μέχρι τη βάση, πλύθηκαν με πιεστικό και σφραγίστηκαν με στεγανωτικό και ύφασμα οπλισμού.",
+    "en": "Metal railings, awning or pergola posts and columns on a roof terrace or balcony are prime leak points. Metal heats up, cools down and flexes in the wind differently from the concrete or tiles around it. As a result, rigid mortar at the base cracks, the iron rusts and expands, and water runs straight down along the post.\n\n![Reinforcing fabric embedded in white waterproof coating around a metal post base](roof-post-bases-sealed/step-03.jpg)\n\nPlain cement mortar at these spots simply cracks again. On this roof, where the old seals around the metal posts had split, each base was cleaned, given a first coat of waterproofing, wrapped with reinforcing fabric carried up onto the metal post itself, and finished with top coats of flexible membrane.\n\n![Channel opened and cleaned around a column base on a tiled terrace](terrace-column-bases-sealed/step-03.jpg)\n\nOn another tiled terrace where water was getting in around the columns and walls, the tiles right around each column were broken out to open a clean channel down to the slab, pressure-washed, and sealed with reinforced waterproof coating."
+  },
+  "projects": [
+    "terrace-column-bases-sealed",
+    "roof-post-bases-sealed",
+    "terrace-railings-white-coating"
+  ]
+}

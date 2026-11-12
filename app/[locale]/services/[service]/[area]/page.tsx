@@ -7,9 +7,21 @@ import { ArrowRight, Check, MapPin, Phone, ShieldCheck, Sparkles } from 'lucide-
 
 import { locales, type Locale } from '@/i18n';
 import { serviceIllustration, type ServiceSlug } from '@/data/services';
-import { areas, areaSlugs, isAreaSlug, isLocalServiceSlug, localServiceSlugs, type AreaSlug, type LocalServiceSlug } from '@/data/areas';
+import {
+  areas,
+  areaSlugs,
+  getServiceAreaLead,
+  isAreaSlug,
+  isLocalServiceSlug,
+  localServiceSlugs,
+  primaryAreaSlugs,
+  type AreaSlug,
+  type LocalServiceSlug,
+} from '@/data/areas';
+import { getAnswersByCategory } from '@/lib/answers';
 import { getAllProjects, toProjectSummary } from '@/lib/projects';
 import { assetPath, siteConfig, siteUrl } from '@/lib/site-config';
+import { AnswerCard } from '@/components/knowledge/AnswerCard';
 import { ProjectCard } from '@/components/portfolio/ProjectCard';
 import { Button } from '@/components/ui/button';
 import { ContactForm } from '@/components/contact/ContactForm';
@@ -39,7 +51,7 @@ export async function generateMetadata({
   const tServices = await getTranslations({ locale, namespace: `services.items.${service}` });
   const area = areas[areaSlug];
   const title = `${tServices('title')} ${area.genitive[locale as Locale]}`;
-  const description = area.localContext[locale as Locale];
+  const description = getServiceAreaLead(service as ServiceSlug, area, locale as Locale);
 
   return {
     title,
@@ -58,6 +70,12 @@ export async function generateMetadata({
   };
 }
 
+const DEMOLITION_PROJECT_SLUGS = [
+  'kitchen-walls-stripped-replastered',
+  'bathroom-renovation-green-tub',
+  'terrace-tiles-removed-cement-coating',
+];
+
 export default async function LocalServicePage({
   params: { locale, service, area: areaSlug },
 }: {
@@ -70,18 +88,25 @@ export default async function LocalServicePage({
   const tServices = await getTranslations({ locale, namespace: 'services' });
   const tServiceItem = await getTranslations({ locale, namespace: `services.items.${service}` });
   const tLocal = await getTranslations({ locale, namespace: 'localLanding' });
+  const tHub = await getTranslations({ locale, namespace: 'knowledgeHubPage' });
   const tContact = await getTranslations({ locale, namespace: 'contactPage' });
   const tCommon = await getTranslations({ locale, namespace: 'common' });
 
   const sections = tServiceItem.raw('sections') as { title: string; text: string }[];
   const whyItems = tServiceItem.raw('whyItems') as string[];
 
-  // Filter projects for this service
-  const works = getAllProjects()
-    .filter((project) => project.service === service)
+  const allProjects = getAllProjects();
+  const works = (
+    service === 'demolition'
+      ? allProjects.filter((project) => DEMOLITION_PROJECT_SLUGS.includes(project.slug))
+      : allProjects.filter((project) => project.service === service)
+  )
     .sort((a, b) => Number(b.featured) - Number(a.featured) || a.order - b.order)
     .slice(0, 3)
     .map((project) => toProjectSummary(project, locale));
+
+  const answers = getAnswersByCategory(service as ServiceSlug).slice(0, 6);
+  const serviceAreaLead = getServiceAreaLead(service as ServiceSlug, area, locale);
 
   const localSchema = {
     '@context': 'https://schema.org',
@@ -139,7 +164,7 @@ export default async function LocalServicePage({
             </h1>
 
             <p className="mt-5 text-base leading-relaxed text-foreground/85 md:text-lg">
-              {area.localContext[locale]}
+              {serviceAreaLead}
             </p>
 
             <div className="mt-4 flex items-center gap-2 text-xs font-medium text-muted-foreground">
@@ -235,14 +260,14 @@ export default async function LocalServicePage({
               <div>
                 <span className="eyebrow">{tCommon('before')} & {tCommon('after')}</span>
                 <h2 className="mt-2 font-display text-2xl font-bold sm:text-3xl">
-                  {tServices('items.insulation.place')} &bull; Πραγματικές Εργασίες
+                  {tServiceItem('place')} &bull; {tHub('worksTitle')}
                 </h2>
               </div>
               <Link
                 href={`/${locale}/portfolio`}
                 className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
               >
-                Όλα τα έργα <ArrowRight className="h-4 w-4 rtl:rotate-180" />
+                {tHub('seeAllWorks')} <ArrowRight className="h-4 w-4 rtl:rotate-180" />
               </Link>
             </div>
 
@@ -255,42 +280,107 @@ export default async function LocalServicePage({
         </section>
       )}
 
-      {/* Free Inspection Promise & Why Us */}
-      <section className="container py-16 md:py-24">
-        <div className="grid gap-12 lg:grid-cols-2">
-          <div className="rounded-xl border-2 border-foreground bg-card p-8 shadow-sm">
-            <div className="inline-flex items-center gap-2 text-clay">
-              <Sparkles className="h-5 w-5" />
-              <span className="font-display text-sm font-bold uppercase tracking-wider">
-                {tLocal('freeInspectionTitle')}
-              </span>
+      {/* Quick Answers for this Service */}
+      {answers.length > 0 && (
+        <section className="border-t border-border py-16 md:py-24">
+          <div className="container">
+            <div className="flex flex-wrap items-end justify-between gap-4">
+              <div className="max-w-2xl">
+                <span className="eyebrow">{tServiceItem('name')}</span>
+                <h2 className="mt-2 font-display text-2xl font-bold sm:text-3xl">
+                  {tHub('answersTitle')}
+                </h2>
+                <p className="mt-2 text-sm text-muted-foreground">
+                  {tHub('answersSubtitle')}
+                </p>
+              </div>
+              <Link
+                href={`/${locale}/knowledge-hub/${service}`}
+                className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline"
+              >
+                {tHub('answersCta')} <ArrowRight className="h-4 w-4 rtl:rotate-180" />
+              </Link>
             </div>
-            <h3 className="mt-4 font-display text-2xl font-bold text-primary">
-              Χωρίς καμία χρέωση και χωρίς δέσμευση
-            </h3>
-            <p className="mt-4 text-base leading-relaxed text-muted-foreground">
-              {tLocal('freeInspectionDesc')}
-            </p>
-            <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <Button asChild size="lg" variant="accent" className="gap-2 font-bold">
-                <a href={siteConfig.phoneHref}>
-                  <Phone className="h-4 w-4" />
-                  {tLocal('ctaSubtitle')}
-                </a>
-              </Button>
+            <div className="mt-8 grid gap-4 md:grid-cols-2">
+              {answers.map((answer) => (
+                <AnswerCard key={answer.slug} answer={answer} locale={locale} />
+              ))}
             </div>
           </div>
+        </section>
+      )}
 
-          <div>
-            <h3 className="font-display text-2xl font-bold text-primary">{tServices('whyTitle')}</h3>
-            <ul className="mt-6 space-y-4">
-              {whyItems.map((item) => (
-                <li key={item} className="flex items-start gap-3 border-b border-border pb-3">
-                  <Check className="mt-0.5 h-5 w-5 shrink-0 text-accent" />
-                  <span className="text-foreground">{item}</span>
-                </li>
-              ))}
-            </ul>
+      {/* Free Inspection Promise & Why Us */}
+      <section className="border-t border-border py-16 md:py-24">
+        <div className="container">
+          <div className="grid gap-12 lg:grid-cols-2">
+            <div className="rounded-xl border-2 border-foreground bg-card p-8 shadow-sm">
+              <div className="inline-flex items-center gap-2 text-clay">
+                <Sparkles className="h-5 w-5" />
+                <span className="font-display text-sm font-bold uppercase tracking-wider">
+                  {tLocal('freeInspectionTitle')}
+                </span>
+              </div>
+              <h3 className="mt-4 font-display text-2xl font-bold text-primary">
+                {locale === 'el'
+                  ? 'Χωρίς καμία χρέωση και χωρίς δέσμευση'
+                  : 'Free of charge and with no obligation'}
+              </h3>
+              <p className="mt-4 text-base leading-relaxed text-muted-foreground">
+                {tLocal('freeInspectionDesc')}
+              </p>
+              <div className="mt-8 flex flex-col gap-3 sm:flex-row">
+                <Button asChild size="lg" variant="accent" className="gap-2 font-bold">
+                  <a href={siteConfig.phoneHref}>
+                    <Phone className="h-4 w-4" />
+                    {tLocal('ctaSubtitle')}
+                  </a>
+                </Button>
+              </div>
+            </div>
+
+            <div>
+              <h3 className="font-display text-2xl font-bold text-primary">{tServices('whyTitle')}</h3>
+              <ul className="mt-6 space-y-4">
+                {whyItems.map((item) => (
+                  <li key={item} className="flex items-start gap-3 border-b border-border pb-3">
+                    <Check className="mt-0.5 h-5 w-5 shrink-0 text-accent" />
+                    <span className="text-foreground">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Other Athens Areas Served for this Service */}
+      <section className="border-t border-border bg-card py-12 md:py-16">
+        <div className="container">
+          <span className="eyebrow">{tLocal('allAreas')}</span>
+          <h2 className="mt-2 font-display text-2xl font-bold">
+            {tServiceItem('title')} &bull;{' '}
+            {locale === 'el' ? 'Περιοχές Εξυπηρέτησης στην Αττική' : 'Areas Served Across Attica'}
+          </h2>
+          <div className="mt-6 flex flex-wrap gap-2">
+            {primaryAreaSlugs.map((slug) => {
+              const targetArea = areas[slug];
+              const isCurrent = slug === areaSlug;
+              return (
+                <Link
+                  key={slug}
+                  href={`/${locale}/services/${service}/${slug}`}
+                  className={
+                    isCurrent
+                      ? 'inline-flex items-center gap-1 rounded-md border border-foreground bg-accent px-3 py-1.5 text-xs font-semibold text-accent-foreground'
+                      : 'inline-flex items-center gap-1 rounded-md border border-border bg-background px-3 py-1.5 text-xs font-medium text-foreground transition-colors hover:border-foreground'
+                  }
+                >
+                  <MapPin className="h-3 w-3 text-clay" />
+                  {targetArea.name[locale]}
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>

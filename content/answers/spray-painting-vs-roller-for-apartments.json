@@ -1,0 +1,20 @@
+{
+  "category": "painting",
+  "order": 10,
+  "question": {
+    "el": "Βάψιμο δωματίου με πιστόλι ή με ρολό: πότε χρησιμοποιείται το πιστόλι και πώς προστατεύονται τα έπιπλα;",
+    "en": "Spray painting vs roller in an apartment: when is a paint sprayer used and how is the furniture protected?"
+  },
+  "short": {
+    "el": "Το πιστόλι βαφής δίνει πολύ λεία, ομοιόμορφη επιφάνεια και καλύπτει γρήγορα μεγάλους τοίχους και ταβάνια, αρκεί να προηγηθεί σχολαστικό σκέπασμα κάθε επίπλου, κουφώματος και πατώματος με νάιλον και χαρτοταινία.",
+    "en": "Airless spray painting gives a very smooth, uniform finish across walls and ceilings, provided every piece of furniture, window frame and floor is completely masked in plastic sheeting and tape beforehand."
+  },
+  "body": {
+    "el": "Οι περισσότεροι ιδιοκτήτες γνωρίζουν το κλασικό βάψιμο με ρολό και πινέλο, όμως σε πολλές περιπτώσεις — είτε σε άδειους χώρους είτε σε δωμάτια που αλλάζουν χρώμα — η βαφή με επαγγελματικό πιστόλι ψεκασμού (airless) προσφέρει εξαιρετικά λείο φινίρισμα χωρίς την υφή που αφήνει το ρολό.\n\n![Πρασινογάλαζο δωμάτιο με τα έπιπλα πλήρως σκεπασμένα πριν από τον ψεκασμό](room-spray-painted-white/step-01.jpg)\n\nΤο μυστικό στη βαφή με πιστόλι μέσα σε κατοικημένο σπίτι είναι η προετοιμασία. Επειδή ο ψεκασμός δημιουργεί λεπτή άχνη χρώματος στον αέρα, όλα τα έπιπλα συγκεντρώνονται και τυλίγονται από πάνω μέχρι κάτω με νάιλον, ενώ πατώματα, πρίζες, κουφώματα και φωτιστικά μονώνονται προσεκτικά.\n\n![Ψεκασμός λευκού χρώματος με πιστόλι πάνω στον τοίχο](room-spray-painted-white/step-02.jpg)\n\nΜόλις ολοκληρωθεί το σκέπασμα, το πιστόλι απλώνει το χρώμα σε ομοιόμορφη στρώση, καλύπτοντας γρήγορα ακόμη και έντονους παλιούς τόνους και αφήνοντας τους τοίχους λείους και καθαρούς.",
+    "en": "Most homeowners are familiar with traditional roller and brush painting, yet in many interiors airless spray painting delivers an exceptionally smooth finish without roller stipple.\n\n![Blue-green room with all furniture wrapped in plastic sheeting before spray painting](room-spray-painted-white/step-01.jpg)\n\nThe key to spray painting inside a furnished home is masking. Because spraying produces fine airborne mist, all furniture is gathered and wrapped top-to-bottom in plastic sheeting, while floors, sockets, window frames and light fixtures are taped off.\n\n![Spraying white paint onto the wall](room-spray-painted-white/step-02.jpg)\n\nOnce everything is masked, the sprayer lays down an even coat across the walls, covering darker old colours cleanly and leaving a smooth, uniform surface."
+  },
+  "projects": [
+    "room-spray-painted-white",
+    "room-grey-feature-wall"
+  ]
+}

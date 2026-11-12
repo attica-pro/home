@@ -1,0 +1,20 @@
+{
+  "category": "insulation",
+  "order": 23,
+  "question": {
+    "el": "Οι σωλήνες που τρέχουν στη βάση του τοίχου στη βεράντα βάζουν υγρασία. Πώς καλύπτονται και μονώνονται;",
+    "en": "Pipes running along the base of our terrace wall are letting damp in. How can they be boxed in and waterproofed?"
+  },
+  "short": {
+    "el": "Αν το παλιό κάλυμμα των σωλήνων έχει διαλυθεί, κατασκευάζεται νέο προστατευτικό κουτί, σφραγίζονται όλες οι ενώσεις του με τον τοίχο και το δάπεδο, και όλο το κουτί μαζί με τα πλακάκια γύρω του ντύνεται με στεγανωτική μεμβράνη.",
+    "en": "When an old pipe cover on a terrace falls apart, a new box is built over the pipes, all joints with the wall and floor are sealed, and the entire box and surrounding tiles are coated with waterproof membrane."
+  },
+  "body": {
+    "el": "Σε πολλές βεράντες και ρετιρέ, σωλήνες θέρμανσης ή ύδρευσης περνούν εξωτερικά στη γωνία όπου ο τοίχος συναντά το δάπεδο. Για να μη φαίνονται, συχνά κλείνονται με πρόχειρες κατασκευές οι οποίες με τη βροχή και τον ήλιο ανοίγουν, κρατούν νερό μέσα τους και ποτίζουν τον τοίχο του διαμερίσματος.\n\n![Νέο ξύλινο κουτί πάνω από τις σωληνώσεις στη βάση του τοίχου της βεράντας](terrace-wooden-box-waterproofed/step-02.jpg)\n\nΣε αυτή τη βεράντα το παλιό κάλυμμα των σωλήνων είχε διαλυθεί εντελώς. Αφαιρέθηκαν τα χαλασμένα κομμάτια και φτιάχτηκε νέο κουτί που έκλεισε προστατευτικά τις σωληνώσεις σε όλο το μήκος του τοίχου.\n\n![Το κουτί και τα πλακάκια γύρω του καλυμμένα με λευκό στεγανωτικό](terrace-wooden-box-waterproofed/step-05.jpg)\n\nΈπειτα σφραγίστηκαν προσεκτικά όλες οι ακμές και οι ενώσεις του κουτιού με τον τοίχο και τα πλακάκια, και όλη η κατασκευή — μαζί με τη ζώνη των πλακιδίων μπροστά της — καλύφθηκε με λευκό επαλειφόμενο στεγανωτικό ώστε το νερό να κυλάει από πάνω χωρίς να βρίσκει χαραμάδα.",
+    "en": "On many balconies and penthouse terraces, heating or water pipes run along the outside corner where the wall meets the floor. They are often boxed in with lightweight covers that eventually split in the sun and rain, trapping water against the apartment wall.\n\n![New wooden box built over the pipes along the foot of the terrace wall](terrace-wooden-box-waterproofed/step-02.jpg)\n\nOn this terrace the old pipe cover had fallen apart completely. The rotten pieces were cleared away and a new box was built to enclose the pipes along the length of the wall.\n\n![The pipe box and surrounding terrace tiles coated with white waterproofing](terrace-wooden-box-waterproofed/step-05.jpg)\n\nEvery edge and joint where the box met the wall and floor was sealed, and the entire box — together with the strip of tiles in front of it — was coated with white liquid waterproofing so rainwater sheds cleanly off it."
+  },
+  "projects": [
+    "terrace-wooden-box-waterproofed",
+    "roof-pipes-posts-sealing"
+  ]
+}

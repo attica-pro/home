@@ -1,0 +1,20 @@
+{
+  "category": "renovations",
+  "order": 9,
+  "question": {
+    "el": "Πώς φτιάχνεται χτιστή κόγχη (εσοχή) μέσα στον τοίχο της ντουζιέρας και σε ποιο στάδιο της ανακαίνισης γίνεται;",
+    "en": "How is a built-in wall niche made inside the shower, and at what stage of the bathroom renovation is it built?"
+  },
+  "short": {
+    "el": "Η χτιστή κόγχη διαμορφώνεται στο στάδιο του χτισίματος και του σοβατίσματος (πριν μπουν τα πλακάκια), είτε αξιοποιώντας το πάχος του τοίχου είτε χτίζοντας με τούβλα στη γωνία του ντους, και στη συνέχεια στεγανοποιείται και ντύνεται με τα ίδια πλακάκια.",
+    "en": "A built-in shower niche is formed at the bricklaying and plastering stage before tiling begins, waterproofed along with the shower walls, and lined with matching tiles so bottles sit neatly inside the wall."
+  },
+  "body": {
+    "el": "Η χτιστή κόγχη (εσοχή) μέσα στον τοίχο της ντουζιέρας είναι η πιο πρακτική και καθαρή λύση για να ακουμπάτε σαμπουάν και αφρόλουτρα, χωρίς μεταλλικά ραφάκια που σκουριάζουν ή κρεμιούνται στα τζάμια. Όμως δεν μπορεί να προστεθεί αφού τελειώσει το μπάνιο — πρέπει να προβλεφθεί από την αρχή.\n\n![Χτίσιμο με τούβλα στη γωνία της ντουζιέρας κατά την ανακαίνιση μπάνιου](bathroom-renovation-grey-tiles/step-02.jpg)\n\nΑμέσως μετά το ξήλωμα των παλιών πλακιδίων και την τοποθέτηση των νέων σωληνώσεων, διαμορφώνεται με τούβλα η εσοχή στον τοίχο της ντουζιέρας σε ύψος που να βολεύει.\n\n![Η χτιστή κόγχη στον τοίχο της ντουζιέρας ντυμένη με γκρι πλακάκια](bathroom-renovation-grey-tiles/step-05.jpg)\n\nΣτη συνέχεια η κόγχη σοβατίζεται, στεγανοποιείται μαζί με όλο τον χώρο του ντους και ντύνεται εσωτερικά με τα πλακάκια του τοίχου, με ελαφριά κλίση στο κάτω ράφι ώστε να μη στέκεται νερό μέσα της.",
+    "en": "A built-in wall niche inside the shower is the neatest way to hold shampoo and soap without wire caddies that rust or hang off the glass. Because it is recessed into the masonry, it has to be planned before the tiles go on.\n\n![Brickwork being built in the shower corner during a bathroom renovation](bathroom-renovation-grey-tiles/step-02.jpg)\n\nRight after the old tiles are stripped and the new pipework is laid, the recess is formed in brickwork at a convenient height on the shower wall.\n\n![Finished shower wall niche lined with grey tiles](bathroom-renovation-grey-tiles/step-05.jpg)\n\nThe niche is then plastered, waterproofed along with the rest of the shower enclosure, and tiled inside with a slight forward slope on the bottom shelf so water drains right off."
+  },
+  "projects": [
+    "bathroom-renovation-grey-tiles",
+    "bathroom-walk-in-shower"
+  ]
+}

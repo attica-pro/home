@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 21,
+  "question": {
+    "el": "Η λευκή επαλειφόμενη μόνωση της ταράτσας έχει λερωθεί και κάνει ψιλές ρωγμές. Πώς ανανεώνεται;",
+    "en": "The white liquid membrane on our roof has gotten dirty and developed hairline cracks. How is it renewed?"
+  },
+  "short": {
+    "el": "Αν η υπάρχουσα επίστρωση δεν έχει φουσκώσει ή ξεκολλήσει, πλένεται καλά, σφραγίζονται τοπικά όλες οι ρωγμές και οι βάσεις των αεραγωγών, και περνιούνται νέες στρώσεις στεγανωτικού σε δάπεδο και στηθαία.",
+    "en": "If the existing coating has not blistered or peeled away, the roof is washed thoroughly, cracks and vent pipe bases are sealed locally, and fresh waterproof coats are rolled across the floor and parapets."
+  },
+  "body": {
+    "el": "Οι λευκές επαλειφόμενες στεγανοποιήσεις βρίσκονται εκτεθειμένες στον ήλιο, τη σκόνη και τη βροχή όλο τον χρόνο. Με τα χρόνια η επιφάνεια λερώνεται — χάνοντας μέρος της λευκότητάς της που αντανακλά τη ζέστη — και εμφανίζει τοπικές φθορές ή ρωγμές. Αν η συντήρηση γίνει έγκαιρα, πριν το νερό περάσει από κάτω και φουσκώσει την παλιά στρώση, η ανανέωση είναι απλή.\n\n![Ρωγμές στην επιφάνεια της ταράτσας σφραγισμένες πριν από την τελική λευκή επίστρωση](roof-terrace-cracks-white-coating/step-02.jpg)\n\nΠρώτα η ταράτσα πλένεται ώστε να φύγουν η σκόνη και οι ρύποι. Στη συνέχεια εντοπίζονται και σφραγίζονται μία προς μία οι ρωγμές της επιφάνειας, καθώς και οι ενώσεις γύρω από τους σωλήνες εξαερισμού (αεραγωγούς) και τα στηθαία.\n\n![Νέο λευκό στεγανωτικό απλώνεται γύρω από τους αεραγωγούς της ταράτσας](roof-vent-pipes-white-coating/step-03.jpg)\n\nΈπειτα εφαρμόζονται τα νέα χέρια στεγανωτικού (συχνά μια πρώτη γκρι ή λευκή στρώση βάσης και η τελική λευκή επίστρωση) σε όλο το δάπεδο και στα τοιχία, επαναφέροντας τη στεγανότητα και την καθαρή, φωτεινή επιφάνεια της ταράτσας.",
+    "en": "White liquid roof membranes stand out in the sun, dust and rain year-round. Over time the surface gets dirty — losing some of the reflectivity that keeps the building cool — and develops local wear or fine cracks. If maintained before water gets underneath and blisters the old layer, renewal is straightforward.\n\n![Cracks on the roof surface sealed ahead of the white top coat](roof-terrace-cracks-white-coating/step-02.jpg)\n\nFirst the roof is washed clean of dust and grime. Every crack in the surface is then sealed individually, along with the bases of vent pipes and the parapet corners.\n\n![Applying fresh white waterproof coating around roof vent pipes](roof-vent-pipes-white-coating/step-03.jpg)\n\nFresh coats of waterproof membrane (often a grey base layer followed by the white top coat) are then rolled across the entire floor and up the parapet walls, restoring both watertightness and a bright, reflective surface."
+  },
+  "projects": [
+    "roof-vent-pipes-white-coating",
+    "roof-terrace-cracks-white-coating",
+    "roof-terrace-grey-layer-white-coating"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "category": "painting",
+  "order": 13,
+  "question": {
+    "el": "Γιατί φουσκώνει ο σοβάς και το χρώμα πάνω και κάτω από τα παράθυρα και πώς επισκευάζεται;",
+    "en": "Why do plaster and paint blister above and below windows, and how is that repaired?"
+  },
+  "short": {
+    "el": "Γύρω από τα παράθυρα (στο πρέκι από πάνω, στο κουτί του ρολού και κάτω από το μάρμαρο της ποδιάς) περνάει συχνά υγρασία από εξωτερικές χαραμάδες ή συμπύκνωση υδρατμών. Ξύνεται ο χαλασμένος σοβάς, στοκάρεται, ασταρώνεται και ξαναβάφεται.",
+    "en": "Around windows — at the lintel above, around the shutter box and beneath the marble sill — moisture often creeps in through exterior gaps or condensation. The damaged plaster is scraped back, filled, primed and repainted."
+  },
+  "body": {
+    "el": "Τα σημεία πάνω από το παράθυρο (πρέκι), γύρω από το κουτί του παντζουριού και κάτω από το περβάζι κοντά στο καλοριφέρ είναι τα πρώτα που εμφανίζουν φουσκώματα και κίτρινους λεκέδες μέσα στα δωμάτια. Αυτό συμβαίνει επειδή το νερό της βροχής βρίσκει μικρές ρωγμές στην εξωτερική ένωση του κουφώματος ή της μαρμαροποδιάς με τον τοίχο.\n\n![Ξεφλουδισμένος σοβάς πάνω από το παράθυρο πριν από την επισκευή](window-lintel-peeling-plaster-repaint/step-01.jpg)\n\nΠάνω από αυτό το παράθυρο, ο σοβάς είχε φουσκώσει και ξεφλουδίσει. Όλο το χαλαρό υλικό αφαιρέθηκε μέχρι τη γερή βάση, η επιφάνεια επισκευάστηκε και λειάνθηκε ώστε να έρθει πρόσωπο με τον υπόλοιπο τοίχο, και μετά βάφτηκε.\n\n![Λεκέδες και φθορές στον τοίχο ανάμεσα και κάτω από τα παράθυρα](room-wall-stains-repaint/step-01.jpg)\n\nΑντίστοιχα, όταν υπάρχουν λεκέδες υγρασίας κάτω από τα παράθυρα και δίπλα στα καλοριφέρ, τα σημεία ξύνονται, στοκάρονται, περνούν μονωτικό αστάρι για να μην ξαναβγεί η κιτρινίλα και βάφεται ολόκληρο το δωμάτιο.",
+    "en": "The areas right above a window lintel, around the roller-shutter box and beneath the window sill near the radiator are often the first places inside a room to blister or show yellow damp stains. Rainwater finds tiny cracks along the outside frame or under the marble sill and soaks into the wall.\n\n![Peeling plaster above a window lintel before repair](window-lintel-peeling-plaster-repaint/step-01.jpg)\n\nAbove this window, the plaster had blistered and flaked away. All loose material was scraped back to a solid base, rebuilt and sanded flush with the surrounding wall, and then painted.\n\n![Stains and wear on the wall between and beneath two windows](room-wall-stains-repaint/step-01.jpg)\n\nLikewise, where damp stains have formed beneath windows and beside radiators, the damaged patches are scraped, filled, sealed with stain-blocking primer so discolouration cannot bleed through, and the room is repainted."
+  },
+  "projects": [
+    "window-lintel-peeling-plaster-repaint",
+    "room-wall-stains-repaint",
+    "apartment-warm-colours-repaint"
+  ]
+}

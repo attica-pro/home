@@ -1,0 +1,20 @@
+{
+  "category": "repairs",
+  "order": 8,
+  "question": {
+    "el": "Γιατί φουσκώνει και ξεφλουδίζει ο τοίχος δίπλα στην πόρτα ή στη μπαλκονόπορτα και πώς επισκευάζεται;",
+    "en": "Why does the wall paint and plaster blister and peel right next to a door or balcony door, and how is it fixed?"
+  },
+  "short": {
+    "el": "Δίπλα σε εξώπορτες, μπαλκονόπορτες και πόρτες μπάνιου ο τοίχος τραβάει υγρασία από το κατωκάσι ή από την ένωση της κάσας. Το ξεφλουδισμένο χρώμα ξύνεται μέχρι τη γερή βάση, ο τοίχος στοκάρεται σε στρώσεις, τρίβεται και βάφεται ξανά.",
+    "en": "Next to entrance doors, balcony doors and bathroom doors, walls often draw moisture from the threshold or frame joint. All loose paint is scraped back to sound plaster, filled smooth in layers, sanded and repainted."
+  },
+  "body": {
+    "el": "Το κομμάτι του τοίχου ακριβώς δίπλα στην κάσα μιας πόρτας — είτε πρόκειται για μπαλκονόπορτα, εξώπορτα εισόδου ή πόρτα δίπλα σε μπάνιο — είναι από τα σημεία όπου το χρώμα σηκώνεται πιο συχνά σε μεγάλα φύλλα. Εκεί συνδυάζονται η υγρασία που περνάει από το κατωκάσι ή τις ενώσεις με τα συνεχή τραντάγματα από το άνοιγμα και το κλείσιμο της πόρτας.\n\n![Τοίχος με ξεφλουδισμένο χρώμα δίπλα στην κάσα της πόρτας](peeling-wall-by-door/step-01.jpg)\n\nΑν απλώς περαστεί χρώμα πάνω από τις φλούδες, θα ξαναπέσει αμέσως. Σε αυτόν τον τοίχο δίπλα στην πόρτα, όλο το χρώμα που είχε σηκωθεί ξύστηκε με σπάτουλα μέχρι εκεί που η βάση ήταν απόλυτα σταθερή.\n\n![Ο τοίχος δίπλα στην πόρτα ξυσμένος και στοκαρισμένος πριν από τη βαφή](peeling-wall-by-door/step-02.jpg)\n\nΣτη συνέχεια η επιφάνεια στοκαρίστηκε, τρίφτηκε ώστε να σβήσει η υψομετρική διαφορά με το παλιό χρώμα, ασταρώθηκε και βάφτηκε, αφήνοντας την είσοδο και το δωμάτιο ξανά καθαρά.",
+    "en": "The strip of wall right beside a door frame — whether a balcony door, front entrance door or bathroom door — is one of the most common spots for paint to lift in large flakes. Moisture creeping in around the threshold or frame meets the constant vibration of the door opening and closing.\n\n![Wall with large flakes of peeling paint right next to a door frame](peeling-wall-by-door/step-01.jpg)\n\nPainting straight over flaking edges will fail almost immediately. On this wall beside the door, all lifted paint was scraped back with a broad knife until only firmly bonded plaster remained.\n\n![The wall beside the door scraped and filled smooth before repainting](peeling-wall-by-door/step-02.jpg)\n\nThe patch was then filled to feather out the step between the bare plaster and the surrounding paint, sanded smooth, primed and painted."
+  },
+  "projects": [
+    "peeling-wall-by-door",
+    "hallway-peeling-walls-repainted"
+  ]
+}

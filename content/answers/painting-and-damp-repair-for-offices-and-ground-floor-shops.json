@@ -1,0 +1,21 @@
+{
+  "category": "painting",
+  "order": 14,
+  "question": {
+    "el": "Τι χρειάζεται ένα ισόγειο κατάστημα ή γραφείο με υγρασία στους τοίχους και φθαρμένο δάπεδο για να δείξει ξανά καθαρό;",
+    "en": "What does a ground-floor shop or office with damp walls and a worn floor need to look clean and ready for use?"
+  },
+  "short": {
+    "el": "Στα ισόγεια καταστήματα και γραφεία, η υγρασία στη βάση των τοίχων αντιμετωπίζεται με ξύσιμο των σαθρών, επισκευή και βαφή, ενώ το ταλαιπωρημένο δάπεδο μπορεί να πλυθεί και να βαφτεί με ειδική ανθεκτική επίστρωση δαπέδου.",
+    "en": "In ground-floor shops and offices, damp along the base of the walls is treated by scraping back loose material, repairing and repainting, while a worn floor can be washed and coated with hard-wearing floor paint."
+  },
+  "body": {
+    "el": "Τα ισόγεια καταστήματα και οι επαγγελματικοί χώροι που μένουν κλειστοί για καιρό εμφανίζουν σχεδόν πάντα υγρασία και ξεφλουδίσματα χαμηλά στους τοίχους, καθώς και λεκιασμένα, φθαρμένα δάπεδα. Για να ενοικιαστεί ή να λειτουργήσει ξανά ο χώρος, χρειάζεται καθαρή και γρήγορη αποκατάσταση.\n\n![Ξύσιμο των ξεφλουδισμένων χρωμάτων στη βάση του τοίχου ισόγειου καταστήματος](shop-unit-damp-walls-grey-floor/step-02.jpg)\n\nΣε αυτό το ισόγειο κατάστημα, η βάση των τοίχων είχε σκούρους λεκέδες υγρασίας και το παλιό χρώμα έπεφτε σε φλούδες. Οι τοίχοι ξύστηκαν σε όλο το ύψος της ζημιάς, επισκευάστηκαν και βάφτηκαν λευκοί μέχρι τη βιτρίνα. Στη συνέχεια το παλιό δάπεδο πλύθηκε και περάστηκε με γκρι επίστρωση δαπέδου, αλλάζοντας τελείως την εικόνα του καταστήματος.\n\n![Επαγγελματικός χώρος γραφείων βαμμένος με ανοιχτούς τοίχους, μπλε και πορτοκαλί στοιχεία](office-orange-blue-walls/step-06.jpg)\n\nΣε γραφεία με πολλά δωμάτια και γυάλινα χωρίσματα, μετά το καθάρισμα και τα στοκαρίσματα, ο συνδυασμός φωτεινών ανοιχτόχρωμων τοίχων με επιλεγμένους χρωματιστούς τοίχους ή πόρτες δίνει σύγχρονο επαγγελματικό χαρακτήρα.",
+    "en": "Ground-floor shops and offices that have stood empty often suffer from damp and peeling paint along the bottom of the walls, together with stained, worn floors. To let or open the premises again, a clean, thorough turnaround is needed.\n\n![Scraping flaking paint along the damp base of a ground-floor shop wall](shop-unit-damp-walls-grey-floor/step-02.jpg)\n\nIn this ground-floor shop, the lower walls had dark damp stains and flaking paint. The damaged areas were scraped back to sound plaster, repaired and painted white up to the shopfront. The old floor was then scrubbed clean and finished with a grey floor coating, transforming the unit.\n\n![Refurbished office space with light walls and blue and orange accents](office-orange-blue-walls/step-06.jpg)\n\nIn multi-room offices with glass partitions, once filling and repairs are complete, combining bright neutral walls with selected colour accents on feature walls or doors gives the workspace a fresh, professional look."
+  },
+  "projects": [
+    "shop-unit-damp-walls-grey-floor",
+    "office-orange-blue-walls",
+    "office-damp-walls-repainted"
+  ]
+}

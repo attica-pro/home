@@ -1,0 +1,19 @@
+{
+  "category": "insulation",
+  "order": 17,
+  "question": {
+    "el": "Η εξωτερική σκάλα από μπετόν μπάζει νερά στην αποθήκη ή στον χώρο από κάτω. Πώς στεγανοποιούνται τα σκαλοπάτια;",
+    "en": "Our outdoor concrete stairs leak into the storage room or space underneath. How are the steps waterproofed?"
+  },
+  "short": {
+    "el": "Οι εξωτερικές σκάλες έχουν πολλές γωνίες (πατήματα, ρίχτια και ένωση με τον τοίχο) όπου ανοίγουν ψιλές ρωγμές. Μετά από καλό καθάρισμα και προετοιμασία, εφαρμόζονται επαλειφόμενες στεγανωτικές στρώσεις που καλύπτουν ενιαία κάθε σκαλοπάτι και το πλατύσκαλο.",
+    "en": "Outdoor stairs have many corners — treads, risers and the wall junction — where hairline cracks open up. After cleaning and surface preparation, brush-applied waterproof coats seal every step and landing as one continuous skin."
+  },
+  "body": {
+    "el": "Κάτω από τις εξωτερικές τσιμεντένιες σκάλες υπάρχει συχνά αποθήκη, λεβητοστάσιο ή είσοδος ισογείου. Επειδή η σκάλα είναι εκτεθειμένη στη βροχή και στον ήλιο και σχηματίζει συνεχή σκαλοπάτια, το νερό λιμνάζει στις εσωτερικές γωνίες (ανάμεσα στο πάτημα και το ρίχτι) και βρίσκει διέξοδο από τις τριχοειδείς ρωγμές του μπετόν.\n\n![Τα σκαλοπάτια της εξωτερικής σκάλας με την πρώτη στεγανωτική στρώση](outdoor-steps-waterproofing/step-03.jpg)\n\nΣε αυτή την εξωτερική σκάλα, τα παλιά σκαλοπάτια είχαν φθαρεί και άφηναν την υγρασία να περνάει. Η επιφάνεια καθαρίστηκε και προετοιμάστηκε, και στη συνέχεια περάστηκαν διαδοχικές στεγανωτικές στρώσεις.\n\n![Η εξωτερική σκάλα και το πλατύσκαλο με την τελική σκούρα γκρι στεγανωτική στρώση](outdoor-steps-waterproofing/step-04.jpg)\n\nΤο υλικό απλώθηκε ώστε να καλύψει χωρίς καμία διακοπή τα οριζόντια πατήματα, τα κάθετα ρίχτια, τις ακμές των σκαλοπατιών, τις ενώσεις με τους πλαϊνούς τοίχους και το δάπεδο μπροστά στη σκάλα.",
+    "en": "Underneath outdoor concrete stairs there is often a storage room, boiler room or ground-floor entrance. Because the staircase stands out in the rain and sun and is made up of dozens of inside and outside corners, water sits along the joints between treads and risers and seeps through hairline cracks in the concrete.\n\n![Outdoor concrete steps coated with the first waterproof layer](outdoor-steps-waterproofing/step-03.jpg)\n\nOn this outdoor staircase, the worn concrete steps were letting damp through. The surface was cleaned and prepared, and successive waterproof coats were applied.\n\n![The steps and landing finished with the dark grey waterproof coating](outdoor-steps-waterproofing/step-04.jpg)\n\nThe coating was worked continuously across the horizontal treads, the vertical risers, the nosings, the side wall junctions and the landing floor at the foot of the stairs."
+  },
+  "projects": [
+    "outdoor-steps-waterproofing"
+  ]
+}

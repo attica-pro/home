@@ -1,0 +1,20 @@
+{
+  "category": "painting",
+  "order": 8,
+  "question": {
+    "el": "Μπορώ να ανανεώσω την κουζίνα βάφοντας τους τοίχους και τις πόρτες ή τα ντουλάπια χωρίς να τα ξηλώσω;",
+    "en": "Can I refresh my kitchen by painting the walls, doors and cupboards without ripping out the units?"
+  },
+  "short": {
+    "el": "Ναι, εφόσον τα ντουλάπια και οι ξύλινες επιφάνειες είναι γερά. Με σωστή προετοιμασία, στοκάρισμα στους τοίχους και βαφή των ντουλαπιών και των πορτών, η κουζίνα αλλάζει εντελώς εικόνα χωρίς ξήλωμα.",
+    "en": "Yes, as long as the cupboards and woodwork are structurally sound. With proper preparation, wall filling and repainting of cupboard doors and frames, a kitchen is transformed without stripping out the units."
+  },
+  "body": {
+    "el": "Όταν τα ντουλάπια και ο πάγκος μιας κουζίνας είναι ακόμα γερά και λειτουργικά, αλλά τα χρώματα στους τοίχους και στις πόρτες έχουν παλιώσει ή κουράσει, δεν χρειάζεται ολική αποξήλωση για να αλλάξει ο χώρος.\n\n![Προετοιμασία και στοκάρισμα των τοίχων γύρω από τα ντουλάπια της κουζίνας](kitchen-repaint-grey-white/step-05.jpg)\n\nΣε αυτή την κουζίνα, οι τοίχοι είχαν έντονο τιρκουάζ χρώμα με φθορές, ενώ η ψηλή εντοιχισμένη ντουλάπα και οι πόρτες ήταν βαμμένες σε σκούρο μπλε. Πρώτα στοκαρίστηκαν και τρίφτηκαν όλες οι ατέλειες στους τοίχους και στο ταβάνι γύρω από τα ντουλάπια και πάνω από τα παράθυρα.\n\n![Η κουζίνα ολοκληρωμένη με λευκούς τοίχους και γκρι ντουλάπα](kitchen-repaint-grey-white/step-07.jpg)\n\nΣτη συνέχεια οι τοίχοι βάφτηκαν σε καθαρό λευκό με ήρεμο γκρι στο κάτω μέρος, και η ψηλή ντουλάπα μαζί με τις πόρτες βάφτηκαν στους ίδιους τόνους, δίνοντας φωτεινή και καθαρή όψη σε όλη την κουζίνα χωρίς να αλλαχτεί κανένα ντουλάπι.",
+    "en": "When a kitchen's cabinets and worktop are still solid and functional, but the wall and door colours look dated or worn, you do not need a full strip-out to transform the room.\n\n![Preparing and filling the kitchen walls around the existing cabinets](kitchen-repaint-grey-white/step-05.jpg)\n\nIn this kitchen, the walls were painted bright turquoise with local wear, while the tall built-in cupboard and doors were dark blue. All imperfections on the walls and ceiling around the cupboards and above the windows were filled and sanded smooth.\n\n![The finished kitchen with white walls and the tall cupboard painted grey](kitchen-repaint-grey-white/step-07.jpg)\n\nThe walls were then painted crisp white with a calm grey lower band, and the tall cupboard and doors were painted in matching tones, giving the whole kitchen a bright, clean look without replacing the units."
+  },
+  "projects": [
+    "kitchen-repaint-grey-white",
+    "old-apartment-damp-peeling-walls"
+  ]
+}

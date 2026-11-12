@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 13,
+  "question": {
+    "el": "Πώς μονώνεται μια ταράτσα που έχει φωτοβολταϊκά ή ενώνεται στο πλάι με κεραμοσκεπή;",
+    "en": "How do you waterproof a flat roof that has solar panels or meets a tiled roof along one side?"
+  },
+  "short": {
+    "el": "Η παλιά φθαρμένη μεμβράνη αφαιρείται κάτω από τα πάνελ και κατά μήκος των κεραμιδιών, οι βάσεις σφραγίζονται μία μία και η νέα στεγάνωση ανεβαίνει μέχρι την ένωση με την κεραμοσκεπή ώστε το νερό που κατεβαίνει από τα κεραμίδια να μη βρίσκει κενό.",
+    "en": "The old failed membrane is stripped from under the panels and along the tile edge, every support base is sealed individually, and the new waterproofing is carried right up to the tiled roof junction so runoff from the tiles cannot slip underneath."
+  },
+  "body": {
+    "el": "Όταν μια επίπεδη ταράτσα βρίσκεται δίπλα σε κεραμοσκεπή, δέχεται όλο το νερό που κατεβαίνει από τα κεραμίδια. Αν στην ένωση των δύο υπάρχει παλιό ασφαλτόπανο που έχει ξεκολλήσει ή σκιστεί, το νερό μπαίνει κατευθείαν κάτω από τη μόνωση. Το ίδιο συμβαίνει και γύρω από τις βάσεις των φωτοβολταϊκών πάνελ, όπου υπάρχουν δεκάδες στηρίγματα πάνω στην πλάκα.\n\n![Τεχνίτης απλώνει νέα τσιμεντοκονία κάτω από τις βάσεις των φωτοβολταϊκών](roof-beside-tiled-roof/step-04.jpg)\n\nΣε αυτή την ταράτσα με τα φωτοβολταϊκά, η παλιά σκισμένη μεμβράνη ξηλώθηκε ολόκληρη χωρίς να αφαιρεθούν τα πάνελ. Η πλάκα ασταρώθηκε, ρίχτηκε νέα τσιμεντοκονία με αντλία γύρω από κάθε βάση στήριξης και, αφού στέγνωσε, ψεκάστηκε αφρός πολυουρεθάνης μέχρι τα πρώτα κεραμίδια της διπλανής στέγης.\n\n![Ξήλωμα της παλιάς μεμβράνης κάτω από την άκρη της κεραμοσκεπής](terrace-tiled-roof-edge-white-coating/step-02.jpg)\n\nΣε μια άλλη ταράτσα που ακουμπούσε σε κεραμοσκεπή, τα παλιά φύλλα ασφαλτόπανου τραβήχτηκαν και αφαιρέθηκαν φύλλο φύλλο. Στη συνέχεια περάστηκε λευκό επαλειφόμενο στεγανωτικό πρώτα στο τοιχίο κάτω από τα κεραμίδια και στις γωνίες, και έπειτα σε ολόκληρο το δάπεδο της ταράτσας.",
+    "en": "When a flat roof sits next to a pitched tiled roof, it receives all the rainwater running off the tiles. If the old membrane along that junction has peeled or split, water runs straight underneath the waterproofing. The same problem arises on roofs with photovoltaic panels, where dozens of mounting feet sit on the slab.\n\n![Spreading new screed underneath solar PV panel frames](roof-beside-tiled-roof/step-04.jpg)\n\nOn this roof with solar panels, the torn old membrane was stripped out completely with the panels kept in place. The slab was primed, new screed was pumped and levelled around every mounting base, and once dry it was sprayed with polyurethane foam right up to the first row of tiles on the adjoining roof.\n\n![Stripping old bitumen membrane along the edge of a tiled roof](terrace-tiled-roof-edge-white-coating/step-02.jpg)\n\nOn another terrace bordering a tiled roof, the old bitumen sheets were pulled up sheet by sheet. White liquid membrane was then applied first along the low wall beneath the tiles and into the corners, and finally across the whole terrace floor."
+  },
+  "projects": [
+    "roof-beside-tiled-roof",
+    "terrace-tiled-roof-edge-white-coating",
+    "flat-roof-foam-white-coat"
+  ]
+}

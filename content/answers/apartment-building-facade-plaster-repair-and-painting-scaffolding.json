@@ -1,0 +1,19 @@
+{
+  "category": "painting",
+  "order": 11,
+  "question": {
+    "el": "Στην πρόσοψη ή την πλαϊνή όψη της πολυκατοικίας έχουν φουσκώσει οι σοβάδες. Πώς γίνεται η επισκευή και η βαφή με σκαλωσιά;",
+    "en": "The render on our apartment building's facade or side wall is blistering and falling. How is it repaired and painted from scaffolding?"
+  },
+  "short": {
+    "el": "Στήνεται σκαλωσιά με προστατευτικό δίχτυ, καθαιρούνται όλοι οι κούφιοι και θρυμματισμένοι σοβάδες, επισκευάζονται οι ακμές και οι επιφάνειες με νέο σοβά και στόκο, και βάφεται όλη η όψη από πάνω προς τα κάτω με εξωτερικό χρώμα αντοχής.",
+    "en": "Scaffolding with safety netting is erected, all hollow and crumbling render is hacked off, edges and surfaces are rebuilt and filled, and the entire elevation is painted top-to-bottom with weather-resistant exterior paint."
+  },
+  "body": {
+    "el": "Οι εξωτερικές όψεις των πολυκατοικιών — και ειδικά οι μεγάλες πλαϊνές (τυφλές) όψεις — τρώνε όλη τη βροχή και τον ήλιο. Όταν ο σοβάς στις ακμές ή στους τοίχους φουσκώσει και αρχίσει να θρυμματίζεται, αφενός είναι επικίνδυνο να πέσουν κομμάτια κάτω και αφετέρου το νερό περνάει μέσα στα διαμερίσματα.\n\n![Η πλαϊνή όψη της πολυκατοικίας καλυμμένη με σκαλωσιά και προστατευτικό μπλε δίχτυ](facade-repair-scaffolding/step-01.jpg)\n\nΓια να γίνει σωστή και ασφαλής δουλειά σε όλο το ύψος του κτιρίου, στήνεται σκαλωσιά ντυμένη με προστατευτικό δίχτυ ώστε να μη φεύγει σκόνη και σοβάδες προς τον δρόμο ή τα διπλανά κτίρια. Οι τεχνίτες ελέγχουν την όψη όροφο-όροφο και ξύνουν κάθε σαθρό ή κούφιο κομμάτι.\n\n![Ο εξωτερικός τοίχος της πολυκατοικίας με τα μπαλώματα επισκευής πριν από την τελική βαφή](facade-repair-scaffolding/step-04.jpg)\n\nΌλα τα ανοιγμένα σημεία και οι γωνίες του κτιρίου επισκευάζονται, στοκάρονται με υλικά εξωτερικού χώρου, ασταρώνονται και βάφονται από τον τελευταίο όροφο μέχρι κάτω. Όταν λυθεί η σκαλωσιά, η όψη είναι ξανά γερή, στεγανή και ομοιόμορφη.",
+    "en": "Apartment building exteriors — especially tall side elevations — take the brunt of rain and sun. Once the render along corners or walls blisters and starts crumbling, falling pieces become a hazard and rainwater soaks into the flats inside.\n\n![Apartment building side elevation clad in scaffolding and blue safety netting](facade-repair-scaffolding/step-01.jpg)\n\nTo work safely across the full height of the building, scaffolding wrapped in protective netting is erected to contain dust and debris. The crew checks the wall floor by floor and strips back every hollow or crumbling patch.\n\n![The exterior wall patched and filled ahead of facade painting](facade-repair-scaffolding/step-04.jpg)\n\nAll opened areas and building corners are repaired, filled with exterior-grade compounds, primed and painted from the top floor down. Once the scaffolding comes down, the elevation is sound, weatherproof and clean."
+  },
+  "projects": [
+    "facade-repair-scaffolding"
+  ]
+}

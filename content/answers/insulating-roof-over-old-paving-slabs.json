@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 20,
+  "question": {
+    "el": "Η ταράτσα είναι στρωμένη με παλιές πλάκες (ταρατσόπλακες). Γίνεται στεγάνωση ή αφρός πολυουρεθάνης από πάνω;",
+    "en": "Our roof is covered with old paving slabs. Can waterproofing or polyurethane foam be applied over them?"
+  },
+  "short": {
+    "el": "Ναι, εφόσον οι πλάκες πατούν γερά. Η επιφάνεια τρίβεται και πλένεται με πιεστικό, σφραγίζονται οι αρμοί και οι βάσεις από κολόνες/κάγκελα, και από πάνω εφαρμόζεται είτε επαλειφόμενη μεμβράνη είτε ψεκαζόμενος αφρός πολυουρεθάνης.",
+    "en": "Yes, provided the slabs are firmly bedded. The surface is ground and pressure-washed, joints and post bases are sealed, and either a liquid waterproof membrane or sprayed polyurethane foam is applied directly on top."
+  },
+  "body": {
+    "el": "Πολλές παλιές πολυκατοικίες στην Αθήνα έχουν στην ταράτσα τους τσιμεντένιες πλάκες (ταρατσόπλακες) με πίσσα ή χώμα στους αρμούς. Με τα χρόνια οι αρμοί ανοίγουν, φυτρώνουν χόρτα και το νερό περνάει κάτω από τις πλάκες. Αν οι ίδιες οι πλάκες είναι σταθερές, δεν χρειάζεται να ξηλωθούν και να κατέβουν τόνοι μπάζα από την πολυκατοικία.\n\n![Τρίψιμο και προετοιμασία παλιών πλακών ταράτσας πριν από το αστάρι](tiled-terrace-white-coating/step-02.jpg)\n\nΣε αυτή την ταράτσα με τις παλιές πλάκες, η επιφάνεια τρίφτηκε με τροχό και καθαρίστηκε, σφραγίστηκαν οι βάσεις από τις μεταλλικές κολόνες και τα κάγκελα, περάστηκε αστάρι και καλύφθηκε όλη η ταράτσα με λευκό επαλειφόμενο στεγανωτικό.\n\n![Ψεκασμός αφρού πολυουρεθάνης πάνω σε πλυμένη ταράτσα με πλάκες](paved-roof-spray-foam/step-04.jpg)\n\nΌταν εκτός από στεγανοποίηση χρειάζεται και θερμομόνωση, οι πλάκες πλένονται με πιεστικό νερού ώστε να φύγει κάθε βρωμιά από τους αρμούς και από πάνω ψεκάζεται ενιαίο στρώμα αφρού πολυουρεθάνης, το οποίο καλύπτει όλους τους αρμούς και αγκαλιάζει τις βάσεις των ηλιακών και των μηχανημάτων.",
+    "en": "Many older apartment buildings in Athens have concrete paving slabs on the roof with bitumen or mortar in the joints. Over time the joints open up, weeds take root and water gets underneath the slabs. As long as the slabs themselves are solid, there is no need to rip them up and haul tonnes of rubble down from the roof.\n\n![Grinding and preparing old terrace paving slabs before priming](tiled-terrace-white-coating/step-02.jpg)\n\nOn this slab-paved terrace, the surface was ground and cleaned, the metal column and railing bases were sealed, primer was rolled on and the entire roof was coated with white liquid waterproofing.\n\n![Spraying polyurethane foam over pressure-washed roof slabs](paved-roof-spray-foam/step-04.jpg)\n\nWhen thermal insulation is needed alongside waterproofing, the slabs are pressure-washed to clear every joint and sprayed with a continuous layer of polyurethane foam that bridges all the joints and seals around solar heaters and rooftop equipment."
+  },
+  "projects": [
+    "paved-roof-spray-foam",
+    "tiled-terrace-white-coating",
+    "tiled-terrace-grey-coating"
+  ]
+}

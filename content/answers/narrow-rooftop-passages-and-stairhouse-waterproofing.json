@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 26,
+  "question": {
+    "el": "Πώς μονώνονται τα στενά περάσματα της ταράτσας γύρω από το δώμα (απόληξη κλιμακοστασίου) όπου λιμνάζει το νερό;",
+    "en": "How do you insulate narrow rooftop passages around the stairhouse where water tends to pool?"
+  },
+  "short": {
+    "el": "Στους στενούς διαδρόμους ανάμεσα στο δώμα, τα στηθαία, τα κάγκελα και τους ηλιακούς, όπου τα ρολά μεμβράνης μπαίνουν δύσκολα, το ασφαλτικό αστάρι και ο ψεκαζόμενος αφρός πολυουρεθάνης καλύπτουν μονοκόμματα το δάπεδο και ανεβαίνουν στους τοίχους.",
+    "en": "In tight passages between the stairhouse wall, parapets, railings and solar heaters where sheet membranes are awkward to lay, bitumen primer and sprayed polyurethane foam coat the floor and turn up the walls in one seamless layer."
+  },
+  "body": {
+    "el": "Σε πολλές ταράτσες πολυκατοικιών, γύρω από το δώμα του κλιμακοστασίου ή του ασανσέρ σχηματίζονται στενοί διάδρομοι (πλάτους μερικών δεκαπέντε-είκοσι εκατοστών έως ενός μέτρου), γεμάτοι σωλήνες, βάσεις ηλιακών και κάγκελα. Εκεί το νερό της βροχής εγκλωβίζεται εύκολα, ενώ το στρώσιμο ρολών ασφαλτόπανου με φλόγιστρο είναι δύσκολο λόγω των πολλών γωνιών.\n\n![Στενός διάδρομος ταράτσας ανάμεσα σε τοίχο και κάγκελα περασμένος με μαύρο αστάρι](rooftop-walkways-spray-foam/step-03.jpg)\n\nΣε αυτή την ταράτσα με τα στενά περάσματα, όλοι οι διάδρομοι και οι επιφάνειες κάτω από τους ηλιακούς θερμοσίφωνες καθαρίστηκαν και περάστηκαν πρώτα με ασφαλτικό αστάρι.\n\n![Ο στενός διάδρομος της ταράτσας καλυμμένος ενιαία με ψεκαζόμενο αφρό πολυουρεθάνης](rooftop-walkways-spray-foam/step-07.jpg)\n\nΣτη συνέχεια ψεκάστηκε αφρός πολυουρεθάνης, ο οποίος φτάνει σε κάθε στενή γωνία, ανεβαίνει στα τοιχία και στους τοίχους του δώματος και σφραγίζει μονοκόμματα γύρω από τις βάσεις των ηλιακών και των κλιματιστικών, με τελική λευκή προστατευτική επίστρωση από πάνω.",
+    "en": "On many apartment building roofs, narrow passages form between the stairhouse or lift room walls, the perimeter parapets, railings and solar water heaters. Rainwater easily gets trapped in those tight corridors, and laying rolls of torch-on membrane around so many corners and obstacles is difficult.\n\n![Narrow rooftop walkway between the wall and railings coated with black bitumen primer](rooftop-walkways-spray-foam/step-03.jpg)\n\nOn this roof with tight walkways, all the narrow corridors and the areas beneath the solar heaters were cleaned and coated with black bitumen primer.\n\n![The narrow rooftop walkway seamlessly covered in sprayed polyurethane foam](rooftop-walkways-spray-foam/step-07.jpg)\n\nPolyurethane foam was then sprayed across the passages, reaching into every tight corner, turning up the parapet and stairhouse walls and sealing seamlessly around solar heater and AC bases, finished with a white protective UV coat."
+  },
+  "projects": [
+    "rooftop-walkways-spray-foam",
+    "roof-spray-foam-parapets",
+    "bare-roof-foam-white-coat"
+  ]
+}

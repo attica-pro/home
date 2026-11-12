@@ -1,0 +1,20 @@
+{
+  "category": "painting",
+  "order": 12,
+  "question": {
+    "el": "Το στηθαίο και οι τοίχοι του μπαλκονιού ξεφλουδίζουν συνέχεια. Τι προετοιμασία χρειάζεται πριν ξαναβαφτούν;",
+    "en": "Our balcony parapet and walls keep peeling. What preparation is needed before repainting them?"
+  },
+  "short": {
+    "el": "Το απλό βάψιμο πάνω από ξεφλουδισμένο στηθαίο δεν κρατάει. Πρέπει να ξυστεί όλο το χαλαρό χρώμα και ο σαθρός σοβάς, να επισκευαστεί η επιφάνεια, να ασταρωθεί και να βαφτεί με ακρυλικό χρώμα εξωτερικού χώρου.",
+    "en": "Simply painting over a peeling balcony parapet will not hold. All loose paint and crumbly render must be scraped off, the surface repaired and primed, and finished with exterior acrylic paint."
+  },
+  "body": {
+    "el": "Τα στηθαία (τα μπροστινά τοιχία) και οι τοίχοι του μπαλκονιού βρέχονται από τη βροχή και το πλύσιμο της βεράντας και ψήνονται από τον ήλιο. Όταν η υγρασία περάσει πίσω από το χρώμα, ο σοβάς μαλακώνει και το χρώμα σηκώνεται σε φλούδες.\n\n![Το εσωτερικό του στηθαίου στο μπαλκόνι με φθαρμένο σοβά και ξεφλουδισμένο χρώμα](balcony-peeling-parapet-painted-white/step-02.jpg)\n\nΣε αυτό το μπαλκόνι, το εσωτερικό του στηθαίου είχε ξεφλουδίσει σε όλο του το μήκος. Πρώτα ξύθηκαν όλα τα φουσκωμένα χρώματα και τα σαθρά σημεία του σοβά, επισκευάστηκε η βάση και μετά βάφτηκε λευκό ώστε να αντέχει στην εξωτερική υγρασία.\n\n![Το μπαλκόνι καθαρό με τους τοίχους φρεσκοβαμμένους σε απαλό κίτρινο](balcony-walls-repainted-yellow/step-03.jpg)\n\nΤο ίδιο γίνεται και στους τοίχους μεγάλων μπαλκονιών που έχουν μαυρίσει από τον καπνό της πόλης: αφού αδειάσει και καθαριστεί το μπαλκόνι, οι τοίχοι επισκευάζονται και βάφονται με χρώματα εξωτερικού χώρου, αλλάζοντας αμέσως την αίσθηση και από μέσα από το σπίτι.",
+    "en": "Balcony parapet walls and exterior walls are constantly exposed to rain, balcony washing and strong sun. Once moisture gets behind the paint film, the render softens and the paint lifts in flakes.\n\n![Balcony parapet wall with worn render and peeling paint before repair](balcony-peeling-parapet-painted-white/step-02.jpg)\n\nOn this balcony, the inside face of the parapet had peeled along its length. All blistered paint and crumbly render were scraped back, the surface was repaired and primed, and the parapet was painted crisp white.\n\n![Cleaned balcony with walls freshly painted in soft yellow](balcony-walls-repainted-yellow/step-03.jpg)\n\nThe same applies to balcony walls darkened by city grime: once the balcony is cleared and cleaned, the walls are repaired and coated with exterior paint, brightening the view from inside the flat as well."
+  },
+  "projects": [
+    "balcony-peeling-parapet-painted-white",
+    "balcony-walls-repainted-yellow"
+  ]
+}

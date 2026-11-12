@@ -1,0 +1,20 @@
+{
+  "category": "insulation",
+  "order": 14,
+  "question": {
+    "el": "Η χτιστή ζαρντινιέρα στην ταράτσα ή δίπλα στην πισίνα βγάζει υγρασία. Πώς στεγανοποιείται σωστά από μέσα;",
+    "en": "My built-in planter box on the terrace or by the pool is causing damp. How is it waterproofed from the inside?"
+  },
+  "short": {
+    "el": "Για να στεγανοποιηθεί σωστά μια χτιστή ζαρντινιέρα, πρέπει να αδειάσει τελείως από φυτά και χώμα, να αφαιρεθεί η παλιά φθαρμένη στρώση, να καθαριστεί η βάση και να περαστούν στεγανωτικές στρώσεις στον πάτο, στις γωνίες και σε όλα τα εσωτερικά τοιχώματα.",
+    "en": "To waterproof a built-in planter properly, all plants and soil must be emptied out, the failed old lining removed, and new waterproof coats applied across the floor, the corners, the inside walls and around the drainage holes."
+  },
+  "body": {
+    "el": "Οι χτιστές ζαρντινιέρες σε ταράτσες, μπαλκόνια και αυλές κρατούν μόνιμα βρεγμένο χώμα και ρίζες σε επαφή με το μπετόν και τα τούβλα. Αν η εσωτερική τους στεγάνωση γεράσει ή ραγίσει, το νερό του ποτίσματος περνάει μέσα στον τοίχο ή στην πλάκα της ταράτσας και εμφανίζεται ως υγρασία και ξεφλούδισμα από την έξω πλευρά ή στο ταβάνι από κάτω.\n\n![Η χτιστή ζαρντινιέρα της ταράτσας άδεια και καθαρισμένη πριν από τη στεγάνωση](terrace-planter-waterproofing/step-03.jpg)\n\nΚαμία εξωτερική επισκευή δεν κρατάει αν δεν στεγανοποιηθεί η ζαρντινιέρα από μέσα. Στη ζαρντινιέρα αυτής της ταράτσας αφαιρέθηκαν πρώτα όλα τα φυτά και το χώμα μέχρι να φανεί ο πάτος. Η εσωτερική επιφάνεια καθαρίστηκε καλά, περάστηκε η πρώτη γκρι στεγανωτική στρώση στον πάτο και στις γωνίες, και από πάνω λευκό στεγανωτικό σε όλο το εσωτερικό των τοιχίων.\n\n![Οι ζαρντινιέρες δίπλα στην πισίνα στεγανοποιημένες, με τις τρύπες αποστράγγισης ανοιχτές](poolside-planters-waterproofing/step-07.jpg)\n\nΣε μεγαλύτερες χτιστές ζαρντινιέρες δίπλα σε πισίνα, όπου η παλιά στεγάνωση είχε ξεκολλήσει, ξύστηκε και αφαιρέθηκε όλη η παλιά στρώση, επισκευάστηκε ο πάτος και εφαρμόστηκε νέα στεγάνωση από άκρη σε άκρη, προσέχοντας να μείνουν καθαρές και σφραγισμένες οι τρύπες αποστράγγισης ώστε το περιττό νερό να φεύγει ελεύθερα.",
+    "en": "Built-in concrete or brick planters on roof terraces, balconies and courtyards hold wet soil and plant roots permanently against the masonry. Once their internal lining ages or cracks, watering seeps straight into the wall or roof slab, showing up as damp patches and peeling paint on the outside or on the ceiling below.\n\n![Built-in terrace planter emptied of soil and cleaned down to the base](terrace-planter-waterproofing/step-03.jpg)\n\nNo exterior patch will hold unless the planter is sealed from the inside. In this terrace planter, all plants and soil were removed down to the bare floor. After thorough cleaning, a grey base waterproof coat was worked across the bottom and into the corners, followed by white waterproof coating all the way up the inside walls.\n\n![Poolside planters waterproofed inside with drainage outlets kept clear](poolside-planters-waterproofing/step-07.jpg)\n\nIn a set of long planters beside a swimming pool where the old lining had peeled away, the failed layer was stripped out completely, the floor was prepared and new waterproof coats were applied across the floor and walls, taking care to seal around the drainage outlets while keeping them open so excess water can drain away."
+  },
+  "projects": [
+    "terrace-planter-waterproofing",
+    "poolside-planters-waterproofing"
+  ]
+}

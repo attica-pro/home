@@ -1,0 +1,21 @@
+{
+  "category": "repairs",
+  "order": 7,
+  "question": {
+    "el": "Άνοιξε τρύπα και έπεσε σοβάς στο ταβάνι από διαρροή. Πότε και πώς επισκευάζεται για να μην ξαναπέσει;",
+    "en": "A leak caused plaster to fall and left a hole in the ceiling. When and how should it be repaired so it doesn't fall again?"
+  },
+  "short": {
+    "el": "Πρώτα πρέπει να έχει σταματήσει η διαρροή από πάνω. Στη συνέχεια καθαιρείται όλος ο κούφιος σοβάς γύρω από την τρύπα, αν φαίνονται σίδερα περνιούνται με αντισκωριακή προστασία, γεμίζει το κενό με επισκευαστικό κονίαμα και σοβά, στοκάρεται και βάφεται.",
+    "en": "First the leak above must be stopped. All loose plaster around the hole is then removed, any exposed rebar is treated against rust, and the patch is built back up with repair mortar, skimmed smooth and painted."
+  },
+  "body": {
+    "el": "Όταν νερό από την ταράτσα, από μπαλκόνι ή από διαρροή του πάνω ορόφου ποτίσει την πλάκα, ο σοβάς του ταβανιού βαραίνει, χάνει την πρόσφυσή του και πέφτει αφήνοντας τρύπα. Η επισκευή του ταβανιού γίνεται αφού πρώτα κλείσει η αιτία που έφερνε το νερό.\n\n![Τρύπα στο ταβάνι όπου είχε πέσει ο σοβάς από την υγρασία](damp-walls-collapsed-ceiling/step-03.jpg)\n\nΚατά την επισκευή, ο τεχνίτης δεν γεμίζει απλώς την τρύπα όπως είναι, αλλά δοκιμάζει και ρίχνει όσα κομμάτια γύρω της έχουν επίσης ξεκολλήσει. Αν μέσα στην τρύπα φαίνονται τα σίδερα του οπλισμού της πλάκας, καθαρίζονται και περνιούνται με ειδικό προστατευτικό υλικό.\n\n![Το ταβάνι μπαλωμένο και εξομαλυμένο πριν από την τελική βαφή](ceiling-hole-damp-stains/step-01.jpg)\n\nΈπειτα η τρύπα γεμίζει σε στρώσεις με επισκευαστικό κονίαμα και σοβά, στοκάρεται, τρίβεται ώστε να μη φαίνεται σκαλοπάτι με το υπόλοιπο ταβάνι και βάφεται μαζί με τους τοίχους του δωματίου.",
+    "en": "When water from the roof terrace, a balcony or an upstairs plumbing leak soaks through the concrete slab, the ceiling plaster loses its grip and falls away, leaving a hole. Repairing the ceiling starts once the source of the water above has been fixed.\n\n![Hole in a ceiling where damp plaster had collapsed](damp-walls-collapsed-ceiling/step-03.jpg)\n\nRather than simply filling the hole as it is, any surrounding plaster that has also come loose is tapped and removed back to a firm edge. If steel reinforcement bars are exposed inside the patch, they are cleaned and coated with anti-corrosion primer.\n\n![The ceiling hole patched and smoothed ahead of painting](ceiling-hole-damp-stains/step-01.jpg)\n\nThe patch is then built back up with repair mortar and plaster, skimmed and sanded flush with the rest of the ceiling, and painted along with the room."
+  },
+  "projects": [
+    "ceiling-hole-damp-stains",
+    "damp-walls-collapsed-ceiling",
+    "ceiling-exposed-rebar-repair"
+  ]
+}

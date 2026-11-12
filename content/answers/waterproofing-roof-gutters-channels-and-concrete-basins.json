@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 19,
+  "question": {
+    "el": "Πώς στεγανοποιούνται τα τσιμεντένια κανάλια απορροής (λούκια) και τα φρεάτια της ταράτσας για να μη χάνουν νερό;",
+    "en": "How are concrete roof drainage channels and basins waterproofed so they don't leak?"
+  },
+  "short": {
+    "el": "Τα κανάλια απορροής και τα φρεάτια κρατούν το περισσότερο νερό της βροχής. Καθαρίζονται μέχρι τη γερή βάση και περνιούνται με πολλαπλές στρώσεις στεγανωτικού στον πάτο, στα πλαϊνά τοιχώματα και μέσα στο στόμιο της υδρορροής.",
+    "en": "Drainage channels and concrete basins carry the heaviest water flow. They are cleaned down to sound concrete and coated in multiple waterproof layers across the floor, the side walls and right into the drain outlet."
+  },
+  "body": {
+    "el": "Πολλές ταράτσες οδηγούν όλα τα νερά της βροχής σε ένα στενό περιμετρικό κανάλι (λούκι) ή σε τσιμεντένια φρεάτια πριν καταλήξουν στις υδρορροές. Επειδή όλο το νερό της ταράτσας περνάει και συχνά λιμνάζει εκεί, η παραμικρή ρωγμή στον πάτο ή στις γωνίες του καναλιού προκαλεί έντονη διαρροή ακριβώς από κάτω.\n\n![Γκρι στεγανωτική στρώση μέσα στο κανάλι απορροής της ταράτσας](roof-gutter-rusty-railings/step-02.jpg)\n\nΣε αυτή την ταράτσα, το κανάλι που μαζεύει τα νερά κατά μήκος των κάγκελων καθαρίστηκε και περάστηκε πρώτα με γκρι στεγανωτική στρώση βάσης και στη συνέχεια με λευκή τελική επίστρωση, η οποία μπήκε βαθιά μέσα στο άνοιγμα της απορροής και ανέβηκε στα χαμηλά τοιχία και στις βάσεις των κάγκελων.\n\n![Τσιμεντένιο κανάλι και φρεάτιο στεγανοποιημένα με λευκή επίστρωση](concrete-basins-waterproofing/step-06.jpg)\n\nΤο ίδιο ισχύει και για τσιμεντένια φρεάτια ή κανάλια από τα οποία περνούν σωλήνες: μετά την πρώτη στρώση στον πάτο και στα τοιχώματα, εφαρμόζονται λευκές στεγανωτικές στρώσεις που σφραγίζουν κάθε γωνία και πέρασμα σωλήνα.",
+    "en": "Many flat roofs channel all their rainwater into a narrow perimeter gutter or concrete basins leading to the downpipes. Because all the roof's water collects and often stands in those channels, even a small crack in the bottom or corners causes a heavy leak directly below.\n\n![Grey waterproof base coat inside a concrete roof drainage channel](roof-gutter-rusty-railings/step-02.jpg)\n\nOn this roof, the drainage channel running along the railings was cleaned and given a grey waterproof base coat followed by a white top coat, carried right inside the drain outlet and up the low parapet walls and railing bases.\n\n![Concrete channel and basin sealed with glossy white waterproofing](concrete-basins-waterproofing/step-06.jpg)\n\nThe same approach applies to concrete basins and pipe channels: after priming and a grey first coat across the floor and walls, white waterproof coats seal every corner and pipe penetration."
+  },
+  "projects": [
+    "roof-gutter-rusty-railings",
+    "concrete-basins-waterproofing",
+    "roof-pipes-posts-sealing"
+  ]
+}

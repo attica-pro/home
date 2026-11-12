@@ -1,0 +1,19 @@
+{
+  "category": "renovations",
+  "order": 10,
+  "question": {
+    "el": "Θέλω να κλείσω μια εσωτερική πόρτα ή ένα άνοιγμα ανάμεσα σε δύο δωμάτια με τούβλα. Πώς γίνεται ώστε να μη φαίνεται ένωση;",
+    "en": "I want to brick up an interior doorway or wall opening between two rooms. How is it done so no joint shows?"
+  },
+  "short": {
+    "el": "Το άνοιγμα χτίζεται με τούβλα μέχρι το ταβάνι, περνιούνται δύο χέρια σοβά στην ίδια ευθεία με τον υπάρχοντα τοίχο, στοκάρονται οι ενώσεις και βάφεται ολόκληρος ο τοίχος ώστε να δείχνει σαν να ήταν πάντα ενιαίος.",
+    "en": "The opening is bricked up to the ceiling, plastered in two coats flush with the existing wall, filled and sanded across the joints, and the whole wall is painted so no trace of the old opening remains."
+  },
+  "body": {
+    "el": "Όταν αλλάζει η διαρρύθμιση ενός σπιτιού — για παράδειγμα όταν καταργείται μια παλιά δίφυλλη πόρτα σαλονιού ή ένα εσωτερικό άνοιγμα για να δημιουργηθεί ανεξάρτητο υπνοδωμάτιο — το χτίσιμο με τούβλα προσφέρει κανονική ηχομόνωση και στιβαρότητα κανονικού τοίχου.\n\n![Χτίσιμο ανοίγματος στον τοίχο του σαλονιού με τούβλα μέχρι το ταβάνι](living-room-wall-opening-closed/step-03.jpg)\n\nΣε αυτό το σαλόνι, το μεγάλο άνοιγμα ανάμεσα στους δύο χώρους χτίστηκε με τούβλα μέχρι το ταβάνι, δένοντας την τοιχοποιία στα πλαϊνά.\n\n![Ο τοίχος του σαλονιού σοβατισμένος, στοκαρισμένος και βαμμένος χωρίς κανένα σημάδι από το παλιό άνοιγμα](living-room-wall-opening-closed/step-07.jpg)\n\nΠάνω στα τούβλα έπεσε πρώτα το πρώτο χέρι σοβά και μετά το τελικό χέρι ώστε η νέα επιφάνεια να έρθει ακριβώς πρόσωπο με τον παλιό τοίχο. Ακολούθησε στοκάρισμα σε όλη την επιφάνεια και τις ενώσεις, τρίψιμο και βαφή όλου του τοίχου, με αποτέλεσμα να μη ξεχωρίζει πουθενά ότι υπήρχε άνοιγμα.",
+    "en": "When reconfiguring a flat's layout — such as closing off old double doors in a living room or separating two rooms to create a private bedroom — bricking up the opening gives the sound insulation and solidity of a permanent wall.\n\n![Interior wall opening bricked up to the ceiling](living-room-wall-opening-closed/step-03.jpg)\n\nIn this living room, the wide opening between the two spaces was built up with brickwork all the way to the ceiling, keyed into the existing walls on either side.\n\n![The finished living room wall plastered, filled and painted with no trace of the old opening](living-room-wall-opening-closed/step-07.jpg)\n\nTwo coats of plaster brought the new brickwork flush with the surrounding wall, followed by filling across the joints, sanding and painting the entire wall so it looks as though it had always been one continuous surface."
+  },
+  "projects": [
+    "living-room-wall-opening-closed"
+  ]
+}

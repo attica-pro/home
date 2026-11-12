@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 18,
+  "question": {
+    "el": "Γιατί η στεγανοποίηση της ταράτσας πρέπει να ανεβαίνει και στα στηθαία (τοιχία) και τι γίνεται αν ο σοβάς τους έχει σκάσει;",
+    "en": "Why does roof waterproofing need to go up the parapet walls, and what if the parapet render has cracked?"
+  },
+  "short": {
+    "el": "Αν η στεγάνωση σταματάει στο δάπεδο της ταράτσας, το νερό μπαίνει από τη γωνία δαπέδου-στηθαίου ή μέσα από τους σκασμένους σοβάδες του τοιχίου και κατεβαίνει κάτω από τη μόνωση. Γι' αυτό ο σαθρός σοβάς στα στηθαία πρέπει πρώτα να επισκευαστεί και η στεγάνωση να ανεβαίνει στα τοιχία.",
+    "en": "If waterproofing stops flat on the floor, rainwater enters through the floor-to-wall corner or through cracked parapet render and runs underneath the membrane. Loose render on the parapets must be repaired first, and the waterproofing turned up the walls."
+  },
+  "body": {
+    "el": "Ένα από τα πιο συχνά λάθη στις ταράτσες είναι να μονώνεται μόνο το οριζόντιο δάπεδο και να μένουν αφρόντιστα τα περιμετρικά στηθαία (τα χαμηλά τοιχία γύρω από την ταράτσα). Όταν βρέχει με αέρα, τα στηθαία δέχονται πολύ νερό. Αν ο σοβάς τους έχει ρωγμές ή αν η ένωση του δαπέδου με το στηθαίο έχει ανοίξει, το νερό τρυπώνει πίσω από τη μόνωση της ταράτσας και καταλήγει στο ταβάνι του τελευταίου ορόφου.\n\n![Στηθαίο ταράτσας όπου έχει καθαιρεθεί ο σαθρός σοβάς μέχρι τα τούβλα](terrace-parapet-repairs-white-floor/step-03.jpg)\n\nΣε αυτή την ταράτσα, τα στηθαία είχαν μαύρους λεκέδες υγρασίας και φουσκωμένους σοβάδες. Πριν πέσει οποιοδήποτε στεγανωτικό στο δάπεδο, όλος ο κούφιος σοβάς στα στηθαία χτυπήθηκε και αφαιρέθηκε μέχρι τα τούβλα, σοβατίστηκε ξανά, εξομαλύνθηκε και βάφτηκε, και μετά στεγανοποιήθηκε όλο το δάπεδο της ταράτσας.\n\n![Σφράγισμα της ένωσης δαπέδου και στηθαίου με λευκό στεγανωτικό](tiled-terrace-edges-sealed/step-05.jpg)\n\nΑκόμα και σε ταράτσες με πλακάκια ή παλιά στεγάνωση, η γωνία όπου το δάπεδο συναντά το στηθαίο κάτω από τα κάγκελα χρειάζεται καλό καθάρισμα και σφράγισμα με στεγανωτικό οπλισμένο με ύφασμα, το οποίο ανεβαίνει στο τοιχίο σαν στεγανή λεκάνη.",
+    "en": "One of the most common mistakes on flat roofs is waterproofing only the horizontal floor while ignoring the parapet walls around the perimeter. In driving rain, parapets soak up water. If their render is cracked or the corner where the floor meets the wall has opened up, water slips behind the roof membrane and reaches the top-floor ceiling.\n\n![Terrace parapet wall with loose render stripped back to the brickwork](terrace-parapet-repairs-white-floor/step-03.jpg)\n\nOn this terrace, the parapet walls had black damp stains and blistered render. Before any waterproofing went onto the floor, all hollow render on the parapets was hacked off back to the bricks, re-plastered, smoothed and painted, and only then was the terrace floor sealed in white.\n\n![Sealing the floor-to-parapet junction on a tiled terrace with white waterproof coating](tiled-terrace-edges-sealed/step-05.jpg)\n\nEven on tiled terraces, the perimeter joint where the floor meets the parapet beneath the railings needs to be cleaned out and sealed with fabric-reinforced waterproofing turned up the wall so the roof acts as a watertight tray."
+  },
+  "projects": [
+    "terrace-parapet-repairs-white-floor",
+    "tiled-terrace-edges-sealed",
+    "roof-terrace-joints-railings"
+  ]
+}

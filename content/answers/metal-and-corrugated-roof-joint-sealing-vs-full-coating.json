@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 25,
+  "question": {
+    "el": "Σε μεταλλική ή κυματοειδή στέγη που στάζει, αρκεί το σφράγισμα στις ενώσεις και στις βίδες ή χρειάζεται ολική επικάλυψη;",
+    "en": "On a leaking metal or corrugated roof, is sealing the joints and screws enough, or does it need a full coating?"
+  },
+  "short": {
+    "el": "Αν τα φύλλα της μεταλλικής στέγης είναι γερά, αρκεί ο καθαρισμός και το σφράγισμα στην ένωση με το στηθαίο και σε όλες τις βίδες. Αν η επιφάνεια έχει φθαρεί συνολικά ή καίει το καλοκαίρι, γίνεται ολική επικάλυψη ή ψεκασμός αφρού πολυουρεθάνης.",
+    "en": "If the metal sheets themselves are sound, cleaning and sealing the parapet joint and every screw head is enough. If the whole surface is weathered or overheats in summer, a full reflective coating or sprayed polyurethane foam is applied."
+  },
+  "body": {
+    "el": "Στις μεταλλικές και κυματοειδείς στέγες, το νερό μπαίνει σχεδόν πάντα από δύο συγκεκριμένα σημεία: από τις βίδες στερέωσης (όταν ξεραθούν τα λαστιχάκια τους) και από την ένωση όπου η λαμαρίνα συναντά τον πλαϊνό τοίχο ή το στηθαίο.\n\n![Η ένωση της μεταλλικής στέγης με το στηθαίο σφραγισμένη και οι βίδες καλυμμένες](red-metal-roof-joints-sealed/step-07.jpg)\n\nΣε αυτή την κόκκινη μεταλλική στέγη, τα φύλλα ήταν σε καλή κατάσταση, αλλά στην ένωση με το στηθαίο υπήρχε παλιός διαλυμένος αφρός και κενά. Το κανάλι καθαρίστηκε τελείως, γέμισε από την αρχή, σφραγίστηκε σε όλο το μήκος του και καλύφθηκε μία προς μία κάθε βίδα της στέγης.\n\n![Κυματοειδής στέγη κατά την εφαρμογή ασημί-λευκής στεγανωτικής επικάλυψης](corrugated-roof-coating/step-05.jpg)\n\nΌταν όμως μια κυματοειδής στέγη έχει γεμίσει βρύα και λειχήνες ή χρειάζεται προστασία σε όλη της την έκταση, πλένεται με πιεστικό και είτε περνιέται με ολική ελαστική επικάλυψη είτε ψεκάζεται με αφρό πολυουρεθάνης και λευκή βαφή από πάνω, ώστε να σταματήσουν οι διαρροές και να κοπεί η ζέστη του καλοκαιριού.",
+    "en": "On metal and corrugated sheet roofs, leaks almost always start in two places: at the fixing screws (once their rubber washers perish) and along the junction where the sheets meet a parapet or side wall.\n\n![Metal roof parapet joint sealed and every screw head covered](red-metal-roof-joints-sealed/step-07.jpg)\n\nOn this red metal roof, the sheets themselves were sound, but the joint along the parapet was full of perished old foam and gaps. The channel was cleaned out completely, refilled, sealed along its full length, and every screw head across the roof was covered individually.\n\n![Corrugated roof half-coated with silver-white protective membrane](corrugated-roof-coating/step-05.jpg)\n\nWhen a corrugated roof is covered in moss and lichen or weathered across its whole surface, it is pressure-washed and either given a full protective elastomeric coating or sprayed with polyurethane foam and a white UV top coat to stop leaks and keep summer heat out."
+  },
+  "projects": [
+    "red-metal-roof-joints-sealed",
+    "corrugated-roof-coating",
+    "corrugated-roof-foam-white-coat"
+  ]
+}

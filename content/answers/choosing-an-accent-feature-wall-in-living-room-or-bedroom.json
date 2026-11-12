@@ -1,0 +1,21 @@
+{
+  "category": "painting",
+  "order": 15,
+  "question": {
+    "el": "Θέλω έναν τοίχο σε διαφορετικό χρώμα (τοίχο έμφασης) στο σαλόνι ή στο υπνοδωμάτιο. Πώς συνδυάζεται με τους υπόλοιπους τοίχους;",
+    "en": "I want one feature wall in a different colour in the living room or bedroom. How do you combine it with the other walls?"
+  },
+  "short": {
+    "el": "Ο τοίχος έμφασης μπαίνει συνήθως πίσω από το τζάκι, τη σύνθεση της τηλεόρασης ή το κρεβάτι, ενώ οι υπόλοιποι τοίχοι μένουν λευκοί ή πολύ ανοιχτόχρωμοι ώστε το δωμάτιο να κρατάει το φως του και να αναδεικνύονται οι λευκές πόρτες και ντουλάπες.",
+    "en": "A feature wall works best behind a fireplace, TV unit or bedhead, while the remaining walls stay white or very light so the room keeps its brightness and white doors and wardrobes stand out cleanly."
+  },
+  "body": {
+    "el": "Αντί να βαφτεί ολόκληρο το δωμάτιο σε ένα σκούρο ή έντονο χρώμα που μπορεί να το «κλείσει», η βαφή ενός μόνο τοίχου (ή της γωνίας του τζακιού) δίνει χαρακτήρα στον χώρο χωρίς να χάνεται η φωτεινότητα.\n\n![Σαλόνι με λευκούς τοίχους και λαδί τοίχο έμφασης στη γωνία του τζακιού](apartment-warm-tones-olive-wall/step-05.jpg)\n\nΣε αυτό το σαλόνι, οι κύριοι τοίχοι κρατήθηκαν λευκοί και επιλέχθηκε ένα ζεστό λαδί χρώμα μόνο για τον τοίχο και τη γωνία πάνω από το τζάκι. Έτσι το τζάκι ξεχωρίζει αμέσως, ενώ το υπόλοιπο σαλόνι παραμένει φωτεινό.\n\n![Δωμάτιο με έναν σκούρο γκρι τοίχο έμφασης δίπλα σε ανοιχτόχρωμους τοίχους](room-grey-feature-wall/step-04.jpg)\n\nΑντίστοιχα, ένα απαλό ή πιο σκούρο γκρι σε έναν τοίχο (ή σε συνδυασμό με λευκές εντοιχισμένες ντουλάπες και λευκές εσωτερικές πόρτες) δημιουργεί καθαρή αντίθεση και κάνει τα λευκά ξύλινα στοιχεία του σπιτιού να δείχνουν σαν καινούργια.",
+    "en": "Rather than painting an entire room in a dark shade that might make it feel smaller, painting a single feature wall — or a fireplace alcove — adds depth while keeping the room bright.\n\n![Living room with white walls and an olive-green feature wall above the fireplace](apartment-warm-tones-olive-wall/step-05.jpg)\n\nIn this living room, the main walls were kept crisp white while a warm olive tone was used on the fireplace wall and column, drawing the eye to the hearth without darkening the space.\n\n![Room with a dark grey feature wall next to lighter grey walls](room-grey-feature-wall/step-04.jpg)\n\nSimilarly, pairing a dark or soft grey wall with white walls, white built-in wardrobes and white interior doors creates a clean contrast that makes the woodwork stand out."
+  },
+  "projects": [
+    "room-grey-feature-wall",
+    "apartment-warm-tones-olive-wall",
+    "apartment-grey-and-white"
+  ]
+}

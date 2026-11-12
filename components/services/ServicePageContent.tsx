@@ -1,13 +1,16 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
-import { ArrowRight, Check } from 'lucide-react';
+import { ArrowRight, Check, MapPin } from 'lucide-react';
 
+import { areas, primaryAreaSlugs } from '@/data/areas';
 import { serviceIllustration, type ServiceSlug } from '@/data/services';
 import { assetPath } from '@/lib/site-config';
+import type { Answer } from '@/lib/answers';
 import type { GuideMeta } from '@/lib/guides';
 import type { ProjectSummary } from '@/lib/projects';
 import type { Locale } from '@/i18n';
+import { AnswerCard } from '@/components/knowledge/AnswerCard';
 import { GuideCard } from '@/components/knowledge/GuideCard';
 import { ProjectCard } from '@/components/portfolio/ProjectCard';
 import { Button } from '@/components/ui/button';
@@ -17,11 +20,13 @@ interface ServicePageContentProps {
   slug: ServiceSlug;
   works: ProjectSummary[];
   guides: GuideMeta[];
+  answers?: Answer[];
 }
 
-export function ServicePageContent({ locale, slug, works, guides }: ServicePageContentProps) {
+export function ServicePageContent({ locale, slug, works, guides, answers = [] }: ServicePageContentProps) {
   const tServices = useTranslations('services');
   const tHub = useTranslations('knowledgeHubPage');
+  const tLocal = useTranslations('localLanding');
   const t = useTranslations(`services.items.${slug}`);
   const sections = t.raw('sections') as { title: string; text: string }[];
   const whyItems = t.raw('whyItems') as string[];
@@ -61,7 +66,7 @@ export function ServicePageContent({ locale, slug, works, guides }: ServicePageC
         </div>
       </section>
 
-      {(works.length > 0 || guides.length > 0) && (
+      {(works.length > 0 || answers.length > 0 || guides.length > 0) && (
         <section className="border-t border-border py-16 md:py-24">
           <div className="container space-y-16">
             {works.length > 0 && (
@@ -75,6 +80,24 @@ export function ServicePageContent({ locale, slug, works, guides }: ServicePageC
                 <div className="mt-8 grid gap-10 md:grid-cols-2 lg:grid-cols-3">
                   {works.map((project) => (
                     <ProjectCard key={project.slug} project={project} locale={locale} />
+                  ))}
+                </div>
+              </div>
+            )}
+            {answers.length > 0 && (
+              <div>
+                <div className="flex flex-wrap items-end justify-between gap-4">
+                  <div>
+                    <h2 className="font-display text-3xl font-bold">{tHub('answersTitle')}</h2>
+                    <p className="mt-2 text-sm text-muted-foreground">{tHub('answersSubtitle')}</p>
+                  </div>
+                  <Link href={`/${locale}/knowledge-hub/${slug}`} className="inline-flex items-center gap-1 text-sm font-semibold text-accent hover:underline">
+                    {tHub('answersCta')} <ArrowRight className="h-4 w-4 rtl:rotate-180" />
+                  </Link>
+                </div>
+                <div className="mt-8 grid gap-4 md:grid-cols-2">
+                  {answers.map((answer) => (
+                    <AnswerCard key={answer.slug} answer={answer} locale={locale as Locale} />
                   ))}
                 </div>
               </div>
@@ -116,6 +139,31 @@ export function ServicePageContent({ locale, slug, works, guides }: ServicePageC
             <Link href={`/${locale}/knowledge-hub/${slug}`} className="text-sm font-semibold text-accent hover:underline">
               {tHub('learnInHub')}
             </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-t border-border bg-card py-12 md:py-16">
+        <div className="container">
+          <span className="eyebrow">{tLocal('allAreas')}</span>
+          <h2 className="mt-2 font-display text-2xl font-bold">
+            {t('title')} &bull;{' '}
+            {locale === 'el' ? 'Περιοχές Εξυπηρέτησης στην Αττική' : 'Areas Served Across Attica'}
+          </h2>
+          <div className="mt-6 flex flex-wrap gap-2">
+            {primaryAreaSlugs.map((areaSlug) => {
+              const area = areas[areaSlug];
+              return (
+                <Link
+                  key={areaSlug}
+                  href={`/${locale}/services/${slug}/${areaSlug}`}
+                  className="inline-flex items-center gap-1 rounded-md border border-border bg-background px-3 py-1.5 text-xs font-medium text-foreground transition-colors hover:border-foreground"
+                >
+                  <MapPin className="h-3 w-3 text-clay" />
+                  {area.name[locale as Locale]}
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>

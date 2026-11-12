@@ -4,12 +4,19 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 
 import { locales, type Locale } from '@/i18n';
 import { isServiceSlug, serviceSlugs } from '@/data/services';
+import { getAnswersByCategory } from '@/lib/answers';
 import { getAllGuides } from '@/lib/guides';
 import { getAllProjects, toProjectSummary } from '@/lib/projects';
 import { siteUrl } from '@/lib/site-config';
 import { ServicePageContent } from '@/components/services/ServicePageContent';
 
 export const dynamicParams = false;
+
+const DEMOLITION_PROJECT_SLUGS = [
+  'kitchen-walls-stripped-replastered',
+  'bathroom-renovation-green-tub',
+  'terrace-tiles-removed-cement-coating',
+];
 
 export function generateStaticParams() {
   return locales.flatMap((locale) => serviceSlugs.map((service) => ({ locale, service })));
@@ -45,11 +52,16 @@ export async function generateMetadata({
 export default function ServicePage({ params: { locale, service } }: { params: { locale: Locale; service: string } }) {
   setRequestLocale(locale);
   if (!isServiceSlug(service)) notFound();
-  const works = getAllProjects()
-    .filter((project) => project.service === service)
+  const allProjects = getAllProjects();
+  const works = (
+    service === 'demolition'
+      ? allProjects.filter((project) => DEMOLITION_PROJECT_SLUGS.includes(project.slug))
+      : allProjects.filter((project) => project.service === service)
+  )
     .sort((a, b) => Number(b.featured) - Number(a.featured) || a.order - b.order)
     .slice(0, 3)
     .map((project) => toProjectSummary(project, locale));
   const guides = getAllGuides().filter((guide) => guide.category === service);
-  return <ServicePageContent locale={locale} slug={service} works={works} guides={guides} />;
+  const answers = getAnswersByCategory(service).slice(0, 6);
+  return <ServicePageContent locale={locale} slug={service} works={works} guides={guides} answers={answers} />;
 }

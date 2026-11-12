@@ -1,0 +1,21 @@
+{
+  "category": "insulation",
+  "order": 24,
+  "question": {
+    "el": "Όταν μονώνεται μια γυμνή πλάκα ταράτσας από την αρχή, πώς συνδυάζονται ο αφρός πολυουρεθάνης, η πίσσα και το γέμισμα (τσιμεντοκονία);",
+    "en": "When insulating a bare roof slab from scratch, how are polyurethane foam, bitumen and pumped screed combined?"
+  },
+  "short": {
+    "el": "Η μόνωση μπορεί να γίνει είτε κάτω από το νέο γέμισμα (ψεκασμός αφρού πολυουρεθάνης στην πλάκα, ασφαλτική στρώση και από πάνω τσιμεντοκονία ρύσεων με αντλία) είτε πάνω από τη νέα τσιμεντοκονία (ρίψη τσιμεντοκονίας, ασφαλτικό αστάρι και ψεκασμός αφρού).",
+    "en": "The system can be built either with the insulation under the screed (polyurethane foam sprayed on the slab, a bitumen layer, then pumped screed on top) or over the new screed (pumped screed for falls, bitumen primer, then sprayed foam)."
+  },
+  "body": {
+    "el": "Όταν μια ταράτσα φτιάχνεται από τη γυμνή πλάκα μπετόν — ή όταν έχει προηγηθεί ολικό ξήλωμα — χρειάζεται τόσο θερμομόνωση και στεγάνωση όσο και σωστές κλίσεις (ρύσεις) με τσιμεντοκονία που ανεβαίνει στην ταράτσα με πρέσα/αντλία.\n\n![Πίσσα απλωμένη πάνω από τον αφρό πολυουρεθάνης πριν πέσει το νέο γέμισμα](roof-insulation-foam-screed/step-04.jpg)\n\nΣτην πρώτη μέθοδο, πάνω στη γυμνή πλάκα της ταράτσας ψεκάζεται πρώτα ο αφρός πολυουρεθάνης για θερμομόνωση, περνιέται από πάνω ασφαλτική στρώση (πίσσα) και στη συνέχεια η αντλία ρίχνει το νέο γέμισμα (τσιμεντοκονία), το οποίο αλφαδιάζεται με πήχη ώστε να προστατεύει τη μόνωση από κάτω και να δίνει βατή επιφάνεια.\n\n![Ψεκασμός αφρού πολυουρεθάνης πάνω σε νέα τσιμεντοκονία περασμένη με μαύρο αστάρι](roof-pumped-screed-spray-foam/step-06.jpg)\n\nΣτη δεύτερη μέθοδο, όταν η υπάρχουσα ταράτσα δεν έχει σωστές κλίσεις, ρίχνεται πρώτα η νέα τσιμεντοκονία με την αντλία για να διαμορφωθούν οι ρύσεις προς τις υδρορροές. Αφού στεγνώσει η τσιμεντοκονία, περνιέται με ασφαλτικό αστάρι και από πάνω ψεκάζεται ο αφρός πολυουρεθάνης με την τελική του προστασία.",
+    "en": "When a flat roof is built up from the bare concrete slab — or after a complete strip-out — it needs thermal insulation, waterproofing and proper drainage falls formed with pumped screed.\n\n![Bitumen layer applied over sprayed polyurethane foam ahead of the new screed](roof-insulation-foam-screed/step-04.jpg)\n\nIn the first build-up, polyurethane foam is sprayed directly onto the bare slab for thermal insulation, a bitumen layer is applied over it, and a concrete pump delivers the new screed on top, which is levelled with a straightedge to protect the insulation underneath and create a walkable floor.\n\n![Spraying polyurethane foam over new pumped screed primed with black bitumen primer](roof-pumped-screed-spray-foam/step-06.jpg)\n\nIn the second build-up, where an existing roof lacks proper drainage slopes, the new screed is pumped and laid first to form the falls toward the drains. Once the screed has cured, it is coated with black bitumen primer and sprayed with polyurethane foam."
+  },
+  "projects": [
+    "roof-insulation-foam-screed",
+    "roof-slab-insulation-screed",
+    "roof-pumped-screed-spray-foam"
+  ]
+}

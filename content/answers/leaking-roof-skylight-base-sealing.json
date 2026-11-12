@@ -1,0 +1,20 @@
+{
+  "category": "insulation",
+  "order": 15,
+  "question": {
+    "el": "Μπαίνει νερό γύρω από τον φεγγίτη της ταράτσας όταν βρέχει. Σφραγίζεται στη βάση του χωρίς να αλλαχτεί;",
+    "en": "Water leaks in around our roof skylight when it rains. Can the base be sealed without replacing the skylight?"
+  },
+  "short": {
+    "el": "Τις περισσότερες φορές δεν φταίει το τζάμι ή ο θόλος του φεγγίτη, αλλά το περιμετρικό τοιχίο και η ένωσή του με την ταράτσα. Αφαιρώντας τα σπασμένα υλικά στη βάση και εφαρμόζοντας εύκαμπτο στεγανωτικό με οπλισμό, η διαρροή σταματά χωρίς αλλαγή φεγγίτη.",
+    "en": "Most skylight leaks come not from the dome itself but from cracked mortar around its curb where it meets the roof slab. Breaking out the loose material and sealing the base with reinforced waterproof coating stops the leak without replacing the skylight."
+  },
+  "body": {
+    "el": "Οι φεγγίτες στις ταράτσες (πάνω από κλιμακοστάσια, φωταγωγούς ή εσωτερικά δωμάτια) πατούν πάνω σε ένα χαμηλό περιμετρικό στηθαίο. Με τα χρόνια, ο σοβάς ή το παλιό στεγανωτικό στη βάση αυτού του στηθαίου σκάει από τον ήλιο και τις συστολές-διαστολές, και το νερό της βροχής βρίσκει δρόμο προς το εσωτερικό του κτιρίου.\n\n![Φεγγίτης ταράτσας με σπασμένα τα σαθρά υλικά γύρω από τη βάση του](roof-skylights-sealed/step-02.jpg)\n\nΣε αυτούς τους δύο φεγγίτες ταράτσας, οι βάσεις είχαν σπάσει και θρυμματιστεί, ενώ οι ίδιοι οι φεγγίτες ήταν γεροί. Πρώτα σπάστηκαν και απομακρύνθηκαν όλα τα σαθρά κομμάτια γύρω από τη βάση μέχρι να μείνει γερό υπόστρωμα.\n\n![Οι δύο φεγγίτες της ταράτσας με τις βάσεις τους στεγανοποιημένες με λευκό υλικό](roof-skylights-sealed/step-06.jpg)\n\nΣτη συνέχεια η περίμετρος καθαρίστηκε, επισκευάστηκε και καλύφθηκε σε διαδοχικές στρώσεις με λευκό επαλειφόμενο στεγανωτικό, το οποίο αγκαλιάζει τόσο το οριζόντιο δάπεδο της ταράτσας όσο και όλο το κάθετο τοιχίο του φεγγίτη.",
+    "en": "Roof skylights over stairwells, lightwells or interior rooms sit on a raised curb above the slab. Over time, the mortar or old sealant around the foot of that curb cracks from sun exposure and thermal movement, letting rainwater run down into the building below.\n\n![Roof skylight with loose, cracked mortar broken out around its base](roof-skylights-sealed/step-02.jpg)\n\nOn this roof with two skylights, the curbs had cracked and crumbled while the skylight domes themselves were still sound. All loose, broken material around the base was chipped away and cleared until only solid substrate remained.\n\n![Both roof skylights with their curbs sealed in white waterproof coating](roof-skylights-sealed/step-06.jpg)\n\nThe perimeter was then cleaned, repaired and coated in successive layers of white liquid waterproofing, bridging smoothly from the flat roof surface all the way up the vertical sides of each skylight curb."
+  },
+  "projects": [
+    "roof-skylights-sealed",
+    "roof-drains-vents-sealing"
+  ]
+}
