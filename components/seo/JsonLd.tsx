@@ -6,13 +6,10 @@ interface JsonLdProps {
 
 export function JsonLd({ locale }: JsonLdProps) {
   const isGreek = locale === 'el';
-  const isArabic = locale === 'ar';
 
   const description = isGreek
     ? 'Εξειδικευμένες εργασίες μόνωσης και στεγανοποίησης ταρατσών, ελαιοχρωματισμοί, ανακαινίσεις και τεχνικές επισκευές στην Αθήνα και όλη την Αττική. 18 χρόνια εμπειρίας, δωρεάν αυτοψία στον χώρο σας.'
-    : isArabic
-      ? 'أعمال عزل مائي وحراري للأسطح، دهانات وتشطيبات، ترميم وتجديد شقق ومباني في أثينا وأتيكا. خبرة 18 عاماً ومعاينة مجانية في الموقع.'
-      : 'Specialized roof insulation, waterproofing, professional painting, and renovations contractor in Athens and Attica. 18 years of experience, free on-site estimate.';
+    : 'Specialized roof insulation, waterproofing, professional painting, and renovations contractor in Athens and Attica. 18 years of experience, free on-site estimate.';
 
   const schema = {
     '@context': 'https://schema.org',
@@ -20,9 +17,7 @@ export function JsonLd({ locale }: JsonLdProps) {
     name: 'AtticaPro',
     alternateName: isGreek
       ? 'AtticaPro Μονώσεις & Ανακαινίσεις'
-      : isArabic
-        ? 'أتيكا برو للعزل والتشطيبات'
-        : 'AtticaPro Insulation & Renovations',
+      : 'AtticaPro Insulation & Renovations',
     url: `${siteUrl}/${locale}`,
     logo: `${siteUrl}/images/hero-mohamed.png`,
     image: `${siteUrl}/images/hero-mohamed.png`,
@@ -74,7 +69,7 @@ export function JsonLd({ locale }: JsonLdProps) {
         '@type': 'ContactPoint',
         telephone: siteConfig.phoneHref.replace('tel:', ''),
         contactType: 'customer support',
-        availableLanguage: ['Greek', 'English', 'Arabic'],
+        availableLanguage: ['Greek', 'English'],
       },
       {
         '@type': 'ContactPoint',

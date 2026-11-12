@@ -35,7 +35,6 @@ export async function generateMetadata({ params: { locale, answer: slug } }: { p
       languages: {
         el: `/el/knowledge-hub/answers/${slug}`,
         en: `/en/knowledge-hub/answers/${slug}`,
-        ar: `/ar/knowledge-hub/answers/${slug}`,
       },
     },
     openGraph: {

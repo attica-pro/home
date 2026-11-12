@@ -32,7 +32,6 @@ export async function generateMetadata({
       languages: {
         el: `/el/services/${service}`,
         en: `/en/services/${service}`,
-        ar: `/ar/services/${service}`,
       },
     },
     openGraph: {

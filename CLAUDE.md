@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-AtticaPro: a marketing site for an Athens contractor doing insulation/waterproofing, painting, bathroom and kitchen renovations, wall demolition, paving, wooden shutter/door/pergola restoration, and small repairs. Next.js 14 App Router, TypeScript, Tailwind (shadcn/ui-style components in `components/ui/`), next-intl, MDX content. Trilingual: Greek (`el`, default), English (`en`), Arabic (`ar`, RTL).
+AtticaPro: a marketing site for an Athens contractor doing insulation/waterproofing, painting, bathroom and kitchen renovations, wall demolition, paving, wooden shutter/door/pergola restoration, and small repairs. Next.js 14 App Router, TypeScript, Tailwind (shadcn/ui-style components in `components/ui/`), next-intl, MDX content. Bilingual: Greek (`el`, default) and English (`en`). Arabic support is disabled per owner request.
 
 ### The business
 
@@ -22,7 +22,7 @@ Photos of Mohamed's real work are on his Facebook page, https://www.facebook.com
 
 The look is "Lime & Indigo": ink drawings of real jobs on a lime-plaster ground, with indigo for the brand and colour otherwise kept for small things.
 - **Colours** are CSS variables in `app/globals.css`: lime-plaster background (`#EEEBE3`), indigo-black ink text (`primary` and `foreground`, `#1C1E2B`), paper for cards and alternate sections (`card`, `secondary`, `#FAF8F2`), indigo for the brand and main buttons (`accent`, `#2E3A6E`), and copper as a small accent only (`#985623`; the token and classes are still called `clay`: `text-clay`, `fill-clay`): eyebrow labels, step numbers, one part of each icon. The copper is kept dark enough for small text on the background (4.5:1). Don't add other hues or gradients. The same colours are hard-coded in the logo, `app/icon.svg`, `scripts/generate-guide-covers.py` and `scripts/prepare-illustrations.py`, so change them together.
-- **Fonts**: Roboto Slab for headings (`font-display`) and Roboto Flex for text, both variable fonts with Greek, loaded in `app/layout.tsx`. Arabic switches to Alexandria and Cairo via `html:lang(ar)`. Don't use a font without Greek glyphs; Greek is the default locale.
+- **Fonts**: Roboto Slab for headings (`font-display`) and Roboto Flex for text, both variable fonts with Greek, loaded in `app/layout.tsx`. Don't use a font without Greek glyphs; Greek is the default locale.
 - **Logo**: `Mark` and `Logo` in `components/layout/Logo.tsx` (a drop falling onto a flat roof slab with its copper layer; the earlier walls-and-slab version read as the letter H and was dropped); `app/icon.svg` is the same mark. The lockup names the trades (`common.trades`), never a person.
 - **Icons**: one line icon per service in `components/icons/ServiceIcons.tsx`, mapped in `data/services.ts`, each with exactly one `fill-clay` part. Lucide is fine for generic UI icons (arrows, phone).
 - **Drawings**: one per service in `public/images/illustrations/<slug>.png` (`serviceIllustration()`), shown on the service cards and each service page. They are made in Gemini from job photos (prompt in `fb-photos/illustration-refs/PROMPT.md`, outputs saved there as `<slug>-<photo>-ill.jpg`), then `scripts/prepare-illustrations.py` (needs numpy and opencv-python-headless) turns them into matching transparent ink PNGs. Workers in them are generic figures. Real photos stay on the portfolio pages.

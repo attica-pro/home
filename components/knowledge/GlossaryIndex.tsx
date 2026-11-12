@@ -15,7 +15,7 @@ export interface GlossaryIndexTerm {
 
 /** Letter a term is filed under: its first letter without accents (and, in Arabic, without the article ال). */
 function letterOf(term: string, locale: string) {
-  const word = locale === 'ar' ? term.replace(/^ال/, '') : term;
+  const word = (locale as string) === 'ar' ? term.replace(/^ال/, '') : term;
   return word.normalize('NFD').replace(/\p{M}/gu, '').charAt(0).toLocaleUpperCase(locale);
 }
 

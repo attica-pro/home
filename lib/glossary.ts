@@ -73,7 +73,7 @@ const matcherCache = new Map<string, { slug: string; regex: RegExp }[]>();
 function termMatchers(locale: Locale) {
   let matchers = matcherCache.get(locale);
   if (!matchers) {
-    const prefix = locale === 'ar' ? '(?:[وفبكل]?ال|[وفبكل])?' : '';
+    const prefix = (locale as string) === 'ar' ? '(?:[وفبكل]?ال|[وفبكل])?' : '';
     matchers = getAllTerms()
       .filter((term) => term.aliases[locale]?.length)
       .map((term) => ({
