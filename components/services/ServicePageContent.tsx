@@ -30,6 +30,7 @@ export function ServicePageContent({ locale, slug, works, guides, answers = [] }
   const t = useTranslations(`services.items.${slug}`);
   const sections = t.raw('sections') as { title: string; text: string }[];
   const whyItems = t.raw('whyItems') as string[];
+  const collageProject = works.find((project) => project.collage);
 
   return (
     <>
@@ -77,6 +78,35 @@ export function ServicePageContent({ locale, slug, works, guides, answers = [] }
                     {tHub('seeAllWorks')} <ArrowRight className="h-4 w-4 rtl:rotate-180" />
                   </Link>
                 </div>
+                {collageProject && collageProject.collage && (
+                  <div className="mt-8 overflow-hidden rounded-xl border border-foreground bg-card p-4 shadow-sm md:p-6">
+                    <div className="flex flex-wrap items-center justify-between gap-2 pb-4">
+                      <div className="flex items-center gap-2">
+                        <span className="inline-flex items-center rounded-md bg-clay px-2.5 py-1 text-xs font-bold uppercase tracking-wider text-white">
+                          {locale === 'el' ? 'Πριν & Μετά' : 'Before & After'}
+                        </span>
+                        <span className="font-display text-sm font-bold text-foreground">
+                          {collageProject.title}
+                        </span>
+                      </div>
+                      <Link
+                        href={`/${locale}/portfolio/${collageProject.slug}`}
+                        className="inline-flex items-center gap-1 text-xs font-semibold text-accent hover:underline"
+                      >
+                        {locale === 'el' ? 'Δείτε το έργο βήμα-βήμα' : 'View full project'} &rarr;
+                      </Link>
+                    </div>
+                    <div className="relative aspect-[1104/556] w-full overflow-hidden rounded-lg bg-muted">
+                      <Image
+                        src={assetPath(collageProject.collage)}
+                        alt={collageProject.title}
+                        fill
+                        className="object-cover"
+                        sizes="(max-width: 768px) 100vw, 1104px"
+                      />
+                    </div>
+                  </div>
+                )}
                 <div className="mt-8 grid gap-10 md:grid-cols-2 lg:grid-cols-3">
                   {works.map((project) => (
                     <ProjectCard key={project.slug} project={project} locale={locale} />

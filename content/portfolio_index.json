@@ -1,0 +1,1166 @@
+[
+  {
+    "slug": "apartment-grey-and-white",
+    "service": "painting",
+    "title": {
+      "el": "Βαφή διαμερίσματος σε γκρι και λευκό",
+      "en": "Apartment Painted in Grey and White"
+    },
+    "has_comparison": false,
+    "order": 792,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "apartment-peeling-blue-walls",
+    "service": "painting",
+    "title": {
+      "el": "Διαμέρισμα με ξεφλουδισμένους μπλε τοίχους βαμμένο λευκό",
+      "en": "Apartment with Peeling Blue Walls Painted White"
+    },
+    "has_comparison": true,
+    "order": 830,
+    "photos_count": 12,
+    "collage": "/images/collages/apartment-peeling-blue-walls.jpg"
+  },
+  {
+    "slug": "apartment-peeling-damp-walls",
+    "service": "painting",
+    "title": {
+      "el": "Ξεφλουδισμένοι τοίχοι από υγρασία σε διαμέρισμα",
+      "en": "Damp, Peeling Walls in an Apartment"
+    },
+    "has_comparison": true,
+    "order": 546,
+    "photos_count": 12,
+    "collage": "/images/collages/apartment-peeling-damp-walls.jpg"
+  },
+  {
+    "slug": "apartment-warm-colours-repaint",
+    "service": "painting",
+    "title": {
+      "el": "Βάψιμο διαμερίσματος σε ζεστά χρώματα",
+      "en": "Apartment Repainted in Warm Colours"
+    },
+    "has_comparison": true,
+    "order": 623,
+    "photos_count": 10,
+    "collage": "/images/collages/apartment-warm-colours-repaint.jpg"
+  },
+  {
+    "slug": "apartment-warm-tones-olive-wall",
+    "service": "painting",
+    "title": {
+      "el": "Βαφή διαμερίσματος με ζεστά χρώματα και λαδί τοίχο",
+      "en": "Apartment Painted in Warm Tones with an Olive Wall"
+    },
+    "has_comparison": false,
+    "order": 783,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "balcony-drain-outlets-sealed",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγάνωση γύρω από δύο σιφώνια μπαλκονιού",
+      "en": "Waterproofing Around Two Balcony Drain Outlets"
+    },
+    "has_comparison": false,
+    "order": 376,
+    "photos_count": 5,
+    "collage": null
+  },
+  {
+    "slug": "balcony-peeling-parapet-painted-white",
+    "service": "painting",
+    "title": {
+      "el": "Μπαλκόνι με φθαρμένο στηθαίο, βαμμένο λευκό",
+      "en": "A Balcony with a Worn Parapet, Painted White"
+    },
+    "has_comparison": true,
+    "order": -2,
+    "photos_count": 3,
+    "collage": "/images/collages/balcony-peeling-parapet-painted-white.jpg"
+  },
+  {
+    "slug": "balcony-tiles-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Λευκή στεγανωτική επίστρωση σε πλακάκια μπαλκονιού",
+      "en": "Balcony Tiles Sealed with a White Coating"
+    },
+    "has_comparison": true,
+    "order": 538,
+    "photos_count": 8,
+    "collage": "/images/collages/balcony-tiles-white-coating.jpg"
+  },
+  {
+    "slug": "balcony-walls-external-insulation",
+    "service": "insulation",
+    "title": {
+      "el": "Θερμοπρόσοψη στους τοίχους μπαλκονιού",
+      "en": "External Wall Insulation Along a Balcony"
+    },
+    "has_comparison": true,
+    "order": 390,
+    "photos_count": 10,
+    "collage": "/images/collages/balcony-walls-external-insulation.jpg"
+  },
+  {
+    "slug": "balcony-walls-repainted-yellow",
+    "service": "painting",
+    "title": {
+      "el": "Μπαλκόνι με φρεσκοβαμμένους τοίχους",
+      "en": "Balcony Walls Repainted"
+    },
+    "has_comparison": false,
+    "order": 241,
+    "photos_count": 3,
+    "collage": null
+  },
+  {
+    "slug": "balcony-walls-sprayed-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ψεκαζόμενη πολυουρεθάνη στους τοίχους μπαλκονιού",
+      "en": "Spray Polyurethane Foam on Balcony Walls"
+    },
+    "has_comparison": false,
+    "order": 1046,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "bare-roof-foam-white-coat",
+    "service": "insulation",
+    "title": {
+      "el": "Γυμνή ταράτσα με αφρό πολυουρεθάνης και λευκή προστασία",
+      "en": "Bare Roof Sprayed with Foam and Coated White"
+    },
+    "has_comparison": true,
+    "order": 760,
+    "photos_count": 10,
+    "collage": "/images/collages/bare-roof-foam-white-coat.jpg"
+  },
+  {
+    "slug": "bathroom-peeling-walls-restored",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση μπάνιου με ξεφλουδισμένους τοίχους",
+      "en": "Bathroom With Peeling Walls Restored"
+    },
+    "has_comparison": true,
+    "order": 1074,
+    "photos_count": 6,
+    "collage": "/images/collages/bathroom-peeling-walls-restored.jpg"
+  },
+  {
+    "slug": "bathroom-renovation-green-tub",
+    "service": "renovations",
+    "title": {
+      "el": "Ολική ανακαίνιση μπάνιου: από την πράσινη μπανιέρα σε ντουζιέρα",
+      "en": "Full Bathroom Renovation: From a Green Bathtub to a Walk-in Shower"
+    },
+    "has_comparison": true,
+    "order": 46,
+    "photos_count": 10,
+    "collage": "/images/collages/bathroom-renovation-green-tub.jpg"
+  },
+  {
+    "slug": "bathroom-renovation-grey-tiles",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση μπάνιου με ντουζιέρα και κόγχη",
+      "en": "Bathroom Renovation with a Shower and Wall Niche"
+    },
+    "has_comparison": false,
+    "order": 426,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "bathroom-renovation-striped-tiles",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση μπάνιου με ριγέ πλακάκια",
+      "en": "Bathroom Renovation with Striped Tiles"
+    },
+    "has_comparison": false,
+    "order": 246,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "bathroom-walk-in-shower",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση μπάνιου με ντουζιέρα στο ίδιο επίπεδο με το δάπεδο",
+      "en": "Bathroom Renovation with a Walk-In Shower"
+    },
+    "has_comparison": false,
+    "order": 106,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "ceiling-crack-rusted-rebar",
+    "service": "repairs",
+    "title": {
+      "el": "Επισκευή ρωγμής στο ταβάνι και βαφή υπνοδωματίου",
+      "en": "Ceiling Crack Repaired and Bedroom Repainted"
+    },
+    "has_comparison": false,
+    "order": 848,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "ceiling-exposed-rebar-repair",
+    "service": "repairs",
+    "title": {
+      "el": "Επισκευή ταβανιού με εκτεθειμένο οπλισμό",
+      "en": "Ceiling Repair Over Exposed Steel Bars"
+    },
+    "has_comparison": false,
+    "order": 223,
+    "photos_count": 5,
+    "collage": null
+  },
+  {
+    "slug": "ceiling-foam-painted-white",
+    "service": "insulation",
+    "title": {
+      "el": "Αφρός πολυουρεθάνης σε ταβάνι, βαμμένος λευκός",
+      "en": "Spray Polyurethane Foam on a Ceiling, Painted White"
+    },
+    "has_comparison": false,
+    "order": 941,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "ceiling-hole-damp-stains",
+    "service": "repairs",
+    "title": {
+      "el": "Τρύπα στο ταβάνι και λεκέδες υγρασίας",
+      "en": "A Hole in the Ceiling and Damp Stains"
+    },
+    "has_comparison": true,
+    "order": 662,
+    "photos_count": 7,
+    "collage": "/images/collages/ceiling-hole-damp-stains.jpg"
+  },
+  {
+    "slug": "ceiling-sprayed-foam-insulation",
+    "service": "insulation",
+    "title": {
+      "el": "Μόνωση ταβανιού πιλοτής με αφρό πολυουρεθάνης",
+      "en": "Pilotis Ceiling Insulated with Spray Polyurethane Foam"
+    },
+    "has_comparison": true,
+    "order": 1054,
+    "photos_count": 8,
+    "collage": "/images/collages/ceiling-sprayed-foam-insulation.jpg"
+  },
+  {
+    "slug": "city-view-roof-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα από σκούρα σε λευκή",
+      "en": "A Dark Roof Terrace Turned White"
+    },
+    "has_comparison": true,
+    "order": 503,
+    "photos_count": 10,
+    "collage": "/images/collages/city-view-roof-white-coating.jpg"
+  },
+  {
+    "slug": "concrete-basins-waterproofing",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγάνωση φρεατίων και καναλιού",
+      "en": "Waterproofing Inspection Pits and a Channel"
+    },
+    "has_comparison": true,
+    "order": 482,
+    "photos_count": 9,
+    "collage": "/images/collages/concrete-basins-waterproofing.jpg"
+  },
+  {
+    "slug": "concrete-sidewalk-rebuilt",
+    "service": "paving",
+    "title": {
+      "el": "Νέο τσιμεντένιο πεζοδρόμιο",
+      "en": "A New Concrete Sidewalk"
+    },
+    "has_comparison": true,
+    "order": 519,
+    "photos_count": 7,
+    "collage": "/images/collages/concrete-sidewalk-rebuilt.jpg"
+  },
+  {
+    "slug": "corrugated-roof-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Επικάλυψη κυματοειδούς στέγης",
+      "en": "Coating a Corrugated Roof"
+    },
+    "has_comparison": false,
+    "order": 527,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "corrugated-roof-foam-white-coat",
+    "service": "insulation",
+    "title": {
+      "el": "Ψεκαζόμενη μόνωση και λευκή βαφή σε στέγη με κυματοειδή φύλλα",
+      "en": "Spray Foam and a White Coat on a Corrugated Roof"
+    },
+    "has_comparison": true,
+    "order": 1003,
+    "photos_count": 6,
+    "collage": "/images/collages/corrugated-roof-foam-white-coat.jpg"
+  },
+  {
+    "slug": "courtyard-wall-plaster-repair",
+    "service": "painting",
+    "title": {
+      "el": "Επισκευή σοβάδων και βαφή σε τοίχο αυλής",
+      "en": "Courtyard Wall: Plaster Repairs and Fresh Paint"
+    },
+    "has_comparison": false,
+    "order": 178,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "damp-walls-collapsed-ceiling",
+    "service": "painting",
+    "title": {
+      "el": "Υγρασία στους τοίχους και πεσμένο ταβάνι σε διαμέρισμα",
+      "en": "Damp Walls and a Collapsed Ceiling in an Apartment"
+    },
+    "has_comparison": true,
+    "order": 330,
+    "photos_count": 10,
+    "collage": "/images/collages/damp-walls-collapsed-ceiling.jpg"
+  },
+  {
+    "slug": "facade-repair-scaffolding",
+    "service": "painting",
+    "title": {
+      "el": "Επισκευή και βαφή πρόσοψης με σκαλωσιά",
+      "en": "Facade Repair and Painting from Scaffolding"
+    },
+    "has_comparison": true,
+    "order": 598,
+    "photos_count": 10,
+    "collage": "/images/collages/facade-repair-scaffolding.jpg"
+  },
+  {
+    "slug": "fire-damaged-room",
+    "service": "painting",
+    "title": {
+      "el": "Αποκατάσταση δωματίου μετά από φωτιά",
+      "en": "Restoring a Room After a Fire"
+    },
+    "has_comparison": true,
+    "order": 96,
+    "photos_count": 8,
+    "collage": "/images/collages/fire-damaged-room.jpg"
+  },
+  {
+    "slug": "flat-mouldy-walls-repainted",
+    "service": "painting",
+    "title": {
+      "el": "Διαμέρισμα με μούχλα στους τοίχους: καθαρισμός και βαφή",
+      "en": "Flat with Mouldy Walls Cleaned Up and Repainted"
+    },
+    "has_comparison": false,
+    "order": 301,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "flat-roof-foam-white-coat",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με αφρό πολυουρεθάνης και λευκή προστασία",
+      "en": "Flat Roof Sprayed with Foam and Coated White"
+    },
+    "has_comparison": false,
+    "order": 1141,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "hallway-peeling-walls-repainted",
+    "service": "painting",
+    "title": {
+      "el": "Βαφή εισόδου με φθορές από υγρασία",
+      "en": "Entrance Hall with Damp Damage Repainted"
+    },
+    "has_comparison": true,
+    "order": 294,
+    "photos_count": 7,
+    "collage": "/images/collages/hallway-peeling-walls-repainted.jpg"
+  },
+  {
+    "slug": "kitchen-renovation-grey-island",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση κουζίνας από το σχέδιο ως το τέλος",
+      "en": "Kitchen Renovation from Drawing to Finish"
+    },
+    "has_comparison": false,
+    "order": 260,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "kitchen-repaint-grey-white",
+    "service": "painting",
+    "title": {
+      "el": "Βάψιμο κουζίνας σε γκρι και λευκό",
+      "en": "Kitchen Repainted in Grey and White"
+    },
+    "has_comparison": true,
+    "order": 470,
+    "photos_count": 12,
+    "collage": "/images/collages/kitchen-repaint-grey-white.jpg"
+  },
+  {
+    "slug": "kitchen-walls-stripped-replastered",
+    "service": "renovations",
+    "title": {
+      "el": "Κουζίνα: καθαίρεση και νέοι τοίχοι για τα καινούργια ντουλάπια",
+      "en": "Kitchen Stripped and Walls Rebuilt for New Units"
+    },
+    "has_comparison": false,
+    "order": 84,
+    "photos_count": 3,
+    "collage": null
+  },
+  {
+    "slug": "lime-green-room-to-white",
+    "service": "painting",
+    "title": {
+      "el": "Από λαχανί σε λευκό: βαφή δωματίου",
+      "en": "From Lime Green to White: a Room Repaint"
+    },
+    "has_comparison": true,
+    "order": 796,
+    "photos_count": 8,
+    "collage": "/images/collages/lime-green-room-to-white.jpg"
+  },
+  {
+    "slug": "living-room-wall-opening-closed",
+    "service": "renovations",
+    "title": {
+      "el": "Κλείσιμο ανοίγματος σε τοίχο σαλονιού",
+      "en": "Closing Up a Wall Opening in a Living Room"
+    },
+    "has_comparison": true,
+    "order": 228,
+    "photos_count": 10,
+    "collage": "/images/collages/living-room-wall-opening-closed.jpg"
+  },
+  {
+    "slug": "louvred-shutters-wood-finish",
+    "service": "wood",
+    "title": {
+      "el": "Ανανέωση ταλαιπωρημένων ξύλινων παντζουριών",
+      "en": "Weathered Wooden Shutters Refinished"
+    },
+    "has_comparison": false,
+    "order": 467,
+    "photos_count": 3,
+    "collage": null
+  },
+  {
+    "slug": "mint-walls-to-white",
+    "service": "painting",
+    "title": {
+      "el": "Από μέντα και μπεζ σε λευκούς τοίχους",
+      "en": "From Mint and Beige to White Walls"
+    },
+    "has_comparison": true,
+    "order": 648,
+    "photos_count": 11,
+    "collage": "/images/collages/mint-walls-to-white.jpg"
+  },
+  {
+    "slug": "narrow-wc-renovation",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση στενού WC από τα τούβλα",
+      "en": "A Narrow WC Rebuilt from the Brickwork Up"
+    },
+    "has_comparison": true,
+    "order": 89,
+    "photos_count": 7,
+    "collage": "/images/collages/narrow-wc-renovation.jpg"
+  },
+  {
+    "slug": "new-build-sprayed-walls",
+    "service": "insulation",
+    "title": {
+      "el": "Αφρός πολυουρεθάνης στους τοίχους νέας οικοδομής",
+      "en": "Spray Polyurethane Foam on the Walls of a New Build"
+    },
+    "has_comparison": false,
+    "order": 637,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "office-damp-walls-repainted",
+    "service": "painting",
+    "title": {
+      "el": "Επισκευή και βαφή τοίχων γραφείου με υγρασία",
+      "en": "Office Walls Damaged by Damp, Repaired and Repainted"
+    },
+    "has_comparison": false,
+    "order": 269,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "office-orange-blue-walls",
+    "service": "painting",
+    "title": {
+      "el": "Γραφεία με πορτοκαλί και μπλε τοίχους",
+      "en": "Offices Painted in Orange and Blue"
+    },
+    "has_comparison": true,
+    "order": 581,
+    "photos_count": 10,
+    "collage": "/images/collages/office-orange-blue-walls.jpg"
+  },
+  {
+    "slug": "old-apartment-damp-peeling-walls",
+    "service": "painting",
+    "title": {
+      "el": "Παλιό διαμέρισμα με υγρασία, μούχλα και ξεφλουδίσματα",
+      "en": "Old Apartment with Damp, Mould and Peeling Walls"
+    },
+    "has_comparison": true,
+    "order": 670,
+    "photos_count": 12,
+    "collage": "/images/collages/old-apartment-damp-peeling-walls.jpg"
+  },
+  {
+    "slug": "older-home-soft-colours",
+    "service": "painting",
+    "title": {
+      "el": "Βαφή παλιού σπιτιού σε απαλά χρώματα",
+      "en": "Repainting an Older Home in Soft Colours"
+    },
+    "has_comparison": false,
+    "order": 982,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "outdoor-steps-waterproofing",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση εξωτερικής σκάλας",
+      "en": "Waterproofing Outdoor Steps"
+    },
+    "has_comparison": false,
+    "order": 1150,
+    "photos_count": 5,
+    "collage": null
+  },
+  {
+    "slug": "paved-roof-spray-foam",
+    "service": "insulation",
+    "title": {
+      "el": "Μόνωση ταράτσας με πλάκες με ψεκαζόμενη πολυουρεθάνη",
+      "en": "Paved Roof Insulated with Spray Foam"
+    },
+    "has_comparison": false,
+    "order": 1158,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "peeling-wall-by-door",
+    "service": "repairs",
+    "title": {
+      "el": "Επισκευή ξεφλουδισμένου τοίχου δίπλα σε πόρτα",
+      "en": "Repairing a Peeling Wall by a Door"
+    },
+    "has_comparison": false,
+    "order": 756,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "pitched-sheet-roof-spray-foam",
+    "service": "insulation",
+    "title": {
+      "el": "Αφρός πολυουρεθάνης σε στέγη με κυματοειδή φύλλα και σε ταράτσα",
+      "en": "Spray Polyurethane Foam on a Corrugated Roof and a Flat Roof"
+    },
+    "has_comparison": false,
+    "order": 952,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "poolside-planters-waterproofing",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση ζαρντινιέρων δίπλα σε πισίνα",
+      "en": "Waterproofing Planters Beside a Pool"
+    },
+    "has_comparison": false,
+    "order": 1132,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "red-metal-roof-joints-sealed",
+    "service": "insulation",
+    "title": {
+      "el": "Σφράγισμα ενώσεων σε μεταλλική στέγη",
+      "en": "Sealing the Joints of a Metal Roof"
+    },
+    "has_comparison": true,
+    "order": 453,
+    "photos_count": 10,
+    "collage": "/images/collages/red-metal-roof-joints-sealed.jpg"
+  },
+  {
+    "slug": "restaurant-courtyard-stone-joints",
+    "service": "paving",
+    "title": {
+      "el": "Αυλή εστιατορίου: νέοι αρμοί στην πέτρινη πλακόστρωση",
+      "en": "Restaurant Courtyard: New Joints for the Stone Paving"
+    },
+    "has_comparison": true,
+    "order": 805,
+    "photos_count": 7,
+    "collage": "/images/collages/restaurant-courtyard-stone-joints.jpg"
+  },
+  {
+    "slug": "roof-beside-tiled-roof",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με φωτοβολταϊκά: νέα τσιμεντοκονία και αφρός πολυουρεθάνης",
+      "en": "Roof with Solar Panels: New Screed and Spray Polyurethane Foam"
+    },
+    "has_comparison": false,
+    "order": 967,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "roof-drains-vents-sealing",
+    "service": "insulation",
+    "title": {
+      "el": "Σφράγισμα απορροών και αεραγωγών σε ταράτσες",
+      "en": "Sealing Roof Drains and Vent Pipes"
+    },
+    "has_comparison": true,
+    "order": 737,
+    "photos_count": 12,
+    "collage": "/images/collages/roof-drains-vents-sealing.jpg"
+  },
+  {
+    "slug": "roof-gutter-rusty-railings",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγάνωση σε κανάλι νερού και τοιχία ταράτσας",
+      "en": "Waterproofing a Roof Channel and Upstands"
+    },
+    "has_comparison": true,
+    "order": 711,
+    "photos_count": 10,
+    "collage": "/images/collages/roof-gutter-rusty-railings.jpg"
+  },
+  {
+    "slug": "roof-insulation-foam-screed",
+    "service": "insulation",
+    "title": {
+      "el": "Θερμομόνωση ταράτσας με πολυουρεθάνη και νέο γέμισμα",
+      "en": "Roof Insulated with Spray Polyurethane Foam and a New Screed"
+    },
+    "has_comparison": false,
+    "order": 0,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "roof-membrane-seams-parapets",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με μεμβράνη: σφράγισμα ενώσεων και στηθαίων",
+      "en": "Membrane Roof: Sealing the Seams and Parapets"
+    },
+    "has_comparison": true,
+    "order": 571,
+    "photos_count": 10,
+    "collage": "/images/collages/roof-membrane-seams-parapets.jpg"
+  },
+  {
+    "slug": "roof-old-membrane-stripped",
+    "service": "insulation",
+    "title": {
+      "el": "Ξήλωμα παλιάς ασφαλτικής μεμβράνης και λευκή στεγάνωση",
+      "en": "Old Bitumen Membrane Stripped and Replaced with a White Coating"
+    },
+    "has_comparison": false,
+    "order": 190,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "roof-pipes-posts-sealing",
+    "service": "insulation",
+    "title": {
+      "el": "Σφράγισμα σωλήνων, βάσεων και στηθαίων σε ταράτσα",
+      "en": "Sealing Pipes, Posts and Parapets on a Roof"
+    },
+    "has_comparison": true,
+    "order": 775,
+    "photos_count": 8,
+    "collage": "/images/collages/roof-pipes-posts-sealing.jpg"
+  },
+  {
+    "slug": "roof-post-bases-sealed",
+    "service": "insulation",
+    "title": {
+      "el": "Σφράγισμα στις βάσεις μεταλλικών ορθοστατών σε ταράτσα",
+      "en": "Sealing the Bases of Metal Posts on a Roof"
+    },
+    "has_comparison": true,
+    "order": 561,
+    "photos_count": 9,
+    "collage": "/images/collages/roof-post-bases-sealed.jpg"
+  },
+  {
+    "slug": "roof-pumped-screed-spray-foam",
+    "service": "insulation",
+    "title": {
+      "el": "Νέα τσιμεντοκονία και ψεκαζόμενη μόνωση σε ταράτσα",
+      "en": "New Screed and Spray Foam Insulation on a Roof"
+    },
+    "has_comparison": false,
+    "order": 855,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "roof-skylights-sealed",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγάνωση φεγγιτών σε ταράτσα",
+      "en": "Sealing the Skylights on a Flat Roof"
+    },
+    "has_comparison": false,
+    "order": 288,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "roof-slab-insulation-screed",
+    "service": "insulation",
+    "title": {
+      "el": "Πλάκα ταράτσας με πολυουρεθάνη, πίσσα και γέμισμα",
+      "en": "Roof Slab with Polyurethane Foam, Tar and a Screed"
+    },
+    "has_comparison": false,
+    "order": 18,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "roof-solar-heaters-grey-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση ταράτσας κάτω από ηλιακούς θερμοσίφωνες",
+      "en": "Waterproofing a Roof Under Solar Water Heaters"
+    },
+    "has_comparison": true,
+    "order": 145,
+    "photos_count": 10,
+    "collage": "/images/collages/roof-solar-heaters-grey-coating.jpg"
+  },
+  {
+    "slug": "roof-solar-panel-white-membrane",
+    "service": "insulation",
+    "title": {
+      "el": "Λευκή στεγανωτική μεμβράνη σε ταράτσα με ηλιακό",
+      "en": "White Waterproofing Membrane on a Roof with a Solar Heater"
+    },
+    "has_comparison": false,
+    "order": 185,
+    "photos_count": 5,
+    "collage": null
+  },
+  {
+    "slug": "roof-spray-foam-parapets",
+    "service": "insulation",
+    "title": {
+      "el": "Θερμομόνωση ταράτσας με ψεκαζόμενη πολυουρεθάνη",
+      "en": "Roof Insulated with Spray Polyurethane Foam"
+    },
+    "has_comparison": false,
+    "order": 1037,
+    "photos_count": 5,
+    "collage": null
+  },
+  {
+    "slug": "roof-terrace-cracks-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με ρωγμές και λευκή επίστρωση",
+      "en": "A Roof Terrace with Cracks and a White Coating"
+    },
+    "has_comparison": true,
+    "order": -3,
+    "photos_count": 4,
+    "collage": "/images/collages/roof-terrace-cracks-white-coating.jpg"
+  },
+  {
+    "slug": "roof-terrace-grey-layer-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με νέα λευκή επίστρωση",
+      "en": "A Roof Terrace with a New White Coating"
+    },
+    "has_comparison": true,
+    "order": -1,
+    "photos_count": 4,
+    "collage": "/images/collages/roof-terrace-grey-layer-white-coating.jpg"
+  },
+  {
+    "slug": "roof-terrace-joints-railings",
+    "service": "insulation",
+    "title": {
+      "el": "Σφράγισμα αρμών και περιμέτρου σε ταράτσα",
+      "en": "Sealing the Joints and Edges of a Roof Terrace"
+    },
+    "has_comparison": true,
+    "order": 722,
+    "photos_count": 10,
+    "collage": "/images/collages/roof-terrace-joints-railings.jpg"
+  },
+  {
+    "slug": "roof-terrace-wooden-pergola",
+    "service": "wood",
+    "title": {
+      "el": "Βερνίκωμα και συντήρηση ξύλινης πέργκολας σε ταράτσα",
+      "en": "Varnishing and Maintaining a Wooden Pergola on a Roof Terrace"
+    },
+    "has_comparison": false,
+    "order": 906,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "roof-torn-membrane",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με σκισμένες μεμβράνες: αφαίρεση, πολυουρεθάνη και νέα στεγάνωση",
+      "en": "Roof with Torn Membranes: Stripped, Foam-Insulated and Waterproofed Again"
+    },
+    "has_comparison": true,
+    "order": 438,
+    "photos_count": 8,
+    "collage": "/images/collages/roof-torn-membrane.jpg"
+  },
+  {
+    "slug": "roof-vent-pipes-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ανανέωση λευκής στεγάνωσης σε ταράτσα με αεραγωγούς",
+      "en": "Renewing the White Waterproofing on a Roof with Vent Pipes"
+    },
+    "has_comparison": false,
+    "order": 172,
+    "photos_count": 6,
+    "collage": null
+  },
+  {
+    "slug": "roof-water-tanks-spray-foam",
+    "service": "insulation",
+    "title": {
+      "el": "Ψεκαζόμενη μόνωση σε ταράτσα με δεξαμενές νερού",
+      "en": "Spray Foam Insulation on a Roof with Water Tanks"
+    },
+    "has_comparison": false,
+    "order": 923,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "rooftop-walkways-spray-foam",
+    "service": "insulation",
+    "title": {
+      "el": "Ψεκαζόμενη μόνωση σε ταράτσα με στενά περάσματα",
+      "en": "Spray Foam Insulation on a Roof with Narrow Walkways"
+    },
+    "has_comparison": true,
+    "order": 886,
+    "photos_count": 11,
+    "collage": "/images/collages/rooftop-walkways-spray-foam.jpg"
+  },
+  {
+    "slug": "room-grey-feature-wall",
+    "service": "painting",
+    "title": {
+      "el": "Βαφή δωματίου με γκρι τοίχο έμφασης",
+      "en": "Room Repainted with a Grey Feature Wall"
+    },
+    "has_comparison": false,
+    "order": 771,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "room-spray-painted-white",
+    "service": "painting",
+    "title": {
+      "el": "Βαφή δωματίου με πιστόλι",
+      "en": "Spray-Painting a Room White"
+    },
+    "has_comparison": false,
+    "order": 1145,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "room-wall-stains-repaint",
+    "service": "painting",
+    "title": {
+      "el": "Επισκευή και βάψιμο δωματίου με λεκέδες",
+      "en": "Repairing and Repainting a Stained Room"
+    },
+    "has_comparison": false,
+    "order": 449,
+    "photos_count": 4,
+    "collage": null
+  },
+  {
+    "slug": "shop-unit-damp-walls-grey-floor",
+    "service": "painting",
+    "title": {
+      "el": "Ισόγειο κατάστημα: τοίχοι με υγρασία και νέο δάπεδο",
+      "en": "Shop Unit: Damp Walls Repaired and Floor Coated"
+    },
+    "has_comparison": false,
+    "order": 320,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "small-bathroom-renovation",
+    "service": "renovations",
+    "title": {
+      "el": "Ανακαίνιση μικρού μπάνιου",
+      "en": "A Small Bathroom Renovation"
+    },
+    "has_comparison": true,
+    "order": 27,
+    "photos_count": 9,
+    "collage": "/images/collages/small-bathroom-renovation.jpg"
+  },
+  {
+    "slug": "studio-new-floor-repaint",
+    "service": "renovations",
+    "title": {
+      "el": "Μικρό διαμέρισμα με νέο δάπεδο και νέα χρώματα",
+      "en": "Small Flat with a New Floor and New Colours"
+    },
+    "has_comparison": true,
+    "order": 610,
+    "photos_count": 12,
+    "collage": "/images/collages/studio-new-floor-repaint.jpg"
+  },
+  {
+    "slug": "terrace-column-bases-sealed",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση στις βάσεις κολόνων σε ταράτσα",
+      "en": "Sealing the Column Bases on a Tiled Terrace"
+    },
+    "has_comparison": true,
+    "order": 1100,
+    "photos_count": 12,
+    "collage": "/images/collages/terrace-column-bases-sealed.jpg"
+  },
+  {
+    "slug": "terrace-liquid-membrane",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση ταράτσας πολυκατοικίας με λευκή μεμβράνη",
+      "en": "Apartment Terrace Waterproofed with a White Membrane"
+    },
+    "has_comparison": true,
+    "order": 75,
+    "photos_count": 9,
+    "collage": "/images/collages/terrace-liquid-membrane.jpg"
+  },
+  {
+    "slug": "terrace-parapet-repairs-white-floor",
+    "service": "insulation",
+    "title": {
+      "el": "Επισκευή στηθαίων και στεγάνωση ταράτσας",
+      "en": "Parapet Repairs and Terrace Waterproofing"
+    },
+    "has_comparison": true,
+    "order": 1012,
+    "photos_count": 10,
+    "collage": "/images/collages/terrace-parapet-repairs-white-floor.jpg"
+  },
+  {
+    "slug": "terrace-planter-waterproofing",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση ζαρντινιέρας σε ταράτσα",
+      "en": "Waterproofing a Planter on a Terrace"
+    },
+    "has_comparison": true,
+    "order": 10,
+    "photos_count": 8,
+    "collage": "/images/collages/terrace-planter-waterproofing.jpg"
+  },
+  {
+    "slug": "terrace-primer-white-membrane",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με κάγκελα: αστάρι και λευκή στεγάνωση",
+      "en": "Terrace with Iron Railings Waterproofed in White"
+    },
+    "has_comparison": false,
+    "order": 204,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "terrace-railings-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγανοποίηση ταράτσας με κάγκελα",
+      "en": "Railed Terrace Waterproofed in White"
+    },
+    "has_comparison": true,
+    "order": 1093,
+    "photos_count": 7,
+    "collage": "/images/collages/terrace-railings-white-coating.jpg"
+  },
+  {
+    "slug": "terrace-tiled-roof-edge-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα δίπλα σε κεραμοσκεπή: από τις παλιές μεμβράνες στο λευκό",
+      "en": "Terrace Beside a Tiled Roof: Old Membrane Out, White Coating In"
+    },
+    "has_comparison": true,
+    "order": 359,
+    "photos_count": 10,
+    "collage": "/images/collages/terrace-tiled-roof-edge-white-coating.jpg"
+  },
+  {
+    "slug": "terrace-tiles-removed-cement-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα: ξήλωμα παλιών πλακιδίων και νέα τσιμεντοειδής στρώση",
+      "en": "Terrace Stripped of Old Tiles and Given a New Cement-Based Layer"
+    },
+    "has_comparison": false,
+    "order": 214,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "terrace-wooden-box-waterproofed",
+    "service": "insulation",
+    "title": {
+      "el": "Σωληνώσεις σε βεράντα: ξύλινο κάλυμμα και μόνωση",
+      "en": "Terrace Pipes Boxed in with Wood and Waterproofed"
+    },
+    "has_comparison": true,
+    "order": 383,
+    "photos_count": 7,
+    "collage": "/images/collages/terrace-wooden-box-waterproofed.jpg"
+  },
+  {
+    "slug": "textured-ceiling-smoothed",
+    "service": "painting",
+    "title": {
+      "el": "Λείο ταβάνι στη θέση του ανάγλυφου",
+      "en": "A Textured Ceiling Made Smooth"
+    },
+    "has_comparison": true,
+    "order": 492,
+    "photos_count": 9,
+    "collage": "/images/collages/textured-ceiling-smoothed.jpg"
+  },
+  {
+    "slug": "tiled-terrace-edges-sealed",
+    "service": "insulation",
+    "title": {
+      "el": "Σφράγισμα στις άκρες ταράτσας με πλακάκια",
+      "en": "Sealing the Edges of a Tiled Terrace"
+    },
+    "has_comparison": false,
+    "order": 641,
+    "photos_count": 7,
+    "collage": null
+  },
+  {
+    "slug": "tiled-terrace-grey-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Ταράτσα με φθαρμένα πλακάκια, στεγανοποιημένη με ψεκασμό",
+      "en": "Worn Tiled Terrace Waterproofed by Spraying"
+    },
+    "has_comparison": false,
+    "order": 156,
+    "photos_count": 8,
+    "collage": null
+  },
+  {
+    "slug": "tiled-terrace-white-coating",
+    "service": "insulation",
+    "title": {
+      "el": "Στεγάνωση ταράτσας με πλάκες με λευκό επαλειφόμενο",
+      "en": "Slab-Paved Terrace Waterproofed with a White Coating"
+    },
+    "has_comparison": true,
+    "order": 868,
+    "photos_count": 10,
+    "collage": "/images/collages/tiled-terrace-white-coating.jpg"
+  },
+  {
+    "slug": "window-lintel-peeling-plaster-repaint",
+    "service": "painting",
+    "title": {
+      "el": "Επισκευή και βαφή πάνω από παράθυρο",
+      "en": "Repair and Paint Above a Window"
+    },
+    "has_comparison": true,
+    "order": -4,
+    "photos_count": 3,
+    "collage": "/images/collages/window-lintel-peeling-plaster-repaint.jpg"
+  },
+  {
+    "slug": "wooden-shutters-restoration",
+    "service": "wood",
+    "title": {
+      "el": "Αποκατάσταση ξύλινων παντζουριών",
+      "en": "Restoring Wooden Shutters"
+    },
+    "has_comparison": true,
+    "order": 64,
+    "photos_count": 6,
+    "collage": "/images/collages/wooden-shutters-restoration.jpg"
+  }
+]

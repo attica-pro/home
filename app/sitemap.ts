@@ -25,6 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...getAllAnswers().map((answer) => `/knowledge-hub/answers/${answer.slug}`),
     ...getAllTerms().map((term) => `/knowledge-hub/glossary/${term.slug}`),
     '/contact',
+    ...areaSlugs.map((area) => `/g/${area}`),
   ];
   const guides = getAllGuides();
   const projects = getAllProjects();

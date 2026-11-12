@@ -1,0 +1,2983 @@
+{
+  "generated_at": "2026-11-12 16:22:12",
+  "total_opportunities": 105,
+  "weather_snapshot": {
+    "total_rain_10d_mm": 0.6,
+    "rainy_days_count": 1,
+    "avg_max_temp": 20.9,
+    "multipliers": {
+      "insulation": 1.2,
+      "painting": 1.2,
+      "renovations": 1.0,
+      "demolition": 1.0,
+      "repairs": 1.1,
+      "paving": 1.0,
+      "wood": 1.05
+    }
+  },
+  "top_digital_goldmines": [
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωσεισ ταρατσων καλλιθεα"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ με πλακακια",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με πολυουρεθανη",
+        "θερμομονωση ταρατσασ τιμη τμ",
+        "μονωσεισ ταρατσων νεα σμυρνη"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ με πανελ",
+        "θερμομονωση ταρατσασ με πλακακια",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με φελιζολ",
+        "θερμομονωση ταρατσασ πατρα",
+        "μονωση παλιασ ταρατσασ"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ diy",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με χαλικι",
+        "μονωση ταρατσασ diy"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "βαψιμο κουκλασ",
+        "βαψιμο κουκουναριων",
+        "βαψιμο σπιτιου βηματα",
+        "βαψιμο σπιτιου κοστοσ",
+        "βαψιμο σπιτιου κόστοσ",
+        "ελαιοχρωματισμοι καρτεσ"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ υλικα",
+        "θερμομόνωση ταράτσασ κόστοσ",
+        "μονωση ταρατσασ η σκεπη"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πανελ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωση ταρατσασ με πανελ"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωσεισ ταρατσων αιγαλεω"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ μονοσ μου",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωση ταρατσασ βαροσ"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωσεισ ζωγραφου"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    }
+  ],
+  "top_guerrilla_goldmines": [
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 62.7,
+      "category": "Κατηγορία B (Guerrilla Goldmine - Physical Stickers/Posters)",
+      "action_recommendation": "Ανάρτηση αφισών/αυτοκολλητων σε κόμβους: Πλατεία Κουκακίου, Μετρό Συγγρού-Φιξ",
+      "search_demand_count": 5,
+      "top_search_queries": [
+        "ανακαινιση κουκακι",
+        "ανακαινιση σπιτιου κολωνακι",
+        "ανακαινιση σπιτιου κοστοσ",
+        "ανακαινιση σπιτιου κοστοσ ανα τετραγωνικο",
+        "ανακαινιση σπιτιου κριτικεσ"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    }
+  ],
+  "full_matrix": [
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωσεισ ταρατσων καλλιθεα"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ με πλακακια",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με πολυουρεθανη",
+        "θερμομονωση ταρατσασ τιμη τμ",
+        "μονωσεισ ταρατσων νεα σμυρνη"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ με πανελ",
+        "θερμομονωση ταρατσασ με πλακακια",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με φελιζολ",
+        "θερμομονωση ταρατσασ πατρα",
+        "μονωση παλιασ ταρατσασ"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ diy",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με χαλικι",
+        "μονωση ταρατσασ diy"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "βαψιμο κουκλασ",
+        "βαψιμο κουκουναριων",
+        "βαψιμο σπιτιου βηματα",
+        "βαψιμο σπιτιου κοστοσ",
+        "βαψιμο σπιτιου κόστοσ",
+        "ελαιοχρωματισμοι καρτεσ"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ υλικα",
+        "θερμομόνωση ταράτσασ κόστοσ",
+        "μονωση ταρατσασ η σκεπη"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πανελ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωση ταρατσασ με πανελ"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωσεισ ταρατσων αιγαλεω"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ μονοσ μου",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωση ταρατσασ βαροσ"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 100.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ θεσσαλονικη",
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωσεισ ζωγραφου"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 99.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ κοστοσ",
+        "θερμομονωση ταρατσασ κόστοσ",
+        "θερμομονωση ταρατσασ με πολυουρεθανη",
+        "θερμομονωση ταρατσασ τιμη",
+        "μονωση ταρατσασ αθηνα"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 99.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου ευοσμοσ",
+        "βαψιμο σπιτιου μετα απο φωτια",
+        "βαψιμο σπιτιου πειραιασ",
+        "βαψιμο σπιτιου συνεργειο",
+        "ελαιοχρωματισμοι νεα ιωνια"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 93.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου πειραιασ",
+        "βαψιμο σπιτιου περιστερι",
+        "βαψιμο σπιτιου συνεργειο",
+        "βαψιμο σπιτιου τιμεσ αθηνα",
+        "ελαιοχρωματα ζωγραφικησ"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 91.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "θερμομονωση ταρατσασ κηφισια",
+        "θερμομονωση ταρατσασ με πλακακια",
+        "θερμομονωση ταρατσασ με πλακεσ",
+        "θερμομονωση ταρατσασ με πολυουρεθανη",
+        "θερμομονωση ταρατσασ υλικα",
+        "μονωσεισ ταρατσων γλυφαδα"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 91.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου βηματα",
+        "βαψιμο σπιτιου μεροκαματο",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου συνεργειο",
+        "ελαιοχρωματισμοι βεροια"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 91.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανσεισ νεα σμυρνη",
+        "απολυμανση νεα σμυρνη",
+        "απολυμανση σπιτιου νεα σμυρνη",
+        "αποτριχωση νεα σμυρνη ομηρου",
+        "αποφραξεισ νεα σμυρνη",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 90.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ίλιον & Πετρούπολη'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου ιωαννινα",
+        "βαψιμο σπιτιου περιστερι",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου υλικα",
+        "ελαιοχρωματισμοι ιλιον"
+      ],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 89.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου αιγιο",
+        "βαψιμο σπιτιου περιστερι",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου προσφορεσ",
+        "ελαιοχρωματισμοί αξιολογήσεισ"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 88.1,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "μονωσεισ ταρατσων πειραιασ",
+        "μονωση ταρατσασ με pvc",
+        "μονωση ταρατσασ με πετρεσ",
+        "μονωση ταρατσασ με πισσα",
+        "μονωση ταρατσασ πειραιασ",
+        "στεγανοποιηση ταρατσασ αθηνα"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 86.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ίλιον & Πετρούπολη'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "επισκευεσ ιλιον",
+        "επισκευεσ σαλονιων ιλιον",
+        "επισκευη επιπλων ιλιον",
+        "επισκευη πλυντηριου ιλιον",
+        "επισκευη σιτασ ιλιον",
+        "μελισσια ιλιον"
+      ],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 86.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση καλλιθεα",
+        "αποξηραμενα λουλουδια καλλιθεα",
+        "αποτρίχωση καλλιθέα",
+        "αποτρίχωση καλλιθεα",
+        "αποφραξη καλλιθεα",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 85.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "μονωση ταρατσασ με περλιτη",
+        "μονωση ταρατσασ με πετρεσ",
+        "μονωση ταρατσασ με πλακεσ",
+        "μονωση ταρατσασ πειραιασ",
+        "μονωση ταρατσασ περιστερι",
+        "μονωση ταρατσασ πρακτικερ"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 85.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "επισκευεσ ψυγειων ζωγραφου",
+        "επισκευη κινητου ζωγραφου",
+        "επισκευη κινητων ζωγραφου",
+        "επισκευη πλυντηριου ζωγραφου",
+        "επισκευη ψυγειου ζωγραφου",
+        "ζωγραφοσ τοιχου"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 83.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "ανακαίνιση μπάνιου αξιολογήσεισ",
+        "ανακαινισεισ αιγαλεω",
+        "ανακαινιση αιγαλεω",
+        "ανακαινιση κουζινασ αιγαλεω",
+        "ανακαινιση κουζινασ ιλιον",
+        "ανακαινιση μπανιου αιγαλεω"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 83.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ίλιον & Πετρούπολη'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση ιλιον",
+        "απολύμανση ιλιον",
+        "αποτρίχωση ιλιον",
+        "αποφραξη ιλιον",
+        "γκρεμισμα πετρινου τοιχου",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 83.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "αποξήρανση βασιλικού",
+        "αποξηραινω βασιλικο",
+        "αποξηραμενα βυσσινα",
+        "αποξηρανση βασιλικου",
+        "αποξηρανση βοτανων",
+        "γκρεμισμα τοιχου για πορτα"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 83.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "απολυμανση ζωγραφου",
+        "απολύμανση ζωγράφου",
+        "αποτρίχωση ζωγράφου",
+        "γκρέμισμα τοίχου τιμή",
+        "γκρεμισμα τοιχου θεσσαλονικη",
+        "γκρεμισμα τοιχου κοστοσ"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 82.4,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 13,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευεσ καλλιθεα",
+        "επισκευεσ σοβαδων",
+        "επισκευη σκουπασ καλλιθεα",
+        "επισκευη σοβαδων",
+        "καλλιθεα μερη"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 81.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση παλαιο φαληρο",
+        "αποξηλωση παλαιων",
+        "αποφρακτικη παλαιο φαληρο",
+        "αποφραξεισ παλαιο φαληρο",
+        "γκρεμισμα πετρινου τοιχου",
+        "γκρεμισμα τοιχου για πορτα"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 81.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "αποθηκευση κουκλεσ",
+        "αποξηλωση κουζινασ",
+        "αποξηλωση κουζινασ τιμη",
+        "αποξηραμένα κουκιά",
+        "αποξηραμενα κουκουναρια",
+        "γκρεμισμα τοιχου για πορτα"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 80.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "επισκευή κουκλασ",
+        "επισκευή σοβάδων",
+        "επισκευη κουκλασ",
+        "επισκευη σοβα τοιχου",
+        "επισκευη σοβαδων",
+        "μερακι στο κουκακι"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 80.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευη ρολων νεα σμυρνη",
+        "επισκευη σιδερου νεα ιωνια",
+        "επισκευη σιτασ νεα σμυρνη",
+        "επισκευη σοβαδων",
+        "μυρτια νεα σμυρνη χαρτησ"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 79.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "αιγαλεω αποτριχωση",
+        "απολυμανση αιγάλεω",
+        "απολυμανση αιγαλεω",
+        "αποξηραμενα λουλουδια αιγαλεω",
+        "αποφρακτικη αιγαλεω",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 78.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "βαψιμο παγκακι",
+        "βαψιμο παγκων κουζινασ",
+        "βαψιμο σπιτιου ποσο κοστιζει",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου προσφορεσ",
+        "ελαιοχρωματισμοι παγκρατι"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 77.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "ανακαινιση βυρωνασ",
+        "ανακαινιση μπανιου βεροια",
+        "ανακαινιση μπανιου βηματα",
+        "ανακαινιση μπανιου βιντεο",
+        "ανακαινιση μπανιου βυρωνασ",
+        "ανακαινιση σπιτιου βιντεο"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 77.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 13,
+      "top_search_queries": [
+        "επισκευεσ επιπλων παλαιο φαληρο",
+        "επισκευεσ παλαιο φαληρο",
+        "επισκευη κινητου παλαιο φαληρο",
+        "επισκευη κινητων παλαιο φαληρο",
+        "επισκευη πλυντηριου παλαιο φαληρο",
+        "παλαιο φαληρο μελισσια"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 76.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ίλιον & Πετρούπολη'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "ανακαινίσεισ ιλιον",
+        "ανακαινισεισ ιλιον",
+        "ανακαινιση ιλιον",
+        "ανακαινιση κουζινασ ηλιουπολη",
+        "ανακαινιση κουζινασ ιλιον",
+        "ανακαινιση μπανιου αιγαλεω"
+      ],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 76.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 8,
+      "top_search_queries": [
+        "ανακαίνιση καλλιθεα",
+        "ανακαίνιση μπάνιου καλλιθέα",
+        "ανακαινιζοντασ καλλιθεα",
+        "ανακαινισεισ κατοικιων καλλιθεα",
+        "ανακαινισεισ σπιτιων καλλιθεα",
+        "ανακαινιση καλλιθεα"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 76.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 7,
+      "top_search_queries": [
+        "ανακαίνιση νεα σμύρνη",
+        "ανακαινισεισ νεα σμυρνη",
+        "ανακαινιση κουζινασ νεα σμυρνη",
+        "ανακαινιση μπανιου νεα ιωνια",
+        "ανακαινιση μπανιου νεα μακρη",
+        "ανακαινιση σπιτιου νεα ιωνια"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 75.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 13,
+      "top_search_queries": [
+        "ανακαίνιση μπάνιου πειραιάσ",
+        "ανακαίνιση πειραιασ",
+        "ανακαινισεισ σπιτιων πειραιασ",
+        "ανακαινιση διαμερισματοσ πειραιασ",
+        "ανακαινιση κουζινασ αθηνα",
+        "ανακαινιση κουζινασ πειραιασ"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 74.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου με δοσεισ",
+        "βαψιμο σπιτιου μεροκαματο",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου προσφορεσ",
+        "ελαιοχρωματισμοι βορεια προαστια"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 72.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "αιγαλεω επισκευεσ επιπλων",
+        "αιγαλεω επισκευη κινητων",
+        "αιγαλεω με μετρο",
+        "αιγαλεω μενιδι",
+        "αιγαλεω μερη",
+        "αιγαλεω σερβισ"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 72.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση κυψελησ",
+        "απολυμανση κυψελησ με χλωρινη",
+        "απολυμανση κυψελων",
+        "αποξηλωση καυστηρα",
+        "αποψιλωση κηπου",
+        "γκρεμισμα τοιχου και στηριξη"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 71.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "αποξηλωση παταριου",
+        "αποτοξίνωση πάγκρεασ",
+        "αποτοξίνωση παγκρέατοσ",
+        "αποφραξη παγκρεατικου πορου",
+        "γκρεμισμα τοιχου για πορτα",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 71.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο επιπλων πειραιασ",
+        "βαψιμο σπιτιου πειραιασ",
+        "βαψιμο σπιτιου περιστερι",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου προσφορεσ",
+        "ελαιοχρωματισμοι πειραιασ"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 71.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευή σοβα",
+        "επισκευεσ σοβαδων",
+        "επισκευη σοβα",
+        "επισκευη σοβαδων",
+        "κυψελη με"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 70.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευεσ σοβαδων",
+        "επισκευη σαθρου σοβα",
+        "επισκευη σαθρων σοβαδων",
+        "επισκευη σοβαδων",
+        "ρωγμέσ τοίχου"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 70.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 13,
+      "top_search_queries": [
+        "ανακαίνιση περιστέρι",
+        "ανακαινισεισ κατοικιων περιστερι",
+        "ανακαινισεισ σπιτιων περιστερι",
+        "ανακαινιση κουζινασ αθηνα",
+        "ανακαινιση κουζινασ ιλιον",
+        "ανακαινιση κουζινασ πειραιασ"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 70.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 5,
+      "top_search_queries": [
+        "ελαιοχρωματισμοί καλλιθέα",
+        "ελαιοχρωματισμοι καλλιθεα",
+        "ελαιοχρωματιστήσ καλλιθέα",
+        "ελαιοχρωματιστεσ καλλιθεα",
+        "ελαιοχρωματιστησ καλλιθεα"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 70.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 11,
+      "top_search_queries": [
+        "βαψιμο σπιτιου αθηνα",
+        "βαψιμο σπιτιου πειραιασ",
+        "βαψιμο σπιτιου προσφορα",
+        "βαψιμο σπιτιου προσφορεσ",
+        "ελαιοχρωματισμοί περιστέρι",
+        "ελαιοχρωματισμοι πειραιασ"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 69.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Χαλάνδρι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "ανακαινιση κατοικιασ χαλανδρι",
+        "ανακαινιση κουζινασ αθηνα",
+        "ανακαινιση κουζινασ βορεια προαστια",
+        "ανακαινιση κουζινασ χαλανδρι",
+        "ανακαινιση κουζινασ χαλκιδα",
+        "ανακαινιση μπανιου καλλιθεα"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 69.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 6,
+      "top_search_queries": [
+        "ανακαινίσεισ ζωγράφου",
+        "ανακαινιση ζωγραφου",
+        "ανακαινιση κουζινασ ζωγραφου",
+        "ανακαινιση μπανιου ζωγραφου",
+        "ανακαινιση σπιτιου ζωγραφου",
+        "πλακακια μπανιου ζωγραφου"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 68.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 13,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευη κουζινασ παγκρατι",
+        "επισκευη σκουπασ παγκρατι",
+        "επισκευη σοβαδων",
+        "επισκευη σοβατεπι",
+        "μεριδεσ παγκρητιασ"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 68.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντελονιου θεσσαλονικη",
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζούρια",
+        "συντηρηση ξυλινων κουφωματων"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 68.1,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευή σοβα",
+        "επισκευεσ σοβαδων",
+        "επισκευη σοβα τοιχου",
+        "επισκευη σοβαδων",
+        "μερεμετια κερατσινι"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 67.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 6,
+      "top_search_queries": [
+        "ελαιοχρωματισμοι παιανια",
+        "ελαιοχρωματισμοι παλληνη",
+        "ελαιοχρωματιστεσ παλαιο φαληρο",
+        "ελαιοχρωματιστεσ παλληνη",
+        "ελαιοχρωματιστησ παλαιο φαληρο",
+        "ελαιοχρωματιστησ παλληνη"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 66.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση μαρουσι",
+        "αποξηλωση μαρμαρου",
+        "αποξηλωση μαρμαρων",
+        "αποφρακτικη μαρουσι",
+        "αποφραξη μαρουσι",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 66.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Χαλάνδρι'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση χαλανδρι",
+        "αποτρίχωση χαλάνδρι",
+        "αποτριχωση χαλανδρι",
+        "αποτριχωση χαλαουα χαλανδρι",
+        "αφισεσ τοιχου χαλανδρι",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 65.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευεσ μαρουσι",
+        "επισκευη σιδερου μαρουσι",
+        "επισκευη σκουπασ μαρουσι",
+        "επισκευη σοβαδων",
+        "μαρουσι με μετρο"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 64.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο καλλιθεα",
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζούρια",
+        "βαψιμο ρουχων καλλιθεα",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 64.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 8,
+      "top_search_queries": [
+        "ανακαινιση κουζινασ κυψελη",
+        "ανακαινιση κυψελη",
+        "ανακαινιση μπανιου και κουζινασ",
+        "ανακαινιση μπανιου και κουζινασ τιμεσ",
+        "ανακαινιση μπανιου κριτικεσ",
+        "ανακαινιση μπανιου κόστοσ"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 64.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζούρια",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 64.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βυρωνοσ πλακα",
+        "πλακασ βυρωνασ",
+        "πλακοστρωσησ",
+        "πλακοστρωτο βαρκιζα",
+        "πλακοστρωτο βαρκιζασ",
+        "τοποθετηση πλακιδιων βεραντασ"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 64.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 8,
+      "top_search_queries": [
+        "ανακαινιση διαμερισματοσ παγκρατι",
+        "ανακαινιση μπανιου praktiker",
+        "ανακαινιση μπανιου πακετα",
+        "ανακαινιση μπανιου πακετο",
+        "ανακαινιση μπανιου πρακτικερ",
+        "ανακαινιση παγκρατι"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 63.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευεσ σοβαδων",
+        "επισκευη σοβα",
+        "επισκευη σοβα τοιχου",
+        "επισκευη σοβαδων",
+        "μαραγκοσ μερεμετια περιστερι"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "nea-smyrni",
+      "area_name_el": "Νέα Σμύρνη",
+      "is_hq": true,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 63.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Νέα Σμύρνη'",
+      "search_demand_count": 8,
+      "top_search_queries": [
+        "πλακα νεα σμυρνη",
+        "πλακαδεσ νεα σμυρνη",
+        "πλακασ νεα σμυρνη",
+        "πλακασ νεα σμυρνη σχεδιο",
+        "τοποθετηση πλακιδιων νεα ιωνια",
+        "τοποθετηση πλακιδιων νοτια προαστια"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Νέας Σμύρνης",
+        "Άλσος Νέας Σμύρνης",
+        "Αγία Φωτεινή",
+        "Φάρος"
+      ]
+    },
+    {
+      "area_slug": "kallithea",
+      "area_name_el": "Καλλιθέα",
+      "is_hq": true,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 63.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Καλλιθέα'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "πλακαδεσ καλλιθεα",
+        "πλακασ καλλιθεα",
+        "πλακατζησ καλλιθεα",
+        "πλακοστρωση κοστοσ",
+        "πλακοστρωση ταρατσασ",
+        "τοποθετησεισ πλακιδιων καλλιθεα"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Πλατεία Δαβάκη",
+        "Θησέως & Χαροκόπου",
+        "Τζιτζιφιές",
+        "Λόφος Φιλαρέτου"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 63.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 6,
+      "top_search_queries": [
+        "ελαιοχρωματισμοι κηφισια",
+        "ελαιοχρωματισμοι κοστοσ",
+        "ελαιοχρωματισμοι κυψελη",
+        "ελαιοχρωματιστεσ κυψελη",
+        "ελαιοχρωματιστησ κοστοσ",
+        "ελαιοχρωματιστησ κυψελη"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 63.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 6,
+      "top_search_queries": [
+        "ανακαινισεισ παλαιο φαληρο",
+        "ανακαινιση μπανιου π φαληρο",
+        "ανακαινιση παλαιο φαληρο",
+        "ανακαινιση παλαιου διαμερισματοσ",
+        "ανακαινιση παλαιων σπιτιων",
+        "ανακαινιση σπιτιου παλαιο φαληρο"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "vyronas-kaisariani",
+      "area_name_el": "Βύρωνας & Καισαριανή",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 63.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Βύρωνας & Καισαριανή'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.86,
+      "guerrilla_target_hubs": [
+        "Ταπητουργείο Βύρωνα",
+        "Πλατεία Καισαριανής",
+        "Σκοπευτήριο"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 62.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "πλακακι κουφιο",
+        "πλακοστρωση κοστοσ",
+        "πλακουτσοτο",
+        "πλακουτσοτο κεφαλι",
+        "πλακουτσοτο ροδακινο",
+        "τοποθετηση πλακακι κουζινασ"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 62.7,
+      "category": "Κατηγορία B (Guerrilla Goldmine - Physical Stickers/Posters)",
+      "action_recommendation": "Ανάρτηση αφισών/αυτοκολλητων σε κόμβους: Πλατεία Κουκακίου, Μετρό Συγγρού-Φιξ",
+      "search_demand_count": 5,
+      "top_search_queries": [
+        "ανακαινιση κουκακι",
+        "ανακαινιση σπιτιου κολωνακι",
+        "ανακαινιση σπιτιου κοστοσ",
+        "ανακαινιση σπιτιου κοστοσ ανα τετραγωνικο",
+        "ανακαινιση σπιτιου κριτικεσ"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 62.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ίλιον & Πετρούπολη'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο ξυλινων παντζουριων",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντηρηση ξυλινων κουφωματων"
+      ],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 61.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 14,
+      "top_search_queries": [
+        "απολυμανση περιστερια",
+        "απολυμανση περιστεριων",
+        "απομάκρυνση περιστεριων",
+        "γκρεμισμα πετρινου τοιχου",
+        "γκρεμισμα τοιχου για πορτα",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 61.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "παλαιο φαληρο πλακακια",
+        "παλαιο φαληρο πλατεια",
+        "παλαιο φαληρο προαστιο",
+        "παλαιο φαληρο τροκαντερο",
+        "πλακασ παλαιο φαληρο",
+        "τοποθετηση πλακιδιων πανω σε παλια"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "koukaki-neos-kosmos",
+      "area_name_el": "Κουκάκι & Νέος Κόσμος",
+      "is_hq": true,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 61.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κουκάκι & Νέος Κόσμος'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.9,
+      "guerrilla_target_hubs": [
+        "Πλατεία Κουκακίου",
+        "Μετρό Συγγρού-Φιξ",
+        "Μπακνανά",
+        "Άγιος Σώστης"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 60.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 15,
+      "top_search_queries": [
+        "απολυμανση γλυφαδα",
+        "αποτριχωση γλυφαδα κερι",
+        "αποτριχωση γλυφαδα μεταξα",
+        "αποφρακτικη γλυφαδασ",
+        "αποφραξη γλυφαδα",
+        "γκρεμισμα τοιχου θεσσαλονικη"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 60.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "πλακάκια στο αιγάλεω",
+        "πλακαδεσ αιγαλεω",
+        "πλακασ αιγαλεω",
+        "πλακεσ πεζοδρομιου αιγαλεω",
+        "πλακουντα 11 αιγαλεω",
+        "τοποθέτηση πλακιδίων αξιολογήσεισ"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 60.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ίλιον & Πετρούπολη'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "πλακαδεσ ιλιον",
+        "πλακασ ιλιον",
+        "πλακεσ πεζοδρομιου ιλιον",
+        "πλατεια εκτοροσ ιλιον",
+        "πλατωνοσ ιλιον",
+        "τοποθετηση πλακιδιων αιγαλεω"
+      ],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "palaio-faliro",
+      "area_name_el": "Παλαιό Φάληρο",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 60.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παλαιό Φάληρο'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντηρηση ξυλινων κουφωματων"
+      ],
+      "building_age_index": 0.72,
+      "guerrilla_target_hubs": [
+        "Φλοίσβος",
+        "Αμφιθέας",
+        "Μπάτης",
+        "Έδεμ"
+      ]
+    },
+    {
+      "area_slug": "zografou",
+      "area_name_el": "Ζωγράφου & Ιλίσια",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 60.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Ζωγράφου & Ιλίσια'",
+      "search_demand_count": 8,
+      "top_search_queries": [
+        "πλακασ ζωγραφικη",
+        "πλακασ ζωγραφου",
+        "πλακατζησ ζωγραφου",
+        "πλακόστρωτο ζωγραφική",
+        "πλαστηρα ζωγραφου",
+        "τοποθετηση πλακιδιων αθηνα"
+      ],
+      "building_age_index": 0.85,
+      "guerrilla_target_hubs": [
+        "Πλατεία Γαρδένια",
+        "Άνω Ιλίσια",
+        "Πανεπιστημιούπολη"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 60.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Χαλάνδρι'",
+      "search_demand_count": 12,
+      "top_search_queries": [
+        "επισκευή σοβάδων",
+        "επισκευεσ σοβαδων",
+        "επισκευη επιπλων χαλανδρι",
+        "επισκευη σκουπασ χαλανδρι",
+        "επισκευη σοβαδων",
+        "με χαλανδρι"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "aigaleo-chaidari",
+      "area_name_el": "Αιγάλεω & Χαϊδάρι",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 59.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Αιγάλεω & Χαϊδάρι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντηρηση ξυλινων κουφωματων"
+      ],
+      "building_age_index": 0.82,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσταυρωμένου Μετρό",
+        "Ιερά Οδός Αιγάλεω",
+        "Παλατάκι Χαϊδάρι"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "repairs",
+      "trade_name_el": "Μερεμέτια & Επισκευές",
+      "opportunity_score": 57.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 13,
+      "top_search_queries": [
+        "γλυφαδα μεντιτερανεο",
+        "γλυφαδα μεσιτεσ",
+        "επισκευή σοβάδων",
+        "επισκευη επιπλων γλυφαδα",
+        "επισκευη σοβαδων",
+        "επισκευη συσκευων γλυφαδα"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "demolition",
+      "trade_name_el": "Καθαιρέσεις & Αποξηλώσεις",
+      "opportunity_score": 56.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "απολυμανση πειραια",
+        "αποξηλωση πλακακια",
+        "αποφρακτικη πειραια",
+        "αποφραξη αποχετευσησ πειραιασ",
+        "αποχη πειραιασ",
+        "καδρα τοιχου πειραιασ"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 55.9,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "κυψελωτη πλακα",
+        "κυψελωτο πλακακι",
+        "πλακοστρωση κηπου",
+        "πλακοστρωση με κυβολιθουσ",
+        "πλακόστρωση με κυβόλιθουσ",
+        "τοποθετηση πλακιδιων διαδικασια"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 54.9,
+      "category": "Κατηγορία Γ (Organic Secondary)",
+      "action_recommendation": "Κάλυψη μέσω γενικών τοπικών καταλόγων και word-of-mouth",
+      "search_demand_count": 4,
+      "top_search_queries": [
+        "μονωση ταρατσασ αθηνα",
+        "μονωση ταρατσασ κηφισια",
+        "μονωση ταρατσασ χαλικι",
+        "μονωση ταρατσασ χαλκιδα"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "kypseli-patisia-galatsi",
+      "area_name_el": "Κυψέλη, Πατήσια & Γαλάτσι",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 54.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Κυψέλη, Πατήσια & Γαλάτσι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βάψιμο παντζούρια",
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζούρια",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.93,
+      "guerrilla_target_hubs": [
+        "Πλατεία Αγίου Γεωργίου Κυψέλη",
+        "Φωκίωνος Νέγρη",
+        "Πλατεία Κολιάτσου",
+        "Λ. Βεΐκου"
+      ]
+    },
+    {
+      "area_slug": "ilion-petroupoli",
+      "area_name_el": "Ίλιον & Πετρούπολη",
+      "is_hq": false,
+      "service": "insulation",
+      "trade_name_el": "Μονώσεις & Στεγανοποίηση Ταρατσών",
+      "opportunity_score": 54.4,
+      "category": "Κατηγορία Γ (Organic Secondary)",
+      "action_recommendation": "Κάλυψη μέσω γενικών τοπικών καταλόγων και word-of-mouth",
+      "search_demand_count": 0,
+      "top_search_queries": [],
+      "building_age_index": 0.76,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Ιλίου",
+        "Στρογγυλή Πλατεία Πετρούπολης",
+        "Πετρούπολη 25ης Μαρτίου"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 54.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζούρια",
+        "συντηρηση ξυλινου παγκου κουζινασ"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 53.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Χαλάνδρι'",
+      "search_demand_count": 6,
+      "top_search_queries": [
+        "ελαιοχρωματισμοι βορεια προαστια",
+        "ελαιοχρωματισμοι χαλανδρι",
+        "ελαιοχρωματισμοι χολαργοσ",
+        "ελαιοχρωματιστήσ χαλκιδα",
+        "ελαιοχρωματιστεσ χαλανδρι",
+        "ελαιοχρωματιστησ χαλανδρι"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 53.5,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "ανακαίνιση μπάνιου φωτογραφίεσ",
+        "ανακαινισεισ γλυφαδα",
+        "ανακαινισεισ κατοικιων γλυφαδα",
+        "ανακαινισεισ σπιτιων γλυφαδα",
+        "ανακαινιση γλυφαδα",
+        "ανακαινιση μπανιου αλιμοσ"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 52.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "πλακα πειραιασ",
+        "πλακασ πειραια",
+        "πλακασ πειραιασ",
+        "πλακοστρωση κοστοσ",
+        "πλακοστρωση πεζοδρομιου",
+        "τοποθετησεισ πλακιδιων πειραιασ"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "renovations",
+      "trade_name_el": "Ανακαινίσεις Χώρων",
+      "opportunity_score": 52.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 7,
+      "top_search_queries": [
+        "ανακαίνιση σπιτιού μαριαννα",
+        "ανακαινιση μαρουσι",
+        "ανακαινιση μπανιου βορεια προαστια",
+        "ανακαινιση μπανιου μαρμαρο",
+        "ανακαινιση μπανιου μαρουσι",
+        "ανακαινιση σπιτιου μαρουσι"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "peiraias",
+      "area_name_el": "Πειραιάς",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 51.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Πειραιάς'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.89,
+      "guerrilla_target_hubs": [
+        "Πασαλιμάνι",
+        "Καστέλλα",
+        "Ταμπούρια",
+        "Πειραϊκή",
+        "Δημοτικό Θέατρο"
+      ]
+    },
+    {
+      "area_slug": "pagkrati-mets",
+      "area_name_el": "Παγκράτι & Μετς",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 50.7,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Παγκράτι & Μετς'",
+      "search_demand_count": 8,
+      "top_search_queries": [
+        "πλακασ παγκρατι",
+        "πλακοστρωση αγγλικα",
+        "πλακοστρωση εσωτερικου χωρου",
+        "πλακοστρωση κοστοσ",
+        "πλακοστρωση μπανιου",
+        "τοποθετηση πλακιδιων σε μπανιο τιμεσ"
+      ],
+      "building_age_index": 0.88,
+      "guerrilla_target_hubs": [
+        "Πλατεία Βαρνάβα",
+        "Πλατεία Πλαστήρα",
+        "Προφήτης Ηλίας",
+        "Μετς"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 49.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "πλακασ περιστέρι",
+        "πλακασ περιστερι",
+        "πλακοστρωση κοστοσ",
+        "πλακοστρωση πεζοδρομιου",
+        "πλακοστρωση τιμη",
+        "τοποθετησεισ πλακιδιων περιστερι"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 49.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "πλακασ μαρουσι",
+        "πλακοστρωση κοστοσ",
+        "πλακοστρωση μπανιου",
+        "πλακοστρωση πεζοδρομιου",
+        "πλακοστρωση ταρατσασ",
+        "τοποθετηση πλακιδιων αττικη"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 48.6,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Χαλάνδρι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζούρια",
+        "βαψιμο ρουχων χαλανδρι",
+        "συντηρηση ξυλινα κουφωματα"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "peristeri",
+      "area_name_el": "Περιστέρι",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 48.3,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Περιστέρι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "βαψιμο ρουχων περιστερι",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.84,
+      "guerrilla_target_hubs": [
+        "Πλατεία Μπουρναζίου",
+        "Θηβών & Περιστέρι Μετρό",
+        "Άγιος Αντώνιος",
+        "Λόφος Αξιωματικών"
+      ]
+    },
+    {
+      "area_slug": "marousi",
+      "area_name_el": "Μαρούσι",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 48.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Μαρούσι'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια αλουμινιου",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζουριων",
+        "βαψιμο παντζούρια",
+        "συντηρηση ξυλινα κουφωματα"
+      ],
+      "building_age_index": 0.58,
+      "guerrilla_target_hubs": [
+        "ΗΣΑΠ Αμαρουσίου",
+        "Κηφισίας & Βασιλίσσης Σοφίας",
+        "Παράδεισος Αμαρουσίου"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "painting",
+      "trade_name_el": "Ελαιοχρωματισμοί & Βάψιμο",
+      "opportunity_score": 47.4,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 6,
+      "top_search_queries": [
+        "ελαιοχρωματισμοι γλυφάδα",
+        "ελαιοχρωματισμοι γλυφαδα",
+        "ελαιοχρωματιστήσ γλυφάδα",
+        "ελαιοχρωματιστεσ γλυφαδα",
+        "ελαιοχρωματιστησ ανω γλυφαδα",
+        "ελαιοχρωματιστησ γλυφαδα"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    },
+    {
+      "area_slug": "chalandri",
+      "area_name_el": "Χαλάνδρι",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 47.0,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Χαλάνδρι'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "πλακασ χαλάνδρι",
+        "πλακασ χαλανδρι",
+        "πλακασ χαλανδρι τηλ",
+        "πλακασ χαλανδρι τηλεφωνο",
+        "πλακοστρωση ταρατσασ",
+        "τοποθετηση πλακιδιων αθηνα"
+      ],
+      "building_age_index": 0.63,
+      "guerrilla_target_hubs": [
+        "Κεντρική Πλατεία Χαλανδρίου",
+        "Αγίας Παρασκευής",
+        "Κάτω Χαλάνδρι"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "wood",
+      "trade_name_el": "Συντήρηση Ξύλινων Κουφωμάτων",
+      "opportunity_score": 43.8,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 10,
+      "top_search_queries": [
+        "βαψιμο παντζουρια",
+        "βαψιμο παντζουρια ξυλινα",
+        "βαψιμο παντζουρια πλαστικα",
+        "βαψιμο παντζούρια",
+        "βαψιμο ρουχων γλυφαδα",
+        "συντήρηση ξύλινων κουφωμάτων"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    },
+    {
+      "area_slug": "glyfada",
+      "area_name_el": "Γλυφάδα",
+      "is_hq": false,
+      "service": "paving",
+      "trade_name_el": "Πλακοστρώσεις & Πλακάκια",
+      "opportunity_score": 42.2,
+      "category": "Κατηγορία Α (Digital Goldmine - Local SEO)",
+      "action_recommendation": "Προτεραιότητα σε Local Landing Page & στοχευμένα Quick Answers για 'Γλυφάδα'",
+      "search_demand_count": 9,
+      "top_search_queries": [
+        "πλακαδεσ γλυφαδα",
+        "πλακασ ανω γλυφαδα",
+        "πλακασ γλυφαδα",
+        "πλακασ γλυφαδα τηλεφωνο",
+        "πλακοστρωση ταρατσασ",
+        "τοποθετηση πλακιδιων νοτια προαστια"
+      ],
+      "building_age_index": 0.54,
+      "guerrilla_target_hubs": [
+        "Πλατεία Εσπερίδων",
+        "Μεταξά",
+        "Άνω Γλυφάδα - Γούναρη"
+      ]
+    }
+  ]
+}

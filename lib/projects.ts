@@ -32,6 +32,14 @@ export function projectImage(slug: string, file: string) {
   return `/images/projects/${slug}/${file}`;
 }
 
+export function getProjectCollage(slug: string): string | null {
+  const collagePath = path.join(process.cwd(), 'public/images/collages', `${slug}.jpg`);
+  if (fs.existsSync(collagePath)) {
+    return `/images/collages/${slug}.jpg`;
+  }
+  return null;
+}
+
 export function getAllProjects(): ProjectMeta[] {
   return fs
     .readdirSync(PROJECTS_DIR)
@@ -75,6 +83,7 @@ export interface ProjectSummary {
   title: string;
   excerpt: string;
   cover: string;
+  collage: string | null;
   /** Only set when the project has a before/after pair. */
   comparison: ProjectComparison | null;
 }
@@ -87,6 +96,7 @@ export function toProjectSummary(project: ProjectMeta, locale: Locale): ProjectS
     title: project.title[locale],
     excerpt: project.excerpt[locale],
     cover: projectImage(project.slug, project.cover),
+    collage: getProjectCollage(project.slug),
     comparison: comparison
       ? { before: projectImage(project.slug, comparison.before), after: projectImage(project.slug, comparison.after) }
       : null,

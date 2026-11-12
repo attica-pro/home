@@ -19,6 +19,7 @@ import {
   type LocalServiceSlug,
 } from '@/data/areas';
 import { getAnswersByCategory } from '@/lib/answers';
+import { getOpportunityFor } from '@/lib/opportunity';
 import { getAllProjects, toProjectSummary } from '@/lib/projects';
 import { assetPath, siteConfig, siteUrl } from '@/lib/site-config';
 import { AnswerCard } from '@/components/knowledge/AnswerCard';
@@ -107,6 +108,8 @@ export default async function LocalServicePage({
 
   const answers = getAnswersByCategory(service as ServiceSlug).slice(0, 6);
   const serviceAreaLead = getServiceAreaLead(service as ServiceSlug, area, locale);
+  const opportunity = getOpportunityFor(areaSlug, service);
+  const collageProject = works.find((project) => project.collage);
 
   const localSchema = {
     '@context': 'https://schema.org',
@@ -209,22 +212,34 @@ export default async function LocalServicePage({
       </header>
 
       {/* Neighborhoods & Local Coverage */}
-      {area.neighborhoods && area.neighborhoods[locale] && (
+      {((area.neighborhoods && area.neighborhoods[locale]) || (opportunity && opportunity.guerrilla_target_hubs.length > 0)) && (
         <section className="border-b border-border bg-secondary py-8">
           <div className="container">
             <p className="text-xs font-bold uppercase tracking-wider text-muted-foreground">
               {tLocal('areasCovered')}
             </p>
             <div className="mt-3 flex flex-wrap gap-2">
-              {area.neighborhoods[locale].map((suburb) => (
-                <span
-                  key={suburb}
-                  className="inline-flex items-center gap-1 rounded-md border border-border bg-background px-3 py-1.5 text-xs font-medium text-foreground"
-                >
-                  <MapPin className="h-3 w-3 text-clay" />
-                  {suburb}
-                </span>
-              ))}
+              {area.neighborhoods &&
+                area.neighborhoods[locale] &&
+                area.neighborhoods[locale].map((suburb) => (
+                  <span
+                    key={suburb}
+                    className="inline-flex items-center gap-1 rounded-md border border-border bg-background px-3 py-1.5 text-xs font-medium text-foreground"
+                  >
+                    <MapPin className="h-3 w-3 text-clay" />
+                    {suburb}
+                  </span>
+                ))}
+              {opportunity &&
+                opportunity.guerrilla_target_hubs.map((hub) => (
+                  <span
+                    key={hub}
+                    className="inline-flex items-center gap-1 rounded-md border border-border bg-card px-3 py-1.5 text-xs font-medium text-muted-foreground"
+                  >
+                    <MapPin className="h-3 w-3 text-accent" />
+                    {hub}
+                  </span>
+                ))}
             </div>
           </div>
         </section>
@@ -271,9 +286,72 @@ export default async function LocalServicePage({
               </Link>
             </div>
 
+            {/* Featured Before/After Collage Transformation */}
+            {collageProject && collageProject.collage && (
+              <div className="mt-8 overflow-hidden rounded-xl border border-foreground bg-card p-4 shadow-sm md:p-6">
+                <div className="flex flex-wrap items-center justify-between gap-2 pb-4">
+                  <div className="flex items-center gap-2">
+                    <span className="inline-flex items-center rounded-md bg-clay px-2.5 py-1 text-xs font-bold uppercase tracking-wider text-white">
+                      {locale === 'el' ? 'Πριν & Μετά' : 'Before & After'}
+                    </span>
+                    <span className="font-display text-sm font-bold text-foreground">
+                      {collageProject.title}
+                    </span>
+                  </div>
+                  <Link
+                    href={`/${locale}/portfolio/${collageProject.slug}`}
+                    className="inline-flex items-center gap-1 text-xs font-semibold text-accent hover:underline"
+                  >
+                    {locale === 'el' ? 'Δείτε το έργο βήμα-βήμα' : 'View full project'} &rarr;
+                  </Link>
+                </div>
+                <div className="relative aspect-[1104/556] w-full overflow-hidden rounded-lg bg-muted">
+                  <Image
+                    src={assetPath(collageProject.collage)}
+                    alt={`${collageProject.title} - ${area.name[locale]}`}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, 1104px"
+                  />
+                </div>
+              </div>
+            )}
+
             <div className="mt-10 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
               {works.map((project) => (
                 <ProjectCard key={project.slug} project={project} locale={locale} />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Real Market Search Demand & Frequent Queries */}
+      {opportunity && opportunity.top_search_queries.length > 0 && (
+        <section className="border-t border-border bg-card py-12 md:py-16">
+          <div className="container">
+            <div className="max-w-2xl">
+              <span className="eyebrow">{area.name[locale]}</span>
+              <h2 className="mt-2 font-display text-2xl font-bold sm:text-3xl">
+                {locale === 'el'
+                  ? `Συχνές Αναζητήσεις & Ανάγκες ${area.genitive[locale]}`
+                  : `Frequent Searches & Needs in ${area.name[locale]}`}
+              </h2>
+              <p className="mt-2 text-sm text-muted-foreground">
+                {locale === 'el'
+                  ? `Κύρια τεχνικά ερωτήματα και ζητήματα που αναζητούν οι ιδιοκτήτες κατοικιών ${area.genitive[locale]}, με άμεση τεχνική λύση από την AtticaPro.`
+                  : `Core questions and technical requirements homeowners search for in ${area.name[locale]}, resolved directly by AtticaPro.`}
+              </p>
+            </div>
+            <div className="mt-6 flex flex-wrap gap-2.5">
+              {opportunity.top_search_queries.map((query) => (
+                <span
+                  key={query}
+                  className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-4 py-2 text-xs font-semibold text-foreground shadow-sm"
+                >
+                  <span className="h-2 w-2 rounded-full bg-clay" />
+                  {query}
+                </span>
               ))}
             </div>
           </div>
