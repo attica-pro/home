@@ -9,22 +9,22 @@ export function FloatingActionButton() {
   const t = useTranslations('fab');
 
   return (
-    <div className="fixed inset-x-0 bottom-0 z-50 flex gap-px border-t border-border bg-background shadow-[0_-4px_12px_rgba(0,0,0,0.06)] md:hidden">
+    <div className="fixed inset-x-0 bottom-0 z-50 flex gap-px border-t border-border bg-background shadow-[0_-4px_16px_rgba(0,0,0,0.12)] md:hidden">
       <a
         href={siteConfig.phoneHref}
-        className="flex flex-1 items-center justify-center gap-2 bg-primary py-3.5 text-sm font-semibold text-primary-foreground"
+        className="flex flex-1 items-center justify-center gap-2 bg-primary px-3 py-3.5 text-sm font-bold text-primary-foreground transition-colors hover:bg-primary/90"
       >
-        <Phone className="h-4 w-4" />
-        {t('call')}
+        <Phone className="h-4 w-4 shrink-0 text-clay" />
+        <span className="truncate">{t('call')}</span>
       </a>
       <a
         href={siteConfig.whatsappHref}
         target="_blank"
         rel="noreferrer"
-        className="flex flex-1 items-center justify-center gap-2 bg-accent py-3.5 text-sm font-semibold text-accent-foreground"
+        className="flex flex-1 items-center justify-center gap-2 bg-accent px-3 py-3.5 text-sm font-bold text-accent-foreground transition-colors hover:bg-accent/90"
       >
-        <WhatsAppIcon className="h-4 w-4" />
-        {t('whatsapp')}
+        <WhatsAppIcon className="h-4 w-4 shrink-0" />
+        <span className="truncate">{t('whatsapp')}</span>
       </a>
     </div>
   );

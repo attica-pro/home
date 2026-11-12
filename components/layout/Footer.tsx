@@ -78,7 +78,7 @@ export function Footer({ locale }: { locale: string }) {
           </ul>
         </div>
       </div>
-      <div className="border-t border-border py-6 text-center text-xs text-muted-foreground">
+      <div className="border-t border-border py-6 pb-20 text-center text-xs text-muted-foreground md:pb-6">
         © {year} AtticaPro. {t('rights')}
       </div>
     </footer>

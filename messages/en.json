@@ -1,8 +1,8 @@
 {
   "meta": {
     "siteName": "AtticaPro",
-    "defaultTitle": "AtticaPro | Insulation & Painting in Attica",
-    "defaultDescription": "Permanent solutions for humidity, insulation and space renovation across Attica. Free estimate, guaranteed quality."
+    "defaultTitle": "Roof Insulation, Waterproofing, Painting & Renovations in Attica | AtticaPro",
+    "defaultDescription": "Specialized roof insulation, waterproofing, interior and exterior painting, and renovations across Athens and Attica. 18 years experience, free on-site survey."
   },
   "nav": {
     "home": "Home",
@@ -346,6 +346,21 @@
     "answerJobs": "Jobs that show it",
     "moreAnswers": "More answers"
   },
+  "localLanding": {
+    "badgeHq": "HQ: 196 Syngrou Ave, Kallithea",
+    "badgeServiceArea": "Local Service & Free On-Site Inspection",
+    "freeInspectionTitle": "Free On-Site Assessment",
+    "freeInspectionDesc": "We come directly to your property, inspect your roof or interior, and give you a detailed quote with no obligations.",
+    "areasCovered": "Directly served areas:",
+    "materialsTitle": "Certified Professional Materials",
+    "materialsSubtitle": "We never compromise on durability. We only apply proven materials from top-tier manufacturers.",
+    "processTitle": "How We Work",
+    "ctaTitle": "Need a reliable technical solution?",
+    "ctaSubtitle": "Call Mohamed and the AtticaPro team directly for a prompt visit.",
+    "breadcrumbServices": "Services",
+    "allAreas": "All areas",
+    "localGuarantees": "18 Years Experience · Clean Site · Transparent Pricing"
+  },
   "contactPage": {
     "title": "Get In Touch",
     "subtitle": "Request your free estimate today. We respond promptly.",
@@ -383,8 +398,21 @@
     "rights": "All rights reserved."
   },
   "fab": {
-    "call": "Call",
+    "call": "693 334 7282",
     "whatsapp": "WhatsApp"
+  },
+  "hubCta": {
+    "eyebrow": "Free On-Site Assessment in Attica",
+    "insulationTitle": "Need roof waterproofing or insulation in Attica?",
+    "paintingTitle": "Need professional interior or exterior painting in Attica?",
+    "renovationsTitle": "Planning a kitchen, bathroom, or full renovation?",
+    "generalTitle": "Need reliable renovation or repair work in Attica?",
+    "subtitle": "Call Mohamed and the team for a free on-site assessment and clear estimate with no obligations.",
+    "callMobile": "Call Mobile",
+    "callLandline": "Landline",
+    "whatsapp": "WhatsApp",
+    "contact": "Contact Form",
+    "viewService": "View Service"
   },
   "common": {
     "before": "Before",

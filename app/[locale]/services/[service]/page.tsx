@@ -6,6 +6,7 @@ import { locales, type Locale } from '@/i18n';
 import { isServiceSlug, serviceSlugs } from '@/data/services';
 import { getAllGuides } from '@/lib/guides';
 import { getAllProjects, toProjectSummary } from '@/lib/projects';
+import { siteUrl } from '@/lib/site-config';
 import { ServicePageContent } from '@/components/services/ServicePageContent';
 
 export const dynamicParams = false;
@@ -21,9 +22,24 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: `services.items.${service}` });
+  const title = t('title');
+  const description = t('subtitle');
   return {
-    title: t('title'),
-    description: t('subtitle'),
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}/services/${service}`,
+      languages: {
+        el: `/el/services/${service}`,
+        en: `/en/services/${service}`,
+        ar: `/ar/services/${service}`,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: `${siteUrl}/${locale}/services/${service}`,
+    },
   };
 }
 

@@ -10,6 +10,7 @@ import { getAllGuides, getGuideBySlug, guidePath } from '@/lib/guides';
 import { assetPath } from '@/lib/site-config';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
+import { HubCta } from '@/components/knowledge/HubCta';
 
 export function generateStaticParams() {
   const guides = getAllGuides();
@@ -104,6 +105,8 @@ export default async function GuideOverviewPage({
             </Link>
           </Button>
         </div>
+
+        <HubCta locale={locale} category={guide.category} className="mt-14" />
       </section>
     </div>
   );

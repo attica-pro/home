@@ -2,6 +2,7 @@ import type { MetadataRoute } from 'next';
 
 import { locales } from '@/i18n';
 import { serviceSlugs } from '@/data/services';
+import { localServiceSlugs, areaSlugs } from '@/data/areas';
 import { getAllGuides, guidePath } from '@/lib/guides';
 import { getAllTerms } from '@/lib/glossary';
 import { getAllAnswers } from '@/lib/answers';
@@ -13,6 +14,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '',
     '/services',
     ...serviceSlugs.map((slug) => `/services/${slug}`),
+    ...localServiceSlugs.flatMap((service) =>
+      areaSlugs.map((area) => `/services/${service}/${area}`),
+    ),
     '/portfolio',
     '/knowledge-hub',
     ...serviceSlugs.map((slug) => `/knowledge-hub/${slug}`),

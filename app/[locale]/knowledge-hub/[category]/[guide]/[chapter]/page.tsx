@@ -7,8 +7,9 @@ import { ArrowLeft, ArrowRight, ChevronLeft, ChevronRight } from 'lucide-react';
 import { locales, type Locale } from '@/i18n';
 import { getAllGuides, getGuideBySlug, getChapterContent, getAdjacentChapters, guidePath } from '@/lib/guides';
 import { RichText } from '@/components/knowledge/RichText';
+import { HubCta } from '@/components/knowledge/HubCta';
 import { projectImage } from '@/lib/projects';
-import { assetPath } from '@/lib/site-config';
+import { assetPath, siteUrl } from '@/lib/site-config';
 import Image from 'next/image';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -33,9 +34,26 @@ export async function generateMetadata({
   const chapter = guide.chapters.find((c) => c.slug === chapterSlug);
   if (!chapter) return {};
 
+  const title = `${chapter.title[locale as Locale]} — ${guide.title[locale as Locale]}`;
+  const description = guide.excerpt[locale as Locale];
+  const path = guidePath(guide, chapter.slug);
+
   return {
-    title: `${chapter.title[locale as Locale]} — ${guide.title[locale as Locale]}`,
-    description: guide.excerpt[locale as Locale],
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}${path}`,
+      languages: {
+        el: `/el${path}`,
+        en: `/en${path}`,
+        ar: `/ar${path}`,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: `${siteUrl}/${locale}${path}`,
+    },
   };
 }
 
@@ -59,8 +77,34 @@ export default async function GuideChapterPage({
   const tCommon = await getTranslations({ locale, namespace: 'common' });
   const tServices = await getTranslations({ locale, namespace: 'services.items' });
 
+  const articleSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: `${chapter.title[locale]} — ${guide.title[locale]}`,
+    description: guide.excerpt[locale],
+    image: `${siteUrl}${guide.coverImage}`,
+    author: {
+      '@type': 'Organization',
+      name: 'AtticaPro',
+      url: siteUrl,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'AtticaPro',
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/images/hero-mohamed.png`,
+      },
+    },
+    mainEntityOfPage: `${siteUrl}/${locale}${guidePath(guide, chapter.slug)}`,
+  };
+
   return (
     <article className="container max-w-3xl py-16 md:py-24">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
       <Link
         href={`/${locale}${guidePath(guide)}`}
         className="inline-flex items-center gap-1.5 text-sm font-medium text-accent hover:underline"
@@ -114,6 +158,8 @@ export default async function GuideChapterPage({
           }}
         />
       </div>
+
+      <HubCta locale={locale} category={guide.category} />
 
       <nav className="mt-14 grid gap-3 border-t border-border pt-8 sm:grid-cols-2">
         {prev ? (

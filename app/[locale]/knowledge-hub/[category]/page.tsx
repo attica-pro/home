@@ -15,6 +15,7 @@ import { AnswerCard } from '@/components/knowledge/AnswerCard';
 import { getAnswersByCategory } from '@/lib/answers';
 import { ProjectCard } from '@/components/portfolio/ProjectCard';
 import { Button } from '@/components/ui/button';
+import { HubCta } from '@/components/knowledge/HubCta';
 
 export const dynamicParams = false;
 
@@ -124,6 +125,8 @@ export default async function KnowledgeCategoryPage({
             </div>
           </section>
         )}
+
+        <HubCta locale={locale} category={category} />
       </div>
     </div>
   );

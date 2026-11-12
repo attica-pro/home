@@ -6,13 +6,14 @@ import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { ArrowLeft } from 'lucide-react';
 
 import { locales, type Locale } from '@/i18n';
-import { assetPath } from '@/lib/site-config';
+import { assetPath, siteUrl } from '@/lib/site-config';
 import { getAllAnswers, getAnswer, getAnswersByCategory } from '@/lib/answers';
 import { getProjectBySlug, projectImage, toProjectSummary, type ProjectMeta } from '@/lib/projects';
 import { RichText } from '@/components/knowledge/RichText';
 import { AnswerCard } from '@/components/knowledge/AnswerCard';
 import { ProjectCard } from '@/components/portfolio/ProjectCard';
 import { Button } from '@/components/ui/button';
+import { HubCta } from '@/components/knowledge/HubCta';
 
 export const dynamicParams = false;
 
@@ -24,7 +25,25 @@ export async function generateMetadata({ params: { locale, answer: slug } }: { p
   setRequestLocale(locale);
   const answer = getAnswer(slug);
   if (!answer) return {};
-  return { title: answer.question[locale as Locale], description: answer.short[locale as Locale] };
+  const title = answer.question[locale as Locale];
+  const description = answer.short[locale as Locale];
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}/knowledge-hub/answers/${slug}`,
+      languages: {
+        el: `/el/knowledge-hub/answers/${slug}`,
+        en: `/en/knowledge-hub/answers/${slug}`,
+        ar: `/ar/knowledge-hub/answers/${slug}`,
+      },
+    },
+    openGraph: {
+      title,
+      description,
+      url: `${siteUrl}/${locale}/knowledge-hub/answers/${slug}`,
+    },
+  };
 }
 
 export default async function AnswerPage({ params: { locale, answer: slug } }: { params: { locale: Locale; answer: string } }) {
@@ -54,8 +73,27 @@ export default async function AnswerPage({ params: { locale, answer: slug } }: {
     },
   };
 
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: answer.question[locale],
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: answer.short[locale],
+        },
+      },
+    ],
+  };
+
   return (
     <article className="container max-w-3xl py-12 md:py-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
       <Link
         href={`/${locale}/knowledge-hub/${answer.category}`}
         className="inline-flex items-center gap-1.5 text-sm font-medium text-accent hover:underline"
@@ -95,12 +133,7 @@ export default async function AnswerPage({ params: { locale, answer: slug } }: {
         </section>
       )}
 
-      <div className="mt-14 rounded-lg bg-secondary p-6 text-center sm:p-8">
-        <h2 className="font-display text-2xl font-semibold text-primary">{t('askUs')}</h2>
-        <Button asChild size="lg" variant="accent" className="mt-6">
-          <Link href={`/${locale}/contact`}>{tServices('heroCta')}</Link>
-        </Button>
-      </div>
+      <HubCta locale={locale} category={answer.category} className="mt-14" />
     </article>
   );
 }
