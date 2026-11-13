@@ -71,6 +71,8 @@ export function ContactForm() {
 
     const formData = new FormData(e.currentTarget);
     formData.append('access_key', siteConfig.formAccessKey);
+    formData.append('subject', 'Νέο Αίτημα Εκτίμησης - AtticaPro');
+    formData.append('from_name', 'AtticaPro Website');
     photos.forEach((photo) => formData.append('attachment[]', photo.file));
 
     try {

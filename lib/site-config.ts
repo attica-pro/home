@@ -22,7 +22,7 @@ export const siteConfig = {
   viberHref: 'viber://chat?number=%2B306933347282',
   email: 'info@atticapro.gr',
   formEndpoint: 'https://api.web3forms.com/submit',
-  formAccessKey: 'YOUR_WEB3FORMS_ACCESS_KEY',
+  formAccessKey: 'e12b70fd-061c-406e-8993-0da5a2609674',
   social: {
     facebook: 'https://www.facebook.com/people/AtticaPro/61595917123369/',
     instagram: 'https://instagram.com',
