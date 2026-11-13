@@ -375,7 +375,7 @@
     "messagePlaceholder": "Describe what you need...",
     "attachmentLabel": "Photos (optional)",
     "attachmentHint": "Up to 5 photos, 5MB each max.",
-    "attachmentVideoHint": "For video, message us directly on",
+    "attachmentVideoHint": "To send photos or videos of your property, message us directly on",
     "attachmentTooLarge": "\"{name}\" is over 5MB. Choose a smaller photo or send it via WhatsApp instead.",
     "attachmentTooMany": "You can attach up to 5 photos.",
     "submit": "Send Message",

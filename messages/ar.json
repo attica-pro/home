@@ -375,7 +375,7 @@
     "messagePlaceholder": "صف احتياجك...",
     "attachmentLabel": "صور (اختياري)",
     "attachmentHint": "حتى 5 صور، بحد أقصى 5 ميجابايت لكل صورة.",
-    "attachmentVideoHint": "لإرسال فيديو، راسلنا مباشرة عبر",
+    "attachmentVideoHint": "لإرسال صور أو فيديو للمكان، راسلنا مباشرة عبر",
     "attachmentTooLarge": "الملف «{name}» أكبر من 5 ميجابايت. اختر صورة أصغر أو أرسلها عبر واتساب.",
     "attachmentTooMany": "يمكنك إرفاق حتى 5 صور.",
     "submit": "إرسال الرسالة",

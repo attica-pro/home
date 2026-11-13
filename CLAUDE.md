@@ -84,6 +84,6 @@ Each past job has its own page at `/[locale]/portfolio/<slug>`. Projects live in
 
 ## Other notes
 
-- The contact form (`components/contact/ContactForm.tsx`) posts directly from the browser to Web3Forms (`siteConfig.formEndpoint`/`formAccessKey`), with multiple photo attachments as `attachment[]`. Contact numbers (mobile, which is also WhatsApp/Viber, and landline), email, the Google Maps link and social links are all in `siteConfig`; the street address is `common.address` in the message files.
+- The contact form (`components/contact/ContactForm.tsx`) posts directly from the browser to Web3Forms (`siteConfig.formEndpoint`/`formAccessKey`). For photos and videos, it directs visitors to WhatsApp. Contact numbers (mobile, which is also WhatsApp/Viber, and landline), email, the Google Maps link and social links are all in `siteConfig`; the street address is `common.address` in the message files.
 - Client UI state (the mobile menu) lives in a zustand store, `store/useUIStore.ts`.
 - Some values are still placeholders: `formAccessKey` and the social links.
