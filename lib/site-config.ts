@@ -24,7 +24,7 @@ export const siteConfig = {
   formEndpoint: 'https://api.web3forms.com/submit',
   formAccessKey: 'e12b70fd-061c-406e-8993-0da5a2609674',
   social: {
-    facebook: 'https://www.facebook.com/people/AtticaPro/61595917123369/',
+    facebook: 'https://www.facebook.com/people/AtticaPro/61596532980734/',
     instagram: 'https://instagram.com',
   },
 };
