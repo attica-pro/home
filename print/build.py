@@ -8,7 +8,7 @@ IMG = ROOT.parent / 'public/images/illustrations'
 OUT = ROOT / 'out'; OUT.mkdir(exist_ok=True)
 msg = json.load(open(ROOT.parent / 'messages/el.json'))['services']['items']
 INK, PAPER, BG, INDIGO, COPPER = '#1C1E2B', '#FAF8F2', '#EEEBE3', '#2E3A6E', '#985623'
-PHONE, LAND, MAIL, WEB, ADDR = '693 334 7282', '210 254 5395', 'info@attica.pro', 'attica.pro', 'Λ. Συγγρού 196, Καλλιθέα'
+PHONE, LAND, MAIL, WEB, ADDR = '693 334 7282', '210 254 5395', 'info@atticapro.gr', 'atticapro.gr', 'Λ. Συγγρού 196, Καλλιθέα'
 TRADES = 'Μονώσεις · Χρώματα · Ανακαινίσεις'
 
 def qr(url, color=INK):
