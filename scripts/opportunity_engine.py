@@ -302,7 +302,7 @@ def generate_collages():
                     # Footer Bar (Bottom)
                     draw.rectangle([0, target_h, total_w, total_h], fill=COLOR_INDIGO)
                     trade_label = TRADE_NAMES_EL.get(service, 'Τεχνικές Εργασίες')
-                    draw.text((24, target_h + 16), f"attica.pro · {trade_label}", font=font_bar, fill=COLOR_WHITE)
+                    draw.text((24, target_h + 16), f"atticapro.gr · {trade_label}", font=font_bar, fill=COLOR_WHITE)
                     right_text = "18 Χρόνια Εμπειρίας · 693 334 7282"
                     draw.text((total_w - 310, target_h + 18), right_text, font=font_bar_small, fill=COLOR_WHITE)
 

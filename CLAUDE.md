@@ -41,7 +41,7 @@ There is no test suite. Verify changes with `npm run lint` and `npm run build` (
 
 ## Deployment and the static-export constraint
 
-The site is served by GitHub Pages at **https://attica.pro** (custom domain), from the repository https://github.com/attica-pro/home. `.github/workflows/deploy-pages.yml` builds with `NEXT_PUBLIC_GITHUB_PAGES=true` and deploys `./out` on pushes to `main`. That flag (read in `next.config.mjs`) switches on `output: 'export'`. The site lives at the domain root, so `basePath` is empty and `siteUrl` in `lib/site-config.ts` is `https://attica.pro`. `public/CNAME` holds the domain; the domain itself is set under the repository's Settings → Pages, with DNS pointing at GitHub Pages.
+The site is served by GitHub Pages at **https://atticapro.gr** (custom domain), from the repository https://github.com/attica-pro/home. `.github/workflows/deploy-pages.yml` builds with `NEXT_PUBLIC_GITHUB_PAGES=true` and deploys `./out` on pushes to `main`. That flag (read in `next.config.mjs`) switches on `output: 'export'`. The site lives at the domain root, so `basePath` is empty and `siteUrl` in `lib/site-config.ts` is `https://atticapro.gr`. `public/CNAME` holds the domain; the domain itself is set under the repository's Settings → Pages, with DNS pointing at GitHub Pages.
 
 Everything the build needs is committed: `content/`, `public/` (including the job photos in `public/images/projects/` and the guide covers) and `scripts/`. Only `fb-photos/` (the raw Facebook download) stays out of the repository.
 
