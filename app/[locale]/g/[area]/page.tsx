@@ -12,7 +12,6 @@ import { getOpportunityFor } from '@/lib/opportunity';
 import { assetPath, siteConfig, siteUrl } from '@/lib/site-config';
 import { Button } from '@/components/ui/button';
 import { ContactForm } from '@/components/contact/ContactForm';
-import { Logo } from '@/components/layout/Logo';
 
 export const dynamicParams = false;
 
@@ -90,21 +89,15 @@ export default async function GuerrillaLandingPage({
   const whatsappUrl = `https://wa.me/306933347282?text=${whatsappMessage}`;
 
   return (
-    <main className="min-h-screen bg-background">
-      {/* Top Banner with Logo & Direct Call */}
-      <header className="border-b border-foreground bg-secondary/80 py-4">
-        <div className="container flex items-center justify-between">
-          <Link href={`/${locale}`}>
-            <Logo />
-          </Link>
-          <Button asChild size="sm" variant="accent" className="gap-1.5 font-bold shadow-sm">
-            <a href={siteConfig.phoneHref}>
-              <Phone className="h-3.5 w-3.5" />
-              <span>{siteConfig.phoneDisplay}</span>
-            </a>
-          </Button>
+    <>
+      {/* Breadcrumb */}
+      <nav aria-label="Breadcrumb" className="border-b border-border bg-secondary/60 py-3 text-xs text-muted-foreground">
+        <div className="container flex items-center gap-2">
+          <Link href={`/${locale}`} className="hover:text-accent">AtticaPro</Link>
+          <span>/</span>
+          <span className="font-semibold text-foreground">{area.name[locale]}</span>
         </div>
-      </header>
+      </nav>
 
       {/* Hero: Tailored to scanned neighborhood sticker */}
       <section className="border-b border-foreground bg-card py-10 md:py-16">
@@ -291,6 +284,6 @@ export default async function GuerrillaLandingPage({
           </div>
         </div>
       </section>
-    </main>
+    </>
   );
 }
