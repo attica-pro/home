@@ -65,10 +65,6 @@ export function Footer({ locale }: { locale: string }) {
               <a href={siteConfig.phoneHref} dir="ltr" className="hover:text-accent">{siteConfig.phoneDisplay}</a>
             </li>
             <li className="flex items-center gap-2">
-              <Phone className="h-4 w-4 text-accent" />
-              <a href={siteConfig.landlineHref} dir="ltr" className="hover:text-accent">{siteConfig.landlineDisplay}</a>
-            </li>
-            <li className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-accent" /> {siteConfig.email}
             </li>
             <li className="flex items-center gap-2">

@@ -58,14 +58,6 @@ export function HubCta({ locale, category, className = '' }: HubCtaProps) {
               <span>{t('whatsapp')}</span>
             </a>
           </Button>
-
-          {/* Landline */}
-          <Button asChild size="lg" variant="ghost" className="gap-2 text-muted-foreground hover:text-foreground">
-            <a href={siteConfig.landlineHref}>
-              <Phone className="h-4 w-4" />
-              <span>{t('callLandline')}: {siteConfig.landlineDisplay}</span>
-            </a>
-          </Button>
         </div>
 
         <div className="mt-4 flex flex-wrap items-center gap-5 border-t border-border pt-4 text-sm">

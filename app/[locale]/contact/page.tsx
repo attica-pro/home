@@ -51,9 +51,6 @@ export default async function ContactPage({ params: { locale } }: { params: { lo
               <a href={siteConfig.phoneHref} className="flex items-center gap-3 text-sm font-medium text-foreground hover:text-accent">
                 <Phone className="h-5 w-5 text-accent" /> {t('callUs')}: <span dir="ltr">{siteConfig.phoneDisplay}</span>
               </a>
-              <a href={siteConfig.landlineHref} className="flex items-center gap-3 text-sm font-medium text-foreground hover:text-accent">
-                <Phone className="h-5 w-5 text-accent" /> {t('landline')}: <span dir="ltr">{siteConfig.landlineDisplay}</span>
-              </a>
               <a
                 href={siteConfig.whatsappHref}
                 target="_blank"

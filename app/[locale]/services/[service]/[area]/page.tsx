@@ -189,12 +189,6 @@ export default async function LocalServicePage({
                   WhatsApp
                 </a>
               </Button>
-
-              <Button asChild size="lg" variant="ghost" className="text-muted-foreground hover:text-foreground">
-                <a href={siteConfig.landlineHref}>
-                  {siteConfig.landlineDisplay}
-                </a>
-              </Button>
             </div>
           </div>
 

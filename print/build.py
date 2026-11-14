@@ -8,7 +8,7 @@ IMG = ROOT.parent / 'public/images/illustrations'
 OUT = ROOT / 'out'; OUT.mkdir(exist_ok=True)
 msg = json.load(open(ROOT.parent / 'messages/el.json'))['services']['items']
 INK, PAPER, BG, INDIGO, COPPER = '#1C1E2B', '#FAF8F2', '#EEEBE3', '#2E3A6E', '#985623'
-PHONE, LAND, MAIL, WEB, ADDR = '693 334 7282', '210 254 5395', 'info@atticapro.gr', 'atticapro.gr', 'Λ. Συγγρού 196, Καλλιθέα'
+PHONE, MAIL, WEB, ADDR = '693 334 7282', 'info@atticapro.gr', 'atticapro.gr', 'Λ. Συγγρού 196, Καλλιθέα'
 TRADES = 'Μονώσεις · Χρώματα · Ανακαινίσεις'
 
 def qr(url, color=INK):
@@ -45,7 +45,7 @@ card = doc(91, 61, f'''
  <div style="padding:5mm 6mm;height:55mm;display:flex;flex-direction:column;justify-content:space-between">
   {lockup(10)}
   <div style="font-size:2.9mm;line-height:1.55">
-   <div><b>Τηλ./WhatsApp/Viber</b> &nbsp;{PHONE}</div><div><b>Σταθερό</b> &nbsp;{LAND}</div>
+   <div><b>Τηλ./WhatsApp/Viber</b> &nbsp;{PHONE}</div>
    <div><b>Email</b> &nbsp;{MAIL}</div><div style="color:{COPPER};font-weight:700">{WEB}</div>
    <div style="opacity:.75">{ADDR}</div></div></div></div>
 <div class=page style="width:91mm;height:61mm;padding:3mm;background:{INDIGO};color:{PAPER}">
@@ -69,7 +69,7 @@ a4 = doc(210, 297, f'''
  <div style="margin-top:auto;background:{INDIGO};color:{PAPER};border-radius:2mm;padding:9mm 11mm;display:flex;justify-content:space-between;align-items:center">
   <div><div style="font-size:4.5mm;opacity:.85">Δωρεάν εκτίμηση · Καλέστε μας</div>
    <div class=d style="font-size:15mm;line-height:1.1;margin-top:2mm">{PHONE}</div>
-   <div style="font-size:4.4mm;margin-top:3mm;line-height:1.5">WhatsApp / Viber · Σταθερό {LAND}<br>{MAIL} · <b>{WEB}</b><br><span style="opacity:.8">{ADDR}</span></div></div>
+   <div style="font-size:4.4mm;margin-top:3mm;line-height:1.5">WhatsApp / Viber στο ίδιο νούμερο<br>{MAIL} · <b>{WEB}</b><br><span style="opacity:.8">{ADDR}</span></div></div>
   <div style="background:{PAPER};padding:3mm;border-radius:1.5mm;width:36mm;text-align:center">{qr('https://'+WEB)}<div style="font-size:3mm;color:{INK};margin-top:1.5mm;font-weight:700">{WEB}</div></div></div>
 </div>''')
 
@@ -98,7 +98,7 @@ def ul(items): return ''.join(f'<div style="font-size:3.4mm;line-height:1.4;padd
 def eb(t): return f'<div class=eb style="font-size:3mm">{t}</div>'
 def contact(color=PAPER):
     return f'''<div style="font-size:3.6mm;line-height:1.6"><div class=d style="font-size:8mm;line-height:1.1;margin:1mm 0 2mm">{PHONE}</div>
-WhatsApp / Viber στο ίδιο νούμερο<br>Σταθερό {LAND}<br>{MAIL}<br><b>{WEB}</b><br><span style="opacity:.8">{ADDR}</span></div>'''
+WhatsApp / Viber στο ίδιο νούμερο<br>{MAIL}<br><b>{WEB}</b><br><span style="opacity:.8">{ADDR}</span></div>'''
 
 # Outside: [inner flap 94 | back 100 | cover 103]
 flap = panel(94, f'''{eb('Πώς δουλεύουμε')}{h2('Από το πρώτο τηλέφωνο ως το τέλος')}
@@ -106,7 +106,7 @@ flap = panel(94, f'''{eb('Πώς δουλεύουμε')}{h2('Από το πρώ�
 ''' + ''.join(f'<div style="display:grid;grid-template-columns:11mm 1fr;border-top:.4mm solid {INK};padding:3mm 0"><div class=d style="font-size:8mm;color:{COPPER};line-height:1">{n}</div><div><div class=d style="font-size:4.2mm">{t}</div><div style="font-size:3.3mm;line-height:1.45;margin-top:.8mm">{x}</div></div></div>' for n, t, x in [
  ('1', 'Επικοινωνία', 'Μας καλείτε ή μας στέλνετε φωτογραφίες του προβλήματος στο WhatsApp ή στο Viber.'),
  ('2', 'Δωρεάν εκτίμηση', 'Βλέπουμε τον χώρο από κοντά, σας εξηγούμε τι φταίει και τι χρειάζεται να γίνει.'),
- ('3', 'Η δουλειά', 'Ο Μοχάμεντ και η ομάδα τον προστατεύουν και κάνουν την εργασία βήμα βήμα. Για ηλεκτρολογικά και υδραυλικά συνεργαζόμαστε με έμπιστους επαγγελματίες.'),
+ ('3', 'Η δουλειά', 'Προστατεύουμε τον χώρο και κάνουμε την εργασία βήμα βήμα. Για ηλεκτρολογικά και υδραυλικά συνεργαζόμαστε με έμπιστους επαγγελματίες.'),
  ('4', 'Παράδοση', 'Φεύγουμε αφήνοντας τον χώρο καθαρό και σας δείχνουμε το αποτέλεσμα.')]))
 back = panel(100, f'''{eb('Επικοινωνία')}{h2('Δωρεάν εκτίμηση για τη δουλειά σας', PAPER)}
 {p('Στείλτε μας μία φωτογραφία ή καλέστε μας. Θα συζητήσουμε τι χρειάζεται ο χώρος σας και θα κανονίσουμε να τον δούμε από κοντά.', 3.6)}

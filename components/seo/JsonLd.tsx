@@ -71,12 +71,6 @@ export function JsonLd({ locale }: JsonLdProps) {
         contactType: 'customer support',
         availableLanguage: ['Greek', 'English'],
       },
-      {
-        '@type': 'ContactPoint',
-        telephone: siteConfig.landlineHref.replace('tel:', ''),
-        contactType: 'office',
-        availableLanguage: ['Greek'],
-      },
     ],
     sameAs: [
       siteConfig.social.facebook,
